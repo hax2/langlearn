@@ -1,6 +1,7 @@
 # LangLearn — Unified Spanish Learning Site
 
-**Live:** https://hax2.github.io/langlearn/ · Repo: https://github.com/hax2/langlearn
+**Live:** https://samermakes.com/langlearn/ (also at https://hax2.github.io/langlearn/)
+Repo: https://github.com/hax2/langlearn
 
 One coherent site merged from three standalone language-learning projects:
 
