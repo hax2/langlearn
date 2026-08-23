@@ -1,0 +1,532 @@
+{
+  "id": "module-43",
+  "title": "Theme: Emotions and Feelings",
+  "description": "Vocabulary for expressing how you feel internally.",
+  "level": "Intermediate",
+  "sentences": [
+    {
+      "id": "43-s1",
+      "spanish": "El paciente parece muy sorprendido todo el tiempo.",
+      "english": "The patient seems very surprised all the time.",
+      "wordMeanings": {
+        "paciente": "patient",
+        "parece": "seems",
+        "sorprendido": "surprised",
+        "tiempo": "time"
+      }
+    },
+    {
+      "id": "43-s2",
+      "spanish": "La abuela parece muy sorprendida sin razón aparente.",
+      "english": "The grandmother seems very surprised for no apparent reason.",
+      "wordMeanings": {
+        "abuela": "grandmother",
+        "parece": "seems",
+        "razón": "reason",
+        "sorprendida": "surprised"
+      }
+    },
+    {
+      "id": "43-s3",
+      "spanish": "Mi amigo parece un poco asustado en este momento.",
+      "english": "My friend seems a little scared at this moment.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "parece": "seems",
+        "asustado": "scared",
+        "momento": "moment"
+      }
+    },
+    {
+      "id": "43-s4",
+      "spanish": "El jugador parece un poco asustado después de la noticia.",
+      "english": "The player seems a little scared after the news.",
+      "wordMeanings": {
+        "jugador": "player",
+        "parece": "seems",
+        "asustado": "scared",
+        "noticia": "news"
+      }
+    },
+    {
+      "id": "43-s5",
+      "spanish": "El paciente parece un poco asustado después de la noticia.",
+      "english": "The patient seems a little scared after the news.",
+      "wordMeanings": {
+        "paciente": "patient",
+        "parece": "seems",
+        "asustado": "scared",
+        "noticia": "news"
+      }
+    },
+    {
+      "id": "43-s6",
+      "spanish": "Mi amigo parece muy feliz sin razón aparente.",
+      "english": "My friend seems very happy for no apparent reason.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "parece": "seems",
+        "feliz": "happy",
+        "razón": "reason"
+      }
+    },
+    {
+      "id": "43-s7",
+      "spanish": "La abuela parece muy feliz en este momento.",
+      "english": "The grandmother seems very happy at this moment.",
+      "wordMeanings": {
+        "abuela": "grandmother",
+        "parece": "seems",
+        "feliz": "happy",
+        "momento": "moment"
+      }
+    },
+    {
+      "id": "43-s8",
+      "spanish": "El jugador parece un poco asustado sin razón aparente.",
+      "english": "The player seems a little scared for no apparent reason.",
+      "wordMeanings": {
+        "jugador": "player",
+        "parece": "seems",
+        "asustado": "scared",
+        "razón": "reason"
+      }
+    },
+    {
+      "id": "43-s9",
+      "spanish": "Mi amigo parece muy feliz en este momento.",
+      "english": "My friend seems very happy at this moment.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "parece": "seems",
+        "feliz": "happy",
+        "momento": "moment"
+      }
+    },
+    {
+      "id": "43-s10",
+      "spanish": "El paciente está un poco asustado todo el tiempo.",
+      "english": "The patient is a little scared all the time.",
+      "wordMeanings": {
+        "paciente": "patient",
+        "está": "is",
+        "asustado": "scared",
+        "tiempo": "time"
+      }
+    },
+    {
+      "id": "43-s11",
+      "spanish": "El jugador se siente un poco asustado después de la noticia.",
+      "english": "The player feels a little scared after the news.",
+      "wordMeanings": {
+        "jugador": "player",
+        "siente": "feels",
+        "asustado": "scared",
+        "noticia": "news"
+      }
+    },
+    {
+      "id": "43-s12",
+      "spanish": "El niño está muy sorprendido después de la noticia.",
+      "english": "The boy is very surprised after the news.",
+      "wordMeanings": {
+        "niño": "boy",
+        "está": "is",
+        "sorprendido": "surprised",
+        "noticia": "news"
+      }
+    },
+    {
+      "id": "43-s13",
+      "spanish": "El niño se siente bastante triste hoy.",
+      "english": "The boy feels quite sad today.",
+      "wordMeanings": {
+        "niño": "boy",
+        "siente": "feels",
+        "triste": "sad",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "43-s14",
+      "spanish": "La abuela está bastante triste sin razón aparente.",
+      "english": "The grandmother is quite sad for no apparent reason.",
+      "wordMeanings": {
+        "abuela": "grandmother",
+        "está": "is",
+        "triste": "sad",
+        "razón": "reason"
+      }
+    },
+    {
+      "id": "43-s15",
+      "spanish": "El jugador se siente muy feliz hoy.",
+      "english": "The player feels very happy today.",
+      "wordMeanings": {
+        "jugador": "player",
+        "siente": "feels",
+        "feliz": "happy",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "43-s16",
+      "spanish": "El jugador está muy feliz en este momento.",
+      "english": "The player is very happy at this moment.",
+      "wordMeanings": {
+        "jugador": "player",
+        "está": "is",
+        "feliz": "happy",
+        "momento": "moment"
+      }
+    },
+    {
+      "id": "43-s17",
+      "spanish": "La abuela se siente muy sorprendida después de la noticia.",
+      "english": "The grandmother feels very surprised after the news.",
+      "wordMeanings": {
+        "abuela": "grandmother",
+        "siente": "feels",
+        "noticia": "news",
+        "sorprendida": "surprised"
+      }
+    },
+    {
+      "id": "43-s18",
+      "spanish": "Mi amigo se siente muy sorprendido sin razón aparente.",
+      "english": "My friend feels very surprised for no apparent reason.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "siente": "feels",
+        "sorprendido": "surprised",
+        "razón": "reason"
+      }
+    },
+    {
+      "id": "43-s19",
+      "spanish": "Mi amigo se siente algo nervioso en este momento.",
+      "english": "My friend feels somewhat nervous at this moment.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "siente": "feels",
+        "nervioso": "nervous",
+        "momento": "moment"
+      }
+    },
+    {
+      "id": "43-s20",
+      "spanish": "El paciente se muestra muy feliz todo el tiempo.",
+      "english": "The patient comes across as very happy all the time.",
+      "wordMeanings": {
+        "paciente": "patient",
+        "muestra": "shows",
+        "feliz": "happy",
+        "tiempo": "time"
+      }
+    },
+    {
+      "id": "43-s21",
+      "spanish": "La abuela se muestra un poco asustada después de la noticia.",
+      "english": "The grandmother comes across as a little scared after the news.",
+      "wordMeanings": {
+        "abuela": "grandmother",
+        "muestra": "shows",
+        "noticia": "news",
+        "asustada": "scared"
+      }
+    },
+    {
+      "id": "43-s22",
+      "spanish": "El jugador se muestra un poco asustado en este momento.",
+      "english": "The player comes across as a little scared at this moment.",
+      "wordMeanings": {
+        "jugador": "player",
+        "muestra": "shows",
+        "asustado": "scared",
+        "momento": "moment"
+      }
+    },
+    {
+      "id": "43-s23",
+      "spanish": "Mi amigo se muestra algo nervioso en este momento.",
+      "english": "My friend comes across as somewhat nervous at this moment.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "muestra": "shows",
+        "nervioso": "nervous",
+        "momento": "moment"
+      }
+    },
+    {
+      "id": "43-s24",
+      "spanish": "El paciente se muestra bastante triste sin razón aparente.",
+      "english": "The patient comes across as quite sad for no apparent reason.",
+      "wordMeanings": {
+        "paciente": "patient",
+        "muestra": "shows",
+        "triste": "sad",
+        "razón": "reason"
+      }
+    },
+    {
+      "id": "43-s25",
+      "spanish": "La abuela se muestra un poco asustada hoy.",
+      "english": "The grandmother comes across as a little scared today.",
+      "wordMeanings": {
+        "abuela": "grandmother",
+        "muestra": "shows",
+        "hoy": "today",
+        "asustada": "scared"
+      }
+    },
+    {
+      "id": "43-s26",
+      "spanish": "Mi amigo se muestra un poco asustado después de la noticia.",
+      "english": "My friend comes across as a little scared after the news.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "muestra": "shows",
+        "asustado": "scared",
+        "noticia": "news"
+      }
+    },
+    {
+      "id": "43-s27",
+      "spanish": "La abuela se muestra algo nerviosa todo el tiempo.",
+      "english": "The grandmother comes across as somewhat nervous all the time.",
+      "wordMeanings": {
+        "abuela": "grandmother",
+        "muestra": "shows",
+        "tiempo": "time",
+        "nerviosa": "nervous"
+      }
+    },
+    {
+      "id": "43-s28",
+      "spanish": "El jugador se muestra muy sorprendido después de la noticia.",
+      "english": "The player comes across as very surprised after the news.",
+      "wordMeanings": {
+        "jugador": "player",
+        "muestra": "shows",
+        "sorprendido": "surprised",
+        "noticia": "news"
+      }
+    },
+    {
+      "id": "43-s29",
+      "spanish": "Mi amigo se muestra muy feliz sin razón aparente.",
+      "english": "My friend comes across as very happy for no apparent reason.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "muestra": "shows",
+        "feliz": "happy",
+        "razón": "reason"
+      }
+    },
+    {
+      "id": "43-s30",
+      "spanish": "La abuela se muestra algo nerviosa después de la noticia.",
+      "english": "The grandmother comes across as somewhat nervous after the news.",
+      "wordMeanings": {
+        "abuela": "grandmother",
+        "muestra": "shows",
+        "noticia": "news",
+        "nerviosa": "nervous"
+      }
+    },
+    {
+      "id": "43-s31",
+      "spanish": "El niño quedó muy feliz después de la noticia.",
+      "english": "The boy ended up very happy after the news.",
+      "wordMeanings": {
+        "niño": "boy",
+        "quedó": "ended up",
+        "feliz": "happy",
+        "noticia": "news"
+      }
+    },
+    {
+      "id": "43-s32",
+      "spanish": "El paciente quedó muy sorprendido después de la noticia.",
+      "english": "The patient ended up very surprised after the news.",
+      "wordMeanings": {
+        "paciente": "patient",
+        "quedó": "ended up",
+        "sorprendido": "surprised",
+        "noticia": "news"
+      }
+    },
+    {
+      "id": "43-s33",
+      "spanish": "El jugador quedó muy sorprendido después de la noticia.",
+      "english": "The player ended up very surprised after the news.",
+      "wordMeanings": {
+        "jugador": "player",
+        "quedó": "ended up",
+        "sorprendido": "surprised",
+        "noticia": "news"
+      }
+    },
+    {
+      "id": "43-s34",
+      "spanish": "La abuela quedó bastante triste hoy.",
+      "english": "The grandmother ended up quite sad today.",
+      "wordMeanings": {
+        "abuela": "grandmother",
+        "quedó": "ended up",
+        "triste": "sad",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "43-s35",
+      "spanish": "Mi amigo quedó muy feliz después de la noticia.",
+      "english": "My friend ended up very happy after the news.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "quedó": "ended up",
+        "feliz": "happy",
+        "noticia": "news"
+      }
+    },
+    {
+      "id": "43-s36",
+      "spanish": "El paciente quedó muy feliz después de la noticia.",
+      "english": "The patient ended up very happy after the news.",
+      "wordMeanings": {
+        "paciente": "patient",
+        "quedó": "ended up",
+        "feliz": "happy",
+        "noticia": "news"
+      }
+    },
+    {
+      "id": "43-s37",
+      "spanish": "Mi amigo quedó muy sorprendido después de la noticia.",
+      "english": "My friend ended up very surprised after the news.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "quedó": "ended up",
+        "sorprendido": "surprised",
+        "noticia": "news"
+      }
+    },
+    {
+      "id": "43-s38",
+      "spanish": "El jugador quedó bastante triste después de la noticia.",
+      "english": "The player ended up quite sad after the news.",
+      "wordMeanings": {
+        "jugador": "player",
+        "quedó": "ended up",
+        "triste": "sad",
+        "noticia": "news"
+      }
+    },
+    {
+      "id": "43-s39",
+      "spanish": "La abuela quedó algo nerviosa después de la noticia.",
+      "english": "The grandmother ended up somewhat nervous after the news.",
+      "wordMeanings": {
+        "abuela": "grandmother",
+        "quedó": "ended up",
+        "nerviosa": "nervous",
+        "noticia": "news"
+      }
+    },
+    {
+      "id": "43-s40",
+      "spanish": "El paciente quedó algo nervioso después de la noticia.",
+      "english": "The patient ended up somewhat nervous after the news.",
+      "wordMeanings": {
+        "paciente": "patient",
+        "quedó": "ended up",
+        "nervioso": "nervous",
+        "noticia": "news"
+      }
+    },
+    {
+      "id": "43-s41",
+      "spanish": "Mi amigo quedó algo nervioso hoy.",
+      "english": "My friend ended up somewhat nervous today.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "quedó": "ended up",
+        "nervioso": "nervous",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "43-s42",
+      "spanish": "El jugador quedó muy feliz después de la noticia.",
+      "english": "The player ended up very happy after the news.",
+      "wordMeanings": {
+        "jugador": "player",
+        "quedó": "ended up",
+        "feliz": "happy",
+        "noticia": "news"
+      }
+    },
+    {
+      "id": "43-s43",
+      "spanish": "El niño quedó bastante triste sin razón aparente.",
+      "english": "The boy ended up quite sad for no apparent reason.",
+      "wordMeanings": {
+        "niño": "boy",
+        "quedó": "ended up",
+        "triste": "sad",
+        "razón": "reason"
+      }
+    },
+    {
+      "id": "43-s44",
+      "spanish": "El paciente quedó bastante triste sin razón aparente.",
+      "english": "The patient ended up quite sad for no apparent reason.",
+      "wordMeanings": {
+        "paciente": "patient",
+        "quedó": "ended up",
+        "triste": "sad",
+        "razón": "reason"
+      }
+    },
+    {
+      "id": "43-s45",
+      "spanish": "El paciente quedó muy feliz hoy.",
+      "english": "The patient ended up very happy today.",
+      "wordMeanings": {
+        "paciente": "patient",
+        "quedó": "ended up",
+        "feliz": "happy",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "43-s-colloq1",
+      "spanish": "Hoy estoy de bajón.",
+      "english": "Today I'm feeling down.",
+      "wordMeanings": {
+        "Hoy": "today",
+        "estoy": "I am",
+        "de": "of",
+        "bajón": "down / slump"
+      }
+    },
+    {
+      "id": "43-s-colloq2",
+      "spanish": "¡Qué buen rollo hay aquí!",
+      "english": "What good vibes there are here!",
+      "wordMeanings": {
+        "Qué": "what",
+        "buen": "good",
+        "rollo": "vibe / roll",
+        "hay": "there is / are",
+        "aquí": "here"
+      }
+    }
+  ],
+  "vocabulary": {
+    "alegre": {
+      "mnemonic": "Allegro (music) means cheerful - 'alegre' is joyful.",
+      "explanation": "Means 'happy' or 'joyful'."
+    }
+  }
+}

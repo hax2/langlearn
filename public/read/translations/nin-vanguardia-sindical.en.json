@@ -1,0 +1,308 @@
+{
+  "version": 1,
+  "trackId": "nin-vanguardia-sindical",
+  "sourceHash": "ea20b0a8536a4af99940995a21eac9ea3ffc724f6497ef62390fa58197c39fb9",
+  "provider": "ollama/translategemma:4b",
+  "sourceLanguage": "es",
+  "targetLanguage": "en",
+  "translatedAt": "2026-08-15T08:23:21.535492+00:00",
+  "characters": 26639,
+  "blocks": [
+    {
+      "source": "Imaginemos por un momento la escena de un edificio envuelto en llamas. El instinto más básico, la pura lógica, nos dice que hay que agarrar un cubo de agua o una manguera y apagar el fuego que tenemos justo delante, sin perder ni un segundo. Claro, es lo urgente, la supervivencia pura y dura. Exacto.",
+      "translation": "Let's imagine the scene of a building engulfed in flames for a moment. Our most basic instinct, pure logic, tells us that we should grab a bucket of water or a hose and put out the fire right in front of us, without losing a single second. Of course, that's the immediate, purely survival-focused priority. Exactly."
+    },
+    {
+      "source": "Pero de repente imaginemos que alguien nos agarra del brazo, nos frena en seco y nos dice... No, a ver, luchar contra este fuego ahora mismo es una distracción. Lo que tenemos que hacer es sentarnos y rediseñar todo el sistema de acueductos y tuberías de la ciudad. Puf, pues sería una postura que, como mínimo, te dejaría perplejo.",
+      "translation": "But imagine, for a moment, that someone suddenly grabs our arm, stops us abruptly, and says… No, wait, trying to fight this fire right now is a distraction. What we need to do is sit down and completely redesign the city's water and sewage system. Wow, that would certainly be a position that would, at the very least, leave you completely bewildered."
+    },
+    {
+      "source": "Y muy frustrante, la verdad. Sobre todo cuando sientes literalmente el calor de las llamas en la cara y escuchas como cruje la madera del edificio. Ya, es que suena locura. Totalmente.",
+      "translation": "And it's incredibly frustrating, to be honest. Especially when you can literally feel the heat of the flames on your face and hear the wood of the building creaking. Yes, it sounds completely insane."
+    },
+    {
+      "source": "Es una exigencia a largo plazo que parece ignorar por completo el sufrimiento más inmediato que tienes delante de las narices. Buscar un alivio práctico inmediato frente a la exigencia innegociable de un cambio estructural total y absoluto es el corazón de nuestra inversión de hoy. Nos vamos a adentrar en un documento histórico fundamental, que es el capítulo tercero del famoso panfleto escrito por Vladimir Lenin en 1902. El famosísimo quehacer, efectivamente.",
+      "translation": "It's a long-term demand that seems to completely ignore the immediate suffering that lies before our eyes. Seeking immediate practical relief in the face of the undeniable demand for a complete and absolute structural change is the core of our investment today. We will delve into a fundamental historical document, namely the third chapter of the famous pamphlet written by Vladimir Lenin in 1902. The very famous pamphlet, indeed."
+    },
+    {
+      "source": "Eso es. Y más específicamente nos centraremos en la sección llamada Política trade unionista y Política social demócrata. Vamos, política sindical frente a política revolucionaria pura. Es un texto muy denso, sin duda, escrito en una época de inmensa agitación clandestina en la Rusia zarista, pero que, si rascas un poco, plantea debates tácticos y morales que, sorprendentemente, siguen super vivos en casi cualquier movimiento social o protesta que veamos hoy en día.",
+      "translation": "That's right. And more specifically, we will focus on the section titled \"Trade Unionist Policy and Democratic Social Policy.\" Essentially, it's about the trade unionist approach versus pure revolutionary politics. It's a very dense text, undoubtedly, written during a period of intense underground activity in Tsarist Russia, but it raises tactical and moral debates that, surprisingly, remain very relevant in almost any social movement or protest we see today."
+    },
+    {
+      "source": "Totalmente. Pero antes de meternos de lleno en harina, quiero dejar algo muy, muy claro para quienes nos escuchan. El objetivo de este análisis a fondo no es en absoluto tomar partido ni respaldar ninguna de estas posturas políticas, ideológicas o históricas. Exacto.",
+      "translation": "Absolutely. But before we delve deeply into the details, I want to make one very important point clear to those who are listening. The purpose of this thorough analysis is not in any way to take sides or endorse any of these political, ideological, or historical positions. Exactly."
+    },
+    {
+      "source": "No estamos aquí para dar meetings. Para nada. Nuestra misión hoy es puramente analítica. Queremos desentrañar de forma totalmente objetiva la teoría, las tácticas y las ideas contenidas en este material original.",
+      "translation": "We are not here to hold meetings. Absolutely not. Our mission today is purely analytical. We want to objectively examine the theory, tactics, and ideas contained in this original material."
+    },
+    {
+      "source": "Venga de donde venga. Queremos entender el cómo y el porqué de este debate, dejando nuestros propios filtros ideológicos en la puerta. Vale, vamos a desglosar esto, porque para entender la urgencia, casi agresiva, de las palabras de Lenin, primero tenemos que situarnos en el terreno. Es vital el contexto aquí, sí.",
+      "translation": "Regardless of where it comes from, we want to understand the \"how\" and the \"why\" of this debate, while setting aside our own ideological biases. Okay, let's break this down, because to understand the urgency and almost aggressive tone of Lenin's words, we first need to understand the context. It's crucial to consider the context here, yes."
+    },
+    {
+      "source": "Estamos en 1902, ¿cómo se estaba comunicando y organizando realmente la resistencia rusa dentro de las fábricas en ese momento? Porque me imagino que no era precisamente fácil ir repartiendo panfletos. Que va, para nada fácil. Tienes que imaginarte la Rusia zarista en su estado más puro y duro.",
+      "translation": "It's 1902. How were the Russian workers actually communicating and organizing their resistance within the factories at that time? Because I imagine it wasn't easy to simply distribute leaflets. No way. You have to picture Tsarist Russia in its most raw and harsh state."
+    },
+    {
+      "source": "No hay parlamento, la libertad de reunión es un chiste de mal gusto y la censura del Estado es feroz. Vamos, que cualquier intento de sindicalismo abierto te llevaba directo a la cárcel. A la cárcel o, en el peor de los casos, a Siberia. Sin billete de vuelta.",
+      "translation": "There was no parliament, freedom of assembly was a joke, and state censorship was brutal. Basically, any attempt at open unionism would land you straight in jail. Or, at best, in Siberia. With no way to return."
+    },
+    {
+      "source": "En ese contexto tan asfixiante surge lo que el texto llama literatura de denuncia. Y esto es súper interesante. Ajá, cuéntame más de esto. Pues mira, los círculos clandestinos empezaron a imprimir pequeños folletos, a menudo a mano o en imprentas escondidas en sótanos, que contaban la cruda verdad sobre las miserables condiciones de vida y de trabajo en fábricas específicas.",
+      "translation": "Within that suffocating context, the text refers to what it calls \"literature of denunciation.\" And this is very interesting. Yes, tell me more about this. Well, the underground circles began to print small leaflets, often handwritten or produced in makeshift printing shops in cellars, that revealed the harsh reality of the appalling living and working conditions in specific factories."
+    },
+    {
+      "source": "O sea, señalando a la empresa concreta. Exacto. Y la reacción a esto fue absolutamente explosiva en toda Rusia. De hecho, en el texto se menciona que los propios trabajadores literalmente empezaron a inundar a los organizadores clandestinos con cartas, contando los abusos concretos de sus capataces para que los publicaran, ¿verdad?",
+      "translation": "In other words, this involved directly accusing a specific company. Exactly. And the reaction to this was absolutely explosive throughout Russia. In fact, the text mentions that the workers themselves began to flood the organizers with letters, detailing the specific abuses carried out by their foremen, in order for them to be published, correct?"
+    },
+    {
+      "source": "Así es. De repente ver su sufrimiento diario impreso en un papel. Ver que alguien por fin exponía a su jefe con nombres y apellidos generó una sensación tremenda de empoderamiento. Ostras, me imaginó la escena en la fábrica cuando llegaba ese papel.",
+      "translation": "That's right. To suddenly see their daily suffering printed on paper. To see someone finally exposing their boss with names and surnames created a tremendous sense of empowerment. I could picture the scene in the factory when that paper arrived."
+    },
+    {
+      "source": "Despertó lo que Lenin describe literalmente como una pasión por las denuncias. Y ojo al dato, porque esto funcionaba de verdad. Estas hojas impresas a menudo provocaban huelgas inmediatas. Ya, la chispa encendía el fuego muy rápido.",
+      "translation": "This sparked what Lenin describes as a genuine passion for making accusations. And note this detail, because it actually worked. These printed leaflets often triggered immediate strikes. Yes, the spark quickly ignited the fire."
+    },
+    {
+      "source": "O incluso hacían que los dueños de las fábricas, aterrorizados por el escándalo y por el parón de la producción, cedieran y mejoraran las condiciones antes siquiera de que estallara el conflicto. Sólo el miedo a la exposición pública ya era un arma potentísima. A ver, entonces, sobre el papel estamos hablando de un éxito rotundo. Estaban consiguiendo victorias reales que mejoraban el día a día de la gente.",
+      "translation": "Or, they even managed to pressure factory owners, who were terrified by the scandal and the disruption to production, into improving conditions before the conflict even escalated. Simply the fear of public exposure was a very powerful weapon. So, on paper, we're talking about a resounding success. They were achieving real victories that were improving people's daily lives."
+    },
+    {
+      "source": "Pero aquí es donde entra el giro argumental, porque este éxito es justo lo que desencadena el gran conflicto de todo el texto, ¿no? Ahí la has dado. El éxito a veces es el peor enemigo de la estrategia a largo plazo. Y aparece esta facción dentro del movimiento a la que Lenin bautiza como los economicistas, con figuras clave como un tal Martinov y publicaciones como Raboche y Edielo.",
+      "translation": "However, this is where the plot twist comes in, because this success is precisely what triggers the main conflict of the entire text, isn't it? You've already pointed that out. Success can sometimes be the worst enemy of long-term strategy. And this faction emerges within the movement, which Lenin calls the \"economists,\" with key figures like Martinov and publications like Raboche and Edielo."
+    },
+    {
+      "source": "Y esta gente básicamente mira la situación y dice, oye, esto es lo que funciona. La gente responde a esto. Centrémonos al 100 % en apoyar a los trabajadores en su lucha económica diaria contra sus patrones directos. Exacto.",
+      "translation": "And essentially, these people look at the situation and say, \"This is what works. People respond to this. Let's focus 100% on supporting workers in their daily struggle against their direct supervisors.\" Exactly."
+    },
+    {
+      "source": "Los economicistas veían en esta lucha práctica, en la fábrica, el verdadero y único motor realista del movimiento. Su tesis era centrarse en el bolsillo, básicamente. Eso es, su tesis era que el movimiento obrero debía limitarse a luchar por mejores condiciones en la venta de su fuerza de trabajo, unas horas menos de jornada laboral, unos céntimos más por hora. Lo que hoy en día llamaríamos, en términos estrictos, política puramente sindical.",
+      "translation": "Economists viewed this practical, on-the-ground struggle, within the factory, as the true and only realistic engine of the movement. Their core argument was to focus on the worker's immediate financial interests. In other words, their argument was that the labor movement should limit itself to fighting for better working conditions, such as shorter working hours and slightly higher hourly wages. What we would now call, in strict terms, purely union-based politics."
+    },
+    {
+      "source": "A ver si lo entiendo bien, trayéndomelo a nuestro terreno con una analogía moderna. Imaginemos un sindicato actual en, no sé, una gran multinacional, que se obsesiona única y exclusivamente con conseguir un aumento salarial del 5 % este año y que pongan una máquina de café nueva en la sala de descanso. Vale. Me gusta por dónde vas.",
+      "translation": "Let me see if I understand correctly. Using a modern analogy, imagine a current union within a large multinational company that is solely focused on achieving a 5% wage increase this year and installing a new coffee machine in the break room. Okay, I understand where you're going with that."
+    },
+    {
+      "source": "Y lo celebran como una gran victoria. Hacen una fiesta. Pero están ignorando por completo que las leyes laborales de todo el país que dictan los políticos en el Congreso están diseñadas desde la base para permitir que esa misma empresa los explote sistemáticamente o los despida mañana sin coste. Es un poco esa la crítica de Lenin.",
+      "translation": "And they celebrate it as a major victory. They throw a party. But they are completely ignoring the fact that the labor laws throughout the country, which are established by politicians in Congress, are designed from the ground up to allow that same company to systematically exploit or dismiss employees at will. This is essentially the criticism that Lenin made."
+    },
+    {
+      "source": "Es una analogía perfecta. Porque, a ver, para Lenin, conseguir la máquina de café y ese 5 % está muy bien, alivia el día a día. Pero si te quedas solo ahí, estás cayendo en una trampa monumental. Y eso es exactamente lo que le enfurecía de Martinoff y los suyos.",
+      "translation": "It's a perfect analogy. After all, for Lenin, getting the coffee machine and that 5% is very important; it helps with daily life. But if you only focus on that, you're falling into a huge trap. And that's exactly what infuriated Martinoff and his followers."
+    },
+    {
+      "source": "¿Por qué le enfadaba tanto algo que en el fondo era bueno para la gente? Porque Lenin advierte que tratar los síntomas de la explotación, como el salario mensual o las horas de trabajo, sin atacar en ningún momento la enfermedad subyacente que es el sistema autocrático completo, no solo es inútil a largo plazo. Va más allá. Dice que degrada el propio movimiento.",
+      "translation": "Why did he get so angry about something that was, in the end, beneficial to people? Because Lenin warned that addressing the symptoms of exploitation, such as monthly wages or working hours, without ever attacking the underlying disease – the complete autocratic system – is not only ineffective in the long run, but also detrimental to the movement itself."
+    },
+    {
+      "source": "¿Lo desactiva? ¿De alguna manera le quita el potencial? Lo convierte, según sus propias palabras, en un movimiento burgués no revolucionario. Si tú solo enseñas a los trabajadores a vender su trabajo un poco más caro dentro del mismo sistema que los oprime, en realidad estás validando el sistema.",
+      "translation": "Does it disable it? Does it somehow diminish its potential? According to his own words, it turns it into a bourgeois, non-revolutionary movement. If you only teach workers to sell their work for a slightly higher price within the same system that oppresses them, you are actually validating that system."
+    },
+    {
+      "source": "Ya, claro, les haces cómplices del mercado. No lo estás cambiando. La tesis de Lenin aquí es que la socialdemocracia revolucionaria debe representar a la clase obrera en su relación con todas las clases de la sociedad y frente al Estado, no limitarse a su relación comercial con un grupo de empleadores. Vale, entiendo el punto perfectamente.",
+      "translation": "Yes, of course, you're making them complicit in the market. You're not changing anything. Lenin's thesis here is that revolutionary social democracy must represent the working class in its relationship with all classes in society and in its dealings with the state, rather than limiting itself to its commercial relationship with a group of employers. Okay, I understand the point perfectly."
+    },
+    {
+      "source": "Pero si luchar contra el jefe directo en la fábrica no es suficiente para crear una verdadera conciencia política nacional, la pregunta lógica que me asalta es ¿de dónde narices se supone que debe salir esa conciencia según el texto? Pues mira, Martinov, que como decíamos es el principal blanco de los ataques aquí, argumentaba que la lucha económica era el medio más ampliamente aplicable para atraer a las masas a la política. O sea, ir de lo particular a lo general, poco a poco. Eso es, su lógica era muy escalonada.",
+      "translation": "However, if fighting against the direct supervisor in the factory isn't enough to create genuine national political awareness, the logical question that arises is: where exactly should that awareness come from, according to the text? Well, Martinov, as we were saying, was the main target of these attacks, and he argued that economic struggle was the most widely applicable method for drawing the masses into politics. In other words, moving from the specific to the general, gradually. His logic was very step-by-step."
+    },
+    {
+      "source": "Creía que, al organizar una huelga por el salario, el trabajador acabaría chocando con la policía en la puerta de la fábrica y ahí, de retente, acabaría dándose cuenta de su falta de derechos políticos en el país. Pero intuyo que Lenin no compra esa idea de ir subiendo peldaños poco a poco. En absoluto, cero contemplaciones. Lenin lanza un ataque demoledor contra esa noción de que el bolsillo es la única vía de entrada a la mente del trabajador.",
+      "translation": "I believed that, by organizing a strike for wages, the worker would end up clashing with the police at the factory gates, and that, in the process, he would realize his lack of political rights in the country. However, I understand that Lenin does not subscribe to the idea of gradually escalating the struggle. Quite the opposite; he advocates for a direct and forceful approach. Lenin launches a scathing attack on the notion that money is the only way to reach the worker's mind."
+    },
+    {
+      "source": "¿Y qué propone, como alternativa? El argumenta que la tiranía policial estatal se manifiesta en mil lugares fuera de la fábrica. Menciona explícitamente, por ejemplo, los brutales azotes a los campesinos en las zonas rurales, la persecución de minorías religiosas, la extorsión de impuestos, el trato humillante a los soldados o los abusos contra estudiantes universitarios. Abre el foco a toda la sociedad rusa.",
+      "translation": "And what does he propose as an alternative? He argues that state police tyranny manifests itself in a thousand different places outside the factory. He specifically mentions, for example, the brutal beatings of farmers in rural areas, the persecution of religious minorities, the extortion of taxes, the humiliating treatment of soldiers, or abuses against university students. He broadens the focus to encompass the entire Russian society."
+    },
+    {
+      "source": "Totalmente. Lenin lanza la pregunta al aire. O sea, ¿acaso todos estos casos flagrantes de opresión no son un medio igual o más efectivo para hacer agitación política que hablar del salario de un tornero? A ver, te voy a hacer diabogado del diablo aquí por un momento, porque me cuesta comprar esto sin rechazar.",
+      "translation": "Absolutely. Lenin poses the question openly. In other words, don't these blatant examples of oppression not serve as an equally or even more effective means of political agitation than simply discussing a machinist's wages? Let me try to convince you, for a moment, that this is the right approach, because I find it difficult to accept this without reservation."
+    },
+    {
+      "source": "¿No estaba Martinov siendo simplemente pragmático en cuanto a la psicología humana básica? O sea, si yo cobro una miseria, trabajo 14 horas diarias y mis hijos pasan hambre, me va a enfadar mucho más, de forma visceral, mi capataz que el hecho de que el zar haya censurado una revista literaria que ni siquiera leo. Suena a que Lenin peca un poco de elitista, ¿no crees? Esperar que obreros exhaustos se comporten como filósofos políticos.",
+      "translation": "Didn't Martinov simply approach basic human psychology in a pragmatic way? I mean, if I were earning a pittance, working 14 hours a day, and my children were going hungry, my foreman would understandably make me angrier than the fact that Lenin had censored a literary magazine that I didn't even read. Doesn't this sound like Lenin was a bit elitist? Expecting exhausted workers to behave like political philosophers."
+    },
+    {
+      "source": "Pues lo fascinante aquí es que Lenin le daría la vuelta a tu argumento al instante. Él argumentaría que el elitista, de hecho, es Martinov. Fíjate, ¿y por qué? Porque la visión de Lenin asume una fe enorme, casi inquebrantable, en la capacidad intelectual de la clase trabajadora.",
+      "translation": "The fascinating thing here is that Lenin would immediately refute your argument. He would argue that, in fact, it is Martinov who is elitist. Consider this: why? Because Lenin's view assumes a tremendous, almost unwavering, faith in the intellectual capacity of the working class."
+    },
+    {
+      "source": "Para él, subestimar a los trabajadores, asumiendo que son incapaces de entender el panorama completo y que solo se van a movilizar por demandas inmediatas, es un insulto directo a su potencial. Es como tratarlos como niños, claro. Exacto. De hecho, se burla de la idea de prometerles un copec más al rublo, como si los obreros fuesen animales de carga a los que hay que ponerles una zanahoria delante de la nariz para que se muevan.",
+      "translation": "In his view, underestimating workers, assuming they are incapable of understanding the full picture and that they will only mobilize for immediate demands, is a direct insult to their potential. It's like treating them like children, of course. Exactly. In fact, it mocks the idea of promising them a small bonus in rubles, as if workers are simply animals that need to be incentivized with a carrot to get them to move."
+    },
+    {
+      "source": "Es decir, que Lenin creía que el obrero quería la educación completa, no solo el pamfleto de cómo pedir un aumento al jefe de turno. Totalmente. Y para respaldar esto, el texto recurre a una prueba documental potentísima, una carta real de un trabajador tejedor anónimo enviada a la publicación ISCRA, que era el periódico clandestino que editaba el propio Lenin. Esa carta me llamó muchísimo la atención cuando revisábamos los materiales.",
+      "translation": "In other words, Lenin believed that workers desired complete education, not just a pamphlet on how to ask their supervisor for a raise. Absolutely. And to support this, the text relies on a very powerful piece of evidence: a real, anonymous letter from a weaver, sent to the ISCRA publication, which was the underground newspaper edited by Lenin himself. That letter really caught my attention when we were reviewing the materials."
+    },
+    {
+      "source": "Es brutalmente honesta. Es vital para entender el ambiente de la época. Este tejedor escribe diciendo básicamente que, ya ven, que las huelgas económicas no son suficientes. Y usa una metáfora brillante, muy de la época.",
+      "translation": "She is brutally honest. It is essential for understanding the atmosphere of the time. This author essentially writes that, as you can see, economic strikes are not enough. And she uses a brilliant metaphor, very characteristic of the era."
+    },
+    {
+      "source": "Lo de las gachas claras, ¿no? Sí, sí. Dice que los trabajadores rusos no son niños pequeños a los que haya que alimentar únicamente con las gachas claras, esa especie de papilla aguada de la política económica de fábrica. Los obreros exigen saber lo que saben los intelectuales.",
+      "translation": "Regarding the issue of clear porridge, yes, yes. He says that Russian workers are not young children who should only be fed clear porridge, that kind of watery porridge that is part of the factory's economic policy. The workers want to know what the intellectuals know."
+    },
+    {
+      "source": "Quieren entender toda la vida política del país para saber, y esta cita es escalofriante, cómo vivir y cómo morir por la causa. Madre mía, ¿cómo vivir y morir? Es fuertísimo. Para Lenin, imagino que este fue el clavo en el ataúd de los economicistas, ¿no?",
+      "translation": "They wanted to understand the entire political history of the country in order to know how to live and how to die for the cause. My God, how to live and die? That's incredibly powerful. For Lenin, I imagine this was the final blow to economic theories, wasn't it?"
+    },
+    {
+      "source": "Esa prueba de que la conciencia política de clase solo puede llegar desde el exterior de la lucha de fábrica. Es un cambio de paradigma total. No es ir de lo micro a lo macro. Es inyectarlo macro directamente en la base trabajadora.",
+      "translation": "That proves that class political consciousness can only come from outside the factory struggle. It represents a complete shift in perspective. It's not about moving from the micro to the macro. It's about directly injecting the macro perspective into the working class."
+    },
+    {
+      "source": "Explicarles cómo el gobierno trata al estudiante, al campesino, para que entiendan la maquinaria opresiva al completo. Y claro, este desacuerdo, que de primeras parece meramente táctico, de repente se convierte en una guerra teórica de definiciones en el texto, lo que nos lleva a algunos de los momentos de sarcasmo histórico más afilados que he leído en mucho tiempo. Lenin no se cortaba un pelo. Nada era demoledor con sus críticos.",
+      "translation": "Explain to them how the government treats students and farmers, so they can understand the full extent of the oppressive machinery. And, of course, this disagreement, which initially seems purely tactical, suddenly becomes a theoretical battle of definitions in the text, leading to some of the most biting historical sarcasm I've read in a long time. Lenin was not one to mince words. Nothing was too harsh for his critics."
+    },
+    {
+      "source": "El debate se enfanga en qué significa realmente educar políticamente a las masas. Históricamente siempre había existido una distinción teórica muy clara entre la figura de un propagandista y la de un agitador. Vale, me vas a tener que aclarar esto porque yo siempre he usado esas dos palabras casi como sinónimos. ¿Cuál es la diferencia exacta que marcan aquí en el texto?",
+      "translation": "The debate centers on what \"politically educating the masses\" actually means. Historically, there was a very clear theoretical distinction between the roles of a propagandist and an agitator. Okay, you need to clarify this for me because I've always used those two words almost as synonyms. What is the exact difference that this text highlights?"
+    },
+    {
+      "source": "Eran muy analíticos con estas cosas. Según la teoría, un propagandista es el educador que te explica el sistema completo. Por ejemplo, ante el problema del desempleo en una ciudad, el propagandista escribirá un artículo súper complejo, lleno de datos, explicando la naturaleza capitalista de las crisis y la necesidad teórica de transformar la sociedad entera. Vale, entiendo.",
+      "translation": "They were very analytical in their approach. According to the theory, a propagandist is the educator who explains the entire system to you. For example, when addressing the issue of unemployment in a city, the propagandist would write a very complex article, full of data, explaining the capitalist nature of crises and the theoretical need to transform the entire society. Okay, I understand."
+    },
+    {
+      "source": "El perfil más académico, que usa muchas ideas complejas a la vez. Exacto. Pero claro, eso de entrada solo lo entenderán unas pocas personas dispuestas a sentarse a estudiar. El agitador, por otro lado, hace otra cosa muy distinta.",
+      "translation": "The most academic profile, which uses many complex ideas simultaneously. Exactly. But of course, only a few people willing to sit down and study would understand that. On the other hand, the agitator does something completely different."
+    },
+    {
+      "source": "El agitador va más a la emoción, quizá. Justo. Toma un solo hecho flagrante. Por ejemplo, una familia concreta que se está muriendo de hambre en un barrio por culpa de ese desempleo.",
+      "translation": "The focus seems to be more on emotion, perhaps. Specifically, taking a single, blatant example. For instance, a specific family that is starving due to unemployment in a particular neighborhood."
+    },
+    {
+      "source": "Y usa ese único hecho para despertar indignación y furia en las masas. Usa una sola idea, muy simple, pero con un impacto movilizador brutal. Vale, me queda clarísimo. O sea que el propagandista te da el manual técnico de por qué el barco se está hundiendo por fallos de ingeniería estructural y el agitador te enseña directamente a un niño ahogándose para que cojas un cubo y empieces a chicar agua con rabia.",
+      "translation": "And use that single fact to provoke outrage and anger in the masses. Use a single, simple idea, but with a devastatingly mobilizing impact. Okay, I understand perfectly. That means the propagandist gives you the technical manual explaining why the ship is sinking due to structural engineering failures, while the agitator directly shows a drowning child so you can grab a bucket and start splashing water in a fit of rage."
+    },
+    {
+      "source": "Esa es una metáfora perfecta, sí. Ambos roles son completamente necesarios para la revolución. Pero entonces llega Martinov, de la facción economicista, e intenta hacer esta teoría, según él, un poco más profunda. Ahí es donde mete la pata, imagino.",
+      "translation": "That's a perfect metaphor, yes. Both roles are completely necessary for the revolution. However, then Martinov, from the economic faction, tries to make this theory a bit more profound. That's where he makes a mistake, I imagine."
+    },
+    {
+      "source": "Añade una tercera categoría al manual, algo que él bautiza como llamamientos a la acción. Y claro, a Lenin esto le parece una aberración. Aquí es donde se pone realmente interesante, porque es una anécdota histórica rarísima. Cuenta el texto la historia de Johann Bolhorn.",
+      "translation": "Add a third category to the manual, which he refers to as \"calls to action.\" And, of course, to Lenin, this seems like an absurdity. This is where things get really interesting, because it's a very rare historical anecdote. The text tells the story of Johann Bolhorn."
+    },
+    {
+      "source": "Vaya personaje, menuda tela. Resulta que este señor era un editor de la ciudad de Leipzig, allá por el siglo XVI, y publicó un libro de lectura para niños. En esa época, la costumbre tradicional era poner el dibujo de un gallo normal y corriente en la primera página de estos libros escolares. Un gallo clásico, sin más misterio.",
+      "translation": "What a character! This gentleman was actually the editor of a children's book in Leipzig in the 16th century. At that time, the traditional practice was to include a simple, everyday illustration of a rooster on the first page of these schoolbooks. A classic rooster, nothing more."
+    },
+    {
+      "source": "Eso es. Pero Bailhorn, en un ataque de creatividad editor, decidió revisar la edición y puso un gallo sin espolones, y con un par de huevos al lado. Básicamente ilustró un gallo poniendo huevos. Un despropósito biológico absoluto que todos en Alemania vieron.",
+      "translation": "That's right. However, Bailhorn, in a moment of editorial creativity, decided to revise the illustration and depicted a rooster with spurs, and a couple of eggs nearby. Essentially, he illustrated a rooster laying eggs. This was a completely absurd and biologically inaccurate depiction that everyone in Germany saw."
+    },
+    {
+      "source": "Claro, se rieron de él a base de bien. Y la broma es que desde entonces, en el idioma alemán, cualquier revisión o supuesta mejora de un texto que en realidad lo que hace es empeorar o arruinar el material original se llama hacer un Bolhorning. O sea, a ver si lo capto, Lenin está llamando a Martinov frente a todos sus lectores un editor incompetente que arruina la teoría al intentar arreglarla. Básicamente le está diciendo en la cara, chaval, has dibujado un gallo con huevos.",
+      "translation": "Of course, they laughed at him, and the joke is that since then, in the German language, any revision or supposed improvement of a text that actually makes the original worse or ruins it is called a \"Bolhorning.\" In other words, Lenin is calling Martinov, in front of all his readers, an incompetent editor who ruins the theory by trying to fix it. Basically, he's telling him, \"You've drawn a rooster with eggs.\""
+    },
+    {
+      "source": "Lo humilla sin ninguna piedad. Considera que este tipo de intelectuales están confundiendo los conceptos básicos por intentar parecer originales y eruditos. Sí, de hecho los llama, con mucho desdén, Lomonosovs. Esa es otra referencia que se me escapaba por completo.",
+      "translation": "He insults them without any mercy. He believes that this type of intellectual is confusing basic concepts in an attempt to appear original and knowledgeable. Yes, he actually calls them \"Lomonosovs,\" with a great deal of disdain. That was another reference that I had completely forgotten."
+    },
+    {
+      "source": "¿Qué es un Lomonosov en este contexto de insultos rusos? Pues mira, Mikhail Diomonosov fue un gigantesco genio ruso del siglo XVIII. Un hombre que partiendo de la nada descubrió un montón de principios científicos por sí mismo. O sea, un autodidacta brillante.",
+      "translation": "So, what exactly is a \"Lomonosov\" in the context of Russian insults? Well, Mikhail Lomonosov was a brilliant Russian scientist of the 18th century. He was a self-taught individual who made significant scientific discoveries."
+    },
+    {
+      "source": "Sí, pero Lenin usa el término aquí con un sarcasmo muy venenoso. Describe a Martinov y a sus rivales teóricos como supuestos genios natos que creen estar descubriendo grandes verdades por su cuenta, pero que en realidad están ignorando, con enorme soberbia, todo el desarrollo del pensamiento revolucionario anterior. Ostras, qué manera de repartir. Era implacable, sí.",
+      "translation": "Yes, but Lenin uses the term here with a very venomous sarcasm. He describes Martinov and his theoretical rivals as supposed natural geniuses who believe they are discovering great truths on their own, but who are actually ignoring, with immense arrogance, all the development of previous revolutionary thought. It was relentless, yes."
+    },
+    {
+      "source": "No toleraba la pereza intelectual. Creía que estas innovaciones de salón solo servían de excusa para quedarse en la zona de confort de la política sindical, de lo fácil. Pero ojo con esto, porque Lenin no se queda solo en el sarcasmo y en llamarle ignorante. Da un salto analítico mucho más profundo y para mí totalmente inesperado a leer las fuentes porque de repente conecta a estos sindicalistas cautelosos que piden mejoras salariales con su opuesto absoluto en el mundo político, los terroristas violentos.",
+      "translation": "He found intellectual laziness unacceptable. He believed that these academic innovations were merely an excuse to remain within the comfortable zone of traditional union politics. However, be careful, because Lenin doesn't just rely on sarcasm and calling people ignorant. He makes a much deeper and, to me, completely unexpected analytical leap by reading the sources, suddenly connecting these cautious union leaders who are demanding wage increases with their absolute opposite in the political world, the violent terrorists."
+    },
+    {
+      "source": "Es, de lejos, la tesis más audaz y contraintuitiva de todo el capítulo, porque a primera vista parecen estar en polos completamente opuestos del universo. Totalmente opuestos. Unos reparten folletos pidiendo un aumento de sueldo y los otros, representados por grupos como Osboboda, se dedican a lanzar bombas y asesinar funcionarios zaristas en las calles. Me dejas de piedra.",
+      "translation": "It is, by far, the most audacious and counterintuitive thesis in the entire chapter, because at first glance, they seem to be on completely opposite sides of the universe. Completely opposite. One group is distributing leaflets asking for a pay raise, while the other, represented by groups like Osboboda, is engaging in acts of violence and assassinating Tsarist officials in the streets. It's truly shocking."
+    },
+    {
+      "source": "A ver, ¿estás diciendo que para el razonamiento de Lenin organizar una huelga por mejores salarios y lanzar una bomba en la calle provienen exactamente del mismo fracaso intelectual? Si conectamos esto con el panorama general de la arquitectura mental de Lenin, el encaje es perfecto. Él argumenta que ambos grupos, aunque usen métodos diametralmente distintos, cometen el mismo pecado capital revolucionario. Ambos se postran ante la espontaneidad.",
+      "translation": "Okay, are you saying that for Lenin, organizing a strike for better wages and throwing a bomb in the street stem directly from the same intellectual failure? If we connect this with the overall picture of Lenin's mental architecture, the connection is perfect. He argues that both groups, although they use diametrically opposed methods, commit the same fundamental revolutionary sin: they both surrender to spontaneity."
+    },
+    {
+      "source": "Me vas a tener que desenredar esto de la espontaneidad, porque, a ver, ¿qué tiene de malo ser espontáneo? En nuestro lenguaje de hoy suena a algo orgánico, auténtico, a que surge del pueblo. Ya, pero en el vocabulario de Lenin, espontaneidad no es ningún halago. Es la reacción natural, visceral y, sobre todo, no planificada ante la opresión.",
+      "translation": "I'm going to have to explain this concept of spontaneity to you, because, frankly, what's wrong with being spontaneous? In today's language, it sounds like something natural, authentic, and arising from the people. Yes, but in Lenin's vocabulary, spontaneity is not a compliment. It's the natural, visceral reaction, and above all, the unplanned response to oppression."
+    },
+    {
+      "source": "Sin visión de futuro, entiendo. Exacto. Los economicistas se postran ante el movimiento obrero espontáneo. Ven a los trabajadores quejándose de sus bajos salarios y dicen, ah, vale, hagamos solo eso, vayamos a remolque de lo que piden hoy.",
+      "translation": "I understand your point. Exactly. Economists simply react to the spontaneous movement of workers. They see workers complaining about their low wages and say, \"Okay, let's just do that, let's follow what they're demanding today.\""
+    },
+    {
+      "source": "¿Y los terroristas? Por otro lado, los terroristas se postran ante la indignación espontánea de los intelectuales. Ven la inmensa tiranía del Estado, sienten que no tienen las herramientas o la paciencia para conectar con las masas trabajadoras a largo plazo, se desesperan por su propia impotencia y deciden actuar individualmente con violencia visceral para desahogar esa rabia. Ah, vale, ya lo pillo.",
+      "translation": "And the terrorists? On the other hand, the terrorists are defeated by the spontaneous outrage of intellectuals. They see the immense tyranny of the state, feel that they lack the tools or patience to connect with the working class over the long term, and become desperate due to their own powerlessness, and decide to act individually with visceral violence to release that anger. Ah, I understand now."
+    },
+    {
+      "source": "O sea que el terrorista, como en el fondo, no tiene ni idea de cómo organizar a 100 .000 personas en una huelga sostenida, se desespera, coge una pistola y busca el atajo rápido, el golpe de efecto en las noticias. Exactamente eso. El texto dice explícitamente que el terrorismo busca extilitantes artificiales para intentar despertar bruscamente a las masas. Y lo hacen precisamente porque son incapaces de organizar el resentimiento popular que ya existe en la sociedad.",
+      "translation": "Therefore, the terrorist, essentially, has no idea how to organize 100,000 people into a sustained protest. He becomes desperate, grabs a gun, and seeks a quick, impactful solution to achieve attention in the news. That is precisely what he does. The text explicitly states that terrorism aims to create artificial outrage in order to quickly mobilize the masses. And they do this precisely because they are unable to organize the existing popular resentment within society."
+    },
+    {
+      "source": "Claro, Lenin dice que la vida en Rusia ya está llena de abusos horribles, no necesitas tirar una bomba para que la gente despierte. Así es, el gran problema es que ni los cautelosos economicistas ni los desesperados terroristas quieren asumir la carga de hacer el trabajo duro, lento, aburrido y sistemático de organizar una agitación política integral. Básicamente ambos toman el camino de menorresistencia, uno se conforma con las migajas económicas y el otro con el fuego artificial violento que no cambia la estructura para nada. Así de crudo lo expresa el texto, ¿sí?",
+      "translation": "Of course, Lenin argues that life in Russia is already full of horrific abuses, so you don't need to throw a bomb to wake people up. That's right, the main problem is that neither the cautious economists nor the desperate terrorists want to take on the hard, slow, tedious, and systematic work of organizing comprehensive political agitation. Essentially, both choose the path of least resistance: one is content with small economic gains, and the other with violent, artificial fire that doesn't change anything at all. That's a very direct way of putting it, isn't it?"
+    },
+    {
+      "source": "Lenin cree firmemente que el verdadero trabajo de un revolucionario es reunir cada pequeña gota y riachuelo de resentimiento popular en un gigantesco torrente político. Pues esto nos lleva de cabeza a la gran pregunta, a la conclusión de todo este texto. Si el enfoque sindicalista es un callejón sin salida reformista y el terrorismo es un callejón sin salida destructivo, ¿cuál es exactamente la hoja de ruta que propone este panfleto? La respuesta, que acabaría definiendo la historia política del siglo XX, es la creación de una vanguardia profesional.",
+      "translation": "Lenin firmly believes that the true task of a revolutionary is to gather every small drop and stream of popular resentment into a massive political torrent. This leads us to the central question, the conclusion of this entire text: If the syndicalist approach is a reformist dead end, and terrorism is a destructive dead end, what exactly is the roadmap proposed by this pamphlet? The answer, which would ultimately define the political history of the 20th century, is the creation of a professional vanguard."
+    },
+    {
+      "source": "Él insiste en que los organizadores no deben quedarse encerrados en las fábricas hablando de sueldos. Deben ir entre todas las clases de la población. Espera, ¿incluso entre las clases burguesas o acomodadas? ¿Irían a organizar a la gente de dinero?",
+      "translation": "He insists that the organizers should not remain confined to the factories, discussing wages. They should interact with all segments of the population. Does he expect them to even interact with the upper or middle classes? Would they go to organize the wealthy?"
+    },
+    {
+      "source": "Sí, entre cualquiera que sufra la opresión del Estado absolutista, sea de la clase que sea. Deben liderar las protestas de los estudiantes universitarios, apoyar a los miembros liberales de los gobiernos locales, defender a las minorías religiosas perseguidas. ¿No dejar ni un solo frente de descontento sin atender? De hecho, el texto hace una comparación muy ilustrativa entre dos figuras históricas muy diferentes, el británico Robert Knight y el alemán Wilhelm Liebknecht.",
+      "translation": "Yes, anyone who suffers under absolute state oppression, regardless of their social class, should lead the protests of university students, support liberal members of local governments, and defend persecuted religious minorities. Shouldn't we address every source of discontent? In fact, the text makes a very insightful comparison between two very different historical figures, the British Robert Knight and the German Wilhelm Liebknecht."
+    },
+    {
+      "source": "Ah, conozco un poco el perfil de Robert Knight. Era el típico líder sindical inglés del siglo XIX, súper pragmático, un genio en sentarse a negociar y lograr resultados palpables para los suyos en las fábricas. Un negociador nato, sí. Y Liebknecht, por otro lado, era un político socialista alemán que estaba metido en todos los frentes sociales a la vez.",
+      "translation": "Ah, I know a bit about Robert Knight's background. He was the typical 19th-century British union leader, incredibly pragmatic, a genius at negotiating and achieving tangible results for his members in the factories. A natural negotiator, certainly. And Liebknecht, on the other hand, was a German socialist politician who was involved in all aspects of social life at the time."
+    },
+    {
+      "source": "Entonces, me estás diciendo que Lenin le dice a su gente que bajo ningún concepto sean como el líder británico que sí que conseguía mejoras reales para la gente. Leído así, suena mucho cante, pero sí, es justo lo que dice. Martinov admiraba tácitamente a Knight porque conseguía pan para la mesa, pero Lenin advierte que reducir el movimiento a la figura de un excelente secretario sindical es olvidar el objetivo final. Que es transformar por completo las estructuras del poder, claro.",
+      "translation": "So, you're saying that Lenin tells his followers that under no circumstances should they emulate the British leader who actually achieved real improvements for people. Taken at face value, this sounds like a direct quote, and it is. Martinov implicitly admired Knight because he was able to provide for people, but Lenin warns that reducing the movement to the figure of a successful union secretary is to forget the ultimate goal: to completely transform the structures of power."
+    },
+    {
+      "source": "Eso es. El líder ideal debe ser un líder transformacional, un verdadero tribuno del pueblo, al estilo de Liebknecht, capaz de reaccionar de forma implacable ante toda manifestación de tiranía, afecte a quien afecte. Entonces, ¿qué significa todo esto en la práctica? Porque, a ver, es muy bonito y muy épico sobre el papel decir, seamos el tribuno del pueblo.",
+      "translation": "That's right. The ideal leader should be a transformational leader, a true voice of the people, in the style of Liebknecht, capable of relentlessly opposing any form of tyranny, regardless of who is in power. So, what does all of this mean in practice? Because, let's be clear, it's very nice and very inspiring to say, \"Let's be the voice of the people.\""
+    },
+    {
+      "source": "Pero repito el contexto. Rusia zarista, policía secreta por todas partes, cero libertad de reunión. ¿Cómo se supone que un grupo clandestino logre unificar a estudiantes de San Petesburgo, campesinos de las afueras y trabajadores del metal sin que los arresten a todos el primer día? Se es la pieza silán de su rompecabezas táctico.",
+      "translation": "But, I repeat, the context. The Tsarist Russia, secret police everywhere, and zero freedom of assembly. How could a clandestine group manage to unite students from St. Petersburg, peasants from the outskirts, and metal workers without getting everyone arrested on the first day? They are the missing piece of their tactical puzzle."
+    },
+    {
+      "source": "La herramienta principal que propone es la creación de un periódico clandestino a nivel nacional, un órgano de prensa masivo y unificado capaz de sortear el muro de la censura. Como el famoso iscra que el mismo fundó, ¿no? Exactamente. A través de este periódico se unifican las luchas exponiendo los abusos del gobierno en todas sus formas.",
+      "translation": "The main tool he proposes is the creation of a nationwide underground newspaper, a large and unified media outlet capable of circumventing censorship. Like the famous \"scribe\" he himself founded, right? Exactly. Through this newspaper, the struggles are unified, exposing government abuses in all their forms."
+    },
+    {
+      "source": "Cuando el estudiante universitario lee que el periódico de los trabajadores defiende sus derechos en el campus o cuando el campesino ve que denuncian sus abusos, se empieza a crear una alianza política real. Se teje una red de solidaridad nacional contra el enemigo común. Y el partido que logra orquestar esto se convierte, por definición, en la vanguardia. Porque va por delante de todos, iluminando el camino político.",
+      "translation": "When a university student reads that a workers' newspaper defends their rights on campus, or when a farmer sees that it exposes their abuses, a real political alliance begins to form. A national network of solidarity against the common enemy is created. And the party that manages to orchestrate this becomes, by definition, the leading force. Because it is ahead of everyone else, paving the way for political action."
+    },
+    {
+      "source": "Y, por contraposición, si solo se limitan a seguir el descontento por los salarios, como querían los economistas, entonces no son ninguna vanguardia. Exacto. Se convierten simplemente en una retaguardia. Solo van detrás de las masas diciéndoles lo que ya saben perfectamente por experiencia propia.",
+      "translation": "Conversely, if they simply focus on following the discontent over wages, as economists would have wanted, then they are not a progressive force. Exactly. They simply become a reactionary force, following the masses and telling them what they already know perfectly well through their own experience."
+    },
+    {
+      "source": "Es una distinción táctica implacable. Bueno, vamos a recapitular rápidamente este viaje analítico porque hemos cubierto un terreno histórico brutal. Y muy denso. Sí, empezamos viendo la tentadora trampa de centrarse únicamente en los éxitos inmediatos de los folletos de fábrica, un éxito que amenazaba con limitar la visión política.",
+      "translation": "It's a ruthless tactical maneuver. Well, let's quickly recap this analytical journey because we've covered a vast and complex historical ground. Yes, we started by examining the tempting trap of focusing solely on the immediate successes of factory pamphlets, a success that threatened to narrow the political perspective."
+    },
+    {
+      "source": "Pasamos por la ironía del gallo de Balhorn y los sarcasmos sobre los genios Lomonosovs, para diferenciar a los propagandistas de los agitadores. Luego vimos esa conexión, sorprendente pero muy lógica, entre el reformismo cauteloso que busca céntimos y el terrorismo violento que tira bombas. Ambos fracasan por rendirse a la espontaneidad, evitando el trabajo duro. Y por último, culminamos en esa exigencia innegociable de crear una vanguardia profesional que politice a toda la sociedad a través de la prensa clandestina.",
+      "translation": "We moved from the irony of Balhorn's rooster and the sarcasm directed at the genius Lomonosovs, to distinguish between propagandists and agitators. Then we saw that surprising, yet very logical, connection between the cautious reformists who seek small gains and the violent terrorism that uses bombs. Both ultimately fail because they give in to spontaneity, avoiding hard work. Finally, we culminated in the undeniable demand to create a professional vanguard that would politicize the entire society through underground media."
+    },
+    {
+      "source": "Es desde luego un mapa táctico exhaustivo que, nos guste o no, cambió el rumbo de la historia. Y aquí es exactamente donde todo esto conecta con quienes nos escuchan hoy en día, en pleno siglo XXI, porque más allá del contexto histórico, este texto plantea un dilema eterno, una prueba de fuego para cualquier persona interesada en provocar un cambio social. Es una pregunta que no envejece. ¿Te enfocas en lo pragmático, en sumar un copec al rublo, en apagar el pequeño fuego inmediato para aliviar el sufrimiento real que tienes delante, sabiendo que el edificio sigue en riesgo?",
+      "translation": "It is undoubtedly a comprehensive tactical map that, whether we like it or not, changed the course of history. And this is exactly where all of this connects with those who listen to us today, in the midst of the 21st century, because beyond the historical context, this text raises an eternal dilemma, a test for anyone interested in provoking social change. It is a question that never gets old. Do you focus on the pragmatic, on adding a few more to the ruble, on extinguishing the immediate fire to alleviate the real suffering you are facing, knowing that the building is still at risk?"
+    },
+    {
+      "source": "¿O te arriesgas a perder esos pequeños avances por desafiar las raíces mismas del sistema e intentar rediseñar todo el acueducto? Es el choque perpetuo entre el reformismo que alivia y la transformación estructural profunda. Totalmente. Pero quiero cerrar la inmersión de hoy dejándole a nuestra audiencia una última reflexión, algo en lo que pensar por su cuenta.",
+      "translation": "Or do you risk losing those small gains by challenging the very foundations of the system and attempting to completely redesign the entire aqueduct? It's the perpetual conflict between reformism, which seeks to alleviate problems, and deep, structural transformation. Absolutely. But I want to conclude today's discussion by leaving our audience with one final thought, something to consider on their own."
+    },
+    {
+      "source": "Se construye sobre un detalle muy sutil del texto que hemos rozado de pasada, pero que tiene muchísima miga. Lenin menciona, casi con ironía, que a menudo la propia policía y los funcionarios del gobierno, con su brutalidad, son los que realmente hacen el trabajo pesado de politizar a las masas. Sí, sí. Señala que esa intransigencia del Estado empuja inevitablemente a gente moderada hacia la radicalización total.",
+      "translation": "It builds upon a very subtle detail of the text that we have touched upon briefly, but which has a lot of depth. Lenin mentions, almost ironically, that the police and government officials themselves, through their brutality, are often the ones who actually carry out the difficult task of politicizing the masses. Yes, indeed. He points out that the state's inflexibility inevitably pushes moderate people towards complete radicalization."
+    },
+    {
+      "source": "Pues, Estú plantea una pregunta fascinante sobre cómo funciona el poder y la resistencia. Si un sistema opresivo inevitablemente empuja a todas las clases hacia la radicalización masiva por su propia torpeza represiva, ¿acaso la famosa vanguardia revolucionaria realmente crea la revolución con sus teorías y periódicos? ¿O simplemente se limitan a tener la astucia de construir el pararaños perfecto y estar en el lugar adecuado para canalizar una tormenta que el propio gobierno ya había desencadenado de forma inevitable? Al final, cuando el edificio entero está en llamas por culpa de sus propios constructores, tal vez el único debate que importa es quién va a estar ahí para dirigir el agua cuando la estructura colapse por completo.",
+      "translation": "Essentially, Estú raises a fascinating question about how power and resistance function. If an oppressive system inevitably pushes all classes towards mass radicalization due to its own repressive nature, does the famous revolutionary vanguard actually create the revolution with its theories and newspapers? Or do they simply have the cleverness of building the perfect trap and being in the right place to channel a storm that the government itself had already triggered inevitably? In the end, when the entire building is on fire due to its own builders, perhaps the only important debate is who will be there to direct the water when the structure collapses completely."
+    }
+  ]
+}

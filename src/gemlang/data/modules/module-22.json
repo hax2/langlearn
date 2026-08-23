@@ -1,0 +1,495 @@
+{
+  "id": "module-22",
+  "title": "Chapter 22: Hypothetical Conditionals",
+  "description": "Talk about what would happen in hypothetical situations.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "m22-s1",
+      "spanish": "Si tuviera tiempo, vendría.",
+      "english": "If I had time, I would come.",
+      "wordMeanings": {
+        "Si": "if",
+        "tuviera": "had (imp subj)",
+        "tiempo": "time",
+        "vendría": "would come"
+      }
+    },
+    {
+      "id": "m22-s2",
+      "spanish": "Si tuviera dinero, compraría las entradas.",
+      "english": "If I had money, I would buy the tickets.",
+      "wordMeanings": {
+        "Si": "if",
+        "tuviera": "had (imp subj)",
+        "dinero": "money",
+        "compraría": "would buy",
+        "las": "the",
+        "entradas": "tickets"
+      }
+    },
+    {
+      "id": "m22-s3",
+      "spanish": "Si estudiaras más, aprenderías más.",
+      "english": "If you studied more, you would learn more.",
+      "wordMeanings": {
+        "Si": "if",
+        "estudiaras": "studied (imp subj)",
+        "más": "more",
+        "aprenderías": "would learn"
+      }
+    },
+    {
+      "id": "m22-s4",
+      "spanish": "Si trabajaras menos, descansarías más.",
+      "english": "If you worked less, you would rest more.",
+      "wordMeanings": {
+        "Si": "if",
+        "trabajaras": "worked (imp subj)",
+        "menos": "less",
+        "descansarías": "would rest",
+        "más": "more"
+      }
+    },
+    {
+      "id": "m22-s5",
+      "spanish": "Si comieras mejor, dormirías mejor.",
+      "english": "If you ate better, you would sleep better.",
+      "wordMeanings": {
+        "Si": "if",
+        "comieras": "ate (imp subj)",
+        "mejor": "better",
+        "dormirías": "would sleep"
+      }
+    },
+    {
+      "id": "m22-s6",
+      "spanish": "Si bebieras más agua, estarías mejor.",
+      "english": "If you drank more water, you would feel better.",
+      "wordMeanings": {
+        "Si": "if",
+        "bebieras": "drank (imp subj)",
+        "más": "more",
+        "agua": "water",
+        "estarías": "would be",
+        "mejor": "better"
+      }
+    },
+    {
+      "id": "m22-s7",
+      "spanish": "Si llegaras pronto, hablaríamos más.",
+      "english": "If you arrived soon, we would talk more.",
+      "wordMeanings": {
+        "Si": "if",
+        "llegaras": "arrived (imp subj)",
+        "pronto": "soon / early",
+        "hablaríamos": "we would speak",
+        "más": "more"
+      }
+    },
+    {
+      "id": "m22-s8",
+      "spanish": "Si llegaras tarde, no comeríamos juntos.",
+      "english": "If you arrived late, we wouldn't eat together.",
+      "wordMeanings": {
+        "Si": "if",
+        "llegaras": "arrived (imp subj)",
+        "tarde": "late / afternoon",
+        "no": "no / not",
+        "comeríamos": "we would eat",
+        "juntos": "together"
+      }
+    },
+    {
+      "id": "m22-s9",
+      "spanish": "Si vinieras mañana, iríamos a tomar un café.",
+      "english": "If you came tomorrow, we would go for a coffee.",
+      "wordMeanings": {
+        "Si": "if",
+        "vinieras": "came (imp subj)",
+        "mañana": "tomorrow / morning",
+        "iríamos": "we would go",
+        "a": "to",
+        "tomar": "to have / take",
+        "un": "a",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m22-s10",
+      "spanish": "Si fueras hoy, podrías comprar el pan.",
+      "english": "If you went today, you could buy the bread.",
+      "wordMeanings": {
+        "Si": "if",
+        "fueras": "went / were (imp subj)",
+        "hoy": "today",
+        "podrías": "could",
+        "comprar": "to buy",
+        "el": "the",
+        "pan": "bread"
+      }
+    },
+    {
+      "id": "m22-s11",
+      "spanish": "Si abrieras la puerta, entraría.",
+      "english": "If you opened the door, he/she would come in.",
+      "wordMeanings": {
+        "Si": "if",
+        "abrieras": "opened (imp subj)",
+        "la": "the / it (fem)",
+        "puerta": "door",
+        "entraría": "would enter"
+      }
+    },
+    {
+      "id": "m22-s12",
+      "spanish": "Si cerraras la ventana, se estaría mejor.",
+      "english": "If you closed the window, it would be more comfortable.",
+      "wordMeanings": {
+        "Si": "if",
+        "cerraras": "closed (imp subj)",
+        "la": "the / it (fem)",
+        "ventana": "window",
+        "se": "one / people",
+        "estaría": "would be",
+        "mejor": "better"
+      }
+    },
+    {
+      "id": "m22-s13",
+      "spanish": "Si me escucharas, lo entenderías.",
+      "english": "If you listened to me, you would understand it.",
+      "wordMeanings": {
+        "Si": "if",
+        "me": "me / to me",
+        "escucharas": "listened (imp subj)",
+        "lo": "it",
+        "entenderías": "would understand"
+      }
+    },
+    {
+      "id": "m22-s14",
+      "spanish": "Si me dijeras la verdad, te ayudaría.",
+      "english": "If you told me the truth, I would help you.",
+      "wordMeanings": {
+        "Si": "if",
+        "me": "me / to me",
+        "dijeras": "said (imp subj)",
+        "la": "the / it (fem)",
+        "verdad": "truth",
+        "te": "you / to you",
+        "ayudaría": "would help"
+      }
+    },
+    {
+      "id": "m22-s15",
+      "spanish": "Si me lo dijeras, lo entendería.",
+      "english": "If you told it to me, I would understand it.",
+      "wordMeanings": {
+        "Si": "if",
+        "me": "me / to me",
+        "lo": "it / him",
+        "dijeras": "said (imp subj)",
+        "entendería": "would understand"
+      }
+    },
+    {
+      "id": "m22-s16",
+      "spanish": "Si lo compraras hoy, sería más barato.",
+      "english": "If you bought it today, it would be cheaper.",
+      "wordMeanings": {
+        "Si": "if",
+        "lo": "it / him",
+        "compraras": "bought (imp subj)",
+        "hoy": "today",
+        "sería": "would be",
+        "más": "more",
+        "barato": "cheap"
+      }
+    },
+    {
+      "id": "m22-s17",
+      "spanish": "Si la compraras hoy, sería más barata.",
+      "english": "If you bought it today, it would be cheaper.",
+      "wordMeanings": {
+        "Si": "if",
+        "la": "the / it (fem)",
+        "compraras": "bought (imp subj)",
+        "hoy": "today",
+        "sería": "would be",
+        "más": "more",
+        "barata": "cheap (fem)"
+      }
+    },
+    {
+      "id": "m22-s18",
+      "spanish": "Si los compraras hoy, sería mejor.",
+      "english": "If you bought them today, it would be better.",
+      "wordMeanings": {
+        "Si": "if",
+        "los": "the / them",
+        "compraras": "bought (imp subj)",
+        "hoy": "today",
+        "sería": "would be",
+        "mejor": "better"
+      }
+    },
+    {
+      "id": "m22-s19",
+      "spanish": "Si las compraras hoy, sería mejor.",
+      "english": "If you bought them today, it would be better.",
+      "wordMeanings": {
+        "Si": "if",
+        "las": "the / them (fem)",
+        "compraras": "bought (imp subj)",
+        "hoy": "today",
+        "sería": "would be",
+        "mejor": "better"
+      }
+    },
+    {
+      "id": "m22-s20",
+      "spanish": "Si estuvieras aquí, te vería.",
+      "english": "If you were here, I would see you.",
+      "wordMeanings": {
+        "Si": "if",
+        "estuvieras": "were (imp subj)",
+        "aquí": "here",
+        "te": "you / to you",
+        "vería": "would see"
+      }
+    },
+    {
+      "id": "m22-s21",
+      "spanish": "Si no estuvieras aquí, no te vería.",
+      "english": "If you weren't here, I wouldn't see you.",
+      "wordMeanings": {
+        "Si": "if",
+        "no": "no / not",
+        "estuvieras": "were (imp subj)",
+        "aquí": "here",
+        "te": "you / to you",
+        "vería": "would see"
+      }
+    },
+    {
+      "id": "m22-s22",
+      "spanish": "Si fueras paciente, todo sería más fácil.",
+      "english": "If you were patient, everything would be easier.",
+      "wordMeanings": {
+        "Si": "if",
+        "fueras": "went / were (imp subj)",
+        "paciente": "patient",
+        "todo": "all",
+        "sería": "would be",
+        "más": "more",
+        "fácil": "easy"
+      }
+    },
+    {
+      "id": "m22-s23",
+      "spanish": "Si fueras amable, hablaría contigo.",
+      "english": "If you were kind, he/she would speak with you.",
+      "wordMeanings": {
+        "Si": "if",
+        "fueras": "went / were (imp subj)",
+        "amable": "kind",
+        "hablaría": "would speak",
+        "contigo": "with you"
+      }
+    },
+    {
+      "id": "m22-s24",
+      "spanish": "Si pudiera, iría ahora mismo.",
+      "english": "If I could, I would go right now.",
+      "wordMeanings": {
+        "Si": "if",
+        "pudiera": "could (imp subj)",
+        "iría": "would go",
+        "ahora": "now",
+        "mismo": "same / right"
+      }
+    },
+    {
+      "id": "m22-s25",
+      "spanish": "Si no pudiera, iría mañana.",
+      "english": "If I couldn't, I would go tomorrow.",
+      "wordMeanings": {
+        "Si": "if",
+        "no": "no / not",
+        "pudiera": "could (imp subj)",
+        "iría": "would go",
+        "mañana": "tomorrow / morning"
+      }
+    },
+    {
+      "id": "m22-s26",
+      "spanish": "Si quisiera, lo diría.",
+      "english": "If I wanted to, I would say it.",
+      "wordMeanings": {
+        "Si": "if",
+        "quisiera": "wanted (imp subj)",
+        "lo": "it",
+        "diría": "would say"
+      }
+    },
+    {
+      "id": "m22-s27",
+      "spanish": "Si quisieras, te abriría la puerta.",
+      "english": "If you wanted, I would open the door for you.",
+      "wordMeanings": {
+        "Si": "if",
+        "quisieras": "wanted (imp subj)",
+        "te": "you / for you",
+        "abriría": "would open",
+        "la": "the / it (fem)",
+        "puerta": "door"
+      }
+    },
+    {
+      "id": "m22-s28",
+      "spanish": "Si lloviera, me quedaría en casa.",
+      "english": "If it rained, I would stay at home.",
+      "wordMeanings": {
+        "Si": "if",
+        "lloviera": "rained (imp subj)",
+        "me": "me / to me",
+        "quedaría": "would stay",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m22-s29",
+      "spanish": "Si hiciera sol, iríamos al centro.",
+      "english": "If it were sunny, we would go to the city centre.",
+      "wordMeanings": {
+        "Si": "if",
+        "hiciera": "did / made (imp subj)",
+        "sol": "sun",
+        "iríamos": "we would go",
+        "al": "to the",
+        "centro": "town centre"
+      }
+    },
+    {
+      "id": "m22-s30",
+      "spanish": "Si vinieras conmigo, estaría contento.",
+      "english": "If you came with me, I would be happy.",
+      "wordMeanings": {
+        "Si": "if",
+        "vinieras": "came (imp subj)",
+        "conmigo": "with me",
+        "estaría": "would be",
+        "contento": "happy"
+      }
+    }
+  ],
+  "grammarExplanation": "Hypothetical (unreal) conditionals describe imaginary situations. They use the imperfect subjunctive + conditional:\n\n'Si + imperfect subjunctive, conditional'\n\nImperfect subjunctive (-ra form):\n• -AR: hablara, hablaras, hablara, habláramos, hablaran\n• -ER/-IR: comiera, comieras, comiera, comiéramos, comieran\n\nConditional:\n• -ía, -ías, -ía, -íamos, -ían\n\n• Si tuviera tiempo, vendría = If I had time, I would come.",
+  "vocabulary": {
+    "si": {
+      "mnemonic": "'See if' — si = if.",
+      "explanation": "No accent = if. 'Sí' with accent = yes."
+    },
+    "tiempo": {
+      "mnemonic": "Think 'tempo' — time and rhythm.",
+      "explanation": "Means 'time' or 'weather'."
+    },
+    "dinero": {
+      "mnemonic": "'Diner-o' — you need dinero at the diner.",
+      "explanation": "Means 'money'."
+    },
+    "libro": {
+      "mnemonic": "Think 'library' — full of libros (books)!",
+      "explanation": "Means 'book'. Masculine noun."
+    },
+    "mejor": {
+      "mnemonic": "'Major improvement' — better/best.",
+      "explanation": "Means 'better' or 'best'."
+    },
+    "agua": {
+      "mnemonic": "Think 'aqua' — water!",
+      "explanation": "Fem but uses 'el agua'."
+    },
+    "temprano": {
+      "mnemonic": "'Temporary morning' — early!",
+      "explanation": "Means 'early'."
+    },
+    "tarde": {
+      "mnemonic": "Think 'tardy' — late!",
+      "explanation": "Means 'late' or 'afternoon'."
+    },
+    "mañana": {
+      "mnemonic": "'Mañana, mañana' — putting off till tomorrow.",
+      "explanation": "Means 'tomorrow' or 'morning'."
+    },
+    "café": {
+      "mnemonic": "Same as English 'café' — coffee!",
+      "explanation": "Means 'coffee' or 'café'."
+    },
+    "hoy": {
+      "mnemonic": "'Hoy! today!' — an exclamation for today.",
+      "explanation": "Means 'today'."
+    },
+    "pan": {
+      "mnemonic": "Bread baked in a pan!",
+      "explanation": "Means 'bread'. Masculine noun."
+    },
+    "la": {
+      "mnemonic": "'La lady' — her/it (feminine).",
+      "explanation": "Also 'the' (feminine)."
+    },
+    "puerta": {
+      "mnemonic": "Think 'port/portal' — a door.",
+      "explanation": "Feminine noun meaning door/gate."
+    },
+    "ventana": {
+      "mnemonic": "'Vent-ana' — air vents in a window.",
+      "explanation": "From Latin 'ventus' (wind)."
+    },
+    "lo": {
+      "mnemonic": "'Low him' — direct object him/it.",
+      "explanation": "Masculine direct object pronoun."
+    },
+    "sería": {
+      "mnemonic": "'Series of what would be.'",
+      "explanation": "Conditional of 'ser'."
+    },
+    "los": {
+      "mnemonic": "'Los' = them (masculine plural).",
+      "explanation": "Direct object pronoun."
+    },
+    "las": {
+      "mnemonic": "'Las ladies' — them (feminine).",
+      "explanation": "Direct object pronoun."
+    },
+    "aquí": {
+      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
+      "explanation": "Means 'here'. More precise than 'acá'."
+    },
+    "fácil": {
+      "mnemonic": "Think 'facile' — easily done.",
+      "explanation": "Means 'easy'. Same for masc/fem."
+    },
+    "él": {
+      "mnemonic": "Like 'el' in 'elevator' — he goes up!",
+      "explanation": "Subject pronoun 'he'. Accent distinguishes from 'el' (the)."
+    },
+    "iría": {
+      "mnemonic": "'I'd go' — I would go.",
+      "explanation": "Conditional of 'ir'."
+    },
+    "casa": {
+      "mnemonic": "Think 'casino' — a big house of games.",
+      "explanation": "Feminine noun. 'En casa' = at home."
+    },
+    "sol": {
+      "mnemonic": "Think 'solar' — sun!",
+      "explanation": "Means 'sun'."
+    },
+    "centro": {
+      "mnemonic": "Same as English 'centre' — the town centre!",
+      "explanation": "Also means 'centre'. 'El centro' = the town centre."
+    }
+  }
+}

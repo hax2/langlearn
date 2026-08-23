@@ -1,0 +1,389 @@
+{
+  "id": "module-preterite-vs-present-perfect",
+  "title": "Grammar: Preterite vs. Present Perfect",
+  "description": "Learn when to use the simple past versus the 'have done' past, especially important in Spain.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "mpvspp-s1",
+      "spanish": "Hoy he comido muy tarde.",
+      "english": "Today I have eaten very late.",
+      "wordMeanings": {
+        "Hoy": "today",
+        "he": "I have (auxiliary)",
+        "comido": "eaten",
+        "muy": "very",
+        "tarde": "late"
+      }
+    },
+    {
+      "id": "mpvspp-s2",
+      "spanish": "Ayer comí muy pronto.",
+      "english": "Yesterday I ate very early.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "comí": "I ate",
+        "muy": "very",
+        "pronto": "early / soon"
+      }
+    },
+    {
+      "id": "mpvspp-s3",
+      "spanish": "Esta semana hemos trabajado mucho.",
+      "english": "This week we have worked a lot.",
+      "wordMeanings": {
+        "Esta": "this",
+        "semana": "week",
+        "hemos": "we have (auxiliary)",
+        "trabajado": "worked",
+        "mucho": "much / a lot"
+      }
+    },
+    {
+      "id": "mpvspp-s4",
+      "spanish": "La semana pasada trabajamos poco.",
+      "english": "Last week we worked a little.",
+      "wordMeanings": {
+        "La": "the",
+        "semana": "week",
+        "pasada": "past / last",
+        "trabajamos": "we worked",
+        "poco": "little"
+      }
+    },
+    {
+      "id": "mpvspp-s5",
+      "spanish": "¿Alguna vez has estado en España?",
+      "english": "Have you ever been to Spain?",
+      "wordMeanings": {
+        "Alguna": "some / any",
+        "vez": "time / instance",
+        "has": "you have (aux)",
+        "estado": "been",
+        "en": "in",
+        "España": "Spain"
+      }
+    },
+    {
+      "id": "mpvspp-s6",
+      "spanish": "El año pasado fui a España.",
+      "english": "Last year I went to Spain.",
+      "wordMeanings": {
+        "El": "the",
+        "año": "year",
+        "pasado": "past/last",
+        "fui": "I went",
+        "a": "to",
+        "España": "Spain"
+      }
+    },
+    {
+      "id": "mpvspp-s7",
+      "spanish": "Nunca he probado este plato.",
+      "english": "I have never tried this dish.",
+      "wordMeanings": {
+        "Nunca": "never",
+        "he": "I have",
+        "probado": "tried / tasted",
+        "este": "this (masc)",
+        "plato": "dish / plate"
+      }
+    },
+    {
+      "id": "mpvspp-s8",
+      "spanish": "Él ya ha llegado a la oficina.",
+      "english": "He has already arrived at the office.",
+      "wordMeanings": {
+        "Él": "he",
+        "ya": "already",
+        "ha": "he has",
+        "llegado": "arrived",
+        "a": "to",
+        "la": "the",
+        "oficina": "office"
+      }
+    },
+    {
+      "id": "mpvspp-s9",
+      "spanish": "Él llegó hace diez minutos.",
+      "english": "He arrived ten minutes ago.",
+      "wordMeanings": {
+        "Él": "he",
+        "llegó": "arrived",
+        "hace": "ago / makes",
+        "diez": "ten",
+        "minutos": "minutes"
+      }
+    },
+    {
+      "id": "mpvspp-s10",
+      "spanish": "Siempre me ha gustado esta ciudad.",
+      "english": "I have always liked this city.",
+      "wordMeanings": {
+        "Siempre": "always",
+        "me": "me / to me",
+        "ha": "it has",
+        "gustado": "pleased / liked",
+        "esta": "this (fem)",
+        "ciudad": "city"
+      }
+    },
+    {
+      "id": "mpvspp-s11",
+      "spanish": "Esta mañana he bebido café.",
+      "english": "I have drunk coffee this morning.",
+      "wordMeanings": {
+        "Esta": "this",
+        "mañana": "morning",
+        "he": "I have",
+        "bebido": "drunk",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "mpvspp-s12",
+      "spanish": "Ayer por la mañana bebí zumo.",
+      "english": "Yesterday morning I drank juice.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "por": "in/through",
+        "la": "the",
+        "mañana": "morning",
+        "bebí": "I drank",
+        "zumo": "juice"
+      }
+    },
+    {
+      "id": "mpvspp-s13",
+      "spanish": "¿Has comido ya?",
+      "english": "Have you eaten yet?",
+      "wordMeanings": {
+        "Has": "you have",
+        "comido": "eaten",
+        "ya": "already"
+      }
+    },
+    {
+      "id": "mpvspp-s14",
+      "spanish": "Comí hace media hora.",
+      "english": "I ate half an hour ago.",
+      "wordMeanings": {
+        "Comí": "I ate",
+        "hace": "ago",
+        "media": "half",
+        "hora": "hour"
+      }
+    },
+    {
+      "id": "mpvspp-s15",
+      "spanish": "Este mes hemos gastado mucho dinero.",
+      "english": "This month we have spent a lot of money.",
+      "wordMeanings": {
+        "Este": "this",
+        "mes": "month",
+        "hemos": "we have",
+        "gastado": "spent",
+        "mucho": "a lot of",
+        "dinero": "money"
+      }
+    },
+    {
+      "id": "mpvspp-s16",
+      "spanish": "El mes pasado gastamos todo.",
+      "english": "Last month we spent everything.",
+      "wordMeanings": {
+        "El": "the",
+        "mes": "month",
+        "pasado": "last/past",
+        "gastamos": "we spent",
+        "todo": "everything"
+      }
+    },
+    {
+      "id": "mpvspp-s17",
+      "spanish": "Ha escrito el correo a su jefa.",
+      "english": "He has written the email to his boss.",
+      "wordMeanings": {
+        "Ha": "he has",
+        "escrito": "written",
+        "el": "the",
+        "correo": "email/mail",
+        "a": "to",
+        "su": "his/her",
+        "jefa": "boss (female)"
+      }
+    },
+    {
+      "id": "mpvspp-s18",
+      "spanish": "Escribió el correo ayer por la tarde.",
+      "english": "He wrote the email yesterday afternoon.",
+      "wordMeanings": {
+        "Escribió": "he wrote",
+        "el": "the",
+        "correo": "email/mail",
+        "ayer": "yesterday",
+        "por": "in/through",
+        "la": "the",
+        "tarde": "afternoon"
+      }
+    },
+    {
+      "id": "mpvspp-s19",
+      "spanish": "Todavía no he visto esa película.",
+      "english": "I still haven't seen that movie.",
+      "wordMeanings": {
+        "Todavía": "still/yet",
+        "no": "not",
+        "he": "I have",
+        "visto": "seen",
+        "esa": "that",
+        "película": "movie/film"
+      }
+    },
+    {
+      "id": "mpvspp-s20",
+      "spanish": "Vi esa película el sábado.",
+      "english": "I saw that movie on Saturday.",
+      "wordMeanings": {
+        "Vi": "I saw",
+        "esa": "that",
+        "película": "movie/film",
+        "el": "the",
+        "sábado": "Saturday"
+      }
+    },
+    {
+      "id": "mpvspp-s21",
+      "spanish": "Has vuelto muy pronto hoy.",
+      "english": "You have returned very early today.",
+      "wordMeanings": {
+        "Has": "you have",
+        "vuelto": "returned",
+        "muy": "very",
+        "pronto": "soon/early",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "mpvspp-s22",
+      "spanish": "Volviste tarde anoche.",
+      "english": "You returned late last night.",
+      "wordMeanings": {
+        "Volviste": "you returned",
+        "tarde": "late",
+        "anoche": "last night"
+      }
+    },
+    {
+      "id": "mpvspp-s23",
+      "spanish": "Mi amigo ha vivido aquí siempre.",
+      "english": "My friend has always lived here.",
+      "wordMeanings": {
+        "Mi": "my",
+        "amigo": "friend",
+        "ha": "has",
+        "vivido": "lived",
+        "aquí": "here",
+        "siempre": "always"
+      }
+    },
+    {
+      "id": "mpvspp-s24",
+      "spanish": "Mozart vivió en Austria.",
+      "english": "Mozart lived in Austria.",
+      "wordMeanings": {
+        "Mozart": "Mozart",
+        "vivió": "lived",
+        "en": "in",
+        "Austria": "Austria"
+      }
+    },
+    {
+      "id": "mpvspp-s25",
+      "spanish": "Hemos estado casados diez años.",
+      "english": "We have been married for ten years.",
+      "wordMeanings": {
+        "Hemos": "we have",
+        "estado": "been",
+        "casados": "married",
+        "diez": "ten",
+        "años": "years"
+      }
+    }
+  ],
+  "grammarExplanation": "Use Present Perfect (he comido) for actions that happened in a time period that isn't finished yet (hoy, esta semana, este año) or for life experiences (alguna vez, nunca). Use Preterite (comí) for actions in a completely finished time period (ayer, la semana pasada, en 2018). *Note: In Latin America, the Preterite is often used for both cases.*",
+  "vocabulary": {
+    "hoy": {
+      "mnemonic": "Hoy is the present day.",
+      "explanation": "Means 'today'."
+    },
+    "comido": {
+      "mnemonic": "Past participle of comer.",
+      "explanation": "Means 'eaten'."
+    },
+    "pronto": {
+      "mnemonic": "Do it pronto!",
+      "explanation": "Means 'soon' or 'early'."
+    },
+    "semana": {
+      "mnemonic": "See men a week.",
+      "explanation": "Means 'week'."
+    },
+    "trabajado": {
+      "mnemonic": "Past participle of trabajar.",
+      "explanation": "Means 'worked'."
+    },
+    "pasada": {
+      "mnemonic": "Passed by.",
+      "explanation": "Means 'past' or 'last' (as in last week)."
+    },
+    "alguna": {
+      "mnemonic": "Alternative or some one.",
+      "explanation": "Means 'some'."
+    },
+    "vez": {
+      "mnemonic": "This time interval.",
+      "explanation": "Means 'time' as an instance (e.g. one time)."
+    },
+    "estado": {
+      "mnemonic": "State of being.",
+      "explanation": "Past participle of estar (been)."
+    },
+    "año": {
+      "mnemonic": "Annual.",
+      "explanation": "Means 'year'."
+    },
+    "nunca": {
+      "mnemonic": "None can.",
+      "explanation": "Means 'never'."
+    },
+    "probado": {
+      "mnemonic": "Probation tests you.",
+      "explanation": "Past participle of probar (tried/tasted)."
+    },
+    "ya": {
+      "mnemonic": "Yeah, already done.",
+      "explanation": "Means 'already' or 'now'."
+    },
+    "llegado": {
+      "mnemonic": "Leg arrived.",
+      "explanation": "Past participle of llegar (arrived)."
+    },
+    "hace": {
+      "mnemonic": "Hace frio means it makes cold.",
+      "explanation": "Used in time expressions to mean 'ago' (Hace diez minutos)."
+    },
+    "siempre": {
+      "mnemonic": "Semper fi - always faithful.",
+      "explanation": "Means 'always'."
+    },
+    "gustado": {
+      "mnemonic": "Gusto is pleasure.",
+      "explanation": "Past participle of gustar (liked/pleased)."
+    },
+    "ciudad": {
+      "mnemonic": "City.",
+      "explanation": "Means 'city'."
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "id": "review-13-14-15",
+  "title": "🔄 Review: Chapters 13, 14, 15",
+  "description": "Mixed practice from Direct Object Pronouns, Indirect Object Pronouns, Double Object Pronouns.",
+  "level": "Beginner",
+  "type": "review",
+  "reviewsModules": [
+    "module-13",
+    "module-14",
+    "module-15"
+  ],
+  "sentences": [
+    {
+      "id": "review-13-14-15-from-m13-s2",
+      "spanish": "Tienes la carta.",
+      "english": "You have the letter.",
+      "wordMeanings": {
+        "Tienes": "you have",
+        "la": "the / it (fem)",
+        "carta": "letter"
+      }
+    },
+    {
+      "id": "review-13-14-15-from-m15-s2",
+      "spanish": "Le doy la carta a Luis.",
+      "english": "I give Luis the letter.",
+      "wordMeanings": {
+        "Le": "to him / her",
+        "doy": "I give",
+        "la": "the / it (fem)",
+        "carta": "letter",
+        "a": "to",
+        "Luis": "Luis"
+      }
+    },
+    {
+      "id": "review-13-14-15-from-m13-s5",
+      "spanish": "Ayer la abrí.",
+      "english": "Yesterday I opened it.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "la": "the / it (fem)",
+        "abrí": "I opened"
+      }
+    },
+    {
+      "id": "review-13-14-15-from-m13-s1",
+      "spanish": "Los quiero.",
+      "english": "I want them.",
+      "wordMeanings": {
+        "Los": "the / them",
+        "quiero": "I want"
+      }
+    },
+    {
+      "id": "review-13-14-15-from-m14-s5",
+      "spanish": "Damos la sopa a ustedes.",
+      "english": "We give the soup to you (pl.).",
+      "wordMeanings": {
+        "Damos": "we give",
+        "la": "the / it (fem)",
+        "sopa": "soup",
+        "a": "to",
+        "ustedes": "you (plural)"
+      }
+    },
+    {
+      "spanish": "¡Ya lo tengo!",
+      "english": "I've got it!",
+      "wordMeanings": {
+        "Ya": "already/now",
+        "lo": "it",
+        "tengo": "I have"
+      },
+      "id": "review-13-14-15-from-m13-s4"
+    },
+    {
+      "id": "review-13-14-15-from-m15-s5",
+      "spanish": "No, no se lo doy ahora.",
+      "english": "No, I don’t give it now.",
+      "wordMeanings": {
+        "No": "no / not",
+        "no": "no / not",
+        "se": "himself / herself / themselves",
+        "lo": "it / him",
+        "doy": "I give",
+        "ahora": "now"
+      }
+    },
+    {
+      "id": "review-13-14-15-from-m15-s1",
+      "spanish": "Hoy se lo he dado.",
+      "english": "Today I’ve given it to him/her.",
+      "wordMeanings": {
+        "Hoy": "today",
+        "se": "himself / herself / themselves",
+        "lo": "it / him",
+        "he": "I have",
+        "dado": "given"
+      }
+    },
+    {
+      "id": "review-13-14-15-from-m14-s1",
+      "spanish": "Doy la carta a Luis.",
+      "english": "I give the letter to Luis.",
+      "wordMeanings": {
+        "Doy": "I give",
+        "la": "the / it (fem)",
+        "carta": "letter",
+        "a": "to",
+        "Luis": "Luis"
+      }
+    },
+    {
+      "id": "review-13-14-15-from-m15-s4",
+      "spanish": "¿Se la das hoy?",
+      "english": "Do you give it to him/her today?",
+      "wordMeanings": {
+        "Se": "himself / herself / themselves",
+        "la": "the / it (fem)",
+        "das": "you give",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "review-13-14-15-from-m14-s2",
+      "spanish": "Le doy el libro ahora.",
+      "english": "I give him/her the book now.",
+      "wordMeanings": {
+        "Le": "to him / her",
+        "doy": "I give",
+        "el": "the",
+        "libro": "book",
+        "ahora": "now"
+      }
+    },
+    {
+      "id": "review-13-14-15-from-m13-s3",
+      "spanish": "Sí, lo compré.",
+      "english": "Yes, I bought it.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "lo": "it / him",
+        "compré": "I bought"
+      }
+    },
+    {
+      "id": "review-13-14-15-from-m15-s3",
+      "spanish": "Les doy los libros a ellos.",
+      "english": "I give them the books.",
+      "wordMeanings": {
+        "Les": "to them",
+        "doy": "I give",
+        "los": "the / them",
+        "libros": "books",
+        "a": "to",
+        "ellos": "they / them"
+      }
+    },
+    {
+      "id": "review-13-14-15-from-m14-s4",
+      "spanish": "¿Le das dinero a tu hermano?",
+      "english": "Do you give money to your brother?",
+      "wordMeanings": {
+        "Le": "to him / her",
+        "das": "you give",
+        "dinero": "money",
+        "a": "to",
+        "tu": "your",
+        "hermano": "brother"
+      }
+    },
+    {
+      "id": "review-13-14-15-from-m14-s3",
+      "spanish": "Damos el pan a ellos.",
+      "english": "We give the bread to them.",
+      "wordMeanings": {
+        "Damos": "we give",
+        "el": "the",
+        "pan": "bread",
+        "a": "to",
+        "ellos": "they / them"
+      }
+    }
+  ],
+  "grammarExplanation": "Time to review! This module mixes sentences from the last 3 chapters you studied:\n\n• Chapter 13: Direct Object Pronouns\n• Chapter 14: Indirect Object Pronouns\n• Chapter 15: Double Object Pronouns\n\nThe sentences are shuffled so you can't rely on context — you'll need to recall the vocabulary and grammar from each chapter on your own. Take your time and listen carefully!"
+}

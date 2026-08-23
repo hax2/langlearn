@@ -1,0 +1,420 @@
+{
+  "id": "module-18",
+  "title": "Chapter 18: Subjunctive: Desires",
+  "description": "Express what you want others to do using 'Quiero que'.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "m18-s1",
+      "spanish": "Quiero que hables.",
+      "english": "I want you to speak.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "hables": "speak (subj)"
+      }
+    },
+    {
+      "id": "m18-s2",
+      "spanish": "Quiero que comas.",
+      "english": "I want you to eat.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "comas": "eat (subj)"
+      }
+    },
+    {
+      "id": "m18-s3",
+      "spanish": "Quiero que vivas aquí.",
+      "english": "I want you to live here.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "vivas": "live (subj)",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m18-s4",
+      "spanish": "Quiero que estudies hoy.",
+      "english": "I want you to study today.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "estudies": "study (subj)",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "m18-s5",
+      "spanish": "Quiero que trabajes mañana.",
+      "english": "I want you to work tomorrow.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "trabajes": "work (subj)",
+        "mañana": "tomorrow / morning"
+      }
+    },
+    {
+      "id": "m18-s6",
+      "spanish": "Quiero que abras la puerta.",
+      "english": "I want you to open the door.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "abras": "open (subj/inf)",
+        "la": "the / it (fem)",
+        "puerta": "door"
+      }
+    },
+    {
+      "id": "m18-s7",
+      "spanish": "Quiero que cierres la ventana.",
+      "english": "I want you to close the window.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "cierres": "close (subj)",
+        "la": "the / it (fem)",
+        "ventana": "window"
+      }
+    },
+    {
+      "id": "m18-s8",
+      "spanish": "Quiero que esperes aquí.",
+      "english": "I want you to wait here.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "esperes": "wait (subj)",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m18-s9",
+      "spanish": "Quiero que me escuches.",
+      "english": "I want you to listen to me.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "me": "me / to me",
+        "escuches": "listen (subj)"
+      }
+    },
+    {
+      "id": "m18-s10",
+      "spanish": "Quiero que me mires.",
+      "english": "I want you to look at me.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "me": "me / to me",
+        "mires": "look (subj)"
+      }
+    },
+    {
+      "id": "m18-s11",
+      "spanish": "Quiero que me digas la verdad.",
+      "english": "I want you to tell me the truth.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "me": "me / to me",
+        "digas": "say (subj)",
+        "la": "the / it (fem)",
+        "verdad": "truth"
+      }
+    },
+    {
+      "id": "m18-s12",
+      "spanish": "Quiero que me lo digas.",
+      "english": "I want you to tell it to me.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "me": "me / to me",
+        "lo": "it / him",
+        "digas": "say (subj)"
+      }
+    },
+    {
+      "id": "m18-s13",
+      "spanish": "Quiero que se lo des a Ana.",
+      "english": "I want you to give it to Ana.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "se": "himself / herself / themselves",
+        "lo": "it / him",
+        "des": "give (subj)",
+        "a": "to",
+        "Ana": "Ana"
+      }
+    },
+    {
+      "id": "m18-s14",
+      "spanish": "Quiero que se la des a Luis.",
+      "english": "I want you to give it to Luis.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "se": "himself / herself / themselves",
+        "la": "the / it (fem)",
+        "des": "give (subj)",
+        "a": "to",
+        "Luis": "Luis"
+      }
+    },
+    {
+      "id": "m18-s15",
+      "spanish": "Quiero que vengas ahora.",
+      "english": "I want you to come now.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "vengas": "come (subj)",
+        "ahora": "now"
+      }
+    },
+    {
+      "id": "m18-s16",
+      "spanish": "Quiero que vayas conmigo.",
+      "english": "I want you to go with me.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "vayas": "go (subj)",
+        "conmigo": "with me"
+      }
+    },
+    {
+      "id": "m18-s17",
+      "spanish": "¿Quieres que hable?",
+      "english": "Do you want me to speak?",
+      "wordMeanings": {
+        "Quieres": "you want",
+        "que": "that / than",
+        "hable": "speak (subj)"
+      }
+    },
+    {
+      "id": "m18-s18",
+      "spanish": "Sí, quiero que hables.",
+      "english": "Yes, I want you to speak.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "quiero": "I want",
+        "que": "that / than",
+        "hables": "speak (subj)"
+      }
+    },
+    {
+      "id": "m18-s19",
+      "spanish": "No, no quiero que hables.",
+      "english": "No, I don't want you to speak.",
+      "wordMeanings": {
+        "No": "no / not",
+        "no": "no / not",
+        "quiero": "I want",
+        "que": "that / than",
+        "hables": "speak (subj)"
+      }
+    },
+    {
+      "id": "m18-s20",
+      "spanish": "¿Quieres que abra la puerta?",
+      "english": "Do you want me to open the door?",
+      "wordMeanings": {
+        "Quieres": "you want",
+        "que": "that / than",
+        "abra": "open (subj/form)",
+        "la": "the / it (fem)",
+        "puerta": "door"
+      }
+    },
+    {
+      "id": "m18-s21",
+      "spanish": "Sí, quiero que abras la puerta.",
+      "english": "Yes, I want you to open the door.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "quiero": "I want",
+        "que": "that / than",
+        "abras": "open (subj/inf)",
+        "la": "the / it (fem)",
+        "puerta": "door"
+      }
+    },
+    {
+      "id": "m18-s22",
+      "spanish": "Quiero que llegues temprano.",
+      "english": "I want you to arrive early.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "llegues": "arrive (subj)",
+        "temprano": "early"
+      }
+    },
+    {
+      "id": "m18-s23",
+      "spanish": "Quiero que no llegues tarde.",
+      "english": "I want you not to arrive late.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "no": "no / not",
+        "llegues": "arrive (subj)",
+        "tarde": "late / afternoon"
+      }
+    },
+    {
+      "id": "m18-s24",
+      "spanish": "Quiero que te sientes aquí.",
+      "english": "I want you to sit here.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "te": "you / to you",
+        "sientes": "you feel",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m18-s25",
+      "spanish": "Quiero que te quedes en casa.",
+      "english": "I want you to stay at home.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "te": "you / to you",
+        "quedes": "stay (subj)",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m18-s26",
+      "spanish": "Quiero que compres pan.",
+      "english": "I want you to buy bread.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "compres": "buy (subj)",
+        "pan": "bread"
+      }
+    },
+    {
+      "id": "m18-s27",
+      "spanish": "¡Ojalá que llueva!",
+      "english": "I hope it rains!",
+      "wordMeanings": {
+        "Ojalá": "hopefully",
+        "que": "that / than",
+        "llueva": "rains (subj)"
+      }
+    },
+    {
+      "id": "m18-s28",
+      "spanish": "Quiero que te lo pases bien.",
+      "english": "I want you to have a good time.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "te": "yourself",
+        "lo": "it",
+        "pases": "spend / pass (subj)",
+        "bien": "well/good"
+      }
+    },
+    {
+      "id": "m18-s29",
+      "spanish": "Quiero que vengáis a la fiesta.",
+      "english": "I want you to come to the party. (you plural, Spain)",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "vengáis": "come (subj pl)",
+        "a": "to / at",
+        "la": "the / it (fem)",
+        "fiesta": "party"
+      }
+    },
+    {
+      "id": "m18-s30",
+      "spanish": "Espero que te guste.",
+      "english": "I hope you like it.",
+      "wordMeanings": {
+        "Espero": "I hope",
+        "que": "that / than",
+        "te": "you / to you",
+        "guste": "likes (subj)"
+      }
+    }
+  ],
+  "grammarExplanation": "The subjunctive mood is used after expressions of desire when the subjects differ. The pattern is:\n\n'Quiero que + subjunctive'\n\nPresent subjunctive endings:\n• -AR verbs: -e, -es, -e, -emos, -en\n• -ER/-IR verbs: -a, -as, -a, -amos, -an\n\n• Quiero que hables = I want you to speak\n• Quiero que comas = I want you to eat\n\nNote: If the subject is the same, use infinitive instead: 'Quiero hablar' (I want to speak).",
+  "vocabulary": {
+    "quiero": {
+      "mnemonic": "'I query what I want' — I want.",
+      "explanation": "First person of 'querer' (to want)."
+    },
+    "aquí": {
+      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
+      "explanation": "Means 'here'. More precise than 'acá'."
+    },
+    "hoy": {
+      "mnemonic": "'Hoy! today!' — an exclamation for today.",
+      "explanation": "Means 'today'."
+    },
+    "mañana": {
+      "mnemonic": "'Mañana, mañana' — putting off till tomorrow.",
+      "explanation": "Means 'tomorrow' or 'morning'."
+    },
+    "la": {
+      "mnemonic": "'La lady' — her/it (feminine).",
+      "explanation": "Also 'the' (feminine)."
+    },
+    "puerta": {
+      "mnemonic": "Think 'port/portal' — a door.",
+      "explanation": "Feminine noun meaning door/gate."
+    },
+    "ventana": {
+      "mnemonic": "'Vent-ana' — air vents in a window.",
+      "explanation": "From Latin 'ventus' (wind)."
+    },
+    "lo": {
+      "mnemonic": "'Low him' — direct object him/it.",
+      "explanation": "Masculine direct object pronoun."
+    },
+    "se": {
+      "mnemonic": "Think 'self' — reflexive pronoun.",
+      "explanation": "Replaces le/les before lo/la/los/las."
+    },
+    "temprano": {
+      "mnemonic": "'Temporary morning' — early!",
+      "explanation": "Means 'early'."
+    },
+    "tarde": {
+      "mnemonic": "Think 'tardy' — late!",
+      "explanation": "Means 'late' or 'afternoon'."
+    },
+    "casa": {
+      "mnemonic": "Think 'casino' — a big house of games.",
+      "explanation": "Feminine noun. 'En casa' = at home."
+    },
+    "pan": {
+      "mnemonic": "Bread baked in a pan!",
+      "explanation": "Means 'bread'. Masculine noun."
+    },
+    "café": {
+      "mnemonic": "Same as English 'café' — coffee!",
+      "explanation": "Means 'coffee' or 'café'."
+    },
+    "los": {
+      "mnemonic": "'Los' = them (masculine plural).",
+      "explanation": "Direct object pronoun."
+    }
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "id": "module-saber-vs-conocer",
+  "title": "Grammar: Saber vs. Conocer",
+  "description": "Learn the difference between the two verbs for 'to know'.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "msaber-s1",
+      "spanish": "No sé la respuesta.",
+      "english": "I don't know the answer.",
+      "wordMeanings": {
+        "No": "not",
+        "sé": "I know",
+        "la": "the",
+        "respuesta": "answer"
+      }
+    },
+    {
+      "id": "msaber-s2",
+      "spanish": "¿Conoces a Juan?",
+      "english": "Do you know Juan?",
+      "wordMeanings": {
+        "Conoces": "you know",
+        "a": "to (personal a)",
+        "Juan": "Juan"
+      }
+    },
+    {
+      "id": "msaber-s3",
+      "spanish": "Ella sabe nadar.",
+      "english": "She knows how to swim.",
+      "wordMeanings": {
+        "Ella": "she",
+        "sabe": "knows",
+        "nadar": "to swim"
+      }
+    },
+    {
+      "id": "msaber-s4",
+      "spanish": "Conozco Madrid muy bien.",
+      "english": "I am very familiar with Madrid.",
+      "wordMeanings": {
+        "Conozco": "I know / am familiar",
+        "Madrid": "Madrid",
+        "muy": "very",
+        "bien": "well"
+      }
+    },
+    {
+      "id": "msaber-s5",
+      "spanish": "Sabemos dónde está.",
+      "english": "We know where it is.",
+      "wordMeanings": {
+        "Sabemos": "we know",
+        "dónde": "where",
+        "está": "is"
+      }
+    },
+    {
+      "id": "msaber-s6",
+      "spanish": "No conocen esta canción.",
+      "english": "They are not familiar with this song.",
+      "wordMeanings": {
+        "No": "not",
+        "conocen": "they know",
+        "esta": "this",
+        "canción": "song"
+      }
+    },
+    {
+      "id": "msaber-s7",
+      "spanish": "¿Sabes a qué hora empieza?",
+      "english": "Do you know what time it starts?",
+      "wordMeanings": {
+        "Sabes": "you know",
+        "a": "at",
+        "qué": "what",
+        "hora": "time / hour",
+        "empieza": "it starts"
+      }
+    },
+    {
+      "id": "msaber-s8",
+      "spanish": "Quiero conocer nuevas culturas.",
+      "english": "I want to get to know new cultures.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "conocer": "to know",
+        "nuevas": "new",
+        "culturas": "cultures"
+      }
+    },
+    {
+      "id": "msaber-s9",
+      "spanish": "Ella sabe su número de teléfono.",
+      "english": "She knows his phone number.",
+      "wordMeanings": {
+        "Ella": "she",
+        "sabe": "knows",
+        "su": "his / her",
+        "número": "number",
+        "de": "of",
+        "teléfono": "phone"
+      }
+    },
+    {
+      "id": "msaber-s10",
+      "spanish": "Yo te conozco.",
+      "english": "I know you.",
+      "wordMeanings": {
+        "Yo": "I",
+        "te": "you (object)",
+        "conozco": "know"
+      }
+    },
+    {
+      "id": "msaber-s11",
+      "spanish": "¿Sabes hablar francés?",
+      "english": "Do you know how to speak French?",
+      "wordMeanings": {
+        "Sabes": "you know",
+        "hablar": "to speak",
+        "francés": "French"
+      }
+    },
+    {
+      "id": "msaber-s12",
+      "spanish": "No conozco París muy bien.",
+      "english": "I don't know Paris very well.",
+      "wordMeanings": {
+        "No": "not",
+        "conozco": "I know/am familiar",
+        "París": "Paris",
+        "muy": "very",
+        "bien": "well"
+      }
+    },
+    {
+      "id": "msaber-s13",
+      "spanish": "Ellos saben hacer pan casero.",
+      "english": "They know how to make homemade bread.",
+      "wordMeanings": {
+        "Ellos": "they",
+        "saben": "know",
+        "hacer": "to make",
+        "pan": "bread",
+        "casero": "homemade"
+      }
+    },
+    {
+      "id": "msaber-s14",
+      "spanish": "Mi abuela conoce a mucha gente.",
+      "english": "My grandmother knows a lot of people.",
+      "wordMeanings": {
+        "Mi": "my",
+        "abuela": "grandmother",
+        "conoce": "knows",
+        "a": "personal a",
+        "mucha": "a lot of",
+        "gente": "people"
+      }
+    },
+    {
+      "id": "msaber-s15",
+      "spanish": "¿Alguien sabe la dirección correcta?",
+      "english": "Does anyone know the correct address?",
+      "wordMeanings": {
+        "Alguien": "anyone/someone",
+        "sabe": "knows",
+        "la": "the",
+        "dirección": "address/direction",
+        "correcta": "correct"
+      }
+    },
+    {
+      "id": "msaber-s16",
+      "spanish": "¿Conoces algún restaurante mexicano?",
+      "english": "Are you familiar with any Mexican restaurant?",
+      "wordMeanings": {
+        "Conoces": "you know",
+        "algún": "some/any",
+        "restaurante": "restaurant",
+        "mexicano": "Mexican"
+      }
+    },
+    {
+      "id": "msaber-s17",
+      "spanish": "Sé que estás ahí, sal ya.",
+      "english": "I know you're there, come out already.",
+      "wordMeanings": {
+        "Sé": "I know",
+        "que": "that",
+        "estás": "you are",
+        "ahí": "there",
+        "sal": "come out (command)",
+        "ya": "already/now"
+      }
+    },
+    {
+      "id": "msaber-s18",
+      "spanish": "Conozco un lugar muy bonito.",
+      "english": "I am familiar with a very pretty place.",
+      "wordMeanings": {
+        "Conozco": "I know",
+        "un": "a",
+        "lugar": "place",
+        "muy": "very",
+        "bonito": "pretty/beautiful"
+      }
+    },
+    {
+      "id": "msaber-s19",
+      "spanish": "Nosotros sabemos sumar y restar.",
+      "english": "We know how to add and subtract.",
+      "wordMeanings": {
+        "Nosotros": "we",
+        "sabemos": "know",
+        "sumar": "to add",
+        "y": "and",
+        "restar": "to subtract"
+      }
+    },
+    {
+      "id": "msaber-s20",
+      "spanish": "Ella conoce esta melodía clásica.",
+      "english": "She is familiar with this classical melody.",
+      "wordMeanings": {
+        "Ella": "she",
+        "conoce": "knows",
+        "esta": "this",
+        "melodía": "melody",
+        "clásica": "classical"
+      }
+    },
+    {
+      "id": "msaber-s21",
+      "spanish": "Sabemos reparar el coche viejo.",
+      "english": "We know how to repair the old car.",
+      "wordMeanings": {
+        "Sabemos": "we know",
+        "reparar": "to repair",
+        "el": "the",
+        "coche": "car",
+        "viejo": "old"
+      }
+    },
+    {
+      "id": "msaber-s22",
+      "spanish": "No conocemos su coche nuevo.",
+      "english": "We are not familiar with his new car.",
+      "wordMeanings": {
+        "No": "not",
+        "conocemos": "we know",
+        "su": "his/her",
+        "coche": "car",
+        "nuevo": "new"
+      }
+    },
+    {
+      "id": "msaber-s23",
+      "spanish": "Él sabe mi secreto más oscuro.",
+      "english": "He knows my darkest secret.",
+      "wordMeanings": {
+        "Él": "he",
+        "sabe": "knows",
+        "mi": "my",
+        "secreto": "secret",
+        "más": "most/more",
+        "oscuro": "dark"
+      }
+    },
+    {
+      "id": "msaber-s24",
+      "spanish": "Conozco la historia de esta ciudad.",
+      "english": "I know the history of this city.",
+      "wordMeanings": {
+        "Conozco": "I know",
+        "la": "the",
+        "historia": "history",
+        "de": "of",
+        "esta": "this",
+        "ciudad": "city"
+      }
+    },
+    {
+      "id": "msaber-s25",
+      "spanish": "Saben que tengo mucha hambre.",
+      "english": "They know that I am very hungry.",
+      "wordMeanings": {
+        "Saben": "they know",
+        "que": "that",
+        "tengo": "I have",
+        "mucha": "a lot of",
+        "hambre": "hunger"
+      }
+    }
+  ],
+  "grammarExplanation": "Both 'saber' and 'conocer' mean 'to know', but they are not interchangeable. Use 'saber' for facts, pieces of information, and 'knowing how to' do something (saber + infinitive). Use 'conocer' to express familiarity or acquaintance with a person, place, or thing.",
+  "vocabulary": {
+    "sé": {
+      "mnemonic": "Say it if you know it.",
+      "explanation": "First-person present of saber."
+    },
+    "respuesta": {
+      "mnemonic": "Respond with an answer.",
+      "explanation": "Means 'answer' or 'response'."
+    },
+    "conoces": {
+      "mnemonic": "Cognitive map to know you.",
+      "explanation": "Second-person present of conocer."
+    },
+    "nadar": {
+      "mnemonic": "Nada means swim in the nothingness of the pool.",
+      "explanation": "Means 'to swim'."
+    },
+    "conozco": {
+      "mnemonic": "I know.",
+      "explanation": "First-person present of conocer."
+    },
+    "bien": {
+      "mnemonic": "It's all good as well.",
+      "explanation": "Means 'well' or 'good'."
+    },
+    "sabemos": {
+      "mnemonic": "We know.",
+      "explanation": "First-person plural of saber."
+    },
+    "dónde": {
+      "mnemonic": "Donde is the location.",
+      "explanation": "Means 'where'."
+    },
+    "canción": {
+      "mnemonic": "Sing a song.",
+      "explanation": "Means 'song'."
+    },
+    "empieza": {
+      "mnemonic": "Emperor starts.",
+      "explanation": "Means 'starts' or 'begins'."
+    },
+    "quiero": {
+      "mnemonic": "I care so I want it.",
+      "explanation": "Means 'I want'."
+    },
+    "nuevas": {
+      "mnemonic": "New.",
+      "explanation": "Means 'new'."
+    },
+    "número": {
+      "mnemonic": "Number.",
+      "explanation": "Means 'number'."
+    },
+    "teléfono": {
+      "mnemonic": "Telephone.",
+      "explanation": "Means 'phone'."
+    }
+  }
+}

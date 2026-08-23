@@ -1,0 +1,513 @@
+{
+  "id": "module-39",
+  "title": "Theme: Work and Professions",
+  "description": "Vocabulary for jobs, the workplace, and careers.",
+  "level": "Intermediate",
+  "sentences": [
+    {
+      "id": "39-s1",
+      "spanish": "El profesor lee el contrato todos los días.",
+      "english": "The teacher reads the contract every day.",
+      "wordMeanings": {
+        "profesor": "teacher",
+        "lee": "reads",
+        "contrato": "contract",
+        "días": "days"
+      }
+    },
+    {
+      "id": "39-s2",
+      "spanish": "El ingeniero revisa el contrato todos los días.",
+      "english": "The engineer reviews the contract every day.",
+      "wordMeanings": {
+        "ingeniero": "engineer",
+        "revisa": "reviews",
+        "contrato": "contract",
+        "días": "days"
+      }
+    },
+    {
+      "id": "39-s3",
+      "spanish": "La doctora lee el contrato antes del almuerzo.",
+      "english": "The doctor reads the contract before lunch.",
+      "wordMeanings": {
+        "doctora": "doctor",
+        "lee": "reads",
+        "contrato": "contract",
+        "almuerzo": "lunch"
+      }
+    },
+    {
+      "id": "39-s4",
+      "spanish": "El abogado lee el contrato todos los días.",
+      "english": "The lawyer reads the contract every day.",
+      "wordMeanings": {
+        "abogado": "lawyer",
+        "lee": "reads",
+        "contrato": "contract",
+        "días": "days"
+      }
+    },
+    {
+      "id": "39-s5",
+      "spanish": "El profesor organiza el contrato antes del almuerzo.",
+      "english": "The teacher organizes the contract before lunch.",
+      "wordMeanings": {
+        "profesor": "teacher",
+        "organiza": "organizes",
+        "contrato": "contract",
+        "almuerzo": "lunch"
+      }
+    },
+    {
+      "id": "39-s6",
+      "spanish": "La doctora lee el contrato con mucho cuidado.",
+      "english": "The doctor reads the contract very carefully.",
+      "wordMeanings": {
+        "doctora": "doctor",
+        "lee": "reads",
+        "contrato": "contract",
+        "cuidado": "carefully"
+      }
+    },
+    {
+      "id": "39-s7",
+      "spanish": "El ingeniero organiza el contrato todos los días.",
+      "english": "The engineer organizes the contract every day.",
+      "wordMeanings": {
+        "ingeniero": "engineer",
+        "organiza": "organizes",
+        "contrato": "contract",
+        "días": "days"
+      }
+    },
+    {
+      "id": "39-s8",
+      "spanish": "El profesor revisa el contrato antes del almuerzo.",
+      "english": "The teacher reviews the contract before lunch.",
+      "wordMeanings": {
+        "profesor": "teacher",
+        "revisa": "reviews",
+        "contrato": "contract",
+        "almuerzo": "lunch"
+      }
+    },
+    {
+      "id": "39-s9",
+      "spanish": "El ingeniero organiza el informe todos los días.",
+      "english": "The engineer organizes the report every day.",
+      "wordMeanings": {
+        "ingeniero": "engineer",
+        "organiza": "organizes",
+        "informe": "report",
+        "días": "days"
+      }
+    },
+    {
+      "id": "39-s10",
+      "spanish": "El profesor escribe el informe antes del almuerzo.",
+      "english": "The teacher writes the report before lunch.",
+      "wordMeanings": {
+        "profesor": "teacher",
+        "escribe": "writes",
+        "informe": "report",
+        "almuerzo": "lunch"
+      }
+    },
+    {
+      "id": "39-s11",
+      "spanish": "La doctora escribe el informe con mucho cuidado.",
+      "english": "The doctor writes the report very carefully.",
+      "wordMeanings": {
+        "doctora": "doctor",
+        "escribe": "writes",
+        "informe": "report",
+        "cuidado": "carefully"
+      }
+    },
+    {
+      "id": "39-s12",
+      "spanish": "El ingeniero lee el informe todos los días.",
+      "english": "The engineer reads the report every day.",
+      "wordMeanings": {
+        "ingeniero": "engineer",
+        "lee": "reads",
+        "informe": "report",
+        "días": "days"
+      }
+    },
+    {
+      "id": "39-s13",
+      "spanish": "El profesor organiza el informe en la oficina.",
+      "english": "The teacher organizes the report in the office.",
+      "wordMeanings": {
+        "profesor": "teacher",
+        "organiza": "organizes",
+        "informe": "report",
+        "oficina": "office"
+      }
+    },
+    {
+      "id": "39-s14",
+      "spanish": "La doctora termina el informe para el cliente.",
+      "english": "The doctor finishes the report for the client.",
+      "wordMeanings": {
+        "doctora": "doctor",
+        "termina": "finishes",
+        "informe": "report",
+        "cliente": "client"
+      }
+    },
+    {
+      "id": "39-s15",
+      "spanish": "El ingeniero revisa el informe antes del almuerzo.",
+      "english": "The engineer reviews the report before lunch.",
+      "wordMeanings": {
+        "ingeniero": "engineer",
+        "revisa": "reviews",
+        "informe": "report",
+        "almuerzo": "lunch"
+      }
+    },
+    {
+      "id": "39-s16",
+      "spanish": "El abogado lee el informe para el cliente.",
+      "english": "The lawyer reads the report for the client.",
+      "wordMeanings": {
+        "abogado": "lawyer",
+        "lee": "reads",
+        "informe": "report",
+        "cliente": "client"
+      }
+    },
+    {
+      "id": "39-s17",
+      "spanish": "El profesor organiza el informe todos los días.",
+      "english": "The teacher organizes the report every day.",
+      "wordMeanings": {
+        "profesor": "teacher",
+        "organiza": "organizes",
+        "informe": "report",
+        "días": "days"
+      }
+    },
+    {
+      "id": "39-s18",
+      "spanish": "El ingeniero termina el informe con mucho cuidado.",
+      "english": "The engineer finishes the report very carefully.",
+      "wordMeanings": {
+        "ingeniero": "engineer",
+        "termina": "finishes",
+        "informe": "report",
+        "cuidado": "carefully"
+      }
+    },
+    {
+      "id": "39-s19",
+      "spanish": "El profesor organiza los documentos para el cliente.",
+      "english": "The teacher organizes the documents for the client.",
+      "wordMeanings": {
+        "profesor": "teacher",
+        "organiza": "organizes",
+        "documentos": "documents",
+        "cliente": "client"
+      }
+    },
+    {
+      "id": "39-s20",
+      "spanish": "El abogado lee los documentos para el cliente.",
+      "english": "The lawyer reads the documents for the client.",
+      "wordMeanings": {
+        "abogado": "lawyer",
+        "lee": "reads",
+        "documentos": "documents",
+        "cliente": "client"
+      }
+    },
+    {
+      "id": "39-s21",
+      "spanish": "El profesor escribe los documentos con mucho cuidado.",
+      "english": "The teacher writes the documents very carefully.",
+      "wordMeanings": {
+        "profesor": "teacher",
+        "escribe": "writes",
+        "documentos": "documents",
+        "cuidado": "carefully"
+      }
+    },
+    {
+      "id": "39-s22",
+      "spanish": "El jefe organiza los documentos para el cliente.",
+      "english": "The boss organizes the documents for the client.",
+      "wordMeanings": {
+        "jefe": "boss",
+        "organiza": "organizes",
+        "documentos": "documents",
+        "cliente": "client"
+      }
+    },
+    {
+      "id": "39-s23",
+      "spanish": "El profesor lee los documentos en la oficina.",
+      "english": "The teacher reads the documents in the office.",
+      "wordMeanings": {
+        "profesor": "teacher",
+        "lee": "reads",
+        "documentos": "documents",
+        "oficina": "office"
+      }
+    },
+    {
+      "id": "39-s24",
+      "spanish": "El abogado escribe los documentos antes del almuerzo.",
+      "english": "The lawyer writes the documents before lunch.",
+      "wordMeanings": {
+        "abogado": "lawyer",
+        "escribe": "writes",
+        "documentos": "documents",
+        "almuerzo": "lunch"
+      }
+    },
+    {
+      "id": "39-s25",
+      "spanish": "El profesor lee los documentos antes del almuerzo.",
+      "english": "The teacher reads the documents before lunch.",
+      "wordMeanings": {
+        "profesor": "teacher",
+        "lee": "reads",
+        "documentos": "documents",
+        "almuerzo": "lunch"
+      }
+    },
+    {
+      "id": "39-s26",
+      "spanish": "El jefe organiza el proyecto con mucho cuidado.",
+      "english": "The boss organizes the project very carefully.",
+      "wordMeanings": {
+        "jefe": "boss",
+        "organiza": "organizes",
+        "proyecto": "project",
+        "cuidado": "carefully"
+      }
+    },
+    {
+      "id": "39-s27",
+      "spanish": "La doctora revisa el proyecto para el cliente.",
+      "english": "The doctor reviews the project for the client.",
+      "wordMeanings": {
+        "doctora": "doctor",
+        "revisa": "reviews",
+        "proyecto": "project",
+        "cliente": "client"
+      }
+    },
+    {
+      "id": "39-s28",
+      "spanish": "El jefe escribe el proyecto para el cliente.",
+      "english": "The boss writes the project for the client.",
+      "wordMeanings": {
+        "jefe": "boss",
+        "escribe": "writes",
+        "proyecto": "project",
+        "cliente": "client"
+      }
+    },
+    {
+      "id": "39-s29",
+      "spanish": "La doctora revisa el proyecto en la oficina.",
+      "english": "The doctor reviews the project in the office.",
+      "wordMeanings": {
+        "doctora": "doctor",
+        "revisa": "reviews",
+        "proyecto": "project",
+        "oficina": "office"
+      }
+    },
+    {
+      "id": "39-s30",
+      "spanish": "El jefe organiza el proyecto para el cliente.",
+      "english": "The boss organizes the project for the client.",
+      "wordMeanings": {
+        "jefe": "boss",
+        "organiza": "organizes",
+        "proyecto": "project",
+        "cliente": "client"
+      }
+    },
+    {
+      "id": "39-s31",
+      "spanish": "La doctora lee el proyecto para el cliente.",
+      "english": "The doctor reads the project for the client.",
+      "wordMeanings": {
+        "doctora": "doctor",
+        "lee": "reads",
+        "proyecto": "project",
+        "cliente": "client"
+      }
+    },
+    {
+      "id": "39-s32",
+      "spanish": "El jefe escribe el proyecto con mucho cuidado.",
+      "english": "The boss writes the project very carefully.",
+      "wordMeanings": {
+        "jefe": "boss",
+        "escribe": "writes",
+        "proyecto": "project",
+        "cuidado": "carefully"
+      }
+    },
+    {
+      "id": "39-s33",
+      "spanish": "La doctora revisa el proyecto con mucho cuidado.",
+      "english": "The doctor reviews the project very carefully.",
+      "wordMeanings": {
+        "doctora": "doctor",
+        "revisa": "reviews",
+        "proyecto": "project",
+        "cuidado": "carefully"
+      }
+    },
+    {
+      "id": "39-s34",
+      "spanish": "El jefe lee el proyecto para el cliente.",
+      "english": "The boss reads the project for the client.",
+      "wordMeanings": {
+        "jefe": "boss",
+        "lee": "reads",
+        "proyecto": "project",
+        "cliente": "client"
+      }
+    },
+    {
+      "id": "39-s35",
+      "spanish": "El profesor termina el proyecto todos los días.",
+      "english": "The teacher finishes the project every day.",
+      "wordMeanings": {
+        "profesor": "teacher",
+        "termina": "finishes",
+        "proyecto": "project",
+        "días": "days"
+      }
+    },
+    {
+      "id": "39-s36",
+      "spanish": "El profesor revisa el correo en la oficina.",
+      "english": "The teacher reviews their email in the office.",
+      "wordMeanings": {
+        "profesor": "teacher",
+        "revisa": "reviews",
+        "correo": "email",
+        "oficina": "office"
+      }
+    },
+    {
+      "id": "39-s37",
+      "spanish": "El ingeniero escribe el correo con mucho cuidado.",
+      "english": "The engineer writes their email very carefully.",
+      "wordMeanings": {
+        "ingeniero": "engineer",
+        "escribe": "writes",
+        "correo": "email",
+        "cuidado": "carefully"
+      }
+    },
+    {
+      "id": "39-s38",
+      "spanish": "El abogado termina el correo todos los días.",
+      "english": "The lawyer finishes their email every day.",
+      "wordMeanings": {
+        "abogado": "lawyer",
+        "termina": "finishes",
+        "correo": "email",
+        "días": "days"
+      }
+    },
+    {
+      "id": "39-s39",
+      "spanish": "La doctora organiza el correo en la oficina.",
+      "english": "The doctor organizes their email in the office.",
+      "wordMeanings": {
+        "doctora": "doctor",
+        "organiza": "organizes",
+        "correo": "email",
+        "oficina": "office"
+      }
+    },
+    {
+      "id": "39-s40",
+      "spanish": "El profesor termina el correo para el cliente.",
+      "english": "The teacher finishes their email for the client.",
+      "wordMeanings": {
+        "profesor": "teacher",
+        "termina": "finishes",
+        "correo": "email",
+        "cliente": "client"
+      }
+    },
+    {
+      "id": "39-s41",
+      "spanish": "El ingeniero revisa el correo en la oficina.",
+      "english": "The engineer reviews their email in the office.",
+      "wordMeanings": {
+        "ingeniero": "engineer",
+        "revisa": "reviews",
+        "correo": "email",
+        "oficina": "office"
+      }
+    },
+    {
+      "id": "39-s42",
+      "spanish": "El abogado lee el correo en la oficina.",
+      "english": "The lawyer reads their email in the office.",
+      "wordMeanings": {
+        "abogado": "lawyer",
+        "lee": "reads",
+        "correo": "email",
+        "oficina": "office"
+      }
+    },
+    {
+      "id": "39-s43",
+      "spanish": "El profesor organiza el correo con mucho cuidado.",
+      "english": "The teacher organizes their email very carefully.",
+      "wordMeanings": {
+        "profesor": "teacher",
+        "organiza": "organizes",
+        "correo": "email",
+        "cuidado": "carefully"
+      }
+    },
+    {
+      "id": "39-s44",
+      "spanish": "El ingeniero termina el correo todos los días.",
+      "english": "The engineer finishes their email every day.",
+      "wordMeanings": {
+        "ingeniero": "engineer",
+        "termina": "finishes",
+        "correo": "email",
+        "días": "days"
+      }
+    },
+    {
+      "id": "39-s45",
+      "spanish": "El profesor lee el correo para el cliente.",
+      "english": "The teacher reads their email for the client.",
+      "wordMeanings": {
+        "profesor": "teacher",
+        "lee": "reads",
+        "correo": "email",
+        "cliente": "client"
+      }
+    }
+  ],
+  "vocabulary": {
+    "abogado": {
+      "mnemonic": "Advocate (Abogado) - someone who advocates for you in court.",
+      "explanation": "Means 'lawyer'."
+    },
+    "jefe": {
+      "mnemonic": "The chief (jefe) is in charge.",
+      "explanation": "Means 'boss' or 'manager'."
+    }
+  }
+}

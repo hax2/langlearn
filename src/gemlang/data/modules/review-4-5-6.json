@@ -1,0 +1,187 @@
+{
+  "id": "review-4-5-6",
+  "title": "🔄 Review: Chapters 4, 5, 6",
+  "description": "Mixed practice from Possession, Regular -AR Verbs, Regular -ER/-IR Verbs.",
+  "level": "Beginner",
+  "type": "review",
+  "reviewsModules": [
+    "module-4",
+    "module-5",
+    "module-6"
+  ],
+  "sentences": [
+    {
+      "id": "review-4-5-6-from-m4-s1",
+      "spanish": "No, no tengo hermanos.",
+      "english": "No, I don't have siblings.",
+      "wordMeanings": {
+        "No": "no / not",
+        "no": "no / not",
+        "tengo": "I have",
+        "hermanos": "brothers / siblings"
+      }
+    },
+    {
+      "id": "review-4-5-6-from-m4-s3",
+      "spanish": "Luis está en el café y tiene sed.",
+      "english": "Luis is in the café and is thirsty.",
+      "wordMeanings": {
+        "Luis": "Luis",
+        "está": "is",
+        "en": "in / on",
+        "el": "the",
+        "café": "coffee",
+        "y": "and",
+        "tiene": "has",
+        "sed": "thirst"
+      }
+    },
+    {
+      "spanish": "¡Mira, he recibido un mensaje!",
+      "english": "Look, I received a message!",
+      "wordMeanings": {
+        "Mira": "look",
+        "he": "I have",
+        "recibido": "received",
+        "un": "a",
+        "mensaje": "message"
+      },
+      "id": "review-4-5-6-from-m6-s5"
+    },
+    {
+      "id": "review-4-5-6-from-m4-s5",
+      "spanish": "Ana está en casa y tiene hambre.",
+      "english": "Ana is at home and is hungry.",
+      "wordMeanings": {
+        "Ana": "Ana",
+        "está": "is",
+        "en": "in / on",
+        "casa": "house",
+        "y": "and",
+        "tiene": "has",
+        "hambre": "hunger"
+      }
+    },
+    {
+      "id": "review-4-5-6-from-m4-s2",
+      "spanish": "No, no tenemos tiempo.",
+      "english": "No, we don't have time.",
+      "wordMeanings": {
+        "No": "no / not",
+        "no": "no / not",
+        "tenemos": "we have",
+        "tiempo": "time"
+      }
+    },
+    {
+      "id": "review-4-5-6-from-m4-s4",
+      "spanish": "Tengo que irme ahora.",
+      "english": "I have to go now.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "que": "to",
+        "irme": "go myself",
+        "ahora": "now"
+      }
+    },
+    {
+      "id": "review-4-5-6-from-m5-s2",
+      "spanish": "¿Dónde trabajas?",
+      "english": "Where do you work?",
+      "wordMeanings": {
+        "Dónde": "where",
+        "trabajas": "you work"
+      }
+    },
+    {
+      "id": "review-4-5-6-from-m6-s2",
+      "spanish": "Tú vives allí.",
+      "english": "You live there.",
+      "wordMeanings": {
+        "Tú": "you",
+        "vives": "you live",
+        "allí": "there"
+      }
+    },
+    {
+      "id": "review-4-5-6-from-m6-s4",
+      "spanish": "Tú vendes el coche.",
+      "english": "You sell the car.",
+      "wordMeanings": {
+        "Tú": "you",
+        "vendes": "you sell",
+        "el": "the",
+        "coche": "car"
+      }
+    },
+    {
+      "id": "review-4-5-6-from-m6-s3",
+      "spanish": "Él recibe un libro.",
+      "english": "He receives a book.",
+      "wordMeanings": {
+        "Él": "he",
+        "recibe": "receives",
+        "un": "a",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "review-4-5-6-from-m5-s1",
+      "spanish": "Ella mira la casa.",
+      "english": "She looks at the house.",
+      "wordMeanings": {
+        "Ella": "she / her",
+        "mira": "looks",
+        "la": "the / it (fem)",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "review-4-5-6-from-m5-s5",
+      "spanish": "Ella trabaja en el centro.",
+      "english": "She works downtown.",
+      "wordMeanings": {
+        "Ella": "she / her",
+        "trabaja": "works",
+        "en": "in / on",
+        "el": "the",
+        "centro": "downtown"
+      }
+    },
+    {
+      "id": "review-4-5-6-from-m5-s4",
+      "spanish": "Él mira el libro.",
+      "english": "He looks at the book.",
+      "wordMeanings": {
+        "Él": "he",
+        "mira": "looks",
+        "el": "the",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "review-4-5-6-from-m6-s1",
+      "spanish": "Abro el libro y escribo un mensaje.",
+      "english": "I open the book and write a message.",
+      "wordMeanings": {
+        "Abro": "I open",
+        "el": "the",
+        "libro": "book",
+        "y": "and",
+        "escribo": "I write",
+        "un": "a",
+        "mensaje": "message"
+      }
+    },
+    {
+      "id": "review-4-5-6-from-m5-s3",
+      "spanish": "¿Buscas algo?",
+      "english": "Are you looking for something?",
+      "wordMeanings": {
+        "Buscas": "you look for",
+        "algo": "something"
+      }
+    }
+  ],
+  "grammarExplanation": "Time to review! This module mixes sentences from the last 3 chapters you studied:\n\n• Chapter 4: Possession\n• Chapter 5: Regular -AR Verbs\n• Chapter 6: Regular -ER/-IR Verbs\n\nThe sentences are shuffled so you can't rely on context — you'll need to recall the vocabulary and grammar from each chapter on your own. Take your time and listen carefully!"
+}

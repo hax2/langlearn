@@ -1,0 +1,537 @@
+{
+  "id": "module-41",
+  "title": "Theme: House and Furniture",
+  "description": "Vocabulary for describing parts of the house and daily living objects.",
+  "level": "Intermediate",
+  "sentences": [
+    {
+      "id": "41-s1",
+      "spanish": "Mi madre ordena la cocina para los invitados.",
+      "english": "My mother organizes the kitchen for the guests.",
+      "wordMeanings": {
+        "madre": "mother",
+        "ordena": "organizes",
+        "cocina": "kitchen",
+        "invitados": "guests"
+      }
+    },
+    {
+      "id": "41-s2",
+      "spanish": "Yo lavo la cocina todos los sábados.",
+      "english": "I wash the kitchen every Saturday.",
+      "wordMeanings": {
+        "Yo": "I",
+        "cocina": "kitchen",
+        "sábados": "Saturdays",
+        "lavo": "I wash"
+      }
+    },
+    {
+      "id": "41-s3",
+      "spanish": "El señor lava la cocina por la mañana.",
+      "english": "The man washes the kitchen in the morning.",
+      "wordMeanings": {
+        "señor": "man",
+        "lava": "washes",
+        "cocina": "kitchen",
+        "mañana": "morning"
+      }
+    },
+    {
+      "id": "41-s4",
+      "spanish": "Ella repara la cocina con mucho esfuerzo.",
+      "english": "She fixes the kitchen with a lot of effort.",
+      "wordMeanings": {
+        "Ella": "She",
+        "repara": "fixes",
+        "cocina": "kitchen",
+        "esfuerzo": "effort"
+      }
+    },
+    {
+      "id": "41-s5",
+      "spanish": "Mi compañero lava la cocina para los invitados.",
+      "english": "My flatmate washes the kitchen for the guests.",
+      "wordMeanings": {
+        "compañero": "flatmate",
+        "lava": "washes",
+        "cocina": "kitchen",
+        "invitados": "guests"
+      }
+    },
+    {
+      "id": "41-s6",
+      "spanish": "Mi madre repara la cocina con cuidado.",
+      "english": "My mother fixes the kitchen with care.",
+      "wordMeanings": {
+        "madre": "mother",
+        "repara": "fixes",
+        "cocina": "kitchen",
+        "cuidado": "care"
+      }
+    },
+    {
+      "id": "41-s7",
+      "spanish": "El señor repara la cocina todos los sábados.",
+      "english": "The man fixes the kitchen every Saturday.",
+      "wordMeanings": {
+        "señor": "man",
+        "repara": "fixes",
+        "cocina": "kitchen",
+        "sábados": "Saturdays"
+      }
+    },
+    {
+      "id": "41-s8",
+      "spanish": "Ella limpia la cocina por la mañana.",
+      "english": "She cleans the kitchen in the morning.",
+      "wordMeanings": {
+        "Ella": "She",
+        "limpia": "cleans",
+        "cocina": "kitchen",
+        "mañana": "morning"
+      }
+    },
+    {
+      "id": "41-s9",
+      "spanish": "Yo ordeno la cocina todos los sábados.",
+      "english": "I organize the kitchen every Saturday.",
+      "wordMeanings": {
+        "Yo": "I",
+        "cocina": "kitchen",
+        "sábados": "Saturdays",
+        "ordeno": "I organize"
+      }
+    },
+    {
+      "id": "41-s10",
+      "spanish": "Mi madre lava la cocina todos los sábados.",
+      "english": "My mother washes the kitchen every Saturday.",
+      "wordMeanings": {
+        "madre": "mother",
+        "lava": "washes",
+        "cocina": "kitchen",
+        "sábados": "Saturdays"
+      }
+    },
+    {
+      "id": "41-s11",
+      "spanish": "El señor pinta la cocina todos los sábados.",
+      "english": "The man paints the kitchen every Saturday.",
+      "wordMeanings": {
+        "señor": "man",
+        "pinta": "paints",
+        "cocina": "kitchen",
+        "sábados": "Saturdays"
+      }
+    },
+    {
+      "id": "41-s12",
+      "spanish": "Ella limpia la cocina con mucho esfuerzo.",
+      "english": "She cleans the kitchen with a lot of effort.",
+      "wordMeanings": {
+        "Ella": "She",
+        "limpia": "cleans",
+        "cocina": "kitchen",
+        "esfuerzo": "effort"
+      }
+    },
+    {
+      "id": "41-s13",
+      "spanish": "Mi madre repara la cocina para los invitados.",
+      "english": "My mother fixes the kitchen for the guests.",
+      "wordMeanings": {
+        "madre": "mother",
+        "repara": "fixes",
+        "cocina": "kitchen",
+        "invitados": "guests"
+      }
+    },
+    {
+      "id": "41-s14",
+      "spanish": "Mi madre pinta la cocina todos los sábados.",
+      "english": "My mother paints the kitchen every Saturday.",
+      "wordMeanings": {
+        "madre": "mother",
+        "pinta": "paints",
+        "cocina": "kitchen",
+        "sábados": "Saturdays"
+      }
+    },
+    {
+      "id": "41-s15",
+      "spanish": "Mi madre repara la ventana con cuidado.",
+      "english": "My mother fixes the window with care.",
+      "wordMeanings": {
+        "madre": "mother",
+        "repara": "fixes",
+        "ventana": "window",
+        "cuidado": "care"
+      }
+    },
+    {
+      "id": "41-s16",
+      "spanish": "Yo lavo la ventana con mucho esfuerzo.",
+      "english": "I wash the window with a lot of effort.",
+      "wordMeanings": {
+        "Yo": "I",
+        "ventana": "window",
+        "esfuerzo": "effort",
+        "lavo": "I wash"
+      }
+    },
+    {
+      "id": "41-s17",
+      "spanish": "El señor repara la ventana con cuidado.",
+      "english": "The man fixes the window with care.",
+      "wordMeanings": {
+        "señor": "man",
+        "repara": "fixes",
+        "ventana": "window",
+        "cuidado": "care"
+      }
+    },
+    {
+      "id": "41-s18",
+      "spanish": "Ella pinta la ventana para los invitados.",
+      "english": "She paints the window for the guests.",
+      "wordMeanings": {
+        "Ella": "She",
+        "pinta": "paints",
+        "ventana": "window",
+        "invitados": "guests"
+      }
+    },
+    {
+      "id": "41-s19",
+      "spanish": "Mi compañero limpia la ventana con mucho esfuerzo.",
+      "english": "My flatmate cleans the window with a lot of effort.",
+      "wordMeanings": {
+        "compañero": "flatmate",
+        "limpia": "cleans",
+        "ventana": "window",
+        "esfuerzo": "effort"
+      }
+    },
+    {
+      "id": "41-s20",
+      "spanish": "Mi madre limpia la ventana para los invitados.",
+      "english": "My mother cleans the window for the guests.",
+      "wordMeanings": {
+        "madre": "mother",
+        "ventana": "window",
+        "invitados": "guests",
+        "limpia": "cleans"
+      }
+    },
+    {
+      "id": "41-s21",
+      "spanish": "El señor lava la ventana con mucho esfuerzo.",
+      "english": "The man washes the window with a lot of effort.",
+      "wordMeanings": {
+        "señor": "man",
+        "lava": "washes",
+        "ventana": "window",
+        "esfuerzo": "effort"
+      }
+    },
+    {
+      "id": "41-s22",
+      "spanish": "Ella pinta la ventana con cuidado.",
+      "english": "She paints the window with care.",
+      "wordMeanings": {
+        "Ella": "She",
+        "pinta": "paints",
+        "ventana": "window",
+        "cuidado": "care"
+      }
+    },
+    {
+      "id": "41-s23",
+      "spanish": "Mi compañero pinta la ventana con cuidado.",
+      "english": "My flatmate paints the window with care.",
+      "wordMeanings": {
+        "compañero": "flatmate",
+        "pinta": "paints",
+        "ventana": "window",
+        "cuidado": "care"
+      }
+    },
+    {
+      "id": "41-s24",
+      "spanish": "Ella repara la ventana con cuidado.",
+      "english": "She fixes the window with care.",
+      "wordMeanings": {
+        "Ella": "She",
+        "repara": "fixes",
+        "ventana": "window",
+        "cuidado": "care"
+      }
+    },
+    {
+      "id": "41-s25",
+      "spanish": "Yo pinto la ventana con mucho esfuerzo.",
+      "english": "I paint the window with a lot of effort.",
+      "wordMeanings": {
+        "Yo": "I",
+        "ventana": "window",
+        "esfuerzo": "effort",
+        "pinto": "I paint"
+      }
+    },
+    {
+      "id": "41-s26",
+      "spanish": "Mi compañero lava la ventana por la mañana.",
+      "english": "My flatmate washes the window in the morning.",
+      "wordMeanings": {
+        "compañero": "flatmate",
+        "lava": "washes",
+        "ventana": "window",
+        "mañana": "morning"
+      }
+    },
+    {
+      "id": "41-s27",
+      "spanish": "El señor lava el sofá con cuidado.",
+      "english": "The man washes the sofa with care.",
+      "wordMeanings": {
+        "señor": "man",
+        "lava": "washes",
+        "sofá": "sofa",
+        "cuidado": "care"
+      }
+    },
+    {
+      "id": "41-s28",
+      "spanish": "Yo limpio el sofá con mucho esfuerzo.",
+      "english": "I clean the sofa with a lot of effort.",
+      "wordMeanings": {
+        "Yo": "I",
+        "sofá": "sofa",
+        "esfuerzo": "effort",
+        "limpio": "I clean"
+      }
+    },
+    {
+      "id": "41-s29",
+      "spanish": "Mi madre repara el sofá para los invitados.",
+      "english": "My mother fixes the sofa for the guests.",
+      "wordMeanings": {
+        "madre": "mother",
+        "repara": "fixes",
+        "sofá": "sofa",
+        "invitados": "guests"
+      }
+    },
+    {
+      "id": "41-s30",
+      "spanish": "Mi compañero lava el sofá con mucho esfuerzo.",
+      "english": "My flatmate washes the sofa with a lot of effort.",
+      "wordMeanings": {
+        "compañero": "flatmate",
+        "lava": "washes",
+        "sofá": "sofa",
+        "esfuerzo": "effort"
+      }
+    },
+    {
+      "id": "41-s31",
+      "spanish": "El señor lava el sofá por la mañana.",
+      "english": "The man washes the sofa in the morning.",
+      "wordMeanings": {
+        "señor": "man",
+        "lava": "washes",
+        "sofá": "sofa",
+        "mañana": "morning"
+      }
+    },
+    {
+      "id": "41-s32",
+      "spanish": "Yo limpio el sofá con cuidado.",
+      "english": "I clean the sofa with care.",
+      "wordMeanings": {
+        "Yo": "I",
+        "sofá": "sofa",
+        "cuidado": "care",
+        "limpio": "I clean"
+      }
+    },
+    {
+      "id": "41-s33",
+      "spanish": "Ella repara el sofá para los invitados.",
+      "english": "She fixes the sofa for the guests.",
+      "wordMeanings": {
+        "Ella": "She",
+        "repara": "fixes",
+        "sofá": "sofa",
+        "invitados": "guests"
+      }
+    },
+    {
+      "id": "41-s34",
+      "spanish": "Yo lavo el sofá por la mañana.",
+      "english": "I wash the sofa in the morning.",
+      "wordMeanings": {
+        "Yo": "I",
+        "sofá": "sofa",
+        "mañana": "morning",
+        "lavo": "I wash"
+      }
+    },
+    {
+      "id": "41-s35",
+      "spanish": "Mi madre limpia el sofá para los invitados.",
+      "english": "My mother cleans the sofa for the guests.",
+      "wordMeanings": {
+        "madre": "mother",
+        "limpia": "cleans",
+        "sofá": "sofa",
+        "invitados": "guests"
+      }
+    },
+    {
+      "id": "41-s36",
+      "spanish": "El señor limpia el sofá todos los sábados.",
+      "english": "The man cleans the sofa every Saturday.",
+      "wordMeanings": {
+        "señor": "man",
+        "limpia": "cleans",
+        "sofá": "sofa",
+        "sábados": "Saturdays"
+      }
+    },
+    {
+      "id": "41-s37",
+      "spanish": "Mi madre repara el dormitorio por la mañana.",
+      "english": "My mother fixes the bedroom in the morning.",
+      "wordMeanings": {
+        "madre": "mother",
+        "repara": "fixes",
+        "dormitorio": "bedroom",
+        "mañana": "morning"
+      }
+    },
+    {
+      "id": "41-s38",
+      "spanish": "El señor pinta el dormitorio por la mañana.",
+      "english": "The man paints the bedroom in the morning.",
+      "wordMeanings": {
+        "señor": "man",
+        "pinta": "paints",
+        "dormitorio": "bedroom",
+        "mañana": "morning"
+      }
+    },
+    {
+      "id": "41-s39",
+      "spanish": "Yo limpio el dormitorio todos los sábados.",
+      "english": "I clean the bedroom every Saturday.",
+      "wordMeanings": {
+        "Yo": "I",
+        "dormitorio": "bedroom",
+        "sábados": "Saturdays",
+        "limpio": "I clean"
+      }
+    },
+    {
+      "id": "41-s40",
+      "spanish": "Mi compañero limpia el dormitorio para los invitados.",
+      "english": "My flatmate cleans the bedroom for the guests.",
+      "wordMeanings": {
+        "compañero": "flatmate",
+        "limpia": "cleans",
+        "dormitorio": "bedroom",
+        "invitados": "guests"
+      }
+    },
+    {
+      "id": "41-s41",
+      "spanish": "Mi madre pinta el dormitorio con cuidado.",
+      "english": "My mother paints the bedroom with care.",
+      "wordMeanings": {
+        "madre": "mother",
+        "pinta": "paints",
+        "dormitorio": "bedroom",
+        "cuidado": "care"
+      }
+    },
+    {
+      "id": "41-s42",
+      "spanish": "Mi compañero repara el dormitorio por la mañana.",
+      "english": "My flatmate fixes the bedroom in the morning.",
+      "wordMeanings": {
+        "compañero": "flatmate",
+        "repara": "fixes",
+        "dormitorio": "bedroom",
+        "mañana": "morning"
+      }
+    },
+    {
+      "id": "41-s43",
+      "spanish": "Ella pinta el baño con cuidado.",
+      "english": "She paints the bathroom with care.",
+      "wordMeanings": {
+        "Ella": "She",
+        "pinta": "paints",
+        "baño": "bathroom",
+        "cuidado": "care"
+      }
+    },
+    {
+      "id": "41-s44",
+      "spanish": "Yo reparo el baño con cuidado.",
+      "english": "I fix the bathroom with care.",
+      "wordMeanings": {
+        "Yo": "I",
+        "baño": "bathroom",
+        "cuidado": "care",
+        "reparo": "I fix"
+      }
+    },
+    {
+      "id": "41-s45",
+      "spanish": "Yo reparo el baño por la mañana.",
+      "english": "I fix the bathroom in the morning.",
+      "wordMeanings": {
+        "Yo": "I",
+        "baño": "bathroom",
+        "mañana": "morning",
+        "reparo": "I fix"
+      }
+    },
+    {
+      "id": "41-s-colloq1",
+      "spanish": "Voy a darle un repaso a la casa.",
+      "english": "I'm going to give the house a quick clean.",
+      "wordMeanings": {
+        "Voy": "I am going",
+        "a": "to",
+        "darle": "give it",
+        "un": "a",
+        "repaso": "quick clean / review",
+        "a la": "to the",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "41-s-colloq2",
+      "spanish": "¿Me echas una mano con la limpieza?",
+      "english": "Can you lend me a hand with the cleaning?",
+      "wordMeanings": {
+        "Me": "to me",
+        "echas": "you throw (lend)",
+        "una": "a",
+        "mano": "hand",
+        "con": "with",
+        "la": "the",
+        "limpieza": "cleaning"
+      }
+    }
+  ],
+  "vocabulary": {
+    "ventana": {
+      "mnemonic": "Vent (ventana) the room by opening the window.",
+      "explanation": "Means 'window'."
+    }
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "id": "module-ser-vs-estar-3",
+  "title": "Grammar: Ser vs. Estar III",
+  "description": "Ser/estar practice for time, events, and mixed review.",
+  "level": "Beginner",
+  "specialPractice": "ser-estar-rules",
+  "sentences": [],
+  "grammarExplanation": "This short special module builds ser vs. estar a few rules at a time. In each rule phase, choose the right form in the blank first. The audio reads the sentence up to the blank, then reads the correct continuation after you choose. Missed choices come back before the phase is over. After each set, translate five mixed-up sentences from English to Spanish.",
+  "rules": [
+    {
+      "id": "time-events",
+      "name": "Ser: time, dates, and events",
+      "explanation": "Use ser for time and dates. Also use ser for where events take place, even though normal location uses estar.",
+      "examples": [
+        {
+          "prompt": "Hoy",
+          "correct": "es",
+          "continuation": "lunes.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Days and dates use ser."
+        },
+        {
+          "prompt": "La reunión",
+          "correct": "es",
+          "continuation": "a las tres.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Event time uses ser."
+        },
+        {
+          "prompt": "La fiesta",
+          "correct": "es",
+          "continuation": "en mi casa.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Events use ser for location."
+        },
+        {
+          "prompt": "El concierto",
+          "correct": "es",
+          "continuation": "en el parque.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Event location uses ser."
+        },
+        {
+          "prompt": "Ahora",
+          "correct": "son",
+          "continuation": "las ocho.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "Clock time uses ser: son las ocho."
+        },
+        {
+          "prompt": "Mañana",
+          "correct": "es",
+          "continuation": "mi cumpleaños.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Dates and calendar facts use ser."
+        },
+        {
+          "prompt": "La clase",
+          "correct": "es",
+          "continuation": "en la sala diez.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "A class as a scheduled event uses ser for location."
+        },
+        {
+          "prompt": "El examen",
+          "correct": "es",
+          "continuation": "el viernes.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Event date uses ser."
+        },
+        {
+          "prompt": "La boda",
+          "correct": "es",
+          "continuation": "en julio.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Event date/month uses ser."
+        },
+        {
+          "prompt": "La entrevista",
+          "correct": "es",
+          "continuation": "por la mañana.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Event time uses ser."
+        }
+      ],
+      "translations": [
+        {
+          "english": "The concert is in the park.",
+          "spanish": "El concierto es en el parque.",
+          "reason": "Event location uses ser."
+        },
+        {
+          "english": "The exam is on Friday.",
+          "spanish": "El examen es el viernes.",
+          "reason": "Event date uses ser."
+        },
+        {
+          "english": "Today is Monday.",
+          "spanish": "Hoy es lunes.",
+          "reason": "Days use ser."
+        },
+        {
+          "english": "The meeting is at three.",
+          "spanish": "La reunión es a las tres.",
+          "reason": "Event time uses ser."
+        },
+        {
+          "english": "The class is in room ten.",
+          "spanish": "La clase es en la sala diez.",
+          "reason": "A scheduled class uses ser for event location."
+        }
+      ]
+    },
+    {
+      "id": "mixed-review",
+      "name": "Mixed review: clear cues",
+      "explanation": "Now mix the rules. Use ser for identity, origin, traits, ownership, time, and events. Use estar for location, current states, emotions, and ongoing actions.",
+      "examples": [
+        {
+          "prompt": "La clase",
+          "correct": "es",
+          "continuation": "a las ocho.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "A scheduled class time uses ser."
+        },
+        {
+          "prompt": "La profesora",
+          "correct": "está",
+          "continuation": "en la sala diez.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "A person's location uses estar."
+        },
+        {
+          "prompt": "El libro",
+          "correct": "es",
+          "continuation": "de Ana.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Ownership with de uses ser."
+        },
+        {
+          "prompt": "El libro",
+          "correct": "está",
+          "continuation": "en la mesa.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Object location uses estar."
+        },
+        {
+          "prompt": "Mis amigos",
+          "correct": "son",
+          "continuation": "de Madrid.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "Origin uses ser."
+        },
+        {
+          "prompt": "Mis amigos",
+          "correct": "están",
+          "continuation": "en Madrid.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "Location uses estar."
+        },
+        {
+          "prompt": "La profesora",
+          "correct": "es",
+          "continuation": "de México.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Origin uses ser."
+        },
+        {
+          "prompt": "La profesora",
+          "correct": "está",
+          "continuation": "enseñando español.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "An action happening now uses estar."
+        },
+        {
+          "prompt": "La reunión",
+          "correct": "es",
+          "continuation": "el viernes.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Event date uses ser."
+        },
+        {
+          "prompt": "Nosotros",
+          "correct": "estamos",
+          "continuation": "en casa.",
+          "options": [
+            "somos",
+            "estamos"
+          ],
+          "reason": "Location uses estar."
+        }
+      ],
+      "translations": [
+        {
+          "english": "The book is Ana's.",
+          "spanish": "El libro es de Ana.",
+          "reason": "Ownership uses ser."
+        },
+        {
+          "english": "The book is on the table.",
+          "spanish": "El libro está en la mesa.",
+          "reason": "Location uses estar."
+        },
+        {
+          "english": "My friends are from Madrid.",
+          "spanish": "Mis amigos son de Madrid.",
+          "reason": "Origin uses ser."
+        },
+        {
+          "english": "My friends are in Madrid.",
+          "spanish": "Mis amigos están en Madrid.",
+          "reason": "Location uses estar."
+        },
+        {
+          "english": "The teacher is teaching Spanish.",
+          "spanish": "La profesora está enseñando español.",
+          "reason": "Action in progress uses estar."
+        }
+      ]
+    }
+  ],
+  "vocabulary": {
+    "ser": {
+      "mnemonic": "Ser says what it is.",
+      "explanation": "Identity, origin, traits, time, relationships, ownership, and events."
+    },
+    "estar": {
+      "mnemonic": "Estar says where or how it stands now.",
+      "explanation": "Location, position, current state, emotions, and actions in progress."
+    }
+  }
+}

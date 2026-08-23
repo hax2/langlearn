@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "trackId": "marti-nene-traviesa",
+  "sourceHash": "6a280264a88d205335ed376731863638dc0e1b785a33b509661b3621f29a5f27",
+  "provider": "ollama/translategemma:4b",
+  "sourceLanguage": "es",
+  "targetLanguage": "en",
+  "translatedAt": "2026-08-15T08:10:32.021865+00:00",
+  "characters": 9099,
+  "blocks": [
+    {
+      "source": "Nene traviesa, José Martí. ¿Quién sabe si hay una niña que se parezca a Nene? Un viejito que sabe mucho dice que todas las niñas son como Nene. A Nene le gusta más jugar a mamá, o a tiendas, o a hacer dulces con sus muñecas, que dar una lección de treses y de cuatroes con la maestra que le viene a enseñar.",
+      "translation": "Nene, the mischievous child, José Martí. Who knows if there's a little girl who resembles Nene? An old man who knows a lot says that all little girls are like Nene. Nene prefers to play \"Mommy,\" or \"shop,\" or to make sweets with her dolls, rather than learning three and four from her teacher."
+    },
+    {
+      "source": "Porque Nene no tiene mamá, su mamá se ha muerto y por eso tiene Nene maestra. A hacer dulces es a lo que le gusta más a Nene jugar. ¿Y por qué será? ¿Quién sabe?",
+      "translation": "Because Nene doesn't have a mother, her mother has passed away, and that's why Nene has a teacher. Nene enjoys playing the most, especially making sweets. But why? Who knows?"
+    },
+    {
+      "source": "Será porque para jugar dulces le dan azúcar de veras. Por cierto que los dulces nunca le salen bien de la primera vez. Son unos dulces más difíciles, siempre tiene que pedir azúcar dos veces y se conoce que Nene no quiere dar trabajo a sus amigas, porque cuando juega a paseo o a comprar o a visitar a sus amiguitas. Pero cuando va a hacer dulces, nunca.",
+      "translation": "Perhaps it's because they give her real sugar to use when making sweets. However, sweets never turn out perfectly the first time. They are more complicated, and she always has to ask for sugar twice. Also, she knows that Nene doesn't want to give her friends work, because when she plays \"going for a walk\" or \"shopping\" or \"visiting her friends,\" she doesn't. But when she's making sweets, she never does."
+    },
+    {
+      "source": "Y una vez le sucedió a Nene una cosa muy rara. Le pidió a su papá dos centavos para comprar un lápiz nuevo y se le olvidó en el camino. Se le olvidó como si no hubiera pensado nunca en comprar el lápiz. Lo que compró fue un merengue de fresa.",
+      "translation": "And one day, Nene experienced something very strange. He asked his father for two cents to buy a new pencil, but he forgot it on the way. He seemed to have completely forgotten about buying the pencil. Instead, he bought a strawberry meringue."
+    },
+    {
+      "source": "Eso se supo, por supuesto, y desde entonces sus amiguitas no le dicen Nene, sino merengue de fresa. El padre de Nene la quería mucho. Dicen que no trabajaba bien cuando no había visto por la mañana a la hijita. Él no le decía Nene, sino la hijita.",
+      "translation": "That was, of course, discovered, and since then, her friends no longer call her \"Nene,\" but \"strawberry meringue.\" Nene's father loved her very much. People say that he wasn't very productive if he hadn't seen his daughter in the morning. He didn't call her \"Nene,\" but \"daughter.\""
+    },
+    {
+      "source": "Cuando su papá venía del trabajo, siempre salía a ella a recibirlo con los brazos abiertos, como un pajarito que abre las alas para volar. Y su papá la alzaba del suelo, como quien coge de un rosal una rosa. Ella lo miraba con mucho cariño, como si le preguntase cosas y él la miraba con los ojos tristes, como si quisiese echarse a llorar. Pero enseguida se ponía contento, se montaba a Nene en el hombro y entraban juntos en la casa, cantando el himno nacional.",
+      "translation": "When her father came home from work, she would always run to meet him with open arms, like a little bird spreading its wings to fly. And her father would lift her up from the ground, like someone picking a rose from a bush. She would look at him with so much affection, as if she were asking him questions, and he would look at her with sad eyes, as if he wanted to cry. But he would quickly cheer up, he would put Nene on his shoulder, and they would walk into the house together, singing the national anthem."
+    },
+    {
+      "source": "Siempre traía el papá de Nene algún libro nuevo y se lo dejaba ver cuando tenía figuras. Y a ella le gustaban mucho unos libros que él traía, donde estaban pintadas las estrellas, que tiene cada una su nombre y su color, y allí decía el nombre de la estrella colorada, y el de la amarilla, y el de la azul, y que la luz tiene siete colores, y que las estrellas pasean por el cielo, lo mismo que las niñas por un jardín. Pero no, lo mismo no, porque las niñas andan en los jardines de aquí para allá, como una hoja de flor que va empujando el viento, mientras que las estrellas van siempre en el cielo por un mismo camino, y no por donde quieren, ¿quién sabe? Puede que están acá en la tierra las niñas.",
+      "translation": "Papa always brought Nene a new book and would let her look at it when she had her figurines. She also really liked some of the books he brought, which featured painted stars, with each star having its own name and color. The books would also mention the names of the red, yellow, and blue stars, and that light has seven colors, and that the stars move across the sky, just like children move through a garden. But no, it's not the same, because children move around in gardens, like a flower petal being blown by the wind, while the stars always move across the sky in the same direction, and not where they want. Who knows? Maybe the children are here on Earth."
+    },
+    {
+      "source": "Sólo que las estrellas no son niñas, por supuesto, ni flores de luz, como parece de aquí abajo, sino grandes como este mundo, y dicen que en las estrellas hay árboles, y agua, y gente como acá. Y su papá dice que en un libro hablan de que uno se va a vivir a una estrella cuando se muere, y dime papá, le preguntó Nene, ¿por qué ponen las casas de los muertos tan tristes? Si yo me muero, yo no quiero ver a nadie llorar, sino que me toquen la música, porque me voy a ir a vivir en la estrella azul. ¿Pero sola, tú sola, sin tu pobre papá?",
+      "translation": "\"But the stars aren't girls, of course, or light flowers, as it seems from down here, but huge, like this world, and they say there are trees and water, and people just like us on the stars. And my dad says that in a book, they talk about going to live on a star when you die, and I asked him, 'Dad, why do they make the houses for the dead so sad? If I die, I don't want anyone to cry, I want them to play my music, because I'm going to live on the blue star. But alone, just you and me, without my poor dad?'\""
+    },
+    {
+      "source": "Y Nene le dijo a su papá. Malo que crees eso. Esa noche no se quiso ir a dormir temprano, sino que se durmió en los brazos de su papá. Los papás se quedan muy tristes cuando se muere en la casa la madre.",
+      "translation": "And Nene told his father, \"I don't believe that. That night, he didn't want to go to sleep early, but instead, he fell asleep in his father's arms. The parents are very sad when their mother dies at home."
+    },
+    {
+      "source": "Las niñitas deben querer mucho, mucho a los papás cuando se les muere la madre. Esa noche que hablaron de las estrellas trajo el papá de Nene un libro muy grande. ¡Oh, cómo pesaba el libro! Nene lo quiso cargar y se cayó con el libro encima, no se le veía más que la cabecita rubia de un lado y los zapaticos negros de otro.",
+      "translation": "The little girls must have loved their fathers very much when their mother died. That night, when they talked about the stars, Nene's father brought a very large book. \"Oh, how heavy the book was!\" Nene wanted to carry it, but he fell, and the book fell on top of him, so all that was visible was his blonde head on one side and his black shoes on the other."
+    },
+    {
+      "source": "Su padre vino corriendo y la sacó de debajo del libro y se rió mucho de Nene, que no tenía seis años todavía y quería cargar un libro de cien años. Cien años tenía el libro y no le habían salido barbas. Nene había visto un viejito de cien años, pero el viejito tenía una barba muy larga que le daba por la cintura. Y lo que dice la muestra de escribir, que los libros buenos son como los viejos.",
+      "translation": "His father rushed over and pulled her away from under the book, and he laughed a lot at Nene, who was only six years old and wanted to carry a hundred-year-old book. The book was actually a hundred years old, and it didn't have any gray hair. Nene had seen an old man who was a hundred years old, but this old man had very long hair that reached his waist. And the sample says that good books are like old books."
+    },
+    {
+      "source": "Un libro bueno es lo mismo que un amigo viejo. Eso dice la muestra de escribir. Nene se acostó muy callada, pensando en el libro. ¿Qué libro era aquel que su papá no quiso que ella lo tocase?",
+      "translation": "A good book is like an old friend. That's what the writer was thinking. Little Sean went to bed very quietly, thinking about the book. What book was the one his father didn't want him to touch?"
+    },
+    {
+      "source": "Cuando se despertó, en eso no más pensaba Nene. Ella quiere saber qué libro es aquel. Ella quiere saber cómo está hecho por dentro un libro de cien años que no tiene barbas. Su papá está lejos, lejos de la casa, trabajando para ella, para que la niña tenga casa linda y coma dulces finos los domingos para comprarle a la niña vestiditos blancos y cintas azules para guardar un poco de dinero, no vaya a ser que se muera el papá y se quede sin nada en el mundo la hijita.",
+      "translation": "When she woke up, all she could think about was the book. She wanted to know what it was. She wanted to know how a hundred-year-old book, without illustrations, was made. Her father was far away, working for her, so that she would have a nice home and eat delicious sweets on Sundays, so that she could buy her white dresses and blue ribbons, and save some money, just in case her father died and she would have nothing left in the world."
+    },
+    {
+      "source": "Lejos de la casa está el pobre papá, trabajando para la hijita. La criada está allá adentro, preparando el baño. Nadie oye a Nene, no la está viendo nadie. Su papá deja siempre abierto el cuarto de los libros.",
+      "translation": "Far from the house, her poor father is working for his daughter. The maid is inside, preparing the bathroom. No one hears Nene, and no one sees her. Her father always leaves the library open."
+    },
+    {
+      "source": "Allí está la sillita de Nene, que se sienta de noche en la mesa de escribir a ver trabajar a su papá. Cinco pasitos, seis, siete. Ya está Nene en la puerta, ya la empujó, ya entró. Las cosas que suceden.",
+      "translation": "There, in the corner, is Nene's little chair, where he sits at night to watch his father working at his desk. Five steps, six, seven. Nene is now at the door, he's pushed it open, and he's inside. Just the way things happen."
+    },
+    {
+      "source": "Como si la estuviera esperando estaba abierto en su silla el libro viejo, abierto de medio a medio. Pasito a pasito se le acercó Nene, muy seria y como cuando uno piensa mucho que camina con las manos a la espalda. Por nada en el mundo hubiera tocado Nene el libro. Verlo no más, no más que verlo.",
+      "translation": "As if she was waiting for him, the old book lay open on her chair, split right down the middle. Nene approached slowly, very serious, just as one might expect someone who is deep in thought to move, with their hands at their back. Nene would never have touched the book. She would only have looked at it."
+    },
+    {
+      "source": "Su papá le dijo que no lo tocase. El libro no tiene barbas, le salen muchas cintas y marcas por entre las hojas, pero esas no son barbas. El que sí es barbudo es el gigante que está pintado en el libro, y es de colores la pintura, unos colores de esmalte que lucen como el brazalete que le regaló su papá. Ahora no pintan los libros así.",
+      "translation": "His father told him not to touch it. The book doesn't have beards; it has many strips and markings between the pages, but those aren't beards. The only one with a beard is the giant depicted in the book, and the paint is brightly colored, like the enamel-like paint that resembles the bracelet his father gave him. Nowadays, books aren't painted like that."
+    },
+    {
+      "source": "El gigante está sentado en el pico de un monte, con una cosa revuelta, como las nubes del cielo encima de la cabeza. No tiene más que un ojo, encima de la nariz, está vestido con un blusón, como los pastores, un blusón verde, lo mismo que el campo, con estrellas pintadas, de plata y de oro, y la barba es muy larga, muy larga, que llega al pie del monte, y por cada mechón de la barba va subiendo un hombre, como sube la cuerda para ir al trapecio el hombre del circo. Oh, eso no se puede ver de lejos. Nene tiene que bajar el libro de la silla.",
+      "translation": "The giant is sitting on top of a mountain, with a swirling mass of clouds above his head. He only has one eye, located on his nose, and he is wearing a shepherd's tunic, a green one, just like the field, with silver and gold stars painted on it. His beard is very long, very long, reaching the foot of the mountain, and for each strand of his beard, a man is climbing up, just like the rope used by a circus performer to swing. Oh, you can't see that from far away. The boy needs to take the book off the chair."
+    },
+    {
+      "source": "¿Cómo pesa este pícaro libro? Ahora sí que se puede ver bien todo, ya está el libro en el suelo. Son cinco los hombres que suben. Uno es un blanco, con casaca y con botas, y de barba también.",
+      "translation": "How much does this cunning book weigh? Now, everything can be seen clearly, as the book is on the ground. There are five men climbing up. One of them is a white man, wearing a jacket and boots, and with a beard."
+    },
+    {
+      "source": "Le gustan mucho a este pintor las barbas. Otro es como indio, sí, como indio, con una corona de plumas, y la flecha a la espalda. El otro es chino, lo mismo que el cocinero, pero va con un traje como de señora, todo lleno de flores. El otro se parece al chino y lleva un sombrero de pico, así como una pera.",
+      "translation": "He really likes beards on these painters. One is like an Indian, yes, like an Indian, with a headdress of feathers, and a bow and arrow on his back. Another is Chinese, just like the cook, but he wears a dress, full of flowers. The other one looks like the Chinese man and wears a peaked cap, along with a pear."
+    },
+    {
+      "source": "El otro es negro, un negro muy bonito, pero está sin vestir. Eso no está bien, sin vestir. Por eso no quería su papá que ella tocase el libro. No, esa hoja no se ve más, para que no se enoje su papá.",
+      "translation": "The other one is black, a very handsome black boy, but he's not wearing anything. That's not right; he needs to be dressed. That's why his father didn't want her to touch the book. No, he didn't want her to touch that page, so he wouldn't get upset."
+    },
+    {
+      "source": "Muy bonito que es este libro viejo, y Nene está ya casi acostada sobre el libro y como si quisiera hablarle con los ojos. Por poco se rompe la hoja, pero no, no se rompió. Hasta la edad no más se rompió. El papá de Nene no ve bien.",
+      "translation": "This old book is so beautiful, and Nene is already lying down on it, as if she wants to talk to it with her eyes. Just barely, the page was about to tear, but thankfully, it didn't. It only tore when she got older. Nene's father has poor eyesight."
+    },
+    {
+      "source": "Eso no lo va a ver nadie. Ahora sí que está bueno el libro este. Es mejor, mucho mejor que el arca de Noé. Aquí están pintados todos los animales del mundo.",
+      "translation": "No one will ever see that. This book is actually really good. It's much better than the Ark of the Covenant. Here, all the animals from around the world are depicted."
+    },
+    {
+      "source": "Y con colores como el gigante. Sí, esta es, esta es la jirafa, comiéndose la luna. Este es el elefante, el elefante con ese sillón lleno de niñitos. Oh, los perros, cómo corre, cómo corre este perro.",
+      "translation": "And with colors like a giant. Yes, this is, this is the giraffe, eating the moon. This is the elephant, the elephant with that chair full of children. Oh, the dogs, how they run, how fast this dog runs."
+    },
+    {
+      "source": "Ven acá, perro. Te voy a pegar, perro, porque no quieres venir. Y Nene, por supuesto, arranca la hoja. ¿Y qué ve mi señora Nene?",
+      "translation": "Come here, dog. I'm going to hit you, dog, because you won't come. And Nene, of course, pull the leaf. What does my wife, Nene, see?"
+    },
+    {
+      "source": "Un mundo de monos es la otra pintura. Las dos hojas del libro están llenas de monos. Un mono colorado juega con un monito verde. Un monazo de barba le muerde la cola a un mono tremendo que anda como un hombre con un palo en la mano.",
+      "translation": "The other painting depicts a world of monkeys. Both pages of the book are filled with monkeys. A red monkey plays with a green monkey. A monkey with a beard bites the tail of a large monkey who walks around like a man with a stick in his hand."
+    },
+    {
+      "source": "Un mono negro está jugando en la hierba con otro amarillo. Aquellos, aquellos de los árboles son los monos niños. Qué graciosos, cómo juegan. Se mecen por la cola, como el columpio.",
+      "translation": "A black monkey is playing in the grass with another yellow one. The ones in the trees are the young monkeys. They are so cute, and the way they play is adorable. They sway their tails back and forth, like on a swing."
+    },
+    {
+      "source": "Qué bien, qué bien saltan. Uno, dos, tres, cinco, ocho, dieciséis, cuarenta y nueve monos agarrados por la cola. Se van a tirar al río, se van a tirar al río. Vist, hallaban todos.",
+      "translation": "\"How wonderful, how gracefully they jump! One, two, three, five, eight, sixteen, ninety-nine monkeys, all holding on by their tails. They're going to jump into the river, they're going to jump into the river. Everyone is watching.\""
+    },
+    {
+      "source": "Y Nene, entusiasmada, arranca el libro las dos hojas. ¿Quién llama a Nene? ¿Quién la llama? Su papá, su papá, que está mirándola desde la puerta.",
+      "translation": "And Nene, excited, pulls the book open, revealing both pages. Who is calling Nene? Who is calling her? Her dad, her dad, who is looking at her from the doorway."
+    },
+    {
+      "source": "Nene no ve, Nene no oye. Le parece que su papá crece, que crece mucho, que llega hasta el techo, que es más grande que el gigante del monte, que su papá es un monte que se le viene encima. Está callada, callada, con la cabeza baja, con los ojos cerrados, con las hojas rotas en las manos caídas. Y su papá le está hablando.",
+      "translation": "Nene can't see, Nene can't hear. He thinks his father is growing, growing a lot, reaching the ceiling, bigger than the giant in the mountain, his father is a mountain coming to meet him. She is silent, quiet, with her head down, eyes closed, with broken leaves in her hands. And her father is talking to her."
+    },
+    {
+      "source": "Nene, ¿no te dije que no tocaras ese libro? Nene, ¿tú no sabes que ese libro no es mío y que vale mucho dinero, mucho? Nene, ¿tú no sabes que para pagar ese libro voy a tener que trabajar un año? Nene, blanca como el papel, se alzó del suelo con la cabecita caída y se abrazó a las rodillas de su papá.",
+      "translation": "Baby, didn't I tell you not to touch that book? Baby, don't you know that this book doesn't belong to me and it's worth a lot of money? Baby, don't you know that I'll have to work for a year to pay for that book? Baby, white as paper, she got up from the floor with her head down and hugged her father's legs."
+    },
+    {
+      "source": "Mi papá, dijo Nene, mi papá de mi corazón. Enojé a mi papá bueno. Soy mala niña. Ya no voy a poder ir cuando me muera la estrella azul.",
+      "translation": "\"My dad,\" Nene said, \"my dad, the one I love.\" I was angry at my good dad. I'm a bad girl. I won't be able to go anymore when the blue star dies."
+    }
+  ]
+}

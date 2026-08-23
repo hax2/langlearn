@@ -1,0 +1,622 @@
+{
+  "id": "module-6",
+  "title": "Chapter 6: Regular -ER/-IR Verbs",
+  "description": "Action verbs like eating, drinking, living, and opening.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "m6-s1",
+      "spanish": "Yo como pan.",
+      "english": "I eat bread.",
+      "wordMeanings": {
+        "Yo": "I",
+        "como": "I eat / like / as",
+        "pan": "bread"
+      }
+    },
+    {
+      "id": "m6-s2",
+      "spanish": "Tú comes pan.",
+      "english": "You eat bread.",
+      "wordMeanings": {
+        "Tú": "you",
+        "comes": "you eat",
+        "pan": "bread"
+      }
+    },
+    {
+      "id": "m6-s3",
+      "spanish": "Él come pan.",
+      "english": "He eats bread.",
+      "wordMeanings": {
+        "Él": "he",
+        "come": "eats",
+        "pan": "bread"
+      }
+    },
+    {
+      "id": "m6-s4",
+      "spanish": "Ella come sopa.",
+      "english": "She eats soup.",
+      "wordMeanings": {
+        "Ella": "she / her",
+        "come": "eats",
+        "sopa": "soup"
+      }
+    },
+    {
+      "id": "m6-s5",
+      "spanish": "Nosotros comemos en casa.",
+      "english": "We eat at home.",
+      "wordMeanings": {
+        "Nosotros": "we",
+        "comemos": "we eat",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m6-s6",
+      "spanish": "Yo bebo agua.",
+      "english": "I drink water.",
+      "wordMeanings": {
+        "Yo": "I",
+        "bebo": "I drink",
+        "agua": "water"
+      }
+    },
+    {
+      "id": "m6-s7",
+      "spanish": "Tú bebes café.",
+      "english": "You drink coffee.",
+      "wordMeanings": {
+        "Tú": "you",
+        "bebes": "you drink",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m6-s8",
+      "spanish": "Él bebe agua.",
+      "english": "He drinks water.",
+      "wordMeanings": {
+        "Él": "he",
+        "bebe": "drinks",
+        "agua": "water"
+      }
+    },
+    {
+      "id": "m6-s9",
+      "spanish": "Ella bebe té.",
+      "english": "She drinks tea.",
+      "wordMeanings": {
+        "Ella": "she / her",
+        "bebe": "drinks",
+        "té": "tea"
+      }
+    },
+    {
+      "id": "m6-s10",
+      "spanish": "Nosotros bebemos agua.",
+      "english": "We drink water.",
+      "wordMeanings": {
+        "Nosotros": "we",
+        "bebemos": "we drink",
+        "agua": "water"
+      }
+    },
+    {
+      "id": "m6-s11",
+      "spanish": "Yo vivo aquí.",
+      "english": "I live here.",
+      "wordMeanings": {
+        "Yo": "I",
+        "vivo": "I live",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m6-s12",
+      "spanish": "Tú vives allí.",
+      "english": "You live there.",
+      "wordMeanings": {
+        "Tú": "you",
+        "vives": "you live",
+        "allí": "there"
+      }
+    },
+    {
+      "id": "m6-s13",
+      "spanish": "Él vive en el centro.",
+      "english": "He lives downtown.",
+      "wordMeanings": {
+        "Él": "he",
+        "vive": "lives",
+        "en": "in / on",
+        "el": "the",
+        "centro": "downtown"
+      }
+    },
+    {
+      "id": "m6-s14",
+      "spanish": "Ella vive cerca.",
+      "english": "She lives nearby.",
+      "wordMeanings": {
+        "Ella": "she / her",
+        "vive": "lives",
+        "cerca": "near"
+      }
+    },
+    {
+      "id": "m6-s15",
+      "spanish": "Nosotros vivimos en la ciudad.",
+      "english": "We live in the city.",
+      "wordMeanings": {
+        "Nosotros": "we",
+        "vivimos": "we live",
+        "en": "in / on",
+        "la": "the / it (fem)",
+        "ciudad": "city"
+      }
+    },
+    {
+      "id": "m6-s16",
+      "spanish": "Yo abro la puerta.",
+      "english": "I open the door.",
+      "wordMeanings": {
+        "Yo": "I",
+        "abro": "I open",
+        "la": "the / it (fem)",
+        "puerta": "door"
+      }
+    },
+    {
+      "id": "m6-s17",
+      "spanish": "Tú abres el libro.",
+      "english": "You open the book.",
+      "wordMeanings": {
+        "Tú": "you",
+        "abres": "you open",
+        "el": "the",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "m6-s18",
+      "spanish": "Él abre la puerta.",
+      "english": "He opens the door.",
+      "wordMeanings": {
+        "Él": "he",
+        "abre": "opens",
+        "la": "the / it (fem)",
+        "puerta": "door"
+      }
+    },
+    {
+      "id": "m6-s19",
+      "spanish": "Ella abre la ventana.",
+      "english": "She opens the window.",
+      "wordMeanings": {
+        "Ella": "she / her",
+        "abre": "opens",
+        "la": "the / it (fem)",
+        "ventana": "window"
+      }
+    },
+    {
+      "id": "m6-s20",
+      "spanish": "Yo escribo un mensaje.",
+      "english": "I write a message.",
+      "wordMeanings": {
+        "Yo": "I",
+        "escribo": "I write",
+        "un": "a",
+        "mensaje": "message"
+      }
+    },
+    {
+      "id": "m6-s21",
+      "spanish": "Tú escribes una carta.",
+      "english": "You write a letter.",
+      "wordMeanings": {
+        "Tú": "you",
+        "escribes": "you write",
+        "una": "a (fem)",
+        "carta": "letter"
+      }
+    },
+    {
+      "id": "m6-s22",
+      "spanish": "Él escribe un mensaje.",
+      "english": "He writes a message.",
+      "wordMeanings": {
+        "Él": "he",
+        "escribe": "writes",
+        "un": "a",
+        "mensaje": "message"
+      }
+    },
+    {
+      "id": "m6-s23",
+      "spanish": "Ella escribe una carta.",
+      "english": "She writes a letter.",
+      "wordMeanings": {
+        "Ella": "she / her",
+        "escribe": "writes",
+        "una": "a (fem)",
+        "carta": "letter"
+      }
+    },
+    {
+      "id": "m6-s24",
+      "spanish": "Nosotros escribimos mensajes.",
+      "english": "We write messages.",
+      "wordMeanings": {
+        "Nosotros": "we",
+        "escribimos": "we write",
+        "mensajes": "messages"
+      }
+    },
+    {
+      "id": "m6-s25",
+      "spanish": "Yo recibo un mensaje.",
+      "english": "I receive a message.",
+      "wordMeanings": {
+        "Yo": "I",
+        "recibo": "I receive",
+        "un": "a",
+        "mensaje": "message"
+      }
+    },
+    {
+      "id": "m6-s26",
+      "spanish": "Tú recibes una carta.",
+      "english": "You receive a letter.",
+      "wordMeanings": {
+        "Tú": "you",
+        "recibes": "you receive",
+        "una": "a (fem)",
+        "carta": "letter"
+      }
+    },
+    {
+      "id": "m6-s27",
+      "spanish": "Él recibe un libro.",
+      "english": "He receives a book.",
+      "wordMeanings": {
+        "Él": "he",
+        "recibe": "receives",
+        "un": "a",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "m6-s28",
+      "spanish": "Ella recibe una carta.",
+      "english": "She receives a letter.",
+      "wordMeanings": {
+        "Ella": "she / her",
+        "recibe": "receives",
+        "una": "a (fem)",
+        "carta": "letter"
+      }
+    },
+    {
+      "id": "m6-s29",
+      "spanish": "Nosotros recibimos mensajes.",
+      "english": "We receive messages.",
+      "wordMeanings": {
+        "Nosotros": "we",
+        "recibimos": "we receive",
+        "mensajes": "messages"
+      }
+    },
+    {
+      "id": "m6-s30",
+      "spanish": "Yo aprendo español.",
+      "english": "I learn Spanish.",
+      "wordMeanings": {
+        "Yo": "I",
+        "aprendo": "I learn",
+        "español": "Spanish"
+      }
+    },
+    {
+      "id": "m6-s31",
+      "spanish": "Tú aprendes español.",
+      "english": "You learn Spanish.",
+      "wordMeanings": {
+        "Tú": "you",
+        "aprendes": "you learn",
+        "español": "Spanish"
+      }
+    },
+    {
+      "id": "m6-s32",
+      "spanish": "Él aprende rápido.",
+      "english": "He learns quickly.",
+      "wordMeanings": {
+        "Él": "he",
+        "aprende": "learns",
+        "rápido": "fast / quickly"
+      }
+    },
+    {
+      "id": "m6-s33",
+      "spanish": "Ella aprende despacio.",
+      "english": "She learns slowly.",
+      "wordMeanings": {
+        "Ella": "she / her",
+        "aprende": "learns",
+        "despacio": "slowly"
+      }
+    },
+    {
+      "id": "m6-s34",
+      "spanish": "Aprendo cada día.",
+      "english": "I learn every day.",
+      "wordMeanings": {
+        "Aprendo": "I learn",
+        "cada": "each",
+        "día": "day"
+      }
+    },
+    {
+      "id": "m6-s35",
+      "spanish": "Yo vendo un libro.",
+      "english": "I sell a book.",
+      "wordMeanings": {
+        "Yo": "I",
+        "vendo": "I sell",
+        "un": "a",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "m6-s36",
+      "spanish": "Tú vendes el coche.",
+      "english": "You sell the car.",
+      "wordMeanings": {
+        "Tú": "you",
+        "vendes": "you sell",
+        "el": "the",
+        "coche": "car"
+      }
+    },
+    {
+      "id": "m6-s37",
+      "spanish": "Él vende pan.",
+      "english": "He sells bread.",
+      "wordMeanings": {
+        "Él": "he",
+        "vende": "sells",
+        "pan": "bread"
+      }
+    },
+    {
+      "id": "m6-s38",
+      "spanish": "Hoy como y bebo.",
+      "english": "Today I eat and drink.",
+      "wordMeanings": {
+        "Hoy": "today",
+        "como": "I eat / like / as",
+        "y": "and",
+        "bebo": "I drink"
+      }
+    },
+    {
+      "id": "m6-s39",
+      "spanish": "Vivo en la ciudad y trabajo en el centro.",
+      "english": "I live in the city and work downtown.",
+      "wordMeanings": {
+        "Vivo": "I live",
+        "en": "in / on",
+        "la": "the / it (fem)",
+        "ciudad": "city",
+        "y": "and",
+        "trabajo": "I work / job",
+        "el": "the",
+        "centro": "downtown"
+      }
+    },
+    {
+      "id": "m6-s40",
+      "spanish": "Abro el libro y escribo un mensaje.",
+      "english": "I open the book and write a message.",
+      "wordMeanings": {
+        "Abro": "I open",
+        "el": "the",
+        "libro": "book",
+        "y": "and",
+        "escribo": "I write",
+        "un": "a",
+        "mensaje": "message"
+      }
+    },
+    {
+      "spanish": "¡Mira, he recibido un mensaje!",
+      "english": "Look, I received a message!",
+      "wordMeanings": {
+        "Mira": "look",
+        "he": "I have",
+        "recibido": "received",
+        "un": "a",
+        "mensaje": "message"
+      },
+      "id": "m6-s-colloq1"
+    },
+    {
+      "spanish": "¡Vendo de todo!",
+      "english": "I sell everything!",
+      "wordMeanings": {
+        "Vendo": "I sell",
+        "de": "of",
+        "todo": "everything"
+      },
+      "id": "m6-s-colloq2"
+    }
+  ],
+  "grammarExplanation": "Regular -ER and -IR verbs follow similar patterns. Remove the ending and add:\n\n-ER verbs (comer):\n• -o, -es, -e, -emos, -éis, -en\n• como, comes, come, comemos, coméis, comen\n\n-IR verbs (vivir):\n• -o, -es, -e, -imos, -ís, -en\n• vivo, vives, vive, vivimos, vivís, viven\n\nNotice: -ER and -IR only differ in the 'nosotros' and 'vosotros' forms (-emos/-éis vs -imos/-ís). In Spain use the vosotros forms for informal plural 'you'.",
+  "vocabulary": {
+    "como": {
+      "mnemonic": "Think 'consume' — I eat.",
+      "explanation": "First person of 'comer' (to eat)."
+    },
+    "pan": {
+      "mnemonic": "Bread baked in a pan!",
+      "explanation": "Means 'bread'. Masculine noun."
+    },
+    "comes": {
+      "mnemonic": "'Comes to eat' — you eat.",
+      "explanation": "Second person of 'comer'."
+    },
+    "él": {
+      "mnemonic": "Like 'el' in 'elevator' — he goes up!",
+      "explanation": "Subject pronoun 'he'. Accent distinguishes from 'el' (the)."
+    },
+    "come": {
+      "mnemonic": "'Come eat!' — he/she eats.",
+      "explanation": "Third person of 'comer'."
+    },
+    "ella": {
+      "mnemonic": "Think 'Cinderella' ends with '-ella' — she!",
+      "explanation": "Subject pronoun 'she/her'."
+    },
+    "nosotros": {
+      "mnemonic": "'nos' (us) + 'otros' (others) = we.",
+      "explanation": "Literally 'us others'. Fun compound word."
+    },
+    "comemos": {
+      "mnemonic": "'Come-emos' — we eat together.",
+      "explanation": "First person plural of 'comer'."
+    },
+    "casa": {
+      "mnemonic": "Think 'casino' — a big house of games.",
+      "explanation": "Feminine noun. 'En casa' = at home."
+    },
+    "bebo": {
+      "mnemonic": "Think 'beverage' — I drink.",
+      "explanation": "First person of 'beber' (to drink)."
+    },
+    "agua": {
+      "mnemonic": "Think 'aqua' — water!",
+      "explanation": "Fem but uses 'el agua'."
+    },
+    "bebes": {
+      "mnemonic": "Think 'babies drink'.",
+      "explanation": "Second person of 'beber'."
+    },
+    "café": {
+      "mnemonic": "Same as English 'café' — coffee!",
+      "explanation": "Means 'coffee' or 'café'."
+    },
+    "bebe": {
+      "mnemonic": "'Babe drinks' — he/she drinks.",
+      "explanation": "Third person of 'beber'."
+    },
+    "bebemos": {
+      "mnemonic": "'Beverage-mos' — we drink.",
+      "explanation": "First person plural of 'beber'."
+    },
+    "vivo": {
+      "mnemonic": "Think 'vivid life' — I live vividly!",
+      "explanation": "First person of 'vivir' (to live)."
+    },
+    "aquí": {
+      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
+      "explanation": "Means 'here'. More precise than 'acá'."
+    },
+    "vives": {
+      "mnemonic": "'Viva! you live!'",
+      "explanation": "Second person of 'vivir'."
+    },
+    "allí": {
+      "mnemonic": "Sounds like 'a lee' — over there.",
+      "explanation": "Means 'there'. Points to a specific spot."
+    },
+    "vive": {
+      "mnemonic": "Think 'viva!' — he/she lives.",
+      "explanation": "Third person of 'vivir'."
+    },
+    "centro": {
+      "mnemonic": "Same as English 'center' — downtown!",
+      "explanation": "Also means 'center'. 'Centro' = downtown area."
+    },
+    "cerca": {
+      "mnemonic": "Think 'circa' — approximately near.",
+      "explanation": "'Cerca de' = near/close to."
+    },
+    "vivimos": {
+      "mnemonic": "'Vivid-mos' — we live vividly.",
+      "explanation": "First person plural of 'vivir'."
+    },
+    "la": {
+      "mnemonic": "'La lady' — her/it (feminine).",
+      "explanation": "Also 'the' (feminine)."
+    },
+    "ciudad": {
+      "mnemonic": "Think 'city' — ciudad = city.",
+      "explanation": "Feminine noun."
+    },
+    "abro": {
+      "mnemonic": "Think 'abrogate/open' — I open.",
+      "explanation": "First person of 'abrir' (to open)."
+    },
+    "puerta": {
+      "mnemonic": "Think 'port/portal' — a door.",
+      "explanation": "Feminine noun meaning door/gate."
+    },
+    "libro": {
+      "mnemonic": "Think 'library' — full of libros (books)!",
+      "explanation": "Means 'book'. Masculine noun."
+    },
+    "abre": {
+      "mnemonic": "'Abbreviate by opening' — he/she opens.",
+      "explanation": "Third person of 'abrir'."
+    },
+    "ventana": {
+      "mnemonic": "'Vent-ana' — air vents in a window.",
+      "explanation": "From Latin 'ventus' (wind)."
+    },
+    "escribo": {
+      "mnemonic": "Think 'scribe' — I write.",
+      "explanation": "First person of 'escribir' (to write)."
+    },
+    "carta": {
+      "mnemonic": "Think 'card/letter'.",
+      "explanation": "Means 'letter' or 'menu'."
+    },
+    "escribe": {
+      "mnemonic": "'A scribe writes' — he/she writes.",
+      "explanation": "Third person of 'escribir'."
+    },
+    "español": {
+      "mnemonic": "'Espagne/Spain' + '-ol' — the Spanish language.",
+      "explanation": "Both the language and nationality."
+    },
+    "coche": {
+      "mnemonic": "Think 'coach' — a horse-drawn coach = car.",
+      "explanation": "Means 'car'. Mainly used in Spain."
+    },
+    "hoy": {
+      "mnemonic": "'Hoy! today!' — an exclamation for today.",
+      "explanation": "Means 'today'."
+    },
+    "y": {
+      "mnemonic": "The letter 'Y' connects — like 'and' connects words.",
+      "explanation": "Pronounced like 'ee'. The simplest conjunction."
+    },
+    "trabajo": {
+      "mnemonic": "Think 'travel to work'.",
+      "explanation": "Means 'work/job'. Also 'I work'."
+    },
+    "cada": {
+      "mnemonic": "Think 'cadence' — each beat.",
+      "explanation": "Means 'each/every'."
+    },
+    "día": {
+      "mnemonic": "Think 'diary' — each day.",
+      "explanation": "Masculine despite ending in -a."
+    }
+  }
+}

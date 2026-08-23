@@ -1,0 +1,193 @@
+{
+  "id": "review-19-20-21",
+  "title": "🔄 Review: Chapters 19, 20, 21",
+  "description": "Mixed practice from Subjunctive: Hope, Subjunctive: Importance, Real Conditionals.",
+  "level": "Beginner",
+  "type": "review",
+  "reviewsModules": [
+    "module-19",
+    "module-20",
+    "module-21"
+  ],
+  "sentences": [
+    {
+      "id": "review-19-20-21-from-m19-s3",
+      "spanish": "Espero que estés bien.",
+      "english": "I hope you are well.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "estés": "are (subj)",
+        "bien": "well/good"
+      }
+    },
+    {
+      "id": "review-19-20-21-from-m20-s1",
+      "spanish": "Es importante que vengas mañana.",
+      "english": "It's important that you come tomorrow.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "vengas": "come (subj)",
+        "mañana": "tomorrow / morning"
+      }
+    },
+    {
+      "id": "review-19-20-21-from-m19-s1",
+      "spanish": "Espero que no llegues tarde.",
+      "english": "I hope you don't arrive late.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "no": "no / not",
+        "llegues": "arrive (subj)",
+        "tarde": "late / afternoon"
+      }
+    },
+    {
+      "id": "review-19-20-21-from-m21-s5",
+      "spanish": "Si llegas tarde, no comemos juntos.",
+      "english": "If you arrive late, we don't eat together.",
+      "wordMeanings": {
+        "Si": "if",
+        "llegas": "you arrive",
+        "tarde": "late / afternoon",
+        "no": "no / not",
+        "comemos": "we eat",
+        "juntos": "together"
+      }
+    },
+    {
+      "id": "review-19-20-21-from-m21-s3",
+      "spanish": "Si llegas temprano, hablamos.",
+      "english": "If you arrive early, we talk.",
+      "wordMeanings": {
+        "Si": "if",
+        "llegas": "you arrive",
+        "temprano": "early",
+        "hablamos": "we speak"
+      }
+    },
+    {
+      "id": "review-19-20-21-from-m20-s2",
+      "spanish": "Es importante que tengas tiempo.",
+      "english": "It's important that you have time.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "tengas": "have (subj)",
+        "tiempo": "time"
+      }
+    },
+    {
+      "id": "review-19-20-21-from-m21-s4",
+      "spanish": "Si me escuchas, entiendes.",
+      "english": "If you listen to me, you understand.",
+      "wordMeanings": {
+        "Si": "if",
+        "me": "me / to me",
+        "escuchas": "you listen",
+        "entiendes": "you understand"
+      }
+    },
+    {
+      "id": "review-19-20-21-from-m20-s5",
+      "spanish": "Es importante que vayas hoy.",
+      "english": "It's important that you go today.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "vayas": "go (subj)",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "review-19-20-21-from-m21-s2",
+      "spanish": "Si tienes dinero, compras pan.",
+      "english": "If you have money, you buy bread.",
+      "wordMeanings": {
+        "Si": "if",
+        "tienes": "you have",
+        "dinero": "money",
+        "compras": "you buy",
+        "pan": "bread"
+      }
+    },
+    {
+      "id": "review-19-20-21-from-m20-s4",
+      "spanish": "Es importante que estés aquí.",
+      "english": "It's important that you are here.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "estés": "are (subj)",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "review-19-20-21-from-m19-s2",
+      "spanish": "Espero que tengas dinero.",
+      "english": "I hope you have money.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "tengas": "have (subj)",
+        "dinero": "money"
+      }
+    },
+    {
+      "id": "review-19-20-21-from-m19-s5",
+      "spanish": "Espero que vivas bien aquí.",
+      "english": "I hope you live well here.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "vivas": "live (subj)",
+        "bien": "well/good",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "review-19-20-21-from-m20-s3",
+      "spanish": "Es importante que me escuches.",
+      "english": "It's important that you listen to me.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "me": "me / to me",
+        "escuches": "listen (subj)"
+      }
+    },
+    {
+      "id": "review-19-20-21-from-m19-s4",
+      "spanish": "Espero que te quedes.",
+      "english": "I hope you stay.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "te": "you / to you",
+        "quedes": "stay (subj)"
+      }
+    },
+    {
+      "id": "review-19-20-21-from-m21-s1",
+      "spanish": "Si la compras hoy, es más barata.",
+      "english": "If you buy it today, it's cheaper.",
+      "wordMeanings": {
+        "Si": "if",
+        "la": "the / it (fem)",
+        "compras": "you buy",
+        "hoy": "today",
+        "es": "is",
+        "más": "more",
+        "barata": "cheap (fem)"
+      }
+    }
+  ],
+  "grammarExplanation": "Time to review! This module mixes sentences from the last 3 chapters you studied:\n\n• Chapter 19: Subjunctive: Hope\n• Chapter 20: Subjunctive: Importance\n• Chapter 21: Real Conditionals\n\nThe sentences are shuffled so you can't rely on context — you'll need to recall the vocabulary and grammar from each chapter on your own. Take your time and listen carefully!"
+}

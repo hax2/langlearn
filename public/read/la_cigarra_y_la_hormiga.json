@@ -1,0 +1,944 @@
+{
+  "source": "la_cigarra_y_la_hormiga.m4a",
+  "title": "La cigarra y la hormiga",
+  "language": "es",
+  "language_probability": 1.0,
+  "model": "medium",
+  "words": [
+    {
+      "word": "La",
+      "start": 0.4,
+      "end": 0.98
+    },
+    {
+      "word": "cigarra",
+      "start": 0.98,
+      "end": 1.46
+    },
+    {
+      "word": "y",
+      "start": 1.46,
+      "end": 1.58
+    },
+    {
+      "word": "la",
+      "start": 1.58,
+      "end": 1.8
+    },
+    {
+      "word": "hormiga",
+      "start": 1.8,
+      "end": 2.2
+    },
+    {
+      "word": "Félix",
+      "start": 2.2,
+      "end": 2.74
+    },
+    {
+      "word": "María",
+      "start": 2.74,
+      "end": 3.04
+    },
+    {
+      "word": "Samanego,",
+      "start": 3.04,
+      "end": 3.76
+    },
+    {
+      "word": "cantando",
+      "start": 4.34,
+      "end": 4.66
+    },
+    {
+      "word": "la",
+      "start": 4.66,
+      "end": 4.82
+    },
+    {
+      "word": "cigarra,",
+      "start": 4.82,
+      "end": 5.76
+    },
+    {
+      "word": "pasó",
+      "start": 6.04,
+      "end": 6.1
+    },
+    {
+      "word": "el",
+      "start": 6.1,
+      "end": 6.32
+    },
+    {
+      "word": "verano",
+      "start": 6.32,
+      "end": 6.66
+    },
+    {
+      "word": "entero,",
+      "start": 6.66,
+      "end": 7.26
+    },
+    {
+      "word": "sin",
+      "start": 7.58,
+      "end": 7.72
+    },
+    {
+      "word": "hacer",
+      "start": 7.72,
+      "end": 8.06
+    },
+    {
+      "word": "provisiones",
+      "start": 8.06,
+      "end": 9.02
+    },
+    {
+      "word": "allá",
+      "start": 9.02,
+      "end": 9.32
+    },
+    {
+      "word": "para",
+      "start": 9.32,
+      "end": 9.58
+    },
+    {
+      "word": "el",
+      "start": 9.58,
+      "end": 9.8
+    },
+    {
+      "word": "invierno.",
+      "start": 9.8,
+      "end": 10.26
+    },
+    {
+      "word": "Los",
+      "start": 10.98,
+      "end": 11.3
+    },
+    {
+      "word": "fríos",
+      "start": 11.3,
+      "end": 11.58
+    },
+    {
+      "word": "la",
+      "start": 11.58,
+      "end": 11.74
+    },
+    {
+      "word": "obligaron,",
+      "start": 11.74,
+      "end": 12.4
+    },
+    {
+      "word": "a",
+      "start": 12.94,
+      "end": 13.12
+    },
+    {
+      "word": "guardar",
+      "start": 13.12,
+      "end": 13.54
+    },
+    {
+      "word": "el",
+      "start": 13.54,
+      "end": 13.74
+    },
+    {
+      "word": "silencio",
+      "start": 13.74,
+      "end": 14.44
+    },
+    {
+      "word": "y",
+      "start": 14.44,
+      "end": 14.74
+    },
+    {
+      "word": "a",
+      "start": 14.74,
+      "end": 14.9
+    },
+    {
+      "word": "acogerse",
+      "start": 14.9,
+      "end": 15.36
+    },
+    {
+      "word": "al",
+      "start": 15.36,
+      "end": 15.52
+    },
+    {
+      "word": "abrigo,",
+      "start": 15.52,
+      "end": 16.18
+    },
+    {
+      "word": "de",
+      "start": 16.38,
+      "end": 16.54
+    },
+    {
+      "word": "su",
+      "start": 16.54,
+      "end": 16.7
+    },
+    {
+      "word": "estrecho",
+      "start": 16.7,
+      "end": 17.22
+    },
+    {
+      "word": "aposento.",
+      "start": 17.22,
+      "end": 17.9
+    },
+    {
+      "word": "Vio",
+      "start": 18.52,
+      "end": 18.68
+    },
+    {
+      "word": "se",
+      "start": 18.68,
+      "end": 18.84
+    },
+    {
+      "word": "desproveida,",
+      "start": 18.84,
+      "end": 19.66
+    },
+    {
+      "word": "del",
+      "start": 20.16,
+      "end": 20.16
+    },
+    {
+      "word": "preciso",
+      "start": 20.16,
+      "end": 20.58
+    },
+    {
+      "word": "sustento,",
+      "start": 20.58,
+      "end": 21.32
+    },
+    {
+      "word": "sin",
+      "start": 21.84,
+      "end": 22.06
+    },
+    {
+      "word": "mosca,",
+      "start": 22.06,
+      "end": 22.64
+    },
+    {
+      "word": "sin",
+      "start": 22.9,
+      "end": 23.06
+    },
+    {
+      "word": "gusano,",
+      "start": 23.06,
+      "end": 23.58
+    },
+    {
+      "word": "sin",
+      "start": 23.92,
+      "end": 24.12
+    },
+    {
+      "word": "trigo,",
+      "start": 24.12,
+      "end": 24.7
+    },
+    {
+      "word": "sin",
+      "start": 24.92,
+      "end": 25.14
+    },
+    {
+      "word": "centeno.",
+      "start": 25.14,
+      "end": 25.7
+    },
+    {
+      "word": "Habitaba",
+      "start": 25.7,
+      "end": 26.6
+    },
+    {
+      "word": "la",
+      "start": 26.6,
+      "end": 26.76
+    },
+    {
+      "word": "hormiga",
+      "start": 26.76,
+      "end": 27.26
+    },
+    {
+      "word": "allí",
+      "start": 27.26,
+      "end": 27.6
+    },
+    {
+      "word": "tabique",
+      "start": 27.6,
+      "end": 27.98
+    },
+    {
+      "word": "en",
+      "start": 27.98,
+      "end": 28.2
+    },
+    {
+      "word": "medio,",
+      "start": 28.2,
+      "end": 28.42
+    },
+    {
+      "word": "y",
+      "start": 28.98,
+      "end": 29.08
+    },
+    {
+      "word": "con",
+      "start": 29.08,
+      "end": 29.26
+    },
+    {
+      "word": "mil",
+      "start": 29.26,
+      "end": 29.42
+    },
+    {
+      "word": "expresiones,",
+      "start": 29.42,
+      "end": 30.18
+    },
+    {
+      "word": "de",
+      "start": 30.62,
+      "end": 30.8
+    },
+    {
+      "word": "atención",
+      "start": 30.8,
+      "end": 31.26
+    },
+    {
+      "word": "y",
+      "start": 31.26,
+      "end": 31.54
+    },
+    {
+      "word": "respeto,",
+      "start": 31.54,
+      "end": 32.14
+    },
+    {
+      "word": "la",
+      "start": 32.48,
+      "end": 32.6
+    },
+    {
+      "word": "dijo",
+      "start": 32.6,
+      "end": 32.92
+    },
+    {
+      "word": "doña",
+      "start": 32.92,
+      "end": 33.6
+    },
+    {
+      "word": "hormiga,",
+      "start": 33.6,
+      "end": 34.22
+    },
+    {
+      "word": "pues",
+      "start": 34.5,
+      "end": 34.6
+    },
+    {
+      "word": "que",
+      "start": 34.6,
+      "end": 34.76
+    },
+    {
+      "word": "en",
+      "start": 34.76,
+      "end": 34.9
+    },
+    {
+      "word": "vuestros",
+      "start": 34.9,
+      "end": 35.26
+    },
+    {
+      "word": "graneros",
+      "start": 35.26,
+      "end": 35.78
+    },
+    {
+      "word": "sobran",
+      "start": 35.78,
+      "end": 36.34
+    },
+    {
+      "word": "las",
+      "start": 36.34,
+      "end": 36.6
+    },
+    {
+      "word": "provisiones.",
+      "start": 36.6,
+      "end": 37.52
+    },
+    {
+      "word": "Para",
+      "start": 37.7,
+      "end": 37.88
+    },
+    {
+      "word": "vuestro",
+      "start": 37.88,
+      "end": 38.2
+    },
+    {
+      "word": "alimento,",
+      "start": 38.2,
+      "end": 38.92
+    },
+    {
+      "word": "prestad",
+      "start": 39.28,
+      "end": 39.5
+    },
+    {
+      "word": "alguna",
+      "start": 39.5,
+      "end": 39.82
+    },
+    {
+      "word": "cosa",
+      "start": 39.82,
+      "end": 40.24
+    },
+    {
+      "word": "con",
+      "start": 40.24,
+      "end": 40.68
+    },
+    {
+      "word": "que",
+      "start": 40.68,
+      "end": 40.86
+    },
+    {
+      "word": "viva",
+      "start": 40.86,
+      "end": 41.06
+    },
+    {
+      "word": "este",
+      "start": 41.06,
+      "end": 41.3
+    },
+    {
+      "word": "invierno.",
+      "start": 41.3,
+      "end": 41.78
+    },
+    {
+      "word": "Esta",
+      "start": 42.34,
+      "end": 42.62
+    },
+    {
+      "word": "triste",
+      "start": 42.62,
+      "end": 42.96
+    },
+    {
+      "word": "cigarra,",
+      "start": 42.96,
+      "end": 43.66
+    },
+    {
+      "word": "que",
+      "start": 43.88,
+      "end": 44.04
+    },
+    {
+      "word": "alegre",
+      "start": 44.04,
+      "end": 44.32
+    },
+    {
+      "word": "en",
+      "start": 44.32,
+      "end": 44.5
+    },
+    {
+      "word": "otro",
+      "start": 44.5,
+      "end": 44.68
+    },
+    {
+      "word": "tiempo,",
+      "start": 44.68,
+      "end": 45.1
+    },
+    {
+      "word": "nunca",
+      "start": 45.6,
+      "end": 45.86
+    },
+    {
+      "word": "conoció",
+      "start": 45.86,
+      "end": 46.24
+    },
+    {
+      "word": "el",
+      "start": 46.24,
+      "end": 46.42
+    },
+    {
+      "word": "daño,",
+      "start": 46.42,
+      "end": 46.96
+    },
+    {
+      "word": "nunca",
+      "start": 47.16,
+      "end": 47.48
+    },
+    {
+      "word": "supo",
+      "start": 47.48,
+      "end": 47.76
+    },
+    {
+      "word": "temerlo.",
+      "start": 47.76,
+      "end": 48.28
+    },
+    {
+      "word": "No",
+      "start": 48.72,
+      "end": 48.94
+    },
+    {
+      "word": "dudéis",
+      "start": 48.94,
+      "end": 49.26
+    },
+    {
+      "word": "en",
+      "start": 49.26,
+      "end": 49.5
+    },
+    {
+      "word": "prestarme,",
+      "start": 49.5,
+      "end": 50.12
+    },
+    {
+      "word": "que",
+      "start": 50.36,
+      "end": 50.5
+    },
+    {
+      "word": "fielmente",
+      "start": 50.5,
+      "end": 51.02
+    },
+    {
+      "word": "prometo",
+      "start": 51.02,
+      "end": 51.74
+    },
+    {
+      "word": "pagaros",
+      "start": 51.74,
+      "end": 52.24
+    },
+    {
+      "word": "con",
+      "start": 52.24,
+      "end": 52.42
+    },
+    {
+      "word": "ganancias,",
+      "start": 52.42,
+      "end": 53.08
+    },
+    {
+      "word": "por",
+      "start": 53.38,
+      "end": 53.46
+    },
+    {
+      "word": "el",
+      "start": 53.46,
+      "end": 53.64
+    },
+    {
+      "word": "nombre",
+      "start": 53.64,
+      "end": 53.82
+    },
+    {
+      "word": "que",
+      "start": 53.82,
+      "end": 54.04
+    },
+    {
+      "word": "tengo.",
+      "start": 54.04,
+      "end": 54.3
+    },
+    {
+      "word": "La",
+      "start": 55.06,
+      "end": 55.58
+    },
+    {
+      "word": "codiciosa",
+      "start": 55.58,
+      "end": 56.1
+    },
+    {
+      "word": "hormiga,",
+      "start": 56.1,
+      "end": 56.78
+    },
+    {
+      "word": "respondió",
+      "start": 56.94,
+      "end": 57.56
+    },
+    {
+      "word": "con",
+      "start": 57.56,
+      "end": 57.84
+    },
+    {
+      "word": "denuedo,",
+      "start": 57.84,
+      "end": 58.6
+    },
+    {
+      "word": "ocultando",
+      "start": 58.68,
+      "end": 59.18
+    },
+    {
+      "word": "a",
+      "start": 59.18,
+      "end": 59.32
+    },
+    {
+      "word": "la",
+      "start": 59.32,
+      "end": 59.58
+    },
+    {
+      "word": "espalda",
+      "start": 59.58,
+      "end": 59.92
+    },
+    {
+      "word": "las",
+      "start": 59.92,
+      "end": 60.14
+    },
+    {
+      "word": "llaves",
+      "start": 60.14,
+      "end": 60.44
+    },
+    {
+      "word": "del",
+      "start": 60.44,
+      "end": 60.66
+    },
+    {
+      "word": "granero.",
+      "start": 60.66,
+      "end": 61.1
+    },
+    {
+      "word": "Yo",
+      "start": 61.78,
+      "end": 62.06
+    },
+    {
+      "word": "prestar",
+      "start": 62.06,
+      "end": 62.52
+    },
+    {
+      "word": "lo",
+      "start": 62.52,
+      "end": 62.68
+    },
+    {
+      "word": "que",
+      "start": 62.68,
+      "end": 62.86
+    },
+    {
+      "word": "gano,",
+      "start": 62.86,
+      "end": 63.06
+    },
+    {
+      "word": "con",
+      "start": 63.36,
+      "end": 63.5
+    },
+    {
+      "word": "un",
+      "start": 63.5,
+      "end": 63.66
+    },
+    {
+      "word": "trabajo",
+      "start": 63.66,
+      "end": 64.02
+    },
+    {
+      "word": "inmenso.",
+      "start": 64.02,
+      "end": 64.84
+    },
+    {
+      "word": "Dime",
+      "start": 65.3,
+      "end": 65.5
+    },
+    {
+      "word": "pues,",
+      "start": 65.5,
+      "end": 65.88
+    },
+    {
+      "word": "holgazana,",
+      "start": 66.2,
+      "end": 66.78
+    },
+    {
+      "word": "qué",
+      "start": 67.12,
+      "end": 67.26
+    },
+    {
+      "word": "has",
+      "start": 67.26,
+      "end": 67.48
+    },
+    {
+      "word": "hecho",
+      "start": 67.48,
+      "end": 67.66
+    },
+    {
+      "word": "en",
+      "start": 67.66,
+      "end": 67.82
+    },
+    {
+      "word": "el",
+      "start": 67.82,
+      "end": 67.96
+    },
+    {
+      "word": "buen",
+      "start": 67.96,
+      "end": 68.1
+    },
+    {
+      "word": "tiempo.",
+      "start": 68.1,
+      "end": 68.46
+    },
+    {
+      "word": "Yo,",
+      "start": 69.18,
+      "end": 69.68
+    },
+    {
+      "word": "dijo",
+      "start": 69.94,
+      "end": 70.12
+    },
+    {
+      "word": "la",
+      "start": 70.12,
+      "end": 70.32
+    },
+    {
+      "word": "cigarra,",
+      "start": 70.32,
+      "end": 70.76
+    },
+    {
+      "word": "a",
+      "start": 71.08,
+      "end": 71.3
+    },
+    {
+      "word": "todo",
+      "start": 71.3,
+      "end": 71.46
+    },
+    {
+      "word": "pasajero",
+      "start": 71.46,
+      "end": 72.0
+    },
+    {
+      "word": "cantaba",
+      "start": 72.0,
+      "end": 72.52
+    },
+    {
+      "word": "alegremente,",
+      "start": 72.52,
+      "end": 73.22
+    },
+    {
+      "word": "sin",
+      "start": 73.74,
+      "end": 73.9
+    },
+    {
+      "word": "cesar",
+      "start": 73.9,
+      "end": 74.4
+    },
+    {
+      "word": "ni",
+      "start": 74.4,
+      "end": 74.54
+    },
+    {
+      "word": "un",
+      "start": 74.54,
+      "end": 74.72
+    },
+    {
+      "word": "momento.",
+      "start": 74.72,
+      "end": 75.08
+    },
+    {
+      "word": "Hola,",
+      "start": 75.86,
+      "end": 76.26
+    },
+    {
+      "word": "con",
+      "start": 76.56,
+      "end": 76.76
+    },
+    {
+      "word": "que",
+      "start": 76.76,
+      "end": 76.92
+    },
+    {
+      "word": "cantabas,",
+      "start": 76.92,
+      "end": 77.64
+    },
+    {
+      "word": "cuando",
+      "start": 77.82,
+      "end": 78.04
+    },
+    {
+      "word": "yo",
+      "start": 78.04,
+      "end": 78.28
+    },
+    {
+      "word": "andaba",
+      "start": 78.28,
+      "end": 78.54
+    },
+    {
+      "word": "al",
+      "start": 78.54,
+      "end": 78.74
+    },
+    {
+      "word": "remo,",
+      "start": 78.74,
+      "end": 78.94
+    },
+    {
+      "word": "pues",
+      "start": 79.6,
+      "end": 79.82
+    },
+    {
+      "word": "ahora",
+      "start": 79.82,
+      "end": 80.06
+    },
+    {
+      "word": "que",
+      "start": 80.06,
+      "end": 80.22
+    },
+    {
+      "word": "yo",
+      "start": 80.22,
+      "end": 80.36
+    },
+    {
+      "word": "como,",
+      "start": 80.36,
+      "end": 80.68
+    },
+    {
+      "word": "baila,",
+      "start": 81.2,
+      "end": 81.86
+    },
+    {
+      "word": "pese",
+      "start": 82.08,
+      "end": 82.16
+    },
+    {
+      "word": "a",
+      "start": 82.16,
+      "end": 82.32
+    },
+    {
+      "word": "tu",
+      "start": 82.32,
+      "end": 82.38
+    },
+    {
+      "word": "cuerpo.",
+      "start": 82.38,
+      "end": 82.74
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "story-1",
+  "type": "story",
+  "title": "📖 Story: Ana's New Friend",
+  "description": "A short story using what you've learned about greetings, locations, and descriptions.",
+  "level": "Beginner",
+  "storyIntro": "You've learned greetings, locations with estar, and descriptions with ser. Now let's put it all together in a short story about Ana meeting someone new.\n\nRead each sentence, listen to the audio, and see how the grammar you've learned works in a real conversation!",
+  "sentences": [
+    {
+      "id": "s1-s1",
+      "spanish": "Buenos días. Soy Ana.",
+      "english": "Good morning. I am Ana.",
+      "wordMeanings": {
+        "Buenos": "good (masc pl)",
+        "días": "days / morning",
+        "Soy": "I am",
+        "Ana": "Ana"
+      }
+    },
+    {
+      "id": "s1-s2",
+      "spanish": "Estoy en la escuela.",
+      "english": "I am at the school.",
+      "wordMeanings": {
+        "Estoy": "I am (location)",
+        "en": "in / at",
+        "la": "the",
+        "escuela": "school"
+      }
+    },
+    {
+      "id": "s1-s3",
+      "spanish": "La escuela es grande y bonita.",
+      "english": "The school is big and pretty.",
+      "wordMeanings": {
+        "La": "the",
+        "escuela": "school",
+        "es": "is (characteristic)",
+        "grande": "big",
+        "y": "and",
+        "bonita": "pretty"
+      }
+    },
+    {
+      "id": "s1-s4",
+      "spanish": "¿Quién es él?",
+      "english": "Who is he?",
+      "wordMeanings": {
+        "Quién": "who",
+        "es": "is",
+        "él": "he"
+      }
+    },
+    {
+      "id": "s1-s5",
+      "spanish": "Él es Carlos. Él es estudiante.",
+      "english": "He is Carlos. He is a student.",
+      "wordMeanings": {
+        "Él": "he",
+        "es": "is",
+        "Carlos": "Carlos",
+        "estudiante": "student"
+      }
+    },
+    {
+      "id": "s1-s6",
+      "spanish": "Hola, Carlos. Soy Ana. Soy estudiante.",
+      "english": "Hello, Carlos. I am Ana. I am a student.",
+      "wordMeanings": {
+        "Hola": "hello",
+        "Carlos": "Carlos",
+        "Soy": "I am",
+        "Ana": "Ana",
+        "estudiante": "student"
+      }
+    },
+    {
+      "id": "s1-s7",
+      "spanish": "Carlos es alto y simpático.",
+      "english": "Carlos is tall and friendly.",
+      "wordMeanings": {
+        "Carlos": "Carlos",
+        "es": "is (characteristic)",
+        "alto": "tall",
+        "y": "and",
+        "simpático": "friendly"
+      }
+    },
+    {
+      "id": "s1-s8",
+      "spanish": "Ana está contenta.",
+      "english": "Ana is happy.",
+      "wordMeanings": {
+        "Ana": "Ana",
+        "está": "is (feeling/state)",
+        "contenta": "happy"
+      }
+    },
+    {
+      "id": "s1-s9",
+      "spanish": "¿Eres mi amigo?",
+      "english": "Are you my friend?",
+      "wordMeanings": {
+        "Eres": "you are",
+        "mi": "my",
+        "amigo": "friend (male)"
+      }
+    },
+    {
+      "id": "s1-s10",
+      "spanish": "Sí, soy tu amigo. Somos amigos.",
+      "english": "Yes, I am your friend. We are friends.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "soy": "I am",
+        "tu": "your",
+        "amigo": "friend (male)",
+        "Somos": "we are",
+        "amigos": "friends"
+      }
+    },
+    {
+      "id": "s1-s11",
+      "spanish": "Adiós, Carlos. Hasta luego.",
+      "english": "Goodbye, Carlos. See you later.",
+      "wordMeanings": {
+        "Adiós": "goodbye",
+        "Carlos": "Carlos",
+        "Hasta": "until",
+        "luego": "later"
+      }
+    },
+    {
+      "id": "s1-s12",
+      "spanish": "Buenas tardes, Ana. Hasta luego.",
+      "english": "Good afternoon, Ana. See you later.",
+      "wordMeanings": {
+        "Buenas": "good (fem pl)",
+        "tardes": "afternoons",
+        "Ana": "Ana",
+        "Hasta": "until",
+        "luego": "later"
+      }
+    }
+  ],
+  "vocabulary": {
+    "escuela": {
+      "mnemonic": "Sounds like 'school-a' — easy cognate!",
+      "explanation": "Feminine noun. 'La escuela'."
+    },
+    "contenta": {
+      "mnemonic": "Think 'content' — feeling satisfied and happy.",
+      "explanation": "Feminine form of 'contento'. Used with estar."
+    },
+    "simpático": {
+      "mnemonic": "Think 'sympathetic' — someone friendly and nice.",
+      "explanation": "Means 'nice/friendly'. Used with ser (personality trait)."
+    }
+  }
+}

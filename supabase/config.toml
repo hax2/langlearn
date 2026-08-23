@@ -1,0 +1,10 @@
+project_id = "gemlang"
+
+[functions.billing-checkout]
+verify_jwt = false
+
+[functions.billing-portal]
+verify_jwt = false
+
+[functions.billing-webhook]
+verify_jwt = false

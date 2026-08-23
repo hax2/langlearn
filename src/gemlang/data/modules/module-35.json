@@ -1,0 +1,201 @@
+{
+  "id": "module-35",
+  "title": "Dialogue: At the Café",
+  "description": "A conversation between two friends ordering coffee.",
+  "level": "Intermediate",
+  "sentences": [
+    {
+      "id": "m35-s1",
+      "spanish": "—¡Hola, Carlos! ¿Cómo estás?",
+      "english": "—Hello, Carlos! How are you?",
+      "wordMeanings": {
+        "Hola": "hello",
+        "Carlos": "Carlos",
+        "Cómo": "how",
+        "estás": "are you"
+      }
+    },
+    {
+      "id": "m35-s2",
+      "spanish": "—Muy bien, gracias, María. ¿Y tú?",
+      "english": "—Very well, thanks, María. And you?",
+      "wordMeanings": {
+        "Muy": "very",
+        "bien": "well",
+        "gracias": "thanks",
+        "María": "María",
+        "Y": "and",
+        "tú": "you"
+      }
+    },
+    {
+      "id": "m35-s3",
+      "spanish": "—Un poco cansada, pero bien. ¿Qué vas a pedir?",
+      "english": "—A little tired, but okay. What are you going to order?",
+      "wordMeanings": {
+        "Un": "a",
+        "poco": "little",
+        "cansada": "tired",
+        "pero": "but",
+        "bien": "well/good",
+        "Qué": "what",
+        "vas": "you go",
+        "a": "to",
+        "pedir": "to order"
+      }
+    },
+    {
+      "id": "m35-s4",
+      "spanish": "—Creo que quiero un café con leche.",
+      "english": "—I think I want a coffee with milk.",
+      "wordMeanings": {
+        "Creo": "I think/believe",
+        "que": "that",
+        "quiero": "I want",
+        "un": "a",
+        "café": "coffee",
+        "con": "with",
+        "leche": "milk"
+      }
+    },
+    {
+      "id": "m35-s5",
+      "spanish": "—Yo prefiero un té verde. Hace frío hoy.",
+      "english": "—I prefer a green tea. It's cold today.",
+      "wordMeanings": {
+        "Yo": "I",
+        "prefiero": "I prefer",
+        "un": "a",
+        "té": "tea",
+        "verde": "green",
+        "Hace": "it makes (weather)",
+        "frío": "cold",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "m35-s6",
+      "spanish": "—Sí, el invierno está llegando.",
+      "english": "—Yes, winter is arriving.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "el": "the",
+        "invierno": "winter",
+        "está": "is",
+        "llegando": "arriving"
+      }
+    },
+    {
+      "id": "m35-s7",
+      "spanish": "—Camarero, la cuenta cuando pueda, por favor.",
+      "english": "—Waiter! The check when you can, please.",
+      "wordMeanings": {
+        "favor": "favor",
+        "la": "the",
+        "cuenta": "check/bill",
+        "cuando": "when",
+        "pueda": "can (subjunctive)",
+        "Camarero": "waiter",
+        "por": "for"
+      }
+    },
+    {
+      "id": "m35-s8",
+      "spanish": "—No te preocupes, yo invito hoy.",
+      "english": "—Don't worry, it's my treat today.",
+      "wordMeanings": {
+        "No": "no/not",
+        "te": "yourself",
+        "preocupes": "worry",
+        "yo": "I",
+        "invito": "I invite/treat",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "m35-s9",
+      "spanish": "—¡Qué amable! Gracias, Carlos.",
+      "english": "—How kind! Thank you, Carlos.",
+      "wordMeanings": {
+        "Qué": "how",
+        "amable": "kind",
+        "Gracias": "thanks",
+        "Carlos": "Carlos"
+      }
+    }
+  ],
+  "vocabulary": {
+    "hola": {
+      "mnemonic": "Sounds like 'holler' — you holler 'Hello!'",
+      "explanation": "Universal greeting, any time of day."
+    },
+    "estás": {
+      "mnemonic": "Think 'you establish your position'.",
+      "explanation": "Informal 'you are' (estar)."
+    },
+    "muy": {
+      "mnemonic": "Think 'mooy' like a cow — very loud moo!",
+      "explanation": "Means 'very'. Short and common."
+    },
+    "gracias": {
+      "mnemonic": "Think 'gracious' — a gracious person says thank you.",
+      "explanation": "From Latin 'gratia' (grace/thanks)."
+    },
+    "y": {
+      "mnemonic": "The letter 'Y' connects — like 'and' connects words.",
+      "explanation": "Pronounced like 'ee'. The simplest conjunction."
+    },
+    "pero": {
+      "mnemonic": "Think 'pair-o' — 'but' connects a pair of ideas.",
+      "explanation": "Conjunction meaning 'but'."
+    },
+    "vas": {
+      "mnemonic": "'Vast journey' — you go.",
+      "explanation": "Second person of 'ir'."
+    },
+    "quiero": {
+      "mnemonic": "'I query what I want' — I want.",
+      "explanation": "First person of 'querer' (to want)."
+    },
+    "café": {
+      "mnemonic": "Same as English 'café' — coffee!",
+      "explanation": "Means 'coffee' or 'café'."
+    },
+    "leche": {
+      "mnemonic": "Think 'latte has milk' — leche = milk.",
+      "explanation": "Feminine noun."
+    },
+    "verde": {
+      "mnemonic": "Think 'verdant' — lush green vegetation.",
+      "explanation": "Means 'green'. Same for masc/fem."
+    },
+    "frío": {
+      "mnemonic": "'Free-oh, it's freezing!'",
+      "explanation": "'Tener frío' = to be cold."
+    },
+    "hoy": {
+      "mnemonic": "'Hoy! today!' — an exclamation for today.",
+      "explanation": "Means 'today'."
+    },
+    "está": {
+      "mnemonic": "Think 'establish' where something is.",
+      "explanation": "Third person of 'estar' (to be, location/state)."
+    },
+    "favor": {
+      "mnemonic": "Same as English 'favor' — do me a favor, please!",
+      "explanation": "'Por favor' literally means 'for favor'."
+    },
+    "la": {
+      "mnemonic": "'La lady' — her/it (feminine).",
+      "explanation": "Also 'the' (feminine)."
+    },
+    "cuenta": {
+      "mnemonic": "Think 'count' — bill/account.",
+      "explanation": "From 'contar' (to count)."
+    },
+    "cuando": {
+      "mnemonic": "Think 'when-do' — when.",
+      "explanation": "Question form: ¿cuándo?"
+    }
+  }
+}

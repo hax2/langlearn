@@ -1,0 +1,193 @@
+{
+  "id": "review-22-23-24",
+  "title": "🔄 Review: Chapters 22, 23, 24",
+  "description": "Mixed practice from Hypothetical Conditionals, Done Actions (Acabar de), Duration (Llevar + Gerund).",
+  "level": "Beginner",
+  "type": "review",
+  "reviewsModules": [
+    "module-22",
+    "module-23",
+    "module-24"
+  ],
+  "sentences": [
+    {
+      "id": "review-22-23-24-from-m24-s5",
+      "spanish": "Lleva una semana buscando casa.",
+      "english": "He/She has been looking for a house for one week.",
+      "wordMeanings": {
+        "Lleva": "carries / takes",
+        "una": "a (fem)",
+        "semana": "week",
+        "buscando": "looking for",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "review-22-23-24-from-m23-s1",
+      "spanish": "Acabo de hablar con Marta.",
+      "english": "I just spoke with Marta.",
+      "wordMeanings": {
+        "Acabo": "I just finished",
+        "de": "of / from",
+        "hablar": "to speak",
+        "con": "with",
+        "Marta": "Marta"
+      }
+    },
+    {
+      "id": "review-22-23-24-from-m23-s4",
+      "spanish": "Acabo de darle el libro a Ana.",
+      "english": "I just gave Ana the book.",
+      "wordMeanings": {
+        "Acabo": "I just finished",
+        "de": "of / from",
+        "darle": "to give him/her",
+        "el": "the",
+        "libro": "book",
+        "a": "to",
+        "Ana": "Ana"
+      }
+    },
+    {
+      "id": "review-22-23-24-from-m24-s3",
+      "spanish": "Llevo mucho tiempo viviendo aquí.",
+      "english": "I’ve been living here for a long time.",
+      "wordMeanings": {
+        "Llevo": "I carry / take",
+        "mucho": "much / a lot",
+        "tiempo": "time",
+        "viviendo": "living",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "review-22-23-24-from-m23-s3",
+      "spanish": "Acabo de llegar.",
+      "english": "I just arrived.",
+      "wordMeanings": {
+        "Acabo": "I just finished",
+        "de": "of / from",
+        "llegar": "to arrive"
+      }
+    },
+    {
+      "id": "review-22-23-24-from-m22-s3",
+      "spanish": "Si lloviera, me quedaría en casa.",
+      "english": "If it rained, I would stay at home.",
+      "wordMeanings": {
+        "Si": "if",
+        "lloviera": "rained (imp subj)",
+        "me": "me / to me",
+        "quedaría": "would stay",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "review-22-23-24-from-m24-s1",
+      "spanish": "Llevo una hora estudiando.",
+      "english": "I’ve been studying for one hour.",
+      "wordMeanings": {
+        "Llevo": "I carry / take",
+        "una": "a (fem)",
+        "hora": "hour",
+        "estudiando": "studying"
+      }
+    },
+    {
+      "id": "review-22-23-24-from-m23-s2",
+      "spanish": "La acabo de ver.",
+      "english": "I just saw her.",
+      "wordMeanings": {
+        "La": "the / it (fem)",
+        "acabo": "I just finished",
+        "de": "of / from",
+        "ver": "to see"
+      }
+    },
+    {
+      "id": "review-22-23-24-from-m22-s2",
+      "spanish": "Si no estuvieras aquí, no te vería.",
+      "english": "If you weren't here, I wouldn't see you.",
+      "wordMeanings": {
+        "Si": "if",
+        "no": "no / not",
+        "estuvieras": "were (imp subj)",
+        "aquí": "here",
+        "te": "you / to you",
+        "vería": "would see"
+      }
+    },
+    {
+      "id": "review-22-23-24-from-m22-s5",
+      "spanish": "Si hiciera sol, iríamos al centro.",
+      "english": "If it were sunny, we would go to the city centre.",
+      "wordMeanings": {
+        "Si": "if",
+        "hiciera": "did / made (imp subj)",
+        "sol": "sun",
+        "iríamos": "we would go",
+        "al": "to the",
+        "centro": "town centre"
+      }
+    },
+    {
+      "id": "review-22-23-24-from-m24-s4",
+      "spanish": "Llevas una hora estudiando.",
+      "english": "You’ve been studying for one hour.",
+      "wordMeanings": {
+        "Llevas": "you carry / take",
+        "una": "a (fem)",
+        "hora": "hour",
+        "estudiando": "studying"
+      }
+    },
+    {
+      "id": "review-22-23-24-from-m22-s4",
+      "spanish": "Si llegaras tarde, no comeríamos juntos.",
+      "english": "If you arrived late, we wouldn't eat together.",
+      "wordMeanings": {
+        "Si": "if",
+        "llegaras": "arrived (imp subj)",
+        "tarde": "late / afternoon",
+        "no": "no / not",
+        "comeríamos": "we would eat",
+        "juntos": "together"
+      }
+    },
+    {
+      "id": "review-22-23-24-from-m24-s2",
+      "spanish": "Llevas media hora esperando.",
+      "english": "You’ve been waiting for half an hour.",
+      "wordMeanings": {
+        "Llevas": "you carry / take",
+        "media": "half",
+        "hora": "hour",
+        "esperando": "waiting"
+      }
+    },
+    {
+      "id": "review-22-23-24-from-m22-s1",
+      "spanish": "Si pudiera, iría ahora.",
+      "english": "If I could, I would go now.",
+      "wordMeanings": {
+        "Si": "if",
+        "pudiera": "could (imp subj)",
+        "iría": "would go",
+        "ahora": "now"
+      }
+    },
+    {
+      "id": "review-22-23-24-from-m23-s5",
+      "spanish": "Acabamos de comprar pan.",
+      "english": "We just bought bread.",
+      "wordMeanings": {
+        "Acabamos": "we just finished",
+        "de": "of / from",
+        "comprar": "to buy",
+        "pan": "bread"
+      }
+    }
+  ],
+  "grammarExplanation": "Time to review! This module mixes sentences from the last 3 chapters you studied:\n\n• Chapter 22: Hypothetical Conditionals\n• Chapter 23: Done Actions (Acabar de)\n• Chapter 24: Duration (Llevar + Gerund)\n\nThe sentences are shuffled so you can't rely on context — you'll need to recall the vocabulary and grammar from each chapter on your own. Take your time and listen carefully!"
+}

@@ -1,0 +1,341 @@
+{
+  "id": "module-hay-vs-esta",
+  "title": "Grammar: 'Hay' vs. 'Está'",
+  "description": "Master the difference between 'hay' (there is/are) and 'está' (is located).",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "mhayesta-s1",
+      "spanish": "Hay un libro en la mesa.",
+      "english": "There is a book on the table.",
+      "wordMeanings": {
+        "Hay": "there is / there are",
+        "un": "a",
+        "libro": "book",
+        "en": "in / on",
+        "la": "the (fem)",
+        "mesa": "table"
+      }
+    },
+    {
+      "id": "mhayesta-s2",
+      "spanish": "En mi calle hay una panadería muy buena.",
+      "english": "On my street there's a very good bakery.",
+      "wordMeanings": {
+        "En": "in / on",
+        "mi": "my",
+        "calle": "street",
+        "hay": "there is / there are",
+        "una": "a (fem)",
+        "panadería": "bakery",
+        "muy": "very",
+        "buena": "good (fem)"
+      }
+    },
+    {
+      "id": "mhayesta-s3",
+      "spanish": "No hay leche en la nevera.",
+      "english": "There's no milk in the fridge.",
+      "wordMeanings": {
+        "No": "no / not",
+        "hay": "there is / there are",
+        "leche": "milk",
+        "en": "in",
+        "nevera": "fridge"
+      }
+    },
+    {
+      "id": "mhayesta-s4",
+      "spanish": "¿Hay un supermercado por aquí?",
+      "english": "Is there a supermarket around here?",
+      "wordMeanings": {
+        "Hay": "is there / are there",
+        "un": "a",
+        "supermercado": "supermarket",
+        "por": "around / through",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "mhayesta-s5",
+      "spanish": "Sí, hay uno en la esquina.",
+      "english": "Yes, there's one on the corner.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "hay": "there is",
+        "uno": "one",
+        "esquina": "corner"
+      }
+    },
+    {
+      "id": "mhayesta-s6",
+      "spanish": "En Madrid hay muchos museos.",
+      "english": "In Madrid there are lots of museums.",
+      "wordMeanings": {
+        "muchos": "many",
+        "museos": "museums"
+      }
+    },
+    {
+      "id": "mhayesta-s7",
+      "spanish": "Hay un problema con el ordenador.",
+      "english": "There's a problem with the computer.",
+      "wordMeanings": {
+        "problema": "problem",
+        "con": "with",
+        "el": "the (masc)",
+        "ordenador": "computer"
+      }
+    },
+    {
+      "id": "mhayesta-s8",
+      "spanish": "¿Cuántos estudiantes hay en clase?",
+      "english": "How many students are there in class?",
+      "wordMeanings": {
+        "Cuántos": "how many",
+        "estudiantes": "students",
+        "hay": "there are",
+        "clase": "class"
+      }
+    },
+    {
+      "id": "mhayesta-s9",
+      "spanish": "En mi pueblo solo hay dos bares.",
+      "english": "In my village there are only two bars.",
+      "wordMeanings": {
+        "pueblo": "village / town",
+        "solo": "only",
+        "dos": "two",
+        "bares": "bars"
+      }
+    },
+    {
+      "id": "mhayesta-s10",
+      "spanish": "Antes no había tantas tiendas por aquí.",
+      "english": "There didn't use to be so many shops around here.",
+      "wordMeanings": {
+        "Antes": "before",
+        "no": "not",
+        "había": "there was / there were (past)",
+        "tantas": "so many (fem)",
+        "tiendas": "shops",
+        "por": "around"
+      }
+    },
+    {
+      "id": "mhayesta-s11",
+      "spanish": "Ayer había mucha gente en la plaza.",
+      "english": "Yesterday there were lots of people in the square.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "había": "there was / there were",
+        "mucha": "a lot of (fem)",
+        "gente": "people",
+        "plaza": "square"
+      }
+    },
+    {
+      "id": "mhayesta-s12",
+      "spanish": "Hay que madrugar mañana.",
+      "english": "We have to get up early tomorrow.",
+      "wordMeanings": {
+        "Hay": "there is / one has to",
+        "que": "(with hay) obligation",
+        "madrugar": "to get up early",
+        "mañana": "tomorrow"
+      }
+    },
+    {
+      "id": "mhayesta-s13",
+      "spanish": "El libro está en la mesa.",
+      "english": "The book is on the table.",
+      "wordMeanings": {
+        "El": "the (masc)",
+        "libro": "book",
+        "está": "is (location)",
+        "en": "on",
+        "mesa": "table"
+      }
+    },
+    {
+      "id": "mhayesta-s14",
+      "spanish": "La nevera está vacía.",
+      "english": "The fridge is empty.",
+      "wordMeanings": {
+        "La": "the (fem)",
+        "nevera": "fridge",
+        "está": "is",
+        "vacía": "empty"
+      }
+    },
+    {
+      "id": "mhayesta-s15",
+      "spanish": "Mi coche está en el garaje.",
+      "english": "My car is in the garage.",
+      "wordMeanings": {
+        "Mi": "my",
+        "coche": "car",
+        "está": "is",
+        "garaje": "garage"
+      }
+    },
+    {
+      "id": "mhayesta-s16",
+      "spanish": "¿Dónde está el baño?",
+      "english": "Where is the bathroom?",
+      "wordMeanings": {
+        "Dónde": "where",
+        "está": "is",
+        "baño": "bathroom"
+      }
+    },
+    {
+      "id": "mhayesta-s17",
+      "spanish": "Está al final del pasillo.",
+      "english": "It's at the end of the corridor.",
+      "wordMeanings": {
+        "Está": "it is",
+        "al": "to the / at the",
+        "final": "end",
+        "del": "of the",
+        "pasillo": "corridor"
+      }
+    },
+    {
+      "id": "mhayesta-s18",
+      "spanish": "Las llaves están en el cajón.",
+      "english": "The keys are in the drawer.",
+      "wordMeanings": {
+        "Las": "the (fem pl)",
+        "llaves": "keys",
+        "están": "they are (location)",
+        "cajón": "drawer"
+      }
+    },
+    {
+      "id": "mhayesta-s19",
+      "spanish": "Mis padres están de vacaciones.",
+      "english": "My parents are on holiday.",
+      "wordMeanings": {
+        "Mis": "my (plural)",
+        "padres": "parents",
+        "están": "they are",
+        "de": "of / from",
+        "vacaciones": "holidays"
+      }
+    },
+    {
+      "id": "mhayesta-s20",
+      "spanish": "El supermercado está cerrado hoy.",
+      "english": "The supermarket is closed today.",
+      "wordMeanings": {
+        "supermercado": "supermarket",
+        "está": "is",
+        "cerrado": "closed",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "mhayesta-s21",
+      "spanish": "¿Hay pan?",
+      "english": "Is there any bread?",
+      "wordMeanings": {
+        "Hay": "is there",
+        "pan": "bread"
+      }
+    },
+    {
+      "id": "mhayesta-s22",
+      "spanish": "El pan está en la bolsa.",
+      "english": "The bread is in the bag.",
+      "wordMeanings": {
+        "pan": "bread",
+        "está": "is",
+        "bolsa": "bag"
+      }
+    },
+    {
+      "id": "mhayesta-s23",
+      "spanish": "Hay una carta para ti.",
+      "english": "There's a letter for you.",
+      "wordMeanings": {
+        "Hay": "there is",
+        "una": "a (fem)",
+        "carta": "letter",
+        "para": "for",
+        "ti": "you"
+      }
+    },
+    {
+      "id": "mhayesta-s24",
+      "spanish": "La carta está sobre la mesa.",
+      "english": "The letter is on top of the table.",
+      "wordMeanings": {
+        "carta": "letter",
+        "está": "is",
+        "sobre": "on top of",
+        "mesa": "table"
+      }
+    },
+    {
+      "id": "mhayesta-s25",
+      "spanish": "En esta zona hay mucho tráfico.",
+      "english": "There's a lot of traffic in this area.",
+      "wordMeanings": {
+        "zona": "area",
+        "hay": "there is",
+        "mucho": "a lot of",
+        "tráfico": "traffic"
+      }
+    },
+    {
+      "id": "mhayesta-s26",
+      "spanish": "En mi barrio hay un parque y siempre está lleno de niños.",
+      "english": "In my neighbourhood there's a park, and it's always full of children.",
+      "wordMeanings": {
+        "barrio": "neighbourhood",
+        "hay": "there is",
+        "parque": "park",
+        "siempre": "always",
+        "está": "it is",
+        "lleno": "full",
+        "niños": "children"
+      }
+    }
+  ],
+  "grammarExplanation": "'Hay' (from 'haber') expresses the EXISTENCE of something indefinite: Hay un problema = There is a problem. It has only one form for singular and plural. Use it when the thing isn't specific or known yet. 'Estar' tells you WHERE a specific thing or person is: El libro está en la mesa = The book is on the table (we know which book). A good trick: if you can name or point at it, it's probably 'está'. Also learn these two extras:\n\n• Había = there was / there were (past existence)\n• Hay que + infinitive = one has to do something (obligation): Hay que madrugar.\n\nConjugation of estar for location:\n• Está = he/she/it is • Están = they are",
+  "vocabulary": {
+    "hay": {
+      "mnemonic": "'Eye' — with your eye you spot what exists.",
+      "explanation": "Impersonal form of haber: there is / there are."
+    },
+    "había": {
+      "mnemonic": "Había happened in the past.",
+      "explanation": "Past (imperfect) of hay: there was / there were."
+    },
+    "madrugar": {
+      "mnemonic": "Mad-rush in the morning.",
+      "explanation": "To get up very early."
+    },
+    "nevera": {
+      "mnemonic": "Never a warm drink in the nevera.",
+      "explanation": "Fridge (Peninsular Spanish)."
+    },
+    "cajón": {
+      "mnemonic": "A cajón is a big box you draw open.",
+      "explanation": "Drawer."
+    },
+    "esquina": {
+      "mnemonic": "Around the esquina, the corner shop.",
+      "explanation": "Corner."
+    },
+    "lleno": {
+      "mnemonic": "Lleno = full to the brim.",
+      "explanation": "Full."
+    },
+    "tráfico": {
+      "mnemonic": "Traffic jam on the way to traffic-oh.",
+      "explanation": "Traffic."
+    }
+  }
+}

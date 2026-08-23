@@ -1,0 +1,378 @@
+{
+  "id": "module-por-vs-para",
+  "title": "Grammar: Por vs. Para",
+  "description": "Learn the difference between 'por' and 'para', one of the trickiest concepts in Spanish.",
+  "level": "Intermediate",
+  "sentences": [
+    {
+      "id": "mporpara-s1",
+      "spanish": "Caminamos por el parque.",
+      "english": "We walked through the park.",
+      "wordMeanings": {
+        "Caminamos": "we walked",
+        "por": "through / by",
+        "el": "the",
+        "parque": "park"
+      }
+    },
+    {
+      "id": "mporpara-s2",
+      "spanish": "Este regalo es para ti.",
+      "english": "This gift is for you.",
+      "wordMeanings": {
+        "Este": "this",
+        "regalo": "gift",
+        "es": "is",
+        "para": "for",
+        "ti": "you"
+      }
+    },
+    {
+      "id": "mporpara-s3",
+      "spanish": "Estudiamos para el examen.",
+      "english": "We studied for the exam.",
+      "wordMeanings": {
+        "Estudiamos": "we studied",
+        "para": "for (purpose/goal)",
+        "el": "the",
+        "examen": "exam"
+      }
+    },
+    {
+      "id": "mporpara-s4",
+      "spanish": "Cambié mi coche por este.",
+      "english": "I exchanged my car for this one.",
+      "wordMeanings": {
+        "Cambié": "I exchanged",
+        "mi": "my",
+        "coche": "car",
+        "por": "for (exchange)",
+        "este": "this one"
+      }
+    },
+    {
+      "id": "mporpara-s5",
+      "spanish": "Lo hice por mi hijo.",
+      "english": "I did it for my son.",
+      "wordMeanings": {
+        "Lo": "it",
+        "hice": "I did",
+        "por": "for (on behalf of / because of)",
+        "mi": "my",
+        "hijo": "son"
+      }
+    },
+    {
+      "id": "mporpara-s6",
+      "spanish": "Salimos para Madrid mañana.",
+      "english": "We leave for Madrid tomorrow.",
+      "wordMeanings": {
+        "Salimos": "we leave",
+        "para": "for (destination)",
+        "Madrid": "Madrid",
+        "mañana": "tomorrow"
+      }
+    },
+    {
+      "id": "mporpara-s7",
+      "spanish": "Trabajé por tres horas.",
+      "english": "I worked for three hours.",
+      "wordMeanings": {
+        "Trabajé": "I worked",
+        "por": "for (duration of time)",
+        "tres": "three",
+        "horas": "hours"
+      }
+    },
+    {
+      "id": "mporpara-s8",
+      "spanish": "La tarea es para el lunes.",
+      "english": "The homework is for Monday.",
+      "wordMeanings": {
+        "La": "the",
+        "tarea": "homework",
+        "es": "is",
+        "para": "for (deadline)",
+        "el": "the",
+        "lunes": "Monday"
+      }
+    },
+    {
+      "id": "mporpara-s9",
+      "spanish": "Gracias por la ayuda.",
+      "english": "Thanks for the help.",
+      "wordMeanings": {
+        "Gracias": "thanks",
+        "por": "for (gratitude/exchange)",
+        "la": "the",
+        "ayuda": "help"
+      }
+    },
+    {
+      "id": "mporpara-s10",
+      "spanish": "Para mí, esto es fácil.",
+      "english": "For me, this is easy.",
+      "wordMeanings": {
+        "Para": "for (opinion)",
+        "mí": "me",
+        "esto": "this",
+        "es": "is",
+        "fácil": "easy"
+      }
+    },
+    {
+      "id": "mporpara-s11",
+      "spanish": "Fuimos por el bosque de noche.",
+      "english": "We went through the forest at night.",
+      "wordMeanings": {
+        "Fuimos": "we went",
+        "por": "through",
+        "el": "the",
+        "bosque": "forest",
+        "de": "of",
+        "noche": "night"
+      }
+    },
+    {
+      "id": "mporpara-s12",
+      "spanish": "Viajamos para España hoy mismo.",
+      "english": "We are traveling to Spain this very day.",
+      "wordMeanings": {
+        "Viajamos": "we travel/travelled",
+        "para": "for/to (destination)",
+        "España": "Spain",
+        "hoy": "today",
+        "mismo": "itself/very"
+      }
+    },
+    {
+      "id": "mporpara-s13",
+      "spanish": "Habló por teléfono con su amigo.",
+      "english": "He spoke by phone with his friend.",
+      "wordMeanings": {
+        "Habló": "he spoke",
+        "por": "by/through",
+        "teléfono": "phone",
+        "con": "with",
+        "su": "his",
+        "amigo": "friend"
+      }
+    },
+    {
+      "id": "mporpara-s14",
+      "spanish": "Estas flores rojas son para mi madre.",
+      "english": "These red flowers are for my mother.",
+      "wordMeanings": {
+        "Estas": "these",
+        "flores": "flowers",
+        "rojas": "red",
+        "son": "are",
+        "para": "for (recipient)",
+        "mi": "my",
+        "madre": "mother"
+      }
+    },
+    {
+      "id": "mporpara-s15",
+      "spanish": "Esta tarea es difícil para nosotros.",
+      "english": "This task is difficult for us.",
+      "wordMeanings": {
+        "Esta": "this",
+        "tarea": "task/homework",
+        "es": "is",
+        "difícil": "difficult",
+        "para": "for (opinion/effect)",
+        "nosotros": "us/we"
+      }
+    },
+    {
+      "id": "mporpara-s16",
+      "spanish": "Corrí por el lago unos treinta minutos.",
+      "english": "I ran by the lake for about thirty minutes.",
+      "wordMeanings": {
+        "Corrí": "I ran",
+        "por": "by/for",
+        "el": "the",
+        "lago": "lake",
+        "unos": "some/about",
+        "treinta": "thirty",
+        "minutos": "minutes"
+      }
+    },
+    {
+      "id": "mporpara-s17",
+      "spanish": "El tren rápido sale para Madrid.",
+      "english": "The fast train leaves for Madrid.",
+      "wordMeanings": {
+        "El": "the",
+        "tren": "train",
+        "rápido": "fast",
+        "sale": "leaves",
+        "para": "for (destination)",
+        "Madrid": "Madrid"
+      }
+    },
+    {
+      "id": "mporpara-s18",
+      "spanish": "Me pagó cien euros por el proyecto.",
+      "english": "He paid me a hundred euros for the project.",
+      "wordMeanings": {
+        "Me": "me",
+        "pagó": "paid",
+        "cien": "a hundred",
+        "euros": "euros",
+        "por": "for (exchange)",
+        "el": "the",
+        "proyecto": "project"
+      }
+    },
+    {
+      "id": "mporpara-s19",
+      "spanish": "Este poema famoso fue escrito por Lorca.",
+      "english": "This famous poem was written by Lorca.",
+      "wordMeanings": {
+        "Este": "this",
+        "poema": "poem",
+        "famoso": "famous",
+        "fue": "was",
+        "escrito": "written",
+        "por": "by (passive voice)",
+        "Lorca": "Lorca"
+      }
+    },
+    {
+      "id": "mporpara-s20",
+      "spanish": "Estudio para conseguir un mejor trabajo.",
+      "english": "I study to get a better job.",
+      "wordMeanings": {
+        "Estudio": "I study",
+        "para": "for / in order to",
+        "conseguir": "to get/obtain",
+        "un": "a",
+        "mejor": "better",
+        "trabajo": "job/work"
+      }
+    },
+    {
+      "id": "mporpara-s21",
+      "spanish": "Hay que leer este libro para mañana.",
+      "english": "One must read this book by tomorrow.",
+      "wordMeanings": {
+        "Hay": "there is",
+        "que": "that (hay que = must)",
+        "leer": "to read",
+        "este": "this",
+        "libro": "book",
+        "para": "for/by (deadline)",
+        "mañana": "tomorrow"
+      }
+    },
+    {
+      "id": "mporpara-s22",
+      "spanish": "Me he sacrificado aquí solo por ti.",
+      "english": "I have sacrificed here only for you.",
+      "wordMeanings": {
+        "Me": "myself",
+        "he": "I have",
+        "sacrificado": "sacrificed",
+        "aquí": "here",
+        "solo": "only",
+        "por": "for (sake of/because of)",
+        "ti": "you"
+      }
+    },
+    {
+      "id": "mporpara-s23",
+      "spanish": "Fui a la farmacia por mis medicamentos.",
+      "english": "I went to the pharmacy for my medications.",
+      "wordMeanings": {
+        "Fui": "I went",
+        "a": "to",
+        "la": "the",
+        "farmacia": "pharmacy",
+        "por": "for (to fetch/get)",
+        "mis": "my",
+        "medicamentos": "medications"
+      }
+    },
+    {
+      "id": "mporpara-s24",
+      "spanish": "Para ser un perro pequeño, corre rápido.",
+      "english": "For a small dog, it runs fast.",
+      "wordMeanings": {
+        "Para": "for (considering/comparison)",
+        "ser": "to be",
+        "un": "a",
+        "perro": "dog",
+        "pequeño": "small",
+        "corre": "runs",
+        "rápido": "fast"
+      }
+    },
+    {
+      "id": "mporpara-s25",
+      "spanish": "Miré por la ventana y vi llover.",
+      "english": "I looked through the window and saw it rain.",
+      "wordMeanings": {
+        "Miré": "I looked",
+        "por": "through",
+        "la": "the",
+        "ventana": "window",
+        "y": "and",
+        "vi": "I saw",
+        "llover": "to rain"
+      }
+    }
+  ],
+  "grammarExplanation": "Both 'por' and 'para' translate to 'for', but they have different uses. Use 'para' for: Purpose, Recipient, Opinion, Destination, and Deadlines (PRODD). Use 'por' for everything else: moving through space, duration of time, exchange (including thanks), and 'because of/on behalf of'.",
+  "vocabulary": {
+    "caminamos": {
+      "mnemonic": "We walk on the path.",
+      "explanation": "Preterite or present form of caminar."
+    },
+    "parque": {
+      "mnemonic": "Park in the park.",
+      "explanation": "Means 'park'."
+    },
+    "regalo": {
+      "mnemonic": "A regal gift.",
+      "explanation": "Means 'gift' or 'present'."
+    },
+    "examen": {
+      "mnemonic": "Exam.",
+      "explanation": "Means 'test' or 'exam'."
+    },
+    "cambié": {
+      "mnemonic": "Exchange it.",
+      "explanation": "Preterite of cambiar (to exchange or change)."
+    },
+    "hijo": {
+      "mnemonic": "He, ho - it's my son.",
+      "explanation": "Means 'son'. 'Hija' is daughter."
+    },
+    "salimos": {
+      "mnemonic": "Sally left.",
+      "explanation": "Present or preterite of salir."
+    },
+    "mañana": {
+      "mnemonic": "See you in the morning tomorrow.",
+      "explanation": "Means either 'tomorrow' or 'morning' depending on context."
+    },
+    "tarea": {
+      "mnemonic": "A task to do.",
+      "explanation": "Means 'homework' or 'task'."
+    },
+    "lunes": {
+      "mnemonic": "Lunar day - Monday.",
+      "explanation": "Means 'Monday'."
+    },
+    "ayuda": {
+      "mnemonic": "Are you da person to help?",
+      "explanation": "Means 'help' or 'aid'."
+    },
+    "fácil": {
+      "mnemonic": "Facile is easy.",
+      "explanation": "Means 'easy'."
+    }
+  }
+}

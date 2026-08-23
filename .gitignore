@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dev-dist/
+
+# Environment & secrets (never commit)
+.env
+.env.local
+.env.*.local
+*.pem
+client_secret*.json
+.google-tts-token.json
+
+# Python tooling (see tools/)
+.venv/
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+*.log
+.vinext

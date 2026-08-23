@@ -1,0 +1,178 @@
+{
+  "id": "review-16-17-18",
+  "title": "🔄 Review: Chapters 16, 17, 18",
+  "description": "Mixed practice from Affirmative Commands, Negative Commands, Subjunctive: Desires.",
+  "level": "Beginner",
+  "type": "review",
+  "reviewsModules": [
+    "module-16",
+    "module-17",
+    "module-18"
+  ],
+  "sentences": [
+    {
+      "id": "review-16-17-18-from-m17-s5",
+      "spanish": "No me digas eso.",
+      "english": "Don't tell me that.",
+      "wordMeanings": {
+        "No": "no / not",
+        "me": "me / to me",
+        "digas": "say (subj)",
+        "eso": "that"
+      }
+    },
+    {
+      "id": "review-16-17-18-from-m17-s1",
+      "spanish": "No espere aquí.",
+      "english": "Don't wait here. (formal)",
+      "wordMeanings": {
+        "No": "no / not",
+        "espere": "wait (subj)",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "review-16-17-18-from-m16-s4",
+      "spanish": "Siéntese aquí.",
+      "english": "Sit here. (formal)",
+      "wordMeanings": {
+        "Siéntese": "sit down (form)",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "review-16-17-18-from-m16-s1",
+      "spanish": "Abrid la puerta.",
+      "english": "Open the door. (you plural, Spain)",
+      "wordMeanings": {
+        "Abrid": "open (imp pl)",
+        "la": "the / it (fem)",
+        "puerta": "door"
+      }
+    },
+    {
+      "id": "review-16-17-18-from-m17-s3",
+      "spanish": "No coma tan rápido.",
+      "english": "Don't eat so fast. (formal)",
+      "wordMeanings": {
+        "No": "no / not",
+        "coma": "eat (subj)",
+        "tan": "so / as",
+        "rápido": "fast / quickly"
+      }
+    },
+    {
+      "id": "review-16-17-18-from-m18-s3",
+      "spanish": "Quiero que abras la puerta.",
+      "english": "I want you to open the door.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "abras": "open (subj/inf)",
+        "la": "the / it (fem)",
+        "puerta": "door"
+      }
+    },
+    {
+      "id": "review-16-17-18-from-m18-s4",
+      "spanish": "Quiero que se lo des a Ana.",
+      "english": "I want you to give it to Ana.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "se": "himself / herself / themselves",
+        "lo": "it / him",
+        "des": "give (subj)",
+        "a": "to",
+        "Ana": "Ana"
+      }
+    },
+    {
+      "id": "review-16-17-18-from-m18-s5",
+      "spanish": "Quiero que se la des a Luis.",
+      "english": "I want you to give it to Luis.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "se": "himself / herself / themselves",
+        "la": "the / it (fem)",
+        "des": "give (subj)",
+        "a": "to",
+        "Luis": "Luis"
+      }
+    },
+    {
+      "id": "review-16-17-18-from-m17-s2",
+      "spanish": "No escuchen.",
+      "english": "Don't listen. (plural)",
+      "wordMeanings": {
+        "No": "no / not",
+        "escuchen": "listen (subj pl)"
+      }
+    },
+    {
+      "id": "review-16-17-18-from-m18-s2",
+      "spanish": "Quiero que te lo pases bien.",
+      "english": "I want you to have a good time.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "te": "yourself",
+        "lo": "it",
+        "pases": "spend / pass (subj)",
+        "bien": "well/good"
+      }
+    },
+    {
+      "id": "review-16-17-18-from-m18-s1",
+      "spanish": "Quiero que vengáis a la fiesta.",
+      "english": "I want you to come to the party. (you plural, Spain)",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that / than",
+        "vengáis": "come (subj pl)",
+        "a": "to / at",
+        "la": "the / it (fem)",
+        "fiesta": "party"
+      }
+    },
+    {
+      "id": "review-16-17-18-from-m17-s4",
+      "spanish": "No me lo des.",
+      "english": "Don't give it to me.",
+      "wordMeanings": {
+        "No": "no / not",
+        "me": "me / to me",
+        "lo": "it / him",
+        "des": "give (subj)"
+      }
+    },
+    {
+      "id": "review-16-17-18-from-m16-s3",
+      "spanish": "Escucha.",
+      "english": "Listen.",
+      "wordMeanings": {
+        "Escucha": "listens"
+      }
+    },
+    {
+      "id": "review-16-17-18-from-m16-s5",
+      "spanish": "Quédese en casa.",
+      "english": "Stay at home. (formal)",
+      "wordMeanings": {
+        "Quédese": "stay (form)",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "review-16-17-18-from-m16-s2",
+      "spanish": "Vayan.",
+      "english": "Go. (you plural)",
+      "wordMeanings": {
+        "Vayan": "go (subj pl)"
+      }
+    }
+  ],
+  "grammarExplanation": "Time to review! This module mixes sentences from the last 3 chapters you studied:\n\n• Chapter 16: Affirmative Commands\n• Chapter 17: Negative Commands\n• Chapter 18: Subjunctive: Desires\n\nThe sentences are shuffled so you can't rely on context — you'll need to recall the vocabulary and grammar from each chapter on your own. Take your time and listen carefully!"
+}

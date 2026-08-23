@@ -1,0 +1,328 @@
+{
+  "id": "module-verb-hacer",
+  "title": "Grammar: The Verb 'Hacer'",
+  "description": "Deep practice of 'hacer': the weather, everyday activities, and saying how long things have been happening.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "mhacer-s1",
+      "spanish": "Hoy hace buen tiempo.",
+      "english": "The weather is nice today.",
+      "wordMeanings": {
+        "Hoy": "today",
+        "hace": "it makes / it is (weather)",
+        "buen": "good",
+        "tiempo": "weather / time"
+      }
+    },
+    {
+      "id": "mhacer-s2",
+      "spanish": "En invierno hace mucho frío en Burgos.",
+      "english": "In winter it's very cold in Burgos.",
+      "wordMeanings": {
+        "En": "in",
+        "invierno": "winter",
+        "mucho": "a lot of",
+        "frío": "cold",
+        "Burgos": "Burgos"
+      }
+    },
+    {
+      "id": "mhacer-s3",
+      "spanish": "En Sevilla hace calor en agosto.",
+      "english": "It's hot in Seville in August.",
+      "wordMeanings": {
+        "Sevilla": "Seville",
+        "calor": "heat",
+        "agosto": "August"
+      }
+    },
+    {
+      "id": "mhacer-s4",
+      "spanish": "Hoy hace viento en la costa.",
+      "english": "It's windy on the coast today.",
+      "wordMeanings": {
+        "Hoy": "today",
+        "viento": "wind",
+        "costa": "coast"
+      }
+    },
+    {
+      "id": "mhacer-s5",
+      "spanish": "¿Qué tiempo hace en tu ciudad?",
+      "english": "What's the weather like in your city?",
+      "wordMeanings": {
+        "Qué": "what",
+        "tiempo": "weather",
+        "hace": "is it (weather)",
+        "tu": "your",
+        "ciudad": "city"
+      }
+    },
+    {
+      "id": "mhacer-s6",
+      "spanish": "Hace sol, vamos a la terraza.",
+      "english": "It's sunny, let's go out to the terrace.",
+      "wordMeanings": {
+        "sol": "sun",
+        "vamos": "let's go",
+        "terraza": "terrace / pavement café"
+      }
+    },
+    {
+      "id": "mhacer-s7",
+      "spanish": "En primavera hace fresco por la mañana.",
+      "english": "In spring it's cool in the morning.",
+      "wordMeanings": {
+        "primavera": "spring",
+        "fresco": "cool",
+        "por": "in (part of day)",
+        "mañana": "morning"
+      }
+    },
+    {
+      "id": "mhacer-s8",
+      "spanish": "¿Qué haces los fines de semana?",
+      "english": "What do you do at weekends?",
+      "wordMeanings": {
+        "haces": "you do",
+        "fines": "ends",
+        "semana": "week"
+      }
+    },
+    {
+      "id": "mhacer-s9",
+      "spanish": "Hago deporte tres veces por semana.",
+      "english": "I do sport three times a week.",
+      "wordMeanings": {
+        "Hago": "I do / make",
+        "deporte": "sport",
+        "tres": "three",
+        "veces": "times",
+        "por": "per"
+      }
+    },
+    {
+      "id": "mhacer-s10",
+      "spanish": "Mi hermana hace la cena todas las noches.",
+      "english": "My sister makes dinner every night.",
+      "wordMeanings": {
+        "hermana": "sister",
+        "cena": "dinner",
+        "todas": "all (fem pl)",
+        "noches": "nights"
+      }
+    },
+    {
+      "id": "mhacer-s11",
+      "spanish": "Hago la compra los sábados.",
+      "english": "I do the shopping on Saturdays.",
+      "wordMeanings": {
+        "compra": "shopping",
+        "sábados": "Saturdays"
+      }
+    },
+    {
+      "id": "mhacer-s12",
+      "spanish": "¿Hacemos una paella el domingo?",
+      "english": "Shall we make a paella on Sunday?",
+      "wordMeanings": {
+        "Hacemos": "shall we make",
+        "paella": "paella",
+        "domingo": "Sunday"
+      }
+    },
+    {
+      "id": "mhacer-s13",
+      "spanish": "Los niños hacen los deberes después de merendar.",
+      "english": "The children do their homework after their afternoon snack.",
+      "wordMeanings": {
+        "niños": "children",
+        "hacen": "they do",
+        "deberes": "homework",
+        "después": "after",
+        "merendar": "to have an afternoon snack"
+      }
+    },
+    {
+      "id": "mhacer-s14",
+      "spanish": "Hago fotos de todo el viaje.",
+      "english": "I take photos of the whole trip.",
+      "wordMeanings": {
+        "fotos": "photos",
+        "todo": "whole",
+        "viaje": "trip"
+      }
+    },
+    {
+      "id": "mhacer-s15",
+      "spanish": "Hace dos años que vivo aquí.",
+      "english": "I've been living here for two years.",
+      "wordMeanings": {
+        "Hace": "(time) ago / it's been",
+        "dos": "two",
+        "años": "years",
+        "vivo": "I live",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "mhacer-s16",
+      "spanish": "¿Cuánto tiempo hace que vives en Valencia?",
+      "english": "How long have you lived in Valencia?",
+      "wordMeanings": {
+        "Cuánto": "how much",
+        "tiempo": "time",
+        "hace": "it's been",
+        "vives": "you live",
+        "Valencia": "Valencia"
+      }
+    },
+    {
+      "id": "mhacer-s17",
+      "spanish": "Hace diez minutos que espero el autobús.",
+      "english": "I've been waiting for the bus for ten minutes.",
+      "wordMeanings": {
+        "diez": "ten",
+        "minutos": "minutes",
+        "espero": "I wait",
+        "autobús": "bus"
+      }
+    },
+    {
+      "id": "mhacer-s18",
+      "spanish": "Hace mucho que no te veía.",
+      "english": "Long time no see!",
+      "wordMeanings": {
+        "mucho": "a long time",
+        "te": "you",
+        "veía": "I used to see"
+      }
+    },
+    {
+      "id": "mhacer-s19",
+      "spanish": "Hace un mes que no llueve.",
+      "english": "It hasn't rained for a month.",
+      "wordMeanings": {
+        "mes": "month",
+        "llueve": "it rains"
+      }
+    },
+    {
+      "id": "mhacer-s20",
+      "spanish": "Hace frío, cierra la ventana, por favor.",
+      "english": "It's cold, close the window, please.",
+      "wordMeanings": {
+        "cierra": "close (command)",
+        "ventana": "window",
+        "favor": "favour (por favor = please)"
+      }
+    },
+    {
+      "id": "mhacer-s21",
+      "spanish": "Los fines de semana hago senderismo.",
+      "english": "At weekends I go hiking.",
+      "wordMeanings": {
+        "senderismo": "hiking"
+      }
+    },
+    {
+      "id": "mhacer-s22",
+      "spanish": "Hago cola cada mañana para el metro.",
+      "english": "I queue every morning for the metro.",
+      "wordMeanings": {
+        "cola": "queue",
+        "cada": "every",
+        "metro": "underground"
+      }
+    },
+    {
+      "id": "mhacer-s23",
+      "spanish": "¿Quién hace la reserva del restaurante?",
+      "english": "Who's making the restaurant booking?",
+      "wordMeanings": {
+        "Quién": "who",
+        "reserva": "booking",
+        "restaurante": "restaurant",
+        "del": "of the"
+      }
+    },
+    {
+      "id": "mhacer-s24",
+      "spanish": "Este verano hacemos un viaje al norte.",
+      "english": "This summer we're taking a trip up north.",
+      "wordMeanings": {
+        "Este": "this",
+        "verano": "summer",
+        "hacemos": "we make",
+        "viaje": "trip",
+        "norte": "north"
+      }
+    },
+    {
+      "id": "mhacer-s25",
+      "spanish": "Mi padre desayuna café y hace un crucigrama.",
+      "english": "My dad has coffee and does a crossword.",
+      "wordMeanings": {
+        "padre": "dad",
+        "desayuna": "has breakfast",
+        "café": "coffee",
+        "crucigrama": "crossword"
+      }
+    },
+    {
+      "id": "mhacer-s26",
+      "spanish": "Hago lo que puedo.",
+      "english": "I do what I can.",
+      "wordMeanings": {
+        "lo": "what",
+        "puedo": "I can"
+      }
+    },
+    {
+      "id": "mhacer-s27",
+      "spanish": "Mi madre hace bizcocho los domingos.",
+      "english": "My mum bakes a cake on Sundays.",
+      "wordMeanings": {
+        "madre": "mother",
+        "bizcocho": "sponge cake",
+        "domingos": "Sundays"
+      }
+    }
+  ],
+  "grammarExplanation": "'Hacer' means 'to do' or 'to make', but it also covers things English splits across other verbs:\n\n• Weather → hace sol / frío / calor / viento / buen tiempo = it's sunny / cold / hot / windy / nice\n• Time elapsed → Hace + time + que + present = how long something has been happening: Hace dos años que vivo aquí.\n\nEveryday expressions:\n• hacer la compra = to do the shopping\n• hacer fotos = to take photos\n• hacer deporte = to do sport\n• hacer cola = to queue\n\nConjugation:\n• Hago = I do (IRREGULAR!)\n• Haces = you do\n• Hace = he/she does\n• Hacemos = we do\n• Hacéis = you all do\n• Hacen = they do",
+  "vocabulary": {
+    "fresco": {
+      "mnemonic": "Fresh air feels cool — fresco.",
+      "explanation": "Cool (weather). Hace fresco = it's cool."
+    },
+    "deberes": {
+      "mnemonic": "You owe your duties — deberes.",
+      "explanation": "Homework (always plural in Spain)."
+    },
+    "merendar": {
+      "mnemonic": "Merienda: the sacred afternoon snack.",
+      "explanation": "To have an afternoon snack."
+    },
+    "senderismo": {
+      "mnemonic": "Send your legs up the sendero (path).",
+      "explanation": "Hillwalking / hiking, hugely popular in Spain."
+    },
+    "cola": {
+      "mnemonic": "Queue up for a cola.",
+      "explanation": "Queue. Hacer cola = to queue."
+    },
+    "bizcocho": {
+      "mnemonic": "Biscuit's big Spanish cousin.",
+      "explanation": "Sponge cake."
+    },
+    "crucigrama": {
+      "mnemonic": "Cross-word written cross-wise.",
+      "explanation": "Crossword puzzle."
+    },
+    "compra": {
+      "mnemonic": "La compra fills the basket.",
+      "explanation": "The shopping / grocery purchase."
+    }
+  }
+}

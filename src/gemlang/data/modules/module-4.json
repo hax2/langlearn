@@ -1,0 +1,617 @@
+{
+  "id": "module-4",
+  "title": "Chapter 4: Possession",
+  "description": "Talk about what you have using 'tener'.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "m4-s1",
+      "spanish": "Tengo un libro.",
+      "english": "I have a book.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "un": "a",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "m4-s2",
+      "spanish": "Tengo dos libros.",
+      "english": "I have two books.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "dos": "two",
+        "libros": "books"
+      }
+    },
+    {
+      "id": "m4-s3",
+      "spanish": "Tengo una casa.",
+      "english": "I have a house.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "una": "a (fem)",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m4-s4",
+      "spanish": "Tengo un coche.",
+      "english": "I have a car.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "un": "a",
+        "coche": "car"
+      }
+    },
+    {
+      "id": "m4-s5",
+      "spanish": "¿Tienes un libro?",
+      "english": "Do you have a book?",
+      "wordMeanings": {
+        "Tienes": "you have",
+        "un": "a",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "m4-s6",
+      "spanish": "Sí, tengo un libro.",
+      "english": "Yes, I have a book.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "tengo": "I have",
+        "un": "a",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "m4-s7",
+      "spanish": "No, no tengo un libro.",
+      "english": "No, I don't have a book.",
+      "wordMeanings": {
+        "No": "no / not",
+        "no": "no / not",
+        "tengo": "I have",
+        "un": "a",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "m4-s8",
+      "spanish": "¿Tienes una casa?",
+      "english": "Do you have a house?",
+      "wordMeanings": {
+        "Tienes": "you have",
+        "una": "a (fem)",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m4-s9",
+      "spanish": "Sí, tengo una casa.",
+      "english": "Yes, I have a house.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "tengo": "I have",
+        "una": "a (fem)",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m4-s10",
+      "spanish": "No, no tengo una casa.",
+      "english": "No, I don't have a house.",
+      "wordMeanings": {
+        "No": "no / not",
+        "no": "no / not",
+        "tengo": "I have",
+        "una": "a (fem)",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m4-s11",
+      "spanish": "Ana tiene un libro.",
+      "english": "Ana has a book.",
+      "wordMeanings": {
+        "Ana": "Ana",
+        "tiene": "has",
+        "un": "a",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "m4-s12",
+      "spanish": "Luis tiene un coche.",
+      "english": "Luis has a car.",
+      "wordMeanings": {
+        "Luis": "Luis",
+        "tiene": "has",
+        "un": "a",
+        "coche": "car"
+      }
+    },
+    {
+      "id": "m4-s13",
+      "spanish": "Marta tiene una casa.",
+      "english": "Marta has a house.",
+      "wordMeanings": {
+        "Marta": "Marta",
+        "tiene": "has",
+        "una": "a (fem)",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m4-s14",
+      "spanish": "Carlos tiene una mesa.",
+      "english": "Carlos has a table.",
+      "wordMeanings": {
+        "Carlos": "Carlos",
+        "tiene": "has",
+        "una": "a (fem)",
+        "mesa": "table"
+      }
+    },
+    {
+      "id": "m4-s15",
+      "spanish": "Tenemos un problema.",
+      "english": "We have a problem.",
+      "wordMeanings": {
+        "Tenemos": "we have",
+        "un": "a",
+        "problema": "problem"
+      }
+    },
+    {
+      "id": "m4-s16",
+      "spanish": "Tenemos una idea.",
+      "english": "We have an idea.",
+      "wordMeanings": {
+        "Tenemos": "we have",
+        "una": "a (fem)",
+        "idea": "idea"
+      }
+    },
+    {
+      "id": "m4-s17",
+      "spanish": "¿Tenéis tiempo?",
+      "english": "Do you all have time?",
+      "wordMeanings": {
+        "Tenéis": "you all have",
+        "tiempo": "time"
+      }
+    },
+    {
+      "id": "m4-s18",
+      "spanish": "Sí, tenemos tiempo.",
+      "english": "Yes, we have time.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "tenemos": "we have",
+        "tiempo": "time"
+      }
+    },
+    {
+      "id": "m4-s19",
+      "spanish": "No, no tenemos tiempo.",
+      "english": "No, we don't have time.",
+      "wordMeanings": {
+        "No": "no / not",
+        "no": "no / not",
+        "tenemos": "we have",
+        "tiempo": "time"
+      }
+    },
+    {
+      "id": "m4-s20",
+      "spanish": "Tengo dinero.",
+      "english": "I have money.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "dinero": "money"
+      }
+    },
+    {
+      "id": "m4-s21",
+      "spanish": "No tengo dinero.",
+      "english": "I have no money.",
+      "wordMeanings": {
+        "No": "no / not",
+        "tengo": "I have",
+        "dinero": "money"
+      }
+    },
+    {
+      "id": "m4-s22",
+      "spanish": "¿Cuánto dinero tienes?",
+      "english": "How much money do you have?",
+      "wordMeanings": {
+        "Cuánto": "how much",
+        "dinero": "money",
+        "tienes": "you have"
+      }
+    },
+    {
+      "id": "m4-s23",
+      "spanish": "Tengo diez euros.",
+      "english": "I have ten euros.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "diez": "ten",
+        "euros": "euros"
+      }
+    },
+    {
+      "id": "m4-s24",
+      "spanish": "Tengo veinte euros.",
+      "english": "I have twenty euros.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "veinte": "twenty",
+        "euros": "euros"
+      }
+    },
+    {
+      "id": "m4-s25",
+      "spanish": "Tengo hambre.",
+      "english": "I am hungry.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "hambre": "hunger"
+      }
+    },
+    {
+      "id": "m4-s26",
+      "spanish": "Tengo sed.",
+      "english": "I am thirsty.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "sed": "thirst"
+      }
+    },
+    {
+      "id": "m4-s27",
+      "spanish": "¿Tienes hambre?",
+      "english": "Are you hungry?",
+      "wordMeanings": {
+        "Tienes": "you have",
+        "hambre": "hunger"
+      }
+    },
+    {
+      "id": "m4-s28",
+      "spanish": "Sí, tengo hambre.",
+      "english": "Yes, I am hungry.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "tengo": "I have",
+        "hambre": "hunger"
+      }
+    },
+    {
+      "id": "m4-s29",
+      "spanish": "No, no tengo hambre.",
+      "english": "No, I am not hungry.",
+      "wordMeanings": {
+        "No": "no / not",
+        "no": "no / not",
+        "tengo": "I have",
+        "hambre": "hunger"
+      }
+    },
+    {
+      "id": "m4-s30",
+      "spanish": "¿Cuántos años tienes?",
+      "english": "How old are you?",
+      "wordMeanings": {
+        "Cuántos": "how many",
+        "años": "years",
+        "tienes": "you have"
+      }
+    },
+    {
+      "id": "m4-s31",
+      "spanish": "Tengo dieciséis años.",
+      "english": "I am sixteen years old.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "dieciséis": "sixteen",
+        "años": "years"
+      }
+    },
+    {
+      "id": "m4-s32",
+      "spanish": "Tengo dieciocho años.",
+      "english": "I am eighteen years old.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "dieciocho": "eighteen",
+        "años": "years"
+      }
+    },
+    {
+      "id": "m4-s33",
+      "spanish": "Tengo veinte años.",
+      "english": "I am twenty years old.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "veinte": "twenty",
+        "años": "years"
+      }
+    },
+    {
+      "id": "m4-s34",
+      "spanish": "Luis tiene treinta años.",
+      "english": "Luis is thirty years old.",
+      "wordMeanings": {
+        "Luis": "Luis",
+        "tiene": "has",
+        "treinta": "thirty",
+        "años": "years"
+      }
+    },
+    {
+      "id": "m4-s35",
+      "spanish": "Tengo un hermano.",
+      "english": "I have a brother.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "un": "a",
+        "hermano": "brother"
+      }
+    },
+    {
+      "id": "m4-s36",
+      "spanish": "Tengo una hermana.",
+      "english": "I have a sister.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "una": "a (fem)",
+        "hermana": "sister"
+      }
+    },
+    {
+      "id": "m4-s37",
+      "spanish": "¿Tienes hermanos?",
+      "english": "Do you have siblings?",
+      "wordMeanings": {
+        "Tienes": "you have",
+        "hermanos": "brothers / siblings"
+      }
+    },
+    {
+      "id": "m4-s38",
+      "spanish": "Sí, tengo dos hermanos.",
+      "english": "Yes, I have two brothers.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "tengo": "I have",
+        "dos": "two",
+        "hermanos": "brothers / siblings"
+      }
+    },
+    {
+      "id": "m4-s39",
+      "spanish": "No, no tengo hermanos.",
+      "english": "No, I don't have siblings.",
+      "wordMeanings": {
+        "No": "no / not",
+        "no": "no / not",
+        "tengo": "I have",
+        "hermanos": "brothers / siblings"
+      }
+    },
+    {
+      "id": "m4-s40",
+      "spanish": "Tengo que irme ahora.",
+      "english": "I have to go now.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "que": "to",
+        "irme": "to go / to leave",
+        "ahora": "now"
+      }
+    },
+    {
+      "id": "m4-s41",
+      "spanish": "No tengo ni idea.",
+      "english": "I have no idea.",
+      "wordMeanings": {
+        "No": "not",
+        "tengo": "I have",
+        "ni": "nor / not even",
+        "idea": "idea"
+      }
+    },
+    {
+      "id": "m4-s42",
+      "spanish": "Ana está en casa y tiene hambre.",
+      "english": "Ana is at home and is hungry.",
+      "wordMeanings": {
+        "Ana": "Ana",
+        "está": "is",
+        "en": "in / on",
+        "casa": "house",
+        "y": "and",
+        "tiene": "has",
+        "hambre": "hunger"
+      }
+    },
+    {
+      "id": "m4-s43",
+      "spanish": "Luis está en el café y tiene sed.",
+      "english": "Luis is in the café and is thirsty.",
+      "wordMeanings": {
+        "Luis": "Luis",
+        "está": "is",
+        "en": "in / on",
+        "el": "the",
+        "café": "coffee",
+        "y": "and",
+        "tiene": "has",
+        "sed": "thirst"
+      }
+    },
+    {
+      "id": "m4-s44",
+      "spanish": "Tengo un libro nuevo.",
+      "english": "I have a new book.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "un": "a",
+        "libro": "book",
+        "nuevo": "new (masc)"
+      }
+    },
+    {
+      "id": "m4-s45",
+      "spanish": "Tengo una casa grande.",
+      "english": "I have a big house.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "una": "a (fem)",
+        "casa": "house",
+        "grande": "big"
+      }
+    },
+    {
+      "id": "m4-s46",
+      "spanish": "Tengo dos libros pequeños.",
+      "english": "I have two small books.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "dos": "two",
+        "libros": "books",
+        "pequeños": "small (masc pl)"
+      }
+    },
+    {
+      "id": "m4-s47",
+      "spanish": "Tengo un problema grande.",
+      "english": "I have a big problem.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "un": "a",
+        "problema": "problem",
+        "grande": "big"
+      }
+    }
+  ],
+  "grammarExplanation": "The verb 'tener' means 'to have,' but in Spanish it also expresses age, hunger, thirst, and more.\n\n• Tengo = I have\n• Tienes = You have\n• Tiene = He/She has\n• Tenemos = We have\n• Tenéis = You all have (Spain)\n• Tienen = They have\n\nSpecial expressions:\n• Tengo hambre = I am hungry (lit. 'I have hunger')\n• Tengo sed = I am thirsty\n• Tengo 20 años = I am 20 years old",
+  "vocabulary": {
+    "tengo": {
+      "mnemonic": "Think 'tango' — I have a tango partner!",
+      "explanation": "First person of 'tener' (to have). Irregular."
+    },
+    "libro": {
+      "mnemonic": "Think 'library' — full of libros (books)!",
+      "explanation": "Means 'book'. Masculine noun."
+    },
+    "casa": {
+      "mnemonic": "Think 'casino' — a big house of games.",
+      "explanation": "Feminine noun. 'En casa' = at home."
+    },
+    "coche": {
+      "mnemonic": "Think 'coach' — a horse-drawn coach = car.",
+      "explanation": "Means 'car'. Mainly used in Spain."
+    },
+    "tienes": {
+      "mnemonic": "'Tea-en-es' — you have tea.",
+      "explanation": "Informal 'you have'. From 'tener'."
+    },
+    "tiene": {
+      "mnemonic": "'Tea-en-ay' — he/she has tea.",
+      "explanation": "Third person of 'tener'."
+    },
+    "mesa": {
+      "mnemonic": "A 'mesa' (flat-topped hill) — flat like a table.",
+      "explanation": "Means 'table'. Feminine noun."
+    },
+    "tenemos": {
+      "mnemonic": "'Ten-ay-mos' — we have ten of them!",
+      "explanation": "First person plural of 'tener'."
+    },
+    "problema": {
+      "mnemonic": "Nearly identical to 'problem' — cognate!",
+      "explanation": "Masculine despite -a ending!"
+    },
+    "tienen": {
+      "mnemonic": "'Tea-en-en' — they all have tea.",
+      "explanation": "Third person plural of 'tener'."
+    },
+    "ustedes": {
+      "mnemonic": "Think 'you-sted-es' — all of you!",
+      "explanation": "In Spain this is formal only; everyday plural 'you all' is vosotros."
+    },
+    "tiempo": {
+      "mnemonic": "Think 'tempo' — time and rhythm.",
+      "explanation": "Means 'time' or 'weather'."
+    },
+    "dinero": {
+      "mnemonic": "'Diner-o' — you need dinero at the diner.",
+      "explanation": "Means 'money'."
+    },
+    "hambre": {
+      "mnemonic": "Think 'hamburger' — so hungry for one!",
+      "explanation": "'Tener hambre' = to be hungry."
+    },
+    "sed": {
+      "mnemonic": "Think 'said I'm thirsty!'",
+      "explanation": "'Tener sed' = to be thirsty."
+    },
+    "años": {
+      "mnemonic": "Think 'annual' → años = years.",
+      "explanation": "'Tener X años' = to be X years old."
+    },
+    "hermano": {
+      "mnemonic": "'Her man, oh!' — her brother.",
+      "explanation": "Means 'brother'. Fem: hermana."
+    },
+    "hermana": {
+      "mnemonic": "'Her mana' — mana from her sister.",
+      "explanation": "Means 'sister'."
+    },
+    "amigo": {
+      "mnemonic": "Already used in English — a friendly buddy.",
+      "explanation": "Male friend. 'Amiga' for female."
+    },
+    "centro": {
+      "mnemonic": "Same as English 'center' — downtown!",
+      "explanation": "Also means 'center'. 'Centro' = downtown area."
+    },
+    "amiga": {
+      "mnemonic": "Feminine version of 'amigo' — your gal pal.",
+      "explanation": "Female friend. Note the -a ending."
+    },
+    "la": {
+      "mnemonic": "'La lady' — her/it (feminine).",
+      "explanation": "Also 'the' (feminine)."
+    },
+    "escuela": {
+      "mnemonic": "Sounds like 'school-a' — it IS school!",
+      "explanation": "Feminine noun meaning school."
+    },
+    "está": {
+      "mnemonic": "Think 'establish' where something is.",
+      "explanation": "Third person of 'estar' (to be, location/state)."
+    },
+    "y": {
+      "mnemonic": "The letter 'Y' connects — like 'and' connects words.",
+      "explanation": "Pronounced like 'ee'. The simplest conjunction."
+    },
+    "café": {
+      "mnemonic": "Same as English 'café' — coffee!",
+      "explanation": "Means 'coffee' or 'café'."
+    },
+    "nuevo": {
+      "mnemonic": "Think 'new-vo' — brand new!",
+      "explanation": "Means 'new'. Fem: nueva."
+    },
+    "grande": {
+      "mnemonic": "Think 'grand' — something grand is big!",
+      "explanation": "Means 'big/large'. Same for masc/fem."
+    }
+  }
+}

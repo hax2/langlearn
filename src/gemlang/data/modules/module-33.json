@@ -1,0 +1,134 @@
+{
+  "id": "module-33",
+  "title": "Theme: Nature and Environment",
+  "description": "Vocabulary for weather, landscapes, and conservation.",
+  "level": "Intermediate",
+  "sentences": [
+    {
+      "id": "m33-s1",
+      "spanish": "El bosque está lleno de árboles antiguos y animales salvajes.",
+      "english": "The forest is full of ancient trees and wild animals.",
+      "wordMeanings": {
+        "bosque": "forest",
+        "lleno": "full",
+        "árboles": "trees",
+        "salvajes": "wild"
+      }
+    },
+    {
+      "id": "m33-s2",
+      "spanish": "Es crucial proteger el medio ambiente para las generaciones futuras.",
+      "english": "It is crucial to protect the environment for future generations.",
+      "wordMeanings": {
+        "crucial": "crucial",
+        "proteger": "to protect",
+        "medio ambiente": "environment"
+      }
+    },
+    {
+      "id": "m33-s3",
+      "spanish": "Hoy hace un día soleado, perfecto para ir a la playa.",
+      "english": "Today is a sunny day, perfect for going to the beach.",
+      "wordMeanings": {
+        "soleado": "sunny",
+        "perfecto": "perfect",
+        "playa": "beach"
+      }
+    },
+    {
+      "id": "m33-s4",
+      "spanish": "La tormenta de anoche causó daños en la ciudad.",
+      "english": "Last night's storm caused damage in the city.",
+      "wordMeanings": {
+        "tormenta": "storm",
+        "anoche": "last night",
+        "causó": "caused",
+        "daños": "damage"
+      }
+    },
+    {
+      "id": "m33-s5",
+      "spanish": "El río fluye rápidamente después de las lluvias.",
+      "english": "The river flows quickly after the rains.",
+      "wordMeanings": {
+        "río": "river",
+        "fluye": "flows",
+        "lluvias": "rains"
+      }
+    },
+    {
+      "id": "m33-s6",
+      "spanish": "Debemos reciclar plástico, vidrio y papel.",
+      "english": "We must recycle plastic, glass, and paper.",
+      "wordMeanings": {
+        "debemos": "we must",
+        "reciclar": "to recycle",
+        "vidrio": "glass"
+      }
+    },
+    {
+      "id": "m33-s7",
+      "spanish": "Las montañas están cubiertas de nieve en invierno.",
+      "english": "The mountains are covered with snow in winter.",
+      "wordMeanings": {
+        "montañas": "mountains",
+        "cubiertas": "covered",
+        "nieve": "snow",
+        "invierno": "winter"
+      }
+    },
+    {
+      "id": "m33-s8",
+      "spanish": "El cambio climático es un problema global grave.",
+      "english": "Climate change is a serious global problem.",
+      "wordMeanings": {
+        "cambio": "change",
+        "climático": "climate (adj)",
+        "grave": "serious"
+      }
+    },
+    {
+      "id": "m33-s9",
+      "spanish": "Me gusta caminar por el parque y escuchar los pájaros.",
+      "english": "I like walking through the park and listening to the birds.",
+      "wordMeanings": {
+        "caminar": "to walk",
+        "parque": "park",
+        "escuchar": "to listen",
+        "pájaros": "birds"
+      }
+    },
+    {
+      "id": "m33-s10",
+      "spanish": "El desierto es un lugar seco con poca vegetación.",
+      "english": "The desert is a dry place with little vegetation.",
+      "wordMeanings": {
+        "desierto": "desert",
+        "seco": "dry",
+        "poca": "little"
+      }
+    }
+  ],
+  "vocabulary": {
+    "bosque": {
+      "mnemonic": "Think 'bosky' (woody) — forest.",
+      "explanation": "Means 'forest/woods'."
+    },
+    "playa": {
+      "mnemonic": "'Play-a' — play at the beach!",
+      "explanation": "Feminine noun."
+    },
+    "anoche": {
+      "mnemonic": "'A + noche' = last night.",
+      "explanation": "Means 'last night'."
+    },
+    "río": {
+      "mnemonic": "'Rio Grande' — río = river!",
+      "explanation": "Means 'river'."
+    },
+    "parque": {
+      "mnemonic": "Almost 'park' with an 'e' — easy cognate!",
+      "explanation": "Masculine noun meaning park."
+    }
+  }
+}

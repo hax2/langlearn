@@ -1,0 +1,431 @@
+{
+  "id": "module-24",
+  "title": "Chapter 24: Duration (Llevar + Gerund)",
+  "description": "Express how long you've been doing something.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "m24-s1",
+      "spanish": "Llevo una hora estudiando.",
+      "english": "I’ve been studying for one hour.",
+      "wordMeanings": {
+        "Llevo": "I carry / take",
+        "una": "a (fem)",
+        "hora": "hour",
+        "estudiando": "studying"
+      }
+    },
+    {
+      "id": "m24-s2",
+      "spanish": "Llevas una hora estudiando.",
+      "english": "You’ve been studying for one hour.",
+      "wordMeanings": {
+        "Llevas": "you carry / take",
+        "una": "a (fem)",
+        "hora": "hour",
+        "estudiando": "studying"
+      }
+    },
+    {
+      "id": "m24-s3",
+      "spanish": "Lleva una hora estudiando.",
+      "english": "He/She has been studying for one hour.",
+      "wordMeanings": {
+        "Lleva": "carries / takes",
+        "una": "a (fem)",
+        "hora": "hour",
+        "estudiando": "studying"
+      }
+    },
+    {
+      "id": "m24-s4",
+      "spanish": "Llevamos una hora estudiando.",
+      "english": "We’ve been studying for one hour.",
+      "wordMeanings": {
+        "Llevamos": "we carry / take",
+        "una": "a (fem)",
+        "hora": "hour",
+        "estudiando": "studying"
+      }
+    },
+    {
+      "id": "m24-s5",
+      "spanish": "Llevo dos horas trabajando.",
+      "english": "I’ve been working for two hours.",
+      "wordMeanings": {
+        "Llevo": "I carry / take",
+        "dos": "two",
+        "horas": "hours",
+        "trabajando": "working"
+      }
+    },
+    {
+      "id": "m24-s6",
+      "spanish": "Llevas dos horas trabajando.",
+      "english": "You’ve been working for two hours.",
+      "wordMeanings": {
+        "Llevas": "you carry / take",
+        "dos": "two",
+        "horas": "hours",
+        "trabajando": "working"
+      }
+    },
+    {
+      "id": "m24-s7",
+      "spanish": "Lleva dos horas trabajando.",
+      "english": "He/She has been working for two hours.",
+      "wordMeanings": {
+        "Lleva": "carries / takes",
+        "dos": "two",
+        "horas": "hours",
+        "trabajando": "working"
+      }
+    },
+    {
+      "id": "m24-s8",
+      "spanish": "Llevamos dos horas trabajando.",
+      "english": "We’ve been working for two hours.",
+      "wordMeanings": {
+        "Llevamos": "we carry / take",
+        "dos": "two",
+        "horas": "hours",
+        "trabajando": "working"
+      }
+    },
+    {
+      "id": "m24-s9",
+      "spanish": "Llevo media hora esperando.",
+      "english": "I’ve been waiting for half an hour.",
+      "wordMeanings": {
+        "Llevo": "I carry / take",
+        "media": "half",
+        "hora": "hour",
+        "esperando": "waiting"
+      }
+    },
+    {
+      "id": "m24-s10",
+      "spanish": "Llevas media hora esperando.",
+      "english": "You’ve been waiting for half an hour.",
+      "wordMeanings": {
+        "Llevas": "you carry / take",
+        "media": "half",
+        "hora": "hour",
+        "esperando": "waiting"
+      }
+    },
+    {
+      "id": "m24-s11",
+      "spanish": "Lleva media hora esperando.",
+      "english": "He/She has been waiting for half an hour.",
+      "wordMeanings": {
+        "Lleva": "carries / takes",
+        "media": "half",
+        "hora": "hour",
+        "esperando": "waiting"
+      }
+    },
+    {
+      "id": "m24-s12",
+      "spanish": "Llevo mucho tiempo viviendo aquí.",
+      "english": "I’ve been living here for a long time.",
+      "wordMeanings": {
+        "Llevo": "I carry / take",
+        "mucho": "much / a lot",
+        "tiempo": "time",
+        "viviendo": "living",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m24-s13",
+      "spanish": "Llevas mucho tiempo viviendo aquí.",
+      "english": "You’ve been living here for a long time.",
+      "wordMeanings": {
+        "Llevas": "you carry / take",
+        "mucho": "much / a lot",
+        "tiempo": "time",
+        "viviendo": "living",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m24-s14",
+      "spanish": "Lleva mucho tiempo viviendo aquí.",
+      "english": "He/She has been living here for a long time.",
+      "wordMeanings": {
+        "Lleva": "carries / takes",
+        "mucho": "much / a lot",
+        "tiempo": "time",
+        "viviendo": "living",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m24-s15",
+      "spanish": "Llevo veinte minutos hablando.",
+      "english": "I’ve been talking for twenty minutes.",
+      "wordMeanings": {
+        "Llevo": "I carry / take",
+        "veinte": "twenty",
+        "minutos": "minutes",
+        "hablando": "speaking"
+      }
+    },
+    {
+      "id": "m24-s16",
+      "spanish": "Llevas veinte minutos hablando.",
+      "english": "You’ve been talking for twenty minutes.",
+      "wordMeanings": {
+        "Llevas": "you carry / take",
+        "veinte": "twenty",
+        "minutos": "minutes",
+        "hablando": "speaking"
+      }
+    },
+    {
+      "id": "m24-s17",
+      "spanish": "Lleva veinte minutos hablando.",
+      "english": "He/She has been talking for twenty minutes.",
+      "wordMeanings": {
+        "Lleva": "carries / takes",
+        "veinte": "twenty",
+        "minutos": "minutes",
+        "hablando": "speaking"
+      }
+    },
+    {
+      "id": "m24-s18",
+      "spanish": "Llevo todo el día pensando en eso.",
+      "english": "I’ve been thinking about that all day.",
+      "wordMeanings": {
+        "Llevo": "I carry / take",
+        "todo": "all",
+        "el": "the",
+        "día": "day",
+        "pensando": "thinking",
+        "en": "in / on",
+        "eso": "that"
+      }
+    },
+    {
+      "id": "m24-s19",
+      "spanish": "Llevas todo el día mirando el móvil.",
+      "english": "You’ve been looking at your phone all day.",
+      "wordMeanings": {
+        "Llevas": "you carry / take",
+        "todo": "all",
+        "el": "the",
+        "día": "day",
+        "mirando": "looking",
+        "móvil": "mobile phone"
+      }
+    },
+    {
+      "id": "m24-s20",
+      "spanish": "Lleva todo el día escuchando música.",
+      "english": "He/She has been listening to music all day.",
+      "wordMeanings": {
+        "Lleva": "carries / takes",
+        "todo": "all",
+        "el": "the",
+        "día": "day",
+        "escuchando": "listening",
+        "música": "music"
+      }
+    },
+    {
+      "id": "m24-s21",
+      "spanish": "Llevo una semana buscando trabajo.",
+      "english": "I’ve been looking for work for one week.",
+      "wordMeanings": {
+        "Llevo": "I carry / take",
+        "una": "a (fem)",
+        "semana": "week",
+        "buscando": "looking for",
+        "trabajo": "I work / job"
+      }
+    },
+    {
+      "id": "m24-s22",
+      "spanish": "Llevas una semana buscando las llaves.",
+      "english": "You’ve been looking for the keys for one week.",
+      "wordMeanings": {
+        "Llevas": "you carry / take",
+        "una": "a (fem)",
+        "semana": "week",
+        "buscando": "looking for",
+        "las": "the",
+        "llaves": "keys"
+      }
+    },
+    {
+      "id": "m24-s23",
+      "spanish": "Lleva una semana buscando piso.",
+      "english": "He/She has been looking for a flat for one week.",
+      "wordMeanings": {
+        "Lleva": "carries / takes",
+        "una": "a (fem)",
+        "semana": "week",
+        "buscando": "looking for",
+        "piso": "flat / apartment"
+      }
+    },
+    {
+      "id": "m24-s24",
+      "spanish": "Llevo una hora leyéndolo.",
+      "english": "I’ve been reading it for one hour.",
+      "wordMeanings": {
+        "Llevo": "I carry / take",
+        "una": "a (fem)",
+        "hora": "hour",
+        "leyéndolo": "reading it"
+      }
+    },
+    {
+      "id": "m24-s25",
+      "spanish": "Llevo una hora escribiéndole.",
+      "english": "I’ve been writing to him/her for one hour.",
+      "wordMeanings": {
+        "Llevo": "I carry / take",
+        "una": "a (fem)",
+        "hora": "hour",
+        "escribiéndole": "writing to him/her"
+      }
+    },
+    {
+      "id": "m24-s26",
+      "spanish": "Lleva una hora explicándoselo.",
+      "english": "He/She has been explaining it to him/her for one hour.",
+      "wordMeanings": {
+        "Lleva": "carries / takes",
+        "una": "a (fem)",
+        "hora": "hour",
+        "explicándoselo": "explaining it to him/her"
+      }
+    },
+    {
+      "id": "m24-s27",
+      "spanish": "¿Llevas mucho tiempo esperando?",
+      "english": "Have you been waiting a long time?",
+      "wordMeanings": {
+        "Llevas": "you carry / take",
+        "mucho": "much / a lot",
+        "tiempo": "time",
+        "esperando": "waiting"
+      }
+    },
+    {
+      "id": "m24-s28",
+      "spanish": "Sí, llevo mucho tiempo esperando.",
+      "english": "Yes, I’ve been waiting a long time.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "llevo": "I carry / take",
+        "mucho": "much / a lot",
+        "tiempo": "time",
+        "esperando": "waiting"
+      }
+    },
+    {
+      "id": "m24-s29",
+      "spanish": "¿Llevas mucho tiempo trabajando aquí?",
+      "english": "Have you been working here a long time?",
+      "wordMeanings": {
+        "Llevas": "you carry / take",
+        "mucho": "much / a lot",
+        "tiempo": "time",
+        "trabajando": "working",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m24-s30",
+      "spanish": "No, no llevo mucho tiempo trabajando aquí.",
+      "english": "No, I haven’t been working here long.",
+      "wordMeanings": {
+        "No": "no / not",
+        "no": "no / not",
+        "llevo": "I carry / take",
+        "mucho": "much / a lot",
+        "tiempo": "time",
+        "trabajando": "working",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m24-s31",
+      "spanish": "Llevo años aprendiendo español.",
+      "english": "I’ve been learning Spanish for years.",
+      "wordMeanings": {
+        "Llevo": "I carry / take",
+        "años": "years",
+        "aprendiendo": "learning",
+        "español": "Spanish"
+      }
+    }
+  ],
+  "grammarExplanation": "'Llevar + time expression + gerund' expresses how long an action has been going on:\n\n• Llevo una hora estudiando = I've been studying for one hour\n• Llevas dos horas trabajando = You've been working for two hours\n\nConjugate 'llevar':\n• Llevo, Llevas, Lleva, Llevamos, Llevan\n\nGerund (-ando/-iendo): estudiando, trabajando, esperando, viviendo, hablando.\n\nThis structure has no direct English equivalent — it combines 'have been' + duration elegantly.",
+  "vocabulary": {
+    "llevo": {
+      "mnemonic": "'I lever time' — I have been...",
+      "explanation": "First person of 'llevar'."
+    },
+    "lleva": {
+      "mnemonic": "'Lever-a' — he/she has been...",
+      "explanation": "Third person of 'llevar'."
+    },
+    "llevamos": {
+      "mnemonic": "'Lever-amos' — we have been...",
+      "explanation": "First person plural of 'llevar'."
+    },
+    "mucho": {
+      "mnemonic": "Think 'much-o' — much/a lot!",
+      "explanation": "Means 'much/a lot'. Fem: mucha."
+    },
+    "tiempo": {
+      "mnemonic": "Think 'tempo' — time and rhythm.",
+      "explanation": "Means 'time' or 'weather'."
+    },
+    "aquí": {
+      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
+      "explanation": "Means 'here'. More precise than 'acá'."
+    },
+    "día": {
+      "mnemonic": "Think 'diary' — each day.",
+      "explanation": "Masculine despite ending in -a."
+    },
+    "teléfono": {
+      "mnemonic": "Nearly identical to 'telephone' — cognate!",
+      "explanation": "Masculine noun."
+    },
+    "música": {
+      "mnemonic": "Nearly identical to 'music' — cognate!",
+      "explanation": "Feminine noun."
+    },
+    "semana": {
+      "mnemonic": "Think 'semester has weeks'.",
+      "explanation": "Means 'week'. Feminine noun."
+    },
+    "trabajo": {
+      "mnemonic": "Think 'travel to work'.",
+      "explanation": "Means 'work/job'. Also 'I work'."
+    },
+    "libro": {
+      "mnemonic": "Think 'library' — full of libros (books)!",
+      "explanation": "Means 'book'. Masculine noun."
+    },
+    "casa": {
+      "mnemonic": "Think 'casino' — a big house of games.",
+      "explanation": "Feminine noun. 'En casa' = at home."
+    },
+    "años": {
+      "mnemonic": "Think 'annual' → años = years.",
+      "explanation": "'Tener X años' = to be X years old."
+    },
+    "español": {
+      "mnemonic": "'Espagne/Spain' + '-ol' — the Spanish language.",
+      "explanation": "Both the language and nationality."
+    }
+  }
+}

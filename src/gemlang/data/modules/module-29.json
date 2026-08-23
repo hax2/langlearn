@@ -1,0 +1,154 @@
+{
+  "id": "module-29",
+  "title": "Theme: Travel and Airport",
+  "description": "Useful vocabulary and phrases for traveling by plane.",
+  "level": "Intermediate",
+  "sentences": [
+    {
+      "id": "m29-s1",
+      "spanish": "Tengo que facturar la maleta antes de ir a la puerta de embarque.",
+      "english": "I have to check my suitcase before going to the boarding gate.",
+      "wordMeanings": {
+        "tengo": "I have",
+        "que": "that / to",
+        "facturar": "to check in",
+        "maleta": "suitcase",
+        "antes": "before",
+        "puerta": "gate/door",
+        "embarque": "boarding"
+      }
+    },
+    {
+      "id": "m29-s2",
+      "spanish": "¿Me puede poner un asiento de pasillo, por favor?",
+      "english": "Can you assign me an aisle seat, please?",
+      "wordMeanings": {
+        "asiento": "seat",
+        "pasillo": "aisle"
+      }
+    },
+    {
+      "id": "m29-s3",
+      "spanish": "¿A qué hora sale el próximo vuelo para Madrid?",
+      "english": "What time does the next flight to Madrid leave?",
+      "wordMeanings": {
+        "hora": "hour/time",
+        "sale": "leaves",
+        "próximo": "next",
+        "vuelo": "flight"
+      }
+    },
+    {
+      "id": "m29-s4",
+      "spanish": "Hay mucha cola en el control de seguridad esta mañana.",
+      "english": "There is a long queue at security this morning.",
+      "wordMeanings": {
+        "hay": "there is / are",
+        "mucha": "a lot of",
+        "cola": "queue",
+        "control": "control/check",
+        "seguridad": "security",
+        "mañana": "morning"
+      }
+    },
+    {
+      "id": "m29-s5",
+      "spanish": "Por favor, enseñe el pasaporte y la tarjeta de embarque.",
+      "english": "Please show your passport and boarding pass.",
+      "wordMeanings": {
+        "enseñe": "show (imperative)",
+        "pasaporte": "passport",
+        "tarjeta": "card/pass"
+      }
+    },
+    {
+      "id": "m29-s6",
+      "spanish": "Prefiero viajar en clase business para tener más espacio.",
+      "english": "I prefer to travel in business class to have more space.",
+      "wordMeanings": {
+        "prefiero": "I prefer",
+        "viajar": "travel",
+        "clase": "class",
+        "business": "business",
+        "espacio": "space"
+      }
+    },
+    {
+      "id": "m29-s7",
+      "spanish": "El vuelo lleva dos horas de retraso por el mal tiempo.",
+      "english": "The flight has been delayed by two hours because of bad weather.",
+      "wordMeanings": {
+        "lleva": "has / carries",
+        "retraso": "delay",
+        "por": "because of / for",
+        "tiempo": "weather"
+      }
+    },
+    {
+      "id": "m29-s8",
+      "spanish": "El avión está a punto de aterrizar en Madrid.",
+      "english": "The plane is about to land in Madrid.",
+      "wordMeanings": {
+        "avión": "plane",
+        "aterrizar": "land",
+        "Madrid": "Madrid"
+      }
+    },
+    {
+      "id": "m29-s9",
+      "spanish": "¿Dónde puedo recoger mi equipaje?",
+      "english": "Where can I pick up my luggage?",
+      "wordMeanings": {
+        "recoger": "pick up",
+        "equipaje": "luggage"
+      }
+    },
+    {
+      "id": "m29-s10",
+      "spanish": "¿Tiene algo que declarar en la aduana?",
+      "english": "Do you have anything to declare at customs?",
+      "wordMeanings": {
+        "declarar": "declare",
+        "aduana": "customs"
+      }
+    }
+  ],
+  "vocabulary": {
+    "vuelo": {
+      "mnemonic": "Think 'vuela!' — a flight.",
+      "explanation": "From 'volar' (to fly)."
+    },
+    "antes": {
+      "mnemonic": "Think 'ante' (before in poker).",
+      "explanation": "Means 'before'."
+    },
+    "puerta": {
+      "mnemonic": "Think 'port/portal' — a door.",
+      "explanation": "Feminine noun meaning door/gate."
+    },
+    "asiento": {
+      "mnemonic": "'I sit-ento' — a seat.",
+      "explanation": "Means 'seat'."
+    },
+    "tiempo": {
+      "mnemonic": "Think 'tempo' — time and rhythm.",
+      "explanation": "Means 'time' or 'weather'."
+    },
+    "pasaporte": {
+      "mnemonic": "'Pass-a-port' — passport!",
+      "explanation": "Nearly identical cognate."
+    },
+    "equipaje": {
+      "mnemonic": "'Equip-aje' — your equipment/luggage.",
+      "explanation": "Means 'luggage'."
+    },
+    "avión": {
+      "mnemonic": "Think 'aviation' — airplane.",
+      "explanation": "From 'ave' (bird)."
+    },
+    "aeropuerto": {
+      "mnemonic": "'Aero + puerto' = air + port = airport!",
+      "explanation": "Compound word."
+    }
+  }
+}

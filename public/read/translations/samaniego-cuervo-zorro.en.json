@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "trackId": "samaniego-cuervo-zorro",
+  "sourceHash": "ac6a3902ce8dc5cc6ce8f6c6b999538e77598802d5d9e4a9dcb974744daf54a8",
+  "provider": "ollama/translategemma:4b",
+  "sourceLanguage": "es",
+  "targetLanguage": "en",
+  "translatedAt": "2026-08-15T08:09:37.675448+00:00",
+  "characters": 868,
+  "blocks": [
+    {
+      "source": "el cuervo y el zorro Félix María Samaniego. En la rama de un árbol, bien ufano y contento, con un queso en el pico, estaba el señor Cuervo. Del olor atraído, un zorro muy maestro, le dijo estas palabras un poco más o menos. Tenga usted buenos días, señor Cuervo, mi dueño.",
+      "translation": "The Crow and the Fox by Félix María Samaniego. On a branch of a tree, the crow was sitting proudly and contentedly, with a piece of cheese in its beak. The fox, attracted by the smell, approached and said to the crow: \"Good morning, Mr. Crow, my master."
+    },
+    {
+      "source": "Vaya que estáis donoso, mono, lindo en extremo. Yo no gasto lisonjas, y digo lo que siento. Que si a tu bella traza corresponde el gorjeo, juro a la diosa Ceres, siendo testigo el cielo, que tú serás el Félix de sus vastos imperios. Al oír un discurso tan dulce y halagüeño, de vanidad llevado, quiso cantar el cuervo.",
+      "translation": "You are so charming, adorable, and incredibly beautiful. I don't waste words on flattery, and I say what I feel. If your beauty matches the sound of your voice, I swear to the goddess Ceres, with the sky as witness, that you will be the key to their vast empires. Hearing such a sweet and flattering speech, the crow also wanted to sing."
+    },
+    {
+      "source": "Abrió su negro pico, dejó caer el queso. El muy astuto zorro, después de haberle preso, le dijo. Señor Bobo, pues sin otro alimento, quedáis con alabanzas tan hinchado y repleto, digerid las lisonjas, mientras yo digiero el queso. Quien oye aduladores, nunca espere otro premio.",
+      "translation": "He opened his black beak and dropped the cheese. The clever fox, after having tricked him, said, \"Mr. Fool, since you have no other food, you will become so full and bloated from praise, digesting all the flattery, while I will digest the cheese. Whoever listens to flatterers will never receive another reward."
+    }
+  ]
+}

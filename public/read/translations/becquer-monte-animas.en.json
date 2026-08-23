@@ -1,0 +1,180 @@
+{
+  "version": 1,
+  "trackId": "becquer-monte-animas",
+  "sourceHash": "46f5917a42350ad0bc60a64d492a643ff96bff79ba719ce6b69f75c6ff30cb0e",
+  "provider": "ollama/translategemma:4b",
+  "sourceLanguage": "es",
+  "targetLanguage": "en",
+  "translatedAt": "2026-08-15T08:12:00.831408+00:00",
+  "characters": 15317,
+  "blocks": [
+    {
+      "source": "El monte de las ánimas. Gustavo Adolfo Bécquer. La noche de difuntos me despertó a no sé qué hora el doble de las campanas. Su tañido monótono y eterno me trajo a las mientes esta tradición que hoy hace poco en Soria.",
+      "translation": "\"The Hill of Souls.\" Gustavo Adolfo Bécquer. The night of the dead woke me at some ungodly hour, with the bells ringing twice as loud as usual. Their monotonous, eternal sound brought me back to this tradition, which I had only recently encountered in Soria."
+    },
+    {
+      "source": "Intenté dormir de nuevo. Imposible. Una vez aguijoneada la imaginación, es un caballo que se desboca y al que no sirve tirarle de la rienda. Por pasar el rato me decidía escribirla, como en efecto lo hice.",
+      "translation": "I tried to sleep again. It was impossible. Once my imagination had been sparked, it was like a runaway horse – impossible to control. To pass the time, I decided to write it, and I did, in fact, write it."
+    },
+    {
+      "source": "Yo la huí en el mismo lugar en que acaeció, y la he escrito volviendo algunas veces la cabeza con miedo cuando sentía crujir los cristales de mi balcón, estremecidos por el aire frío de la noche. Sea de ello lo que quiera, ahí va, como el caballo de copas. 1. Atad los perros, haced la señal con las trompas para que se reúnan los cazadores y demos la vuelta a la ciudad.",
+      "translation": "I fled from the same place where it happened, and I wrote it down, repeatedly turning my head with fear when I heard the glass of my balcony rattling in the cold night air. Whatever it was, it was like a horse with a bell. 1. Secure the dogs, make the signal with their snouts so that the hunters can gather and turn the city upside down."
+    },
+    {
+      "source": "La noche se acerca, es día de todos los santos y estamos en el monte de las ánimas. ¿Tan pronto? A ser otro el día, no dejará yo de concluir con ese rebaño de lobos que las nieves del Moncayo han arrojado de sus madrigueras, pero hoy es imposible. Dentro de poco sonará la oración en los templarios, y las ánimas de los difuntos comenzarán a tañer su campana en la capilla del monte.",
+      "translation": "Night is approaching, it's All Saints' Day, and we're on Mount of Souls. So soon? I won't be able to conclude with that pack of wolves that the snows of Moncayo have thrown out of their dens, but today it's impossible. Soon, the prayer will ring out in the Templars' church, and the souls of the dead will begin to chime their bells in the chapel on the mountain."
+    },
+    {
+      "source": "¿En esa capilla ruinosa? Va, ¿quieres asustarme? No, hermosa prima, tú ignoras cuánto sucede en este país, porque aún no hace un año que has venido a él desde muy lejos. Refrena tu yegua, yo también pondré la mía al paso, y mientras dure el camino te contaré esa historia.",
+      "translation": "In that dilapidated chapel? Come on, are you trying to scare me? No, dear cousin, you don't realize how much is happening in this country, because you've only just arrived here from so far away. Please, control your horse, I'll also put mine in a fast pace, and while we're traveling, I'll tell you that story."
+    },
+    {
+      "source": "Los pajes se reunieron en alegres y bulliciosos grupos, los condes de Borges y de Alcudiel montaron en sus magníficos caballos, y todos juntos siguieron a sus hijos, Beatriz y Alonso, que precedían la comitiva a bastante distancia. Mientras duraba el camino, Alonso narró en estos términos la prometida historia. Ese monte, que hoy llaman de las ánimas, pertenecía a los templarios, cuyo convento ves allí, a la margen del río. Los templarios eran guerreros y religiosos a la vez.",
+      "translation": "The servants gathered in cheerful and bustling groups, while the Counts of Borges and Alcudiel rode their magnificent horses, and they all followed their children, Beatriz and Alonso, who were leading the procession at a considerable distance. During the journey, Alonso recounted the following story: That hill, which is now called \"Hill of Souls,\" belonged to the Templars, whose convent you can see on the riverbank. The Templars were both warriors and religious figures."
+    },
+    {
+      "source": "Conquistada Soria a los árabes, el rey los hizo venir de lejanas tierras para defender la ciudad por la parte del puente, haciendo en ello notable agravio a sus nobles de Castilla, que así hubieran solo sabido defenderla, como solos la conquistaron. Entre los payeros de la nueva y poderosa orden y los hidalgos de la ciudad fermentó por algunos años y estalló al fin un odio profundo. Los primeros tenían acotado ese monte, donde reservaban caza abundante para satisfacer sus necesidades y contribuir a sus placeres. Los segundos determinaron organizar una gran batida en el coto, a pesar de las severas prohibiciones de los clérigos con espuelas, como llamaban a sus enemigos.",
+      "translation": "Soria was conquered by the Arabs, and the king sent them from distant lands to defend the city from the bridge side, thereby causing significant disadvantage to his nobles of Castile, who would have otherwise been solely responsible for its defense. For several years, tensions arose between the members of the new and powerful order and the nobles of the city, eventually culminating in deep-seated animosity. The former had restricted access to the area, where they could hunt in abundance to satisfy their needs and enjoy their leisure. The latter, despite the strict prohibitions imposed by the clergy, decided to organize a large hunt in the area."
+    },
+    {
+      "source": "Cundió la voz del reto, y nada fue parte a detener a los unos en su manía de cazar y a los otros en su empeño de estorbarlo. La proyectada expedición se llevó a cabo. No se acordaron de ella las fieras, antes la tendrían presente tantas madres como arrastraron sendos lutos por sus hijos. Aquello no fue una cacería, fue una batalla espantosa.",
+      "translation": "The challenge was issued, and nothing could stop one group from pursuing the other in their obsession with hunting, nor could it stop the other group from hindering their efforts. The planned expedition was carried out. The memory of the hunt, and the grief of the mothers who had lost their children, was still present. This was not a hunt; it was a terrifying battle."
+    },
+    {
+      "source": "El monte quedó sembrado de cadáveres. Los lobos a quienes se quiso exterminar tuvieron un sangriento festín. Por último intervino la autoridad del rey. El monte, maldita ocasión de tantas desgracias, se declaró abandonado, y la capilla de los religiosos, situada en el mismo monte y en cuyo atrio se enterraron juntos amigos y enemigos, comenzó a arruinarse.",
+      "translation": "The mountain was littered with corpses. The wolves, whom the authorities had intended to eliminate, enjoyed a bloody feast. Finally, the king's authority intervened. The mountain, a site of so much misfortune, was declared abandoned, and the chapel of the priests, located on the same mountain and where both friends and enemies were buried, began to fall into disrepair."
+    },
+    {
+      "source": "Desde entonces dicen que cuando llega la noche de difuntos se oye doblar sola la campana de la capilla, y que las ánimas de los muertos, envueltas en girones de sus sudarios, corren como en una cacería fantástica por entre las breñas y los zarzales. Los ciervos braman espantados, los lobos aullan, las culebras dan horrorosos silbidos, y al otro día se han visto impresas en la nieve las huellas de los carnados pies de los esqueletos. Por eso en Soria le llamamos el monte de las ánimas, y por eso he querido salir de él antes que cierre la noche. La relación de Alonso concluyó justamente cuando los dos jóvenes llegaban al extremo del puente que da paso a la ciudad por aquel lado.",
+      "translation": "Since then, people say that when the night of the dead arrives, the church bell rings on its own, and that the souls of the dead, wrapped in their shrouds, run through the fields and thickets like in a fantastic hunt. The deer scream in terror, the wolves howl, the snakes emit horrifying whistles, and the next day, the footprints of the skeletal feet are seen imprinted in the snow. That's why we call this mountain the \"Mountain of Souls\" in Soria, and that's why I wanted to leave it before the night fell. Alonso's story ended just as the two young men reached the end of the bridge that leads to the city from that side."
+    },
+    {
+      "source": "Allí esperaron el resto de la comitiva, la cual, después de incorporárseles los dos jinetes, se perdió por entre las estrechas y oscuras calles de Soria. Segundo, los servidores acababan de levantar los manteles. La alta chimenea gótica del Palacio de los Condes de Alcudiel despedía un vivo resplandor, iluminando algunos grupos de damas y caballeros que alrededor de la lumbre conversaban familiarmente, y el viento azotaba los emplomados vidrios de las ojivas del salón. Solas dos personas parecían ajenas a la conversación general, Beatriz y Alonso.",
+      "translation": "There, they waited for the rest of the party, which, after the two riders had joined them, disappeared into the narrow, dark streets of Soria. Secondly, the servants had just laid the table. The tall Gothic chimney of the Palacio de los Condes de Alcudiel emitted a bright glow, illuminating groups of ladies and gentlemen who were conversing familiarly around the fire, and the wind was whipping against the stained-glass windows of the hall's domes. Only two people seemed oblivious to the general conversation: Beatriz and Alonso."
+    },
+    {
+      "source": "Beatriz seguía con los ojos, absorta en un vago pensamiento, los caprichos de la llama. Alonso miraba el reflejo de la hoguera chispear en las azules pupilas de Beatriz. Ambos guardaban hacía rato un profundo silencio. Las dueñas referían, a propósito de la noche de difuntos, cuentos temerosos en que los espectros y los aparecidos representaban el principal papel, y las campanas de las iglesias de Soria doblaban a lo lejos con un tañido monótono y triste.",
+      "translation": "Beatriz remained gazing intently, lost in a vague thought, captivated by the flickering flame. Alonso watched the reflection of the bonfire shimmer in Beatriz's deep blue eyes. They had been in a profound silence for quite some time. The women were recounting spooky stories, appropriate for All Souls' Night, in which ghosts and apparitions played the main roles, and the church bells of Soria rang in the distance with a monotonous, mournful sound."
+    },
+    {
+      "source": "Hermosa prima, exclamó al fin Alonso rompiendo el largo silencio en que se encontraban. Pronto vamos a separarnos, tal vez para siempre. Las áridas llanuras de Castilla, sus costumbres toscas y guerreras, sus hábitos sencillos y patriarcales, sé que no te gustan. Te he oído suspirar varias veces, ¿acaso por algún galán de tu lejano señorío?",
+      "translation": "\"My dear cousin,\" Alonso finally exclaimed, breaking the long silence, \"we're going to be separated soon, perhaps forever. The arid plains of Castile, its rough and warlike customs, its simple and patriarchal ways – I know you don't approve. I've heard you sigh several times, perhaps in admiration of some lord from your distant estate?\""
+    },
+    {
+      "source": "Beatriz hizo un gesto de fría indiferencia. Todo un carácter de mujer se reveló en aquella desdeñosa contracción de sus delgados labios. Tal vez por la pompa de la corte francesa donde hasta aquí has vivido, se apresuró a añadir el joven. De un modo o de otro, presiento que no tardaré en perderte.",
+      "translation": "Beatriz made a gesture of cold indifference. A strong, independent woman was revealed in that disdainful expression of her thin lips. Perhaps, due to the formality of the French court where you have lived, she added, the young man, I will soon lose you."
+    },
+    {
+      "source": "Al separarnos, quisiera que llevases una memoria mía. ¿Te acuerdas cuando fuimos al templo a dar gracias a Dios por haberte devuelto la salud que viniste a buscar a esta tierra? El joyel que sujetaba la pluma de mi gorra cautivó tu atención. ¡Qué hermoso estaría sujetando un velo sobre tu oscura cabellera!",
+      "translation": "When we parted ways, I wanted you to have a piece of me with you. Do you remember when we went to the temple to thank God for restoring your health after coming to this land? The small jewel that held my hat's feather caught your attention. How wonderful it would be to hold a veil over your dark hair!"
+    },
+    {
+      "source": "Ya ha prendido el de una desposada. Mi padre se lo regaló a la que me dio el ser y ella lo llevó al altar. ¿Lo quieres? No sé en el tuyo, contestó la hermosa, pero en mi país una prenda recibida compromete una voluntad.",
+      "translation": "I've already seen one being worn by a bride. My father gave it to the woman who gave me life, and she wore it to the altar. Would you like one? I don't know about yours, replied the beautiful woman, but in my country, receiving a gift from a bride signifies a commitment."
+    },
+    {
+      "source": "Solo en un día de ceremonia debe aceptarse un presente de manos de un deudo que aún puede ir a Roma sin volver con las manos vacías. El acento helado con que Beatriz pronunció estas palabras turbó un momento al joven que después de serenarse dijo con tristeza. Lo sé prima, pero hoy se celebran todos los santos y el tuyo entre todos. Hoy es día de ceremonias y presentes.",
+      "translation": "Only on a day of ceremony should a gift be accepted from a debtor who still has the means to travel to Rome without returning empty-handed. The cold tone in which Beatriz spoke these words momentarily disturbed the young man, who, after calming down, said sadly, \"I know, dear cousin, but today we celebrate all the saints, and yours is among them. Today is a day for ceremonies and gifts.\""
+    },
+    {
+      "source": "¿Quieres aceptar el mío? Beatriz se mordió ligeramente los labios y extendió la mano para tomar la joya, sin añadir una palabra. Los dos jóvenes volvieron a quedarse en silencio y volvióse a oír la cascada voz de las viejas, que hablaban de brujas y de trasgos y el zumbido del aire que hacía crujir los vidrios de las y el triste y monótono doblar de las campanas. Al cabo de algunos minutos, el interrumpido diálogo tornó a anudarse de este modo.",
+      "translation": "\"Would you like to take mine?\" Beatriz bit her lip slightly and reached out to take the jewel, without saying a word. The two young people fell silent again, and the old woman's voice, which spoke of witches and goblins, and the buzzing of the air, which made the windows rattle, and the mournful, monotonous ringing of the bells, could once again be heard. After a few minutes, the interrupted conversation resumed in this way."
+    },
+    {
+      "source": "Y antes que concluya el día de todos los santos, en que así como el tuyo se celebra el mío y puedes, sin atar tu voluntad, dejarme un recuerdo. ¿No lo harás? dijo él, clavando una mirada en la de su prima, que brilló como un relámpago iluminada por un pensamiento diabólico. ¿Por qué no?",
+      "translation": "And before the day of All Saints' ends, when, like yours, mine is celebrated, and you can, without binding yourself, leave me a memento. Won't you? he asked, fixing his gaze on that of his cousin, who shone like a lightning bolt, illuminated by a devilish thought. Why not?"
+    },
+    {
+      "source": "exclamó esta, llevándose la mano al hombro derecho, como para buscar alguna cosa entre los pliegues de su ancha manga de terciopelo bordado de oro. Después, con una infantil expresión de sentimiento, añadió. ¿Te acuerdas de la banda azul que llevé hoy a la cacería y que por no sé qué emblema de su color me dijiste que era la divisa de tu alma? Sí.",
+      "translation": "\"I remember that blue band I wore today while hunting, and you told me it was the emblem of your soul, for some reason,\" he exclaimed, reaching up to his right shoulder as if to look for something in the folds of his wide, gold-embroidered velvet sleeve. Then, with a childlike expression of emotion, he added, \"Do you remember the blue band I wore today while hunting, and you told me it was the emblem of your soul, for some reason?\" Yes."
+    },
+    {
+      "source": "Pues se ha perdido, se ha perdido, y pensaba dejártela como un recuerdo. ¿Se ha perdido y dónde? preguntó Alonso, incorporándose de su asiento y con una indescriptible expresión de temor y esperanza. No sé, ¿en el monte acaso?",
+      "translation": "Well, it's lost, it's lost, and I was going to give it to you as a memento. Is it lost, and where? Alonso asked, getting up from his seat with an indescribable expression of fear and hope. I don't know, perhaps in the woods?"
+    },
+    {
+      "source": "En el monte de las ánimas, murmuró palideciendo y dejándose caer sobre el sitial. En el monte de las ánimas. Luego prosiguió con voz entrecortada y sorba. Tú lo sabes, porque lo habrás oído mil veces.",
+      "translation": "On the Hill of Souls, he murmured, his voice growing fainter as he slumped onto the seat. On the Hill of Souls. Then, he continued, his voice strained and broken. You know this, because you've heard it a thousand times."
+    },
+    {
+      "source": "En la ciudad, en toda Castilla, me llaman el rey de los cazadores. No habiendo aún podido probar mis fuerzas en los combates, como mis ascendientes, he llevado a esa diversión, imagen de la guerra, todos los bríos de mi juventud, todo el ardor hereditario en mi raza. La alfombra que pisan tus pies son despojos de fieras que he muerto por mi mano. Yo conozco sus guaridas y sus costumbres.",
+      "translation": "In the city, throughout all of Castile, they call me the king of hunters. Having not yet had the opportunity to test my strength in combat, as my ancestors did, I have channeled all the energy and passion of my youth, all the inherited fervor of my lineage, into this pursuit. The rug beneath your feet is made from the skins of animals I have killed. I know their lairs and their habits."
+    },
+    {
+      "source": "Yo he combatido con ellas de día y de noche, a pie y a caballo, solo y embatida, y nadie dirá que me ha visto huir el peligro en ninguna ocasión. Otra noche volaría por esa banda, y volaría gozoso, como a una fiesta. Y sin embargo, esta noche, esta noche, ¿a qué ocultártelo? Tengo miedo.",
+      "translation": "I have fought with them day and night, on foot and on horseback, alone and in groups, and no one can say that I have ever fled from danger. Another night, I would fly there, and I would fly with joy, as if to a party. But tonight, tonight, what am I hiding? I am afraid."
+    },
+    {
+      "source": "¿Oyes? Las campanas doblan, la oración ha sonado en San Juan del Duero. Las ánimas del monte comenzarán ahora a levantar sus amarillentos cráneos de entre las malezas que cubren sus fosas. Las ánimas, cuya sola vista puede helar de horror la sangre del más valiente, tornar sus cabellos blancos o arrebatarle en el torbellino de su fantástica carrera, como una hoja que arrastra el viento, sin que se sepa a dónde.",
+      "translation": "Can you hear that? The bells are ringing, the prayer has been heard in San Juan del Duero. The spirits of the mountain will now begin to lift their pale, yellowish skulls from among the weeds that cover their graves. These spirits, whose mere sight can chill the blood of even the bravest, may turn their hair white or snatch them away in the whirlwind of their fantastic lives, like a leaf carried by the wind, without anyone knowing where."
+    },
+    {
+      "source": "Mientras el joven hablaba, una sonrisa imperceptible se dibujó en los labios de Beatriz, que cuando hubo concluido, exclamó con un tono indiferente, y mientras atizaba el fuego del hogar, donde saltaba y crujía la leña, arrojando chispas de mil colores. ¡Oh, eso de ningún modo! ¡Qué friolera! Una noche tan oscura, noche de difuntos y cuajado el camino de lobos.",
+      "translation": "As the young man spoke, a barely perceptible smile appeared on Beatriz's lips. When he finished, she exclaimed in a nonchalant tone, while tending to the fire, where the wood crackled and popped, sending sparks of a thousand colors flying. \"No, absolutely not! How cold!\" It was such a dark night, a night of the dead, with the wolf's path frozen."
+    },
+    {
+      "source": "Al decir esta última frase, la recargó de un modo tan especial, que Alonso no pudo menos de comprender toda su amarga ironía. Movido como por un resorte, se puso de pie, se pasó la mano por la frente, como para arrancarse el miedo que estaba en su cabeza y no en su corazón. Y con voz firme, exclamó dirigiéndose a la hermosa, que estaba aún inclinada sobre el hogar, entreteniéndose en revolver el fuego. ¡Adiós, Beatriz!",
+      "translation": "As he uttered that final sentence, he imbued it with such special meaning that Alonso couldn't help but understand all of her bitter irony. Moved as if by a spring, he stood up, ran a hand over his forehead, as if to shake off the fear that was in his head, not his heart. And with a firm voice, he exclaimed to the beautiful woman, who was still bent over the fireplace, engrossed in tending the fire: \"Goodbye, Beatriz!\""
+    },
+    {
+      "source": "¡Adiós! ¡Hasta pronto! ¡Alonso! ¡Alonso!",
+      "translation": "Goodbye! See you soon! Alonso! Alonso!"
+    },
+    {
+      "source": "dijo esta, volviéndose con rapidez. Pero cuando quiso o aparentó querer detenerle, el joven había desaparecido. A los pocos minutos se oyó el rumor de un caballo que se alejaba al galope. La hermosa, con una radiante expresión de orgullo satisfecho que coloreó sus mejillas, prestó atento ido a continuaban en sus cuentos de ánimas aparecidas.",
+      "translation": "\"I said that,\" she quickly recovered. But when she tried to stop him, or pretended to, the young man had vanished. A few minutes later, the sound of a horse galloping away could be heard. The beautiful woman, with a radiant expression of satisfied pride that colored her cheeks, continued to tell her stories of ghostly apparitions."
+    },
+    {
+      "source": "El aire zumbaba en los vidrios del balcón y las campanas de la ciudad doblaban a lo lejos. Tercero. Había pasado una hora, dos, tres. La medianoche estaba a punto de sonar y Beatriz se retiró a su oratorio.",
+      "translation": "The air buzzed against the balcony windows, and the sounds of the city echoed in the distance. It had been an hour, two, three. Midnight was approaching, and Beatriz retreated to her oratory."
+    },
+    {
+      "source": "Alonso no volvía. No volvía cuando en menos de una hora pudiera haberlo hecho. Habrá tenido miedo, exclamó la joven cerrando su libro de oraciones y encaminándose a su lecho. Después de haber intentado inútilmente murmurar algunos de los rezos que la iglesia consagra el día de difuntos a los que ya no existen.",
+      "translation": "Alonso didn't return. He didn't return when he could have done so in less than an hour. He must have been afraid, exclaimed the young woman, closing her prayer book and heading towards her bed. After having fruitlessly attempted to murmur some of the prayers that the church dedicates to the deceased, those who no longer exist."
+    },
+    {
+      "source": "Después de haber apagado la lámpara y cruzado las dobles cortinas de seda, se durmió. Se durmió con un sueño inquieto, ligero, nervioso. Las doce sonaron en el reloj del postigo. Beatriz oyó entre sueños las vibraciones de la campaña, lentas, sordas, tristísimas, y entreabrió los ojos.",
+      "translation": "After turning off the lamp and crossing the double silk curtains, she fell asleep. She fell asleep with a restless, light, and anxious dream. The hour struck twelve on the grandfather clock. Beatriz heard, in her sleep, the slow, dull, and very sad sounds of the campaign, and she opened her eyes."
+    },
+    {
+      "source": "Creía haber oído a par de ellas pronunciar su nombre, pero lejos, muy lejos, y por una voz ahogada y doliente. El viento gemía en los vidrios de la ventana. Será el viento, dijo, y poniéndose la mano sobre el corazón procuró tranquilizarse. Pero su corazón latía cada vez con más violencia.",
+      "translation": "I thought I had heard them say their name, but from a great distance, in a faint, mournful voice. The wind was howling against the windowpanes. \"It must be the wind,\" he said, placing his hand over his heart and trying to calm himself. But his heart was beating faster and faster."
+    },
+    {
+      "source": "Las puertas de alerce del oratorio habían crujido sobre sus goznes con un chirrido agudo, prolongado y estridente. Primero unas y luego las otras más cercanas. Todas las puertas que daban paso a su habitación iban sonando por su orden. Estas con un ruido sordo y grave, aquellas con un lamento largo y crispador.",
+      "translation": "The doors of the oratory had been creaking ominously, producing a high-pitched, prolonged, and piercing sound. First one door, then the others closer to him, all sounding in a specific order. The first doors made a dull, heavy sound, while the others emitted a long, mournful wail."
+    },
+    {
+      "source": "Después silencio, un silencio lleno de rumores extraños, el silencio de la medianoche, con un murmullo monótono de agua distante, lejanos ladridos de perros, voces confusas, palabras ininteligibles, ecos de pasos que van y vienen, crujir de ropas que se arrastran, suspiros que se ahogan, respiraciones fatigosas que casi se sienten, estremecimientos involuntarios que anuncian la presencia de algo que no se ve y cuya aproximación se nota no obstante en la oscuridad. Beatriz adelantó la momento. Oía mil ruidos diversos. Se pasaba la mano por la frente.",
+      "translation": "After a period of silence, filled with strange rumors, the silence of midnight, with a monotonous murmur of distant water, the distant barks of dogs, confused voices, unintelligible words, the echoes of footsteps, the rustling of clothes, sighs that were almost audible, and heavy breathing that could almost be felt, Beatriz moved forward. She could hear a thousand different sounds. She touched her forehead."
+    },
+    {
+      "source": "Tornaba a escuchar. Veía, con esa fosforescencia de la pupila en las crisis nerviosas, como bultos que se movían en todas direcciones, y cuando dilatándolas las fijaba en un punto, nada, oscuridad, las sombras impenetrables. —Va, exclamó, volviendo a recostar su hermosa cabeza sobre la almohada de raso azul del lecho. Soy yo tan miedosa como estas pobres gentes, cuyo corazón palpita de terror bajo una armadura, al oír una conseja de aparecidos.",
+      "translation": "I continued to listen. I saw, with that phosphorescent glow of the pupils during moments of anxiety, shapes moving in every direction, and when I widened them, I focused on a single point, nothing, darkness, impenetrable shadows. —\"No,\" he exclaimed, returning to rest his beautiful head on the blue satin pillow. I am just as fearful as these poor people, whose hearts beat with terror beneath a protective shell, when they hear advice from spirits."
+    },
+    {
+      "source": "Y cerrando los ojos intentó dormir, pero en vano había hecho un esfuerzo sobre sí misma. Pronto volvió a incorporarse, más pálida, más inquieta, más aterrada. Ya no era una ilusión. Las colgaduras de brocado de la puerta habían rozado al separarse, y unas pisadas lentas sonaban sobre la alfombra.",
+      "translation": "And closing her eyes, she tried to sleep, but in vain. She had made an effort, but it was no use. Soon, she sat up again, paler, more restless, and more frightened. The illusion was gone. The brocade curtains on the door had brushed against each other as she had moved, and slow footsteps could be heard on the carpet."
+    },
+    {
+      "source": "El rumor de aquellas pisadas era sorzo, casi imperceptible, pero continuado, y a su compás se oía crujir una cosa como madera o hueso. Y se acercaban, se acercaban, y se movió el reclinatorio que estaba a la orilla de su lecho. Beatriz lanzó un grito agudo, y arrebujándose en la ropa que la cubría, escondió la cabeza y contuvo el aliento. El aire azotaba los vidrios del balcón.",
+      "translation": "The sound of those footsteps was faint, almost imperceptible, but continuous, and it was accompanied by the sound of something like wood or bone creaking. They were getting closer, closer, and the recliner next to her bed moved. Beatriz let out a sharp cry, and, huddled in the clothes that covered her, she pulled her head down and held her breath. The wind was blowing against the balcony windows."
+    },
+    {
+      "source": "El agua de la fuente lejana caía, y caía con un rumor eterno y monótono. Los ladridos de los perros se dilataban en las ráfagas del aire, y las campanas de la ciudad de Soria, unas cerca, otras distantes, doblaban tristemente por las ánimas de los difuntos. Así pasó una hora, dos, la noche, un siglo, porque la noche aquella pareció eterna a Beatriz. Al fin despuntó la aurora.",
+      "translation": "The water from the distant spring flowed, and flowed with an eternal, monotonous sound. The barks of the dogs echoed in the gusts of wind, and the bells of the city of Soria, some close, some distant, sadly rang out for the departed. Thus, an hour, two, the night, a century, passed, because that night seemed eternal to Beatriz. Finally, dawn broke."
+    },
+    {
+      "source": "Vuelta de su amor entreabrió los ojos a los primeros rayos de la luz. Después de una noche de insomnio y de terrores, es tan hermosa la luz clara y blanca del día. Separó las cortinas de seda del lecho, y ya se disponía a reírse de sus temores pasados, cuando de repente un sudor frío cubrió su cuerpo. Sus ojos se desencajaron, y una palidez mortal descoloró sus mejillas.",
+      "translation": "The return of her love revealed the first rays of light. After a night of sleeplessness and terror, the clear, white light of day was so beautiful. She pulled back the silk curtains from the bed and was about to laugh at her past fears, when suddenly, a cold sweat covered her body. Her eyes widened, and a deathly pallor drained the color from her cheeks."
+    },
+    {
+      "source": "Sobre el reclinatorio había visto, sangrienta y desgarrada, la banda azul que perdiera en el monte, la banda azul que fue a buscar Alonso. Cuando sus servidores llegaron despavoridos a noticiarle la muerte del primogénito de Alcudiel, que a la mañana había aparecido devorado por los lobos entre las piezas del monte de las ánimas, la encontraron inmóvil, crispada, asida con ambas manos a una de las columnas de ébano del lecho. Desencajados los ojos, entreabierta la boca, blancos los labios, rígidos los miedos, muerta de oro. Dicen que después de acaecido este suceso, un cazador extraviado que pasó la noche de difuntos sin poder salir del monte de las ánimas, y que al otro día, antes de morir, pudo contar lo que viera, refirió cosas horribles.",
+      "translation": "On the recliner, I saw, bloody and torn, the blue band that had been lost in the woods, the blue band that had gone to find Alonso. When his servants arrived in a panic to inform him of the death of Alcudiel's eldest son, who had been found devoured by wolves among the ruins of the \"Valley of Souls\" the previous morning, they found him motionless, stiff, clutching both hands to one of the ebony columns of the bed. With wide, staring eyes, his mouth slightly open, his white lips rigid, his fears palpable, he was dead, his body covered in gold. It is said that after this event, a lost hunter who had spent the night in the \"Valley of Souls\" without being able to leave, and who, before dying, was able to recount what he had seen, spoke of horrific things."
+    },
+    {
+      "source": "Entre otras, se asegura que vio a los esqueletos de los antiguos templarios y de los nobles de Soria enterrados en el atrio de la capilla, levantarse al punto de la oración con un estrépito y caballeros sobre osamentas de corceles, perseguir como a una fiera, a una mujer hermosa, pálida y desmelenada, que con los pies desnudos y sangrientos y arrojando gritos de horror, daba vueltas alrededor de la tumba de Alonso.",
+      "translation": "Among other things, he claims to have seen the skeletons of the former Templars and nobles of Soria buried in the chapel's courtyard, rise to the point of prayer with a loud noise, and knights attacking the remains of a beautiful, pale, and disheveled woman, who, with bare and bloody feet, and screaming in terror, circled around Alonso's tomb."
+    }
+  ]
+}

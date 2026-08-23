@@ -1,0 +1,519 @@
+{
+  "id": "module-13",
+  "title": "Chapter 13: Direct Object Pronouns",
+  "description": "Replace nouns with 'lo, la, los, las'.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "m13-s1",
+      "spanish": "Veo el libro.",
+      "english": "I see the book.",
+      "wordMeanings": {
+        "Veo": "I see",
+        "el": "the",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "m13-s2",
+      "spanish": "Lo veo.",
+      "english": "I see it.",
+      "wordMeanings": {
+        "Lo": "it / him",
+        "veo": "I see"
+      }
+    },
+    {
+      "id": "m13-s3",
+      "spanish": "Veo la casa.",
+      "english": "I see the house.",
+      "wordMeanings": {
+        "Veo": "I see",
+        "la": "the / it (fem)",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m13-s4",
+      "spanish": "La veo.",
+      "english": "I see it.",
+      "wordMeanings": {
+        "La": "the / it (fem)",
+        "veo": "I see"
+      }
+    },
+    {
+      "id": "m13-s5",
+      "spanish": "Compro el pan.",
+      "english": "I buy the bread.",
+      "wordMeanings": {
+        "Compro": "I buy",
+        "el": "the",
+        "pan": "bread"
+      }
+    },
+    {
+      "id": "m13-s6",
+      "spanish": "Lo compro.",
+      "english": "I buy it.",
+      "wordMeanings": {
+        "Lo": "it / him",
+        "compro": "I buy"
+      }
+    },
+    {
+      "id": "m13-s7",
+      "spanish": "Compro la sopa.",
+      "english": "I buy the soup.",
+      "wordMeanings": {
+        "Compro": "I buy",
+        "la": "the / it (fem)",
+        "sopa": "soup"
+      }
+    },
+    {
+      "id": "m13-s8",
+      "spanish": "La compro.",
+      "english": "I buy it.",
+      "wordMeanings": {
+        "La": "the / it (fem)",
+        "compro": "I buy"
+      }
+    },
+    {
+      "id": "m13-s9",
+      "spanish": "Tienes el libro.",
+      "english": "You have the book.",
+      "wordMeanings": {
+        "Tienes": "you have",
+        "el": "the",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "m13-s10",
+      "spanish": "Lo tienes.",
+      "english": "You have it.",
+      "wordMeanings": {
+        "Lo": "it / him",
+        "tienes": "you have"
+      }
+    },
+    {
+      "id": "m13-s11",
+      "spanish": "Tienes la carta.",
+      "english": "You have the letter.",
+      "wordMeanings": {
+        "Tienes": "you have",
+        "la": "the / it (fem)",
+        "carta": "letter"
+      }
+    },
+    {
+      "id": "m13-s12",
+      "spanish": "La tienes.",
+      "english": "You have it.",
+      "wordMeanings": {
+        "La": "the / it (fem)",
+        "tienes": "you have"
+      }
+    },
+    {
+      "id": "m13-s13",
+      "spanish": "Busco los libros.",
+      "english": "I look for the books.",
+      "wordMeanings": {
+        "Busco": "I look for",
+        "los": "the / them",
+        "libros": "books"
+      }
+    },
+    {
+      "id": "m13-s14",
+      "spanish": "Los busco.",
+      "english": "I look for them.",
+      "wordMeanings": {
+        "Los": "the / them",
+        "busco": "I look for"
+      }
+    },
+    {
+      "id": "m13-s15",
+      "spanish": "Busco las llaves.",
+      "english": "I look for the keys.",
+      "wordMeanings": {
+        "Busco": "I look for",
+        "las": "the / them (fem)",
+        "llaves": "keys"
+      }
+    },
+    {
+      "id": "m13-s16",
+      "spanish": "Las busco.",
+      "english": "I look for them.",
+      "wordMeanings": {
+        "Las": "the / them (fem)",
+        "busco": "I look for"
+      }
+    },
+    {
+      "id": "m13-s17",
+      "spanish": "¿Ves el café?",
+      "english": "Do you see the coffee?",
+      "wordMeanings": {
+        "Ves": "you see",
+        "el": "the",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m13-s18",
+      "spanish": "Sí, lo veo.",
+      "english": "Yes, I see it.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "lo": "it / him",
+        "veo": "I see"
+      }
+    },
+    {
+      "id": "m13-s19",
+      "spanish": "¿Ves la mesa?",
+      "english": "Do you see the table?",
+      "wordMeanings": {
+        "Ves": "you see",
+        "la": "the / it (fem)",
+        "mesa": "table"
+      }
+    },
+    {
+      "id": "m13-s20",
+      "spanish": "Sí, la veo.",
+      "english": "Yes, I see it.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "la": "the / it (fem)",
+        "veo": "I see"
+      }
+    },
+    {
+      "id": "m13-s21",
+      "spanish": "¿Compraste el coche?",
+      "english": "Did you buy the car?",
+      "wordMeanings": {
+        "Compraste": "you bought",
+        "el": "the",
+        "coche": "car"
+      }
+    },
+    {
+      "id": "m13-s22",
+      "spanish": "Sí, lo compré.",
+      "english": "Yes, I bought it.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "lo": "it / him",
+        "compré": "I bought"
+      }
+    },
+    {
+      "id": "m13-s23",
+      "spanish": "¿Compraste la casa?",
+      "english": "Did you buy the house?",
+      "wordMeanings": {
+        "Compraste": "you bought",
+        "la": "the / it (fem)",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m13-s24",
+      "spanish": "No, no la compré.",
+      "english": "No, I didn’t buy it.",
+      "wordMeanings": {
+        "No": "no / not",
+        "no": "no / not",
+        "la": "the / it (fem)",
+        "compré": "I bought"
+      }
+    },
+    {
+      "id": "m13-s25",
+      "spanish": "Ayer abrí el libro.",
+      "english": "Yesterday I opened the book.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "abrí": "I opened",
+        "el": "the",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "m13-s26",
+      "spanish": "Ayer lo abrí.",
+      "english": "Yesterday I opened it.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "lo": "it / him",
+        "abrí": "I opened"
+      }
+    },
+    {
+      "id": "m13-s27",
+      "spanish": "Ayer abrí la puerta.",
+      "english": "Yesterday I opened the door.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "abrí": "I opened",
+        "la": "the / it (fem)",
+        "puerta": "door"
+      }
+    },
+    {
+      "id": "m13-s28",
+      "spanish": "Ayer la abrí.",
+      "english": "Yesterday I opened it.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "la": "the / it (fem)",
+        "abrí": "I opened"
+      }
+    },
+    {
+      "id": "m13-s29",
+      "spanish": "Estoy leyendo el libro.",
+      "english": "I’m reading the book.",
+      "wordMeanings": {
+        "Estoy": "I am",
+        "leyendo": "reading",
+        "el": "the",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "m13-s30",
+      "spanish": "Lo estoy leyendo.",
+      "english": "I’m reading it.",
+      "wordMeanings": {
+        "Lo": "it / him",
+        "estoy": "I am",
+        "leyendo": "reading"
+      }
+    },
+    {
+      "id": "m13-s31",
+      "spanish": "Estoy escribiendo la carta.",
+      "english": "I’m writing the letter.",
+      "wordMeanings": {
+        "Estoy": "I am",
+        "escribiendo": "writing",
+        "la": "the / it (fem)",
+        "carta": "letter"
+      }
+    },
+    {
+      "id": "m13-s32",
+      "spanish": "La estoy escribiendo.",
+      "english": "I’m writing it.",
+      "wordMeanings": {
+        "La": "the / it (fem)",
+        "estoy": "I am",
+        "escribiendo": "writing"
+      }
+    },
+    {
+      "id": "m13-s33",
+      "spanish": "¿Dónde está el libro? No lo veo.",
+      "english": "Where is the book? I don’t see it.",
+      "wordMeanings": {
+        "Dónde": "where",
+        "está": "is",
+        "el": "the",
+        "libro": "book",
+        "No": "no / not",
+        "lo": "it / him",
+        "veo": "I see"
+      }
+    },
+    {
+      "id": "m13-s34",
+      "spanish": "¿Dónde está la llave? No la encuentro.",
+      "english": "Where is the key? I can’t find it.",
+      "wordMeanings": {
+        "Dónde": "where",
+        "está": "is",
+        "la": "the / it (fem)",
+        "llave": "key",
+        "No": "no / not",
+        "encuentro": "I find"
+      }
+    },
+    {
+      "id": "m13-s35",
+      "spanish": "Lo quiero.",
+      "english": "I want it.",
+      "wordMeanings": {
+        "Lo": "it / him",
+        "quiero": "I want"
+      }
+    },
+    {
+      "id": "m13-s36",
+      "spanish": "La quiero.",
+      "english": "I want it.",
+      "wordMeanings": {
+        "La": "the / it (fem)",
+        "quiero": "I want"
+      }
+    },
+    {
+      "id": "m13-s37",
+      "spanish": "Los quiero.",
+      "english": "I want them.",
+      "wordMeanings": {
+        "Los": "the / them",
+        "quiero": "I want"
+      }
+    },
+    {
+      "id": "m13-s38",
+      "spanish": "Las quiero.",
+      "english": "I want them.",
+      "wordMeanings": {
+        "Las": "the / them (fem)",
+        "quiero": "I want"
+      }
+    },
+    {
+      "id": "m13-s39",
+      "spanish": "¿Lo tienes aquí?",
+      "english": "Do you have it here?",
+      "wordMeanings": {
+        "Lo": "it / him",
+        "tienes": "you have",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m13-s40",
+      "spanish": "Sí, lo tengo aquí.",
+      "english": "Yes, I have it here.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "lo": "it / him",
+        "tengo": "I have",
+        "aquí": "here"
+      }
+    },
+    {
+      "spanish": "¡Ya lo tengo!",
+      "english": "I've got it!",
+      "wordMeanings": {
+        "Ya": "already/now",
+        "lo": "it",
+        "tengo": "I have"
+      },
+      "id": "m13-s-colloq1"
+    },
+    {
+      "spanish": "¿Lo pillas?",
+      "english": "Do you get it? (slang)",
+      "wordMeanings": {
+        "Lo": "it",
+        "pillas": "you catch/get"
+      },
+      "id": "m13-s-colloq2"
+    }
+  ],
+  "grammarExplanation": "Direct object pronouns replace the noun receiving the action:\n\n• lo = it/him (masculine)\n• la = it/her (feminine)\n• los = them (masculine)\n• las = them (feminine)\n\nThey go BEFORE the conjugated verb:\n• 'Veo el libro' → 'Lo veo' (I see it)\n• 'Compro la sopa' → 'La compro' (I buy it)\n\nWith infinitives/gerunds, they can attach to the end:\n• 'Lo estoy leyendo' or 'Estoy leyéndolo'",
+  "vocabulary": {
+    "libro": {
+      "mnemonic": "Think 'library' — full of libros (books)!",
+      "explanation": "Means 'book'. Masculine noun."
+    },
+    "lo": {
+      "mnemonic": "'Low him' — direct object him/it.",
+      "explanation": "Masculine direct object pronoun."
+    },
+    "la": {
+      "mnemonic": "'La lady' — her/it (feminine).",
+      "explanation": "Also 'the' (feminine)."
+    },
+    "casa": {
+      "mnemonic": "Think 'casino' — a big house of games.",
+      "explanation": "Feminine noun. 'En casa' = at home."
+    },
+    "compro": {
+      "mnemonic": "'Compare-o' — I compare before I buy.",
+      "explanation": "First person of 'comprar' (to buy)."
+    },
+    "pan": {
+      "mnemonic": "Bread baked in a pan!",
+      "explanation": "Means 'bread'. Masculine noun."
+    },
+    "tienes": {
+      "mnemonic": "'Tea-en-es' — you have tea.",
+      "explanation": "Informal 'you have'. From 'tener'."
+    },
+    "carta": {
+      "mnemonic": "Think 'card/letter'.",
+      "explanation": "Means 'letter' or 'menu'."
+    },
+    "busco": {
+      "mnemonic": "'Bus-go' — I go looking for it.",
+      "explanation": "First person of 'buscar' (to look for)."
+    },
+    "los": {
+      "mnemonic": "'Los' = them (masculine plural).",
+      "explanation": "Direct object pronoun."
+    },
+    "las": {
+      "mnemonic": "'Las ladies' — them (feminine).",
+      "explanation": "Direct object pronoun."
+    },
+    "café": {
+      "mnemonic": "Same as English 'café' — coffee!",
+      "explanation": "Means 'coffee' or 'café'."
+    },
+    "mesa": {
+      "mnemonic": "A 'mesa' (flat-topped hill) — flat like a table.",
+      "explanation": "Means 'table'. Feminine noun."
+    },
+    "coche": {
+      "mnemonic": "Think 'coach' — a horse-drawn coach = car.",
+      "explanation": "Means 'car'. Mainly used in Spain."
+    },
+    "ayer": {
+      "mnemonic": "'A year ago? No, just yesterday!'",
+      "explanation": "Means 'yesterday'."
+    },
+    "puerta": {
+      "mnemonic": "Think 'port/portal' — a door.",
+      "explanation": "Feminine noun meaning door/gate."
+    },
+    "estoy": {
+      "mnemonic": "'I estoy here!' — I am (located/feeling).",
+      "explanation": "First person of 'estar'. For location and feelings."
+    },
+    "dónde": {
+      "mnemonic": "Think 'done-day' — where?",
+      "explanation": "Question word for location."
+    },
+    "está": {
+      "mnemonic": "Think 'establish' where something is.",
+      "explanation": "Third person of 'estar' (to be, location/state)."
+    },
+    "quiero": {
+      "mnemonic": "'I query what I want' — I want.",
+      "explanation": "First person of 'querer' (to want)."
+    },
+    "aquí": {
+      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
+      "explanation": "Means 'here'. More precise than 'acá'."
+    },
+    "tengo": {
+      "mnemonic": "Think 'tango' — I have a tango partner!",
+      "explanation": "First person of 'tener' (to have). Irregular."
+    }
+  }
+}

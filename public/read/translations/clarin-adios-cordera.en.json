@@ -1,0 +1,252 @@
+{
+  "version": 1,
+  "trackId": "clarin-adios-cordera",
+  "sourceHash": "427bbeea778bbf3a6fc9ce8ebc4634377c852d9a08fe30774aeaba4dfc2a61cc",
+  "provider": "ollama/translategemma:4b",
+  "sourceLanguage": "es",
+  "targetLanguage": "en",
+  "translatedAt": "2026-08-15T08:18:31.156090+00:00",
+  "characters": 19600,
+  "blocks": [
+    {
+      "source": "Adiós, Cordera Leopoldo Alas, Clarín. Eran tres, siempre los tres, Rosa, Pinín y la Cordera. El Prao Somonte era un recorte triangular de terciopelo verde tendido como una colgadura cuesta abajo por la loma. Uno de sus ángulos, el inferior.",
+      "translation": "Goodbye, Cordera Leopoldo Alas, Clarín. There were three, always three: Rosa, Pinín, and Cordera. The Prao Somonte was a triangular piece of green velvet hanging down the hillside, like a decorative element. One of its corners, the lower one."
+    },
+    {
+      "source": "Lo despuntaba al camino de hierro de Oviedo a Gijón. Un palo del telégrafo plantado allí como pendón de conquista con sus gícaras blancas y sus alambres paralelos. A derecha e izquierda representaba para Rosa y Pinín el ancho mundo desconocido, misterioso. Temible, eternamente ignorado.",
+      "translation": "It marked the beginning of the iron railway line from Oviedo to Gijón. A telegraph pole, planted there as a symbol of conquest, with its white flags and parallel wires, represented a vast, unknown, and mysterious world to Rosa and Pinín. It was a world that was both frightening and eternally ignored."
+    },
+    {
+      "source": "Pinín, después de pensarlo mucho, cuando a fuerza de ver días y días, el poste tranquilo, inofensivo, campechano, con ganas, sin duda, de aclimatarse en la aldea y parecerse todo lo posible a un árbol seco, fue atreviéndose con él, llevó la confianza al extremo de abrazarse al leño y trepar hasta cerca de los alambres. Pero nunca llegaba a tocar la porcelana de arriba, que le recordaba las gícaras que había visto en la rectoral de Puao. Al verse tan cerca del misterio sagrado, le acometía un pánico de respeto y se dejaba resbalar deprisa hasta tropezar con los pies en el césped. Rosa, menos audaz, pero más enamorada de lo desconocido, se contentaba con arrimar el oído al palo del telégrafo y minutos y hasta cuartos de hora pasaba escuchando los formidables rumores metálicos que el viento arrancaba las fibras del pino seco en contacto con el alambre.",
+      "translation": "Pinín, after much consideration, when he had seen days and days of the quiet, harmless, rural post, which was clearly eager to settle in the village and resemble a dry tree as much as possible, he began to approach it. He eventually reached the point where he could hug the wooden post and climb almost to the top wires. But he never managed to touch the porcelain at the top, which reminded him of the gargoyles he had seen in the church of Puao. When he was so close to the sacred mystery, he felt a sense of awe and quickly slid down, stumbling onto the grass. Rosa, who was less daring but more enamored with the unknown, was content to press her ear against the telegraph pole and listen for minutes, or even quarter hours, to the amazing metallic sounds that the wind created as it blew through the dry pine branches in contact with the wire."
+    },
+    {
+      "source": "Aquellas vibraciones, a veces intensas como las del diapasón, que aplicado al oído parece que quema con su vertiginoso latir, eran para Rosa los papeles que pasaban. Las cartas que se escribían por los hilos, el lenguaje incomprensible que lo ignorado hablaba con lo ignorado. Ella no tenía curiosidad por entender lo que los de allá, tan lejos, decían a los del otro extremo del mundo. ¿Qué le importaba?",
+      "translation": "Those vibrations, sometimes as intense as those of a tuning fork, that seemed to burn in her ear with their rapid pulsing, were the letters that passed between people. The letters that were written through intermediaries, the incomprehensible language that the ignored spoke to the ignored. She had no interest in understanding what the people on the other side of the world were saying to each other. What did it matter to her?"
+    },
+    {
+      "source": "Su interés estaba en el ruido por el ruido mismo, por su timbre y su misterio. La cordera, mucho más formal que sus compañeros. ¿Verdad es que relativamente, de edad también mucho más madura, se abstenía de toda comunicación con el mundo civilizado y miraba de lejos el palo del telégrafo como lo que era para ella, efectivamente, como cosa muerta, inútil, que no le servía siquiera para rascarse? Era una vaca que había vivido mucho, sentada horas y horas, pues experta en pastos.",
+      "translation": "Her interest lay in the sound itself, its timbre, and its mystery. The cow was much more formal than her companions. In fact, being relatively older and more mature, she avoided all communication with the civilized world and simply observed the telegraph pole as it was for her: a dead, useless object that even served no purpose, such as scratching. She was an experienced cow, having spent countless hours grazing, and knew the pasture well."
+    },
+    {
+      "source": "Sabía aprovechar el tiempo, meditaba más que comía, gozaba del placer de vivir en paz, bajo el cielo gris y tranquilo de su tierra, como quien alimenta el alma, que también tienen los brutos. Y si no fuera profanación, podría decirse que los pensamientos de la vaca matrona, llena de experiencia, debían de parecerse todo lo posible a las más sosegadas y doctrinales odas de Horacio. Asistía a los juegos de los pastorcitos encargados de ilindarla, como una abuela. Si pudiera, se sonreiría al pensar que Rosa y Pinin tenían por misión en el prado cuidar de que ella, la cordera, no se extralimitase, no se metiese por la vía del ferrocarril, ni saltara a la heredad vecina.",
+      "translation": "She knew how to make the most of her time, meditating more than she ate, and she found joy in living peacefully under the calm, gray sky of her homeland, just as animals nourish their souls. And if it weren't sacrilegious, one could say that the thoughts of the experienced cow, full of wisdom, must have resembled the most serene and scholarly odes of Horace. She watched the shepherd children who were responsible for her, as a grandmother would. If she could, she would smile at the thought that Rosa and Pinin had the task of ensuring that she, the calf, did not stray, did not get onto the railway tracks, or jump into the neighboring property."
+    },
+    {
+      "source": "¿Qué había de saltar? ¿Qué se había de meter? Pastar de cuando en cuando, no mucho, cada día menos, pero con atención, sin perder el tiempo, en levantar la cabeza por curiosidad necia, escogiendo sin vacilar los mejores bocados y después sentarse sobre el cuarto trasero con delicia, a rumiar la vida, a gozar el deleite del no padecer y todo lo demás, aventuras peligrosas. Ya no recordaba cuando le había picado la mosca.",
+      "translation": "What was there to grab? What was there to put in my mouth? I would occasionally indulge, but not much, and less and less each day, but always with care, without wasting time, just lifting my head out of sheer curiosity, choosing the best morsels without hesitation, and then sitting comfortably on the back seat, savoring life, enjoying the pleasure of not suffering, and everything else, all the exciting adventures. I couldn't even remember when I had first started."
+    },
+    {
+      "source": "El tratu, el toro, los saltos locos por las praderas adelante. ¡Todo eso estaba tan lejos! Aquella paz solo se había turbado en los días de prueba de la inauguración del ferrocarril. La primera vez que la cordera vio pasar el tren, se volvió loca.",
+      "translation": "The treatment, the bull, the wild leaps across the fields ahead. All of that seemed so far away! That peace had only been disturbed during the inaugural days of the railway. The first time the calf saw the train, it went wild."
+    },
+    {
+      "source": "Saltó la cebe de lo más alto del Somonte, corrió por prados ajenos y el terror duró muchos días renovándose, más o menos violento, cada vez que la máquina asomaba por a trinchera vecina. Poco a poco se fue acostumbrando al estrépito inofensivo. Cuando llegó a convencerse de que era un peligro que pasaba, una catástrofe que amenazaba sin dar, redujo sus precauciones a ponerse en pie y a mirar de frente, con la cabeza erguida, al formidable monstruo. Más adelante no hacía más que mirarle, sin levantarse, con antipatía y desconfianza.",
+      "translation": "The noise came from the highest point of Somonte, and the sound traveled across the neighboring fields. The fear lasted for many days, and each time the machine appeared at the edge of the neighboring trench, the fear would return, more or less intense. Gradually, he became accustomed to the harmless noise. When he finally convinced himself that it was a harmless threat, he reduced his precautions to standing up and looking directly at the formidable machine, with his head held high. Later, he simply stared at it, without moving, with a mixture of fear and distrust."
+    },
+    {
+      "source": "Acabó por no mirar al tren siquiera. En Pinín y Rosa, la novedad del ferrocarril produjo impresiones más agradables y persistentes. Si al principio era una alegría loca, algo mezclada de miedo supersticioso, una excitación nerviosa que les hacía prorrumpir en gritos, gestos, pantomimas descabelladas. Después fue un recreo pacífico, suave, renovado varias veces al día.",
+      "translation": "He ended up not even looking at the train. In Pinín and Rosa, the novelty of the railway produced more pleasant and lasting impressions. Initially, it was a wild, joyful experience, mixed with superstitious fear, a nervous excitement that caused them to scream, gesture, and perform absurd pantomimes. Later, it became a peaceful, calm, and refreshed experience, repeated several times a day."
+    },
+    {
+      "source": "Tardó mucho en gastarse aquella emoción de contemplar la marcha vertiginosa, acompañada del viento, de la gran culebra de hierro que llevaba dentro de sí tanto ruido y tantas castas de gentes desconocidas, extrañas. Pero telégrafo, ferrocarril, todo eso era lo de menos. Un accidente pasajero que se ahogaba en el mar de soledad, que rodeaba el prao somonte. Desde allí no se veía vivienda humana.",
+      "translation": "It took a long time for that feeling of awe to fade, watching the dizzying movement of the iron snake, accompanied by the wind, as it carried so much noise and the passage of countless unknown, strange people. But the telegraph, the railway – all of that was secondary. It was a fleeting accident, a drowning in the sea of solitude that surrounded the harbor. From there, there was no sign of human habitation."
+    },
+    {
+      "source": "Allí no llegaban ruidos del mundo más que al pasar el tren. Mañana sin fin, bajo los rayos del sol, a veces entre el zumbar de los insectos, la vaca y los niños esperaban la proximidad del mediodía para volver a casa. Y luego, tardes eternas, de dulce tristeza silenciosa, en el mismo prado, hasta venir la noche con el lucero vespertino por testigo mudo en la altura. Rodaban las nubes allá arriba.",
+      "translation": "There were no sounds from the outside world other than the passing of the train. Endless days, under the sun's rays, sometimes accompanied by the buzzing of insects, the cow, and the children, they waited for midday to return home. And then, endless afternoons, filled with quiet, sweet sadness, in the same meadow, until the night arrived, with the evening star as a silent witness in the sky. Clouds drifted above."
+    },
+    {
+      "source": "Caían las sombras de los árboles y de las peñas en la loma y en la cañada. Se acostaban los pájaros, empezaban a brillar algunas estrellas en lo más oscuro del cielo azul, y pinín y rosa, los niños gemelos, los hijos de Antón de Chinta, teñida el alma de la dulce serenidad soñadora de la solemne y seria naturaleza. Callaban horas y horas, después de sus juegos, nunca muy estrepitosos, sentados cerca de la cordera, que acompañaba el augusto silencio de tarde en tarde con un blanco son de perezosa esquila. En este silencio, en esta calma inactiva, había amores.",
+      "translation": "The shadows of the trees and rocks fell across the hillside and the stream. The birds were settling down, and some stars were beginning to appear in the darkest part of the blue sky, while Pinín and Rosa, the twin children of Anton de Chinta, were imbued with the sweet, dreamy serenity of the solemn and serious nature. They would sit for hours after their games, which were never particularly boisterous, near the fence, which accompanied the majestic silence of the late afternoon with the gentle sound of a slow-moving fence post. In this silence, in this inactive calm, there was love."
+    },
+    {
+      "source": "Se amaban los dos hermanos como dos mitades de un fruto verde, unidos por la misma vida, con que escasa conciencia de lo que en ellos era distinto, de cuanto los separaba. Amaban pinín y rosa a la cordera, la vaca abuela, grande, amarillenta, cuyo testús parecía una cuna. La cordera recordaría a un poeta la Zavala del Ramayana, la vaca santa, tenía en la amplitud de sus formas, en la solemne serenidad de sus pausados y nobles movimientos, aire y contornos de ídolo destronado, caído, contento con su suerte, más satisfecha con ser vaca verdadera que Dios falso. La cordera, hasta dónde es posible adivinar estas cosas, puede decirse que también quería a los gemelos encargados de apacentarla.",
+      "translation": "The two siblings loved each other as two halves of a green fruit, united by the same life, with little awareness of what made them different, or what separated them. They loved Pinín and Rosa, the calf, the large, yellowish cow, whose udder seemed like a cradle. The calf reminded the poet of the Zavala from the Ramayana, the holy cow. It had, in the breadth of its form, in the solemn serenity of its slow and noble movements, the air and contours of a dethroned, fallen, and contented idol, more satisfied to be a real cow than a false God. The calf, as much as one could guess, also wanted the twins who were in charge of tending to it."
+    },
+    {
+      "source": "Era poco expresiva, pero la paciencia con que los toleraba, cuando en sus juegos ella le servía de almohada, de escondite, de montura, y para otras cosas que ideaba la fantasía de los pastores, demostraba tácitamente el afecto del animal pacífico y pensativo. En tiempos difíciles pinín y rosa habían hecho por la cordera los imposibles de solicitud y cuidado. No siempre Antón de Chinta había tenido el Prado Somonte. Este regalo era cosa relativamente nueva.",
+      "translation": "She was not particularly expressive, but her patience with them, when she used them as a pillow, a hiding place, and a mount, and for other things that the shepherds' imaginations conjured, implicitly demonstrated the affection of the docile and thoughtful animal. During difficult times, Pinín and Rosa had done for the lamb what seemed impossible: to care for and protect it. Antón de Chinta hadn't always had Prado Somonte. This gift was relatively new."
+    },
+    {
+      "source": "Años atrás la cordera tenía que salir a la gramática, esto es, a apacentarse como podía, a la buena aventura de los caminos y callejas de las rapadas y escasas praderías del común que tanto tenían de vía pública como de pastos. Pinín y rosa, en tales días de penuria, la guiaban a los mejores altosanos, a los parajes más tranquilos y menos esquilmados, y la libraban de las mil injurias a que están expuestas las pobres reces que tienen que buscar su alimento en los azares de un camino. En los días de hambre, en el establo, cuando el heno escaseaba y el narvazo para extraer el lecho caliente de la vaca, faltaba también a rosa y a pinín, debía la cordera mil industrias que le hacían más suave la miseria. ¿Y qué decir de los tiempos heroicos del parto y la cría?",
+      "translation": "Years ago, the calf had to graze freely, meaning it could roam and explore the common pastures and meadows, which were both public spaces and grazing areas. Pinín and Rosa would guide the calf to the best areas, the quietest and least disturbed spots, and protect it from the many hardships faced by calves that had to rely on chance encounters. During times of scarcity, in the stable, when hay was scarce and the bedding for the cow was also lacking, Rosa and Pinín would provide the calf with comfort and care. And what can be said about the heroic times of birth and raising?"
+    },
+    {
+      "source": "Cuando se entablaba la lucha necesaria entre el alimento y regalo de la nación y el interés de los chintos, que consistía en robar a las hubres de la pobre madre toda la leche que no fuera absolutamente indispensable para que el ternero subsistiese. Rosa y pinín, en tal conflicto, siempre estaban de parte de la cordera. Y en cuanto había ocasión, a escondidas, soltaban el recental que, ciego y como loco, atestaradas contra todo, corría a buscar el amparo de la madre que le albergaba bajo su vientre, volviendo la cabeza agradecida y solicita. Diciendo, a su manera, dejad a los niños y a los arcentales que vengan a mí.",
+      "translation": "When the necessary struggle between the nation's food supply and the interests of the \"chintos\" (those who exploited the poor mother) took place, this involved stealing all the milk from the mother that was not absolutely essential for the calf's survival. Rosa and Pinín, on this occasion, were always on the side of the calf. And whenever there was an opportunity, they would secretly release the calf, which, blind and disoriented, would charge against everything, seeking refuge with its mother, who would welcome it back with gratitude and affection. In their own way, they would say, \"Let the children and the \"arcentales\" (those who exploited the poor mother) come to me.\""
+    },
+    {
+      "source": "Estos recuerdos, estos lazos, son de los que no se olvidan. Añádase a todo, que la cordera tenía la mejor pasta de vaca sufrida del mundo. Cuando se veía emparejada bajo el yugo con cualquier compañera, fiel a la gamelia, sabía meter su voluntad a la ajena, y horas y horas se la veía con la cerviz inclinada, la cabeza torcida, en incómoda postura, velando en pie, mientras la pareja dormía en tierra. Antón de Chinta comprendió que había nacido para pobre cuando palpó la imposibilidad de cumplir aquel sueño dorado suyo, de tener un corral propio, con dos juntas por lo menos, llegó, gracias a mil ahorros, que eran mares de sudor y purgatorios de privaciones.",
+      "translation": "These memories, these bonds, are the ones that never fade. And to top it all off, the calf had the best cow's milk pasta in the world. When paired with any other animal under the yoke, it remained loyal to its instincts, and it could always assert its will over others, often seen with its neck bent and its head twisted, in an uncomfortable position, while its partner slept on the ground. Antón de Chinta realized that he was destined for a simple life when he realized the impossibility of achieving his dream of having his own pen, with at least two animals inside. Thanks to years of hard work and sacrifices, he managed to achieve this."
+    },
+    {
+      "source": "Llegó a la primera vaca, la cordera, y no pasó de ahí. Antes de poder comprar la segunda, se vio obligado, para pagar atrás a Salamo, el dueño de la cacería que llevaba en renta, a llevar al mercado a aquel pedazo de sus entrañas, la cordera, el amor de sus hijos. Chinta había muerto a los dos años de tener la cordera en casa. El establo y la cama del matrimonio estaban pared por medio, llamando pared a un tejido de ramas de castaño y de cañas de maíz.",
+      "translation": "He reached the first cow, the calf, and didn't go any further. Before he could buy the second, he was forced to take the calf to market to pay Salamo, the owner of the hunting lodge he was renting, and to return the calf, the love of his children. The calf had died two years after being brought home. The stable and the couple's bed were right next to each other, with \"wall\" referring to a woven structure of chestnut and corn stalks."
+    },
+    {
+      "source": "Ya Chinta, moza de la economía en aquel hogar mincerable, había muerto mirando a la vaca por un boquete del destrozado tabique de ramaje, señalándola como salvación de la familia. ¡Cuidadla! ¡Es vuestro sustento! Parecían decir los ojos de la pobre moribunda que murió extenuada de hambre y de trabajo.",
+      "translation": "\"Ya Chinta, the young woman from that impoverished household, had died gazing at the cow through a hole in the ruined wooden wall, seeing it as a salvation for the family. \"Take care of it! It's your livelihood!\" the dying woman seemed to be saying, exhausted from hunger and work."
+    },
+    {
+      "source": "El amor de los gemelos se había concentrado en la cordera. El regazo que tiene su cariño especial, que el padre no puede reemplazar, estaba al calor de la vaca en el establo y allá en el somonte. Todo esto lo comprendía Antón a su manera, confusamente. De la venta necesaria, no había que decir palabra a los niños.",
+      "translation": "The twins' affection was focused on the calf. The special place where they felt most loved, which their father couldn't replace, was near the cow in the barn and in the pasture. Antón understood all of this in his own way, though he was confused. They didn't need to tell the children about the sale."
+    },
+    {
+      "source": "Un sábado de julio, al ser de día, de mal humor, Antón echó a andar hacia Gijón, llevando la cordera por delante. Sin más atabío que el collar de esquila, Pinín y Rosa dormían. Otros días había que despertarlos a azotes. El padre los dejó tranquilos.",
+      "translation": "On a Saturday in July, as it was daytime, and Antón was in a bad mood, he set off towards Gijón, with the sheep in front. The only thing Pinín and Rosa had besides their collars were their own sleep, while on other days they had to be woken up with a whip. Their father had left them to sleep peacefully."
+    },
+    {
+      "source": "A levantarse se encontraron sin la cordera. Sin duda mío, pa la había llevado al jato. No cabía otra conjetura. Pinín y Rosa opinaban que la vaca iba de mala gana.",
+      "translation": "We found it lying on the ground. It was definitely mine, as I had taken it out to the pasture. There was no other explanation. Pinín and Rosa thought the cow had been deliberately let loose."
+    },
+    {
+      "source": "Creían ellos que no deseaba más hijos, pues todos acababa por perderlos pronto, sin saber cómo ni cuándo. Ahí oscurecer, Antón, y la cordera entraban por la corrada moínos, cansados y cubiertos de polvo. El padre no dio explicaciones, pero los hijos adivinaron el peligro. No había vendido porque nadie había querido llegar al precio que a él se le había puesto en la cabeza.",
+      "translation": "They believed that she didn't want any more children, as all of them ended up losing them prematurely, without knowing how or when. Outside, in the dark, Anton and the lamb entered through the back door, exhausted and covered in dust. The father didn't offer any explanations, but the children sensed the danger. He hadn't sold because no one had been willing to pay the price he had set in his mind."
+    },
+    {
+      "source": "Era excesivo. Un sofisma del cariño. Pedía mucho por la vaca para que nadie se atreviese a llevársela. Los que se habían acercado a intentar fortuna se habían alejado pronto echando pestes de aquel hombre que miraba con ojos de rencor y desafío al que osaba insistir en acercarse al precio fijo en que él se abroquelaba.",
+      "translation": "It was excessive. A manipulative tactic fueled by affection. He demanded a high price for the cow, hoping to deter anyone from approaching him. Those who had attempted to negotiate had quickly given up, complaining about the man who stared at them with a look of resentment and defiance whenever anyone dared to press him on the fixed price he had set."
+    },
+    {
+      "source": "Hasta el último momento del mercado, estuvo Antón de Chinta en el humedal, dando plazo a la fatalidad. No se dirá. Pensaba que yo no quiero vender. Son ellos que no me pagan la cordera en lo que vale.",
+      "translation": "Up until the very last moment at the market, Anton de Chinta was at the marsh, waiting for fate to intervene. He wasn't going to give up. He thought that I didn't want to sell. It was them who weren't paying me a fair price."
+    },
+    {
+      "source": "Y por fin, suspirando, si no satisfecho, con cierto consuelo, volvió a emprender el camino para la carretera de Candaz. Adelante, entre la confusión y el ruido de cerdos y novillos, bueyes y vacas, que los aldeanos de muchas parroquias del entorno, conducían con mayor o menor trabajo, según eran de antiguo las relaciones entre dueños y bestias. En el natajoyo, en el cruce de dos caminos, todavía estuvo expuesto el de Chinta a quedarse sin la cordera. Un vecino de Carrió, que le había rondado todo el día ofreciéndole pocos duros menos de los que pedía, le dio el último ataque, algo borracho.",
+      "translation": "Finally, with a sigh, and though not entirely satisfied, he set off again on the road to Candaz. Ahead, amidst the confusion and noise of pigs, oxen, and cows, driven by villagers from various parishes in the area, the animals were guided, with varying degrees of success, depending on the old relationships between owners and animals. At the crossroads, where two paths met, Chinta was almost left without his rope. A neighbor from Carrió, who had been offering him small amounts of money all day, even less than he was demanding, made the final attempt, while visibly intoxicated."
+    },
+    {
+      "source": "El de Carrió subía, subía, luchando entre la codicia y el capricho de llevar la vaca. Antón, como una roca, llegaron a tener las manos enlazadas, parados en medio de la carretera, interrumpiendo el paso. Por fin la codicia pudo más. El pico de los cincuenta lo separó como un abismo.",
+      "translation": "Carrió continued to climb, struggling between the desire and the whim of getting the cow. Antón, as solid as a rock, managed to get their hands intertwined, standing in the middle of the road, halting the progress. Finally, greed prevailed. The fifty-year-old man pulled them apart like a chasm."
+    },
+    {
+      "source": "Se soltaron las manos, cada cual tiró por su lado. Antón, por una calleja que, entre madreselvas que aún no florecían y zarzamoras en flor, le condujo hasta su casa. Desde aquel día en que adivinaron el peligro, Pinín y Rosa no sosegaron. A media semana se personó el mayordomo en el corral de Antón.",
+      "translation": "They separated, each going their own way. Antón, through a narrow alleyway that passed between flowering brambles and still-dormant raspberries, made his way home. From that day forward, when they realized the danger, Pinín and Rosa never stopped. Halfway through the week, the butler appeared in Antón's courtyard."
+    },
+    {
+      "source": "Era otro aldiano de la misma parroquia, de malas pulgas, cruel con los caseros atrasados. Antón, que no admitía reprimendas, se puso lívido ante las amenazas de desahucio. El amo no esperaba más. Bueno, vendería la vaca a vil precio por una merienda.",
+      "translation": "He was another tenant from the same parish, a nasty, cruel man who mistreated the poor, uneducated farmers. Anton, who refused to be scolded, turned pale at the threat of eviction. The owner was expecting nothing less. Well, he would sell the cow for a pittance just to get rid of her."
+    },
+    {
+      "source": "Había que pagar o quedarse en la calle. El sábado inmediato acompañó al humedal Pinín a su padre. El niño miraba con horror a los contratistas de carne, que eran los tiranos del mercado. La cordera fue comprada en su justo precio por un rematante de castilla.",
+      "translation": "One had to pay or be left out in the street. On the following Saturday, the boy accompanied his father to the Pinín wetland. The boy watched in horror as the meat vendors, who were the dominant figures in the market, haggled. The lamb was bought at its fair price by a vendor from Castile."
+    },
+    {
+      "source": "Se la hizo una señal en la piel y volvió a su establo de Puao, ya vendida a Jena, tañiendo tristemente la esquila. Detrás caminaban Antón de Chinta, Taciturno y Pinín, con ojos como puños. Rosa, al saber la venta, se abrazó al testús de la cordera, que inclinaba la cabeza a las caricias como al yugo. Se iba la vieja, pensaba con el alma destrozada Antón el uranio.",
+      "translation": "He gave her a signal on her skin, and she returned to her stable in Puao, which had already been sold to Jena. She sadly struck the reins. Behind them walked Anton de Chinta, Taciturno, and Pinín, with eyes like fists. Rosa, upon hearing the sale, hugged the mare, who lowered its head to the caresses as it would a harness. \"The old mare is gone,\" Antón the uranium thought, his heart broken."
+    },
+    {
+      "source": "Ella, será una bestia, pero sus hijos no tenían otra madre ni otra abuela. Aquellos días, en el pasto, en la verdura del Somonte, el silencio era fúnebre. La cordera, que ignoraba su suerte, descansaba y pasía como siempre, subispecie a eternitatis, como descansaría y comería un minuto antes de que el brutal porrazo una derribase muerta. Pero Rosa y Pinín yacían desolados, tendidos sobre la hierba, inútil en adelante.",
+      "translation": "She would be a formidable creature, but her children had no other mother or grandmother. Back then, in the meadow, in the vegetable garden of Somonte, silence was a mournful sound. The lamb, oblivious to its fate, rested and grazed as usual, a creature destined for eternity, just as it would have rested and eaten a moment before the brutal blow felled it. But Rosa and Pinín lay lifeless on the grass, their usefulness now gone."
+    },
+    {
+      "source": "Miraban con rencor los trenes que pasaban, los alambres del telégrafo. Era aquel mundo desconocido, tan lejos de ellos por un lado y por otro, el que les llevaba su cordera. El viernes, al oscurecer, fue la despedida. Vino un encargado del rematante de Castilla por la res.",
+      "translation": "They watched with resentment as the trains passed by, and the telegraph wires. It was that unknown world, so far removed from them on one side and on the other, that was bringing them their livelihood. On Friday, as darkness fell, it was the farewell. A representative from the shipping company in Castilla arrived by train."
+    },
+    {
+      "source": "Pagó. Bebieron un trago Anton y el comisionado y se sacó a la Quintana la cordera. Anton había apurado la botella. Estaba exaltado.",
+      "translation": "He paid. Anton and the commissioner took a drink, and Quintana quickly got drunk. Anton had finished the bottle. He was in a state of excitement."
+    },
+    {
+      "source": "El peso del dinero en el bolsillo le animaba también. Quería aturdirse. Hablaba mucho. Alababa las excelencias de la vaca.",
+      "translation": "The money in his pocket also gave him confidence. He wanted to impress people. He talked a lot, praising the virtues of the cow."
+    },
+    {
+      "source": "El otro sonreía porque las alabanzas de Anton eran impertinentes. Que daba la res tanto y tantos jarros de leche. Que era noble en el yugo. ¿Fuerte con la carga?",
+      "translation": "The other one was smiling because Anton's praise was inappropriate. He was saying things like, \"That ox is so strong,\" and \"He carries so many buckets of milk.\" And, \"He's a noble animal under the yoke.\" Was he strong with the load?"
+    },
+    {
+      "source": "¿Y que si dentro de pocos días había de estar reducida a chuletas y otros bocados suculentos? Anton no quería imaginar esto. Se la figuraba viva. Trabajando.",
+      "translation": "And what if, within a few days, it would be reduced to succulent cuts and other portions? Anton couldn't imagine this. He pictured it alive, working."
+    },
+    {
+      "source": "Sirviendo a otro labrador. Olvidada de él y de sus hijos. Pero viva feliz. Pinín y rosa.",
+      "translation": "Serving another farmer. Forgotten by him and his children. But living happily. Pinín and pink."
+    },
+    {
+      "source": "Sentados sobre el montón de cucho. Recuerdo para ellos sentimental de la cordera y de los propios afanes. Unidos por las manos. Miraban al enemigo con ojos de espanto.",
+      "translation": "Sitting atop the pile of hay. I remember the sentimental connection they had to the hay and their own struggles. Holding hands, they looked at the enemy with fearful eyes."
+    },
+    {
+      "source": "En el supremo instante se arrojaron sobre su amiga. Besos, abrazos. Hubo de todo. No podían separarse de ella.",
+      "translation": "In that crucial moment, they rushed to her side. There were hugs, kisses, and everything in between. They couldn't bear to be apart from her."
+    },
+    {
+      "source": "Anton, agotada de pronto la excitación del vino. Cayó como en un marasmo. Cruzó los brazos. Y entró en el corral oscuro.",
+      "translation": "Anton, suddenly exhausted from the wine, collapsed. He crossed his arms. And entered the dark enclosure."
+    },
+    {
+      "source": "Los hijos siguieron un buen trecho por la calleja de altos setos. El triste grupo del indiferente comisionado y la cordera que iba de mala gana con un desconocido y a tales horas. Por fin hubo que separarse. Anton, malhumorado clamaba desde casa.",
+      "translation": "The children walked a good distance down the narrow street, lined with tall hedges. They passed a group of uninterested commuters and a woman reluctantly accompanying a stranger at that late hour. Eventually, they had to part ways. Anton, in a bad mood, called from inside."
+    },
+    {
+      "source": "¡Va, va, niños! Acá vos digo. Basta de pamemés. Así gritaba de lejos el padre con voz de lágrimas.",
+      "translation": "\"Come on, kids! I'm telling you. Enough with the fuss. That's what the father shouted from a distance, his voice choked with emotion."
+    },
+    {
+      "source": "Caía la noche por la calleja oscura que hacían casi negra los altos setos formando casi bóveda. Se perdió el bulto de la cordera que parecía negra de lejos. Después no quedó de ella más que el tintan pausado de la esquila desvanecido con la distancia entre los chirridos melancólicos de cigarras infinitas. ¡Adiós, cordera!",
+      "translation": "Night was falling on the dark alleyway, where the tall hedges created a near-black canopy. The rope ladder, which had seemed black from a distance, disappeared. All that remained was the faint sound of the rope being unraveled, fading into the distance with the mournful chirping of countless crickets. Goodbye, rope ladder!"
+    },
+    {
+      "source": "gritaba Rosa de secha en llanto. ¡Adiós, cordera de mío alma! ¡Adiós, cordera! Repetía Pinín.",
+      "translation": "Rosa sobbed, \"Goodbye, my beloved! Goodbye!\" Pinín repeated."
+    },
+    {
+      "source": "No más sereno. ¡Adiós! Contestó por último, a su modo, la esquila perdiéndose su lamento triste, resignado entre los demás sonidos de la noche de julio en la aldea. Al día siguiente, muy temprano, a la hora de siempre, Pinini y Rosa fueron al prao Somonte.",
+      "translation": "No more peace. Goodbye! He was the last to respond, in his own way, to the mournful cries as his sadness and resignation mingled with the other sounds of the July night in the village. The next day, very early, at their usual time, Pinini and Rosa went to Somonte."
+    },
+    {
+      "source": "Aquella soledad no lo había sido nunca para ellos triste. Aquel día, el Somonte sin la cordera parecía el desierto. De repente silbó la máquina, apareció el humo, luego el tren. En un furgón cerrado, en unas estrechas ventanas altas o respiraderos vislumbraron los hermanos gemelos cabezas de vacas que, pasmadas, miraban por aquellos tragaluces.",
+      "translation": "That solitude had never been a sad experience for them. That day, the Somonte station, without the platform, seemed like a desert. Suddenly, the engine whistled, smoke appeared, and then the train. Inside a closed carriage, through narrow, tall windows or vents, the twin brothers, who were in the position of cattle, could see the astonished view through the windows."
+    },
+    {
+      "source": "¡Adiós, cordera! gritó Rosa adivinando allí a su amiga, a la vaca abuela. ¡Adiós, cordera! vociferó Pinini con la misma fe, enseñando los puños al tren que volaba camino de castilla.",
+      "translation": "\"Goodbye, lamb!\" Rosa shouted, spotting her friend, the old cow, in the distance. \"Goodbye, lamb!\" Pinini echoed with the same conviction, waving his arms at the train speeding towards Castile."
+    },
+    {
+      "source": "Y llorando, repetía el rapaz, más enterado que su hermana de las picadillas del mundo, la llevan al matadero, carne de vaca, para comer los señores, los indianos. ¡Adiós, cordera! ¡Adiós, cordera! Y hubrosa y Pinini miraban con rencor la vía, el telégrafo, los símbolos de aquel mundo enemigo que les arrebataba, que les devoraba a su compañera de tantas soledades, de tantas ternuras silenciosas, para sus apetitos, para convertirla en manjares de ricos glotones.",
+      "translation": "And, crying, the boy repeated, more aware than his sister of the world's intrigues, that they were taken to the slaughterhouse, with beef, to be eaten by the men, the Indians. \"Goodbye, lamb!\" \"Goodbye, lamb!\" And, with resentment, the boy and Pinini looked at the road, the telegraph, the symbols of that enemy world that was taking away, devouring, their companion of so many solitudes, of so many silent affections, for their appetites, to turn her into a delicacy for rich, gluttonous people."
+    },
+    {
+      "source": "¡Adiós, cordera! ¡Adiós, cordera! ¡Pasaron muchos años! Pinini se hizo mozo y se lo llevó el rey.",
+      "translation": "Goodbye, lamb! Goodbye, lamb! Many years have passed! Pinini grew up and was taken away by the king."
+    },
+    {
+      "source": "Ardía la guerra carlista. Antón de Chinta era casero de un cacique de los vencidos. No hubo influencia para declarar inútil a Pinini que, por ser, era como un roble. Y una tarde triste de octubre, rosa en el praozo monte, sola esperaba el paso del tren -correo de Jihong, que le llevaba a sus únicos amores su hermano.",
+      "translation": "The Carlist War was coming to an end. Antón de Chinta was the son of a defeated chieftain. There was no pressure to declare Pinini useless, as he was a formidable figure. One sad October afternoon, Rosa, alone in the countryside, waited for the train – the Jihong mail train – which would take her brother, her only love, away."
+    },
+    {
+      "source": "Silbó a lo lejos la máquina, apareció el tren en la trinchera. Pasó como un relámpago. Rosa, casi metida por las ruedas, pudo ver un instante en un coche de tercera. Multitud de cabezas de pobres quintos que gritaban, gesticulaban, saludando a los árboles, al suelo, a los campos, a toda la patria familiar, a la pequeña, que dejaban para ir a morir en las luchas fratricidas de la patria grande, al servicio de un rey y de unas ideas que no conocían.",
+      "translation": "He heard the distant sound of the machine, and the train appeared in the siding. It passed in a flash. Rosa, almost knocked over by the wheels, could briefly see a third-class carriage. A multitude of poor fifth-class passengers were shouting, gesticulating, waving to the trees, the ground, the fields, the entire family, and the small village, as they prepared to go to die in the fratricidal conflicts of the larger nation, serving a king and ideas they did not understand."
+    },
+    {
+      "source": "Pinini, con medio cuerpo afuera de una ventanilla, denvió los brazos a su hermana. Casi se tocaron. Y Rosa pudo huir entre el estrépito de las ruedas y la gritería de los reclutas la voz distinta de su hermano que sollozaba exclamando, como inspirado por un recuerdo de dolor lejano. Adiós, Rosa.",
+      "translation": "Pinini, with half his body visible through a window, reached out to his sister. Their hands almost touched. And Rosa was able to escape amidst the noise of the wheels and the shouts of the recruits, while her brother sobbed, his voice different from her own, exclaiming as if inspired by a distant memory of pain. Goodbye, Rosa."
+    },
+    {
+      "source": "Adiós, Cordera. Adiós, Pinín. Pinín de mío alma. Allá iba como la otra, como la vaca vuela.",
+      "translation": "Goodbye, Cordera. Goodbye, Pinín. My Pinín. They were both going the same way, just like the cow flies."
+    },
+    {
+      "source": "Se lo llevaba el mundo. Carne de vaca para los glotones, para los indianos, carne de su alma, carne de cañón para las locuras del mundo, para las ambiciones ajenas. Entre confusiones de dolor y de ideas, pensaba así la pobre hermana viendo el tren perderse a lo lejos, silbando triste con silbidos que repercutían los castaños, las vegas y los peñascos. Que sola se quedaba.",
+      "translation": "It was the world's offering. Beef for the gluttons, for the Indians, the meat of their souls, the meat of the cannon for the world's follies, for other people's ambitions. Amidst confusion and pain, the poor sister thought, watching the train disappear in the distance, its mournful whistle echoing through the chestnut trees, the river, and the rocks. She was left alone."
+    },
+    {
+      "source": "Ahora sí, ahora sí, que era un desierto el prao somonte. Adiós, Pinín. Adiós, Cordera. Con qué odio miraba Rosa la vía manchada de carbones apagados.",
+      "translation": "Now, finally, now, it was really a desert. Goodbye, Pinín. Goodbye, Cordera. Rosa looked at the path, covered in extinguished charcoal, with such hatred."
+    },
+    {
+      "source": "Con qué ira los alambres del telégrafo. Oh, bien hacía la Cordera en no acercarse. Aquello era el mundo, lo desconocido, que se lo llevaba todo. Y sin pensarlo, Rosa apoyó la cabeza sobre el palo clavado como un pendón en la punta del somonte.",
+      "translation": "With the telegraph wires humming. Oh, how Cordera was right not to approach. That was the world, the unknown, that was taking everything. And without a second thought, Rosa rested her head on the pole driven into the ground like a flagpole at the very edge of the forest."
+    },
+    {
+      "source": "El viento cantaba en las entrañas del pino seco su canción metálica. Ahora ya lo comprendía Rosa. Era canción de lágrimas, de abandono, de soledad, de muerte. En las vibraciones rápidas, como quejidos, creía oír muy lejana la voz que sollozaba por la vía delante.",
+      "translation": "The wind sang a metallic song within the hollow of the dry pine tree. Now, Rosa understood. It was a song of tears, of abandonment, of loneliness, of death. In the rapid vibrations, like cries, she could faintly hear the voice sobbing on the road ahead."
+    },
+    {
+      "source": "Adiós, Rosa. Adiós, Cordera.",
+      "translation": "Goodbye, Rosa. Goodbye, Cordera."
+    }
+  ]
+}

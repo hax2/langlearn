@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "trackId": "bes-salmos-escogidos",
+  "sourceHash": "a2c3f7681adbbb6ba4c2046a86c43c4d0a277a73e7135854170ed84400a7da38",
+  "provider": "ollama/translategemma:4b",
+  "sourceLanguage": "es",
+  "targetLanguage": "en",
+  "translatedAt": "2026-08-15T08:23:59.641563+00:00",
+  "characters": 10259,
+  "blocks": [
+    {
+      "source": "Salmos escogidos. Capítulo 1. Feliz es el hombre que no sigue el consejo de los pecadores, ni va en el camino de los malvados, o se sienta con los que no le dan honor al Señor. Pero se deleita en la ley del Señor, y cuya mente está en su ley de día y de noche.",
+      "translation": "Selected Psalms. Chapter 1. Happy is the person who does not follow the counsel of sinners, nor walk in the way of evil, or sit with those who do not honor the Lord. But they delight in the law of the Lord, and their mind is constantly on it."
+    },
+    {
+      "source": "Será como un árbol plantado junto a arroyos de agua, que da su fruto a su tiempo, cuyas hojas siempre serán verdes, y todo lo que hace prosperará. Los malvados no son así, pero son como el polvo del grano que el viento se lleva. Por esta causa no habrá misericordia para los pecadores cuando sean juzgados, y los malhechores no tendrán lugar entre los rectos, porque el Señor ve el camino de los rectos, pero el camino del pecador es la destrucción. Capítulo 23.",
+      "translation": "It will be like a tree planted by the streams of water, which bears fruit in its own time, with leaves that will always be green, and everything it does will flourish. The wicked are not like this, but they are like the dust of grain that the wind carries away. Therefore, there will be no mercy for the sinners when they are judged, and the wicked will have no place among the righteous, because the Lord sees the way of the righteous, but the way of the sinner is destruction. Chapter 23."
+    },
+    {
+      "source": "El Señor es mi pastor. Nada me faltará. Él me hace un lugar de descanso en los campos verdes. Él es mi guía junto a las aguas tranquilas.",
+      "translation": "The Lord is my shepherd; I lack nothing. He provides me with peace and rest in green pastures. He leads me beside still waters."
+    },
+    {
+      "source": "Él me da nuevas fuerzas. Él es mi guía en los caminos de la justicia, haciendo honor de su nombre. Sí, aunque atraviese el valle de la sombra de muerte. No temeré el mal, porque tú estás conmigo.",
+      "translation": "He gives me new strength. He is my guide on the path to justice, honoring his name. Yes, even if I must cross the valley of death. I will not be afraid of evil, because you are with me."
+    },
+    {
+      "source": "Tu vara y tu callado me infundirán confianza. Tú preparas un banquete para mí frente a mis enemigos. Unges con aceite mi cabeza. Mi taza se está desbordando.",
+      "translation": "Your staff and your silence will give me confidence. You will prepare a feast for me in the presence of my enemies. You will anoint my head with oil. My cup is overflowing."
+    },
+    {
+      "source": "Verdaderamente, la bendición y la misericordia estarán conmigo todos los días de mi vida, y moraré en la casa del Señor todos mis días. Capítulo 27. El Señor es mi luz y mi salvación. ¿De quién temeré?",
+      "translation": "Truly, the blessing and the mercy will be with me every day of my life, and I will dwell in the house of the Lord forever. Chapter 27. The Lord is my light and my salvation. Whom should I fear?"
+    },
+    {
+      "source": "El Señor es la fuerza de mi vida. ¿A quién habré de temer? Cuando los malvados, incluso mis enemigos, vinieron a mí para poner fin a mí, fueron quebrantados y avergonzados. Incluso si un ejército viniera y acampe contra mí, mi corazón no tendría miedo.",
+      "translation": "The Lord is the strength of my life. Whom should I fear? When the wicked, even my enemies, came against me to destroy me, they were broken and humiliated. Even if an army came and camped against me, my heart would not be afraid."
+    },
+    {
+      "source": "Aunque la guerra fuera contra mí, yo permaneceré tranquilo. Una oración he hecho al Señor, y este es el deseo de mi corazón, para que tenga un lugar en la casa del Señor todos los días de mi vida, y contemplar la hermosura de su gloria y adorarlo en su templo. Porque en tiempo de angustia me guardará en su tabernáculo. En el lugar secreto de su tabernáculo me guardará de los ojos de los hombres.",
+      "translation": "Although the war is against me, I will remain calm. I have made a vow to the Lord, and this is the desire of my heart: that I may have a place in the house of the Lord every day of my life, and behold the beauty of his glory and worship him in his temple. For in times of distress, he will keep me safe in his tabernacle. In the secret place of his tabernacle, he will keep me from the eyes of men."
+    },
+    {
+      "source": "En lo alto de una roca Él me pondrá. Y ahora mi cabeza se elevará más que mis enemigos, que están a mi alrededor. Por eso haré ofrendas de alegría en su tabernáculo. Haré una canción, gritaré de alegría, haré una canción de alabanza al Señor.",
+      "translation": "On the highest peak of a rock, He will place me. And now, my head will rise higher than my enemies, who surround me. Therefore, I will offer joyful sacrifices in His temple. I will sing, I will shout with joy, I will sing a song of praise to the Lord."
+    },
+    {
+      "source": "¡Oh Señor, que la voz de mi clamor llegue a tus oídos! Ten misericordia de mí y dame una respuesta. Mi corazón me dijo, busca el rostro del Señor, tu rostro buscaré, oh Jehová. No escondas tu rostro de mí, no abandones a tu siervo en ira.",
+      "translation": "Oh Lord, may the sound of my cry reach your ears! Have mercy on me and give me an answer. My heart tells me, \"Seek the face of the Lord, your face I will seek, oh Lord.\" Do not hide your face from me, do not forsake your servant in anger."
+    },
+    {
+      "source": "Has sido mi ayuda, no me dejes ni me desampares, oh Dios de mi salvación. Aunque mi padre y mi madre se alejan de mí, tu Señor serás mi apoyo. Enséñame tu camino, oh Señor, guíame por el camino correcto a causa de mis enemigos. No me entregues en sus manos, porque salieron testigos falsos contra mí y hombres que exhalaban destrucción.",
+      "translation": "You have been my help, do not abandon me or forsake me, oh God of my salvation. Although my father and mother turn away from me, you, my Lord, will be my support. Teach me your way, oh Lord, guide me on the right path because of my enemies. Do not deliver me into their hands, for they are false witnesses against me and men who spew out destruction."
+    },
+    {
+      "source": "Casi había renunciado a mi esperanza de ver la bendición del Señor en la tierra de los vivos. Que tu esperanza esté en el Señor. Toma ánimo y sé fuerte. Sí, que tu esperanza esté en el Señor.",
+      "translation": "I had almost given up on the hope of seeing God's blessing in this life. May your hope be in the Lord. Be encouraged and be strong. Yes, may your hope be in the Lord."
+    },
+    {
+      "source": "Capítulo 46. Dios es nuestro refugio y nuestra fuerza, una ayuda muy presente en problemas. Por esta causa no tendremos temor, aunque la tierra sea removida y aunque las montañas se hundan en el corazón del mar. Aunque sus aguas rujan y sean turbadas, y aunque las montañas tiemblan por la causa de su braveza.",
+      "translation": "Chapter 46. God is our refuge and our strength, a very present help in trouble. Therefore, we will not be afraid, even if the earth is moved and the mountains fall into the sea. Even if its waters roar and are troubled, and even if the mountains tremble because of its power."
+    },
+    {
+      "source": "Sela, hay un río cuyas corrientes alegran el lugar de descanso de Dios, el lugar sagrado del santuario del Altísimo. Dios ha tomado su lugar en ella. Ella no se conmoverá. Vendrá a ayudarla al amanecer de la mañana.",
+      "translation": "Sela, there is a river whose currents bring joy to the place where God rests, the sacred space of the sanctuary of the Most High. God has taken up residence there. It will not be moved. It will come to help her at the dawn of the morning."
+    },
+    {
+      "source": "Las naciones se enojaron, los reinos se conmovieron. Al sonido de su voz, la tierra se volvió como lacera. El Señor de los ejércitos está con nosotros. El Dios de Jacob es nuestra torre fuerte.",
+      "translation": "The nations were angered, the kingdoms were moved. At the sound of his voice, the earth became like a broken vessel. The Lord of hosts is with us. The God of Jacob is our strong fortress."
+    },
+    {
+      "source": "Sela, ven, mira las obras del Señor, la destrucción que Él ha hecho en la tierra. Él pone fin a las guerras sobre toda la tierra. Por Él se rompe el arco y la lanza se corta en dos y el carruaje se quema en el fuego. Ríndanse, reconozcan que yo soy Dios.",
+      "translation": "Sela, come, look at the works of the Lord, the destruction He has wrought on the earth. He brings an end to wars throughout the land. Because of Him, the bow is broken, the spear is shattered, and the chariot is burned in fire. Submit yourselves, acknowledge that I am God."
+    },
+    {
+      "source": "Seré exaltado entre las naciones, seré honrado por toda la tierra. El Señor de los ejércitos está con nosotros. El Dios de Jacob es nuestra torre fuerte. Sela.",
+      "translation": "I will be exalted among the nations, I will be honored throughout the earth. The Lord of hosts is with us. The God of Jacob is our strong fortress. Selah."
+    },
+    {
+      "source": "Capítulo 91 Felices aquel cuyo lugar de descanso está en el secreto del Señor y bajo la sombra de las alas del Altísimo, quien dice del Señor Él es mi lugar seguro y mi torre de fortaleza. Él es mi Dios, en quien está mi esperanza. Él te librará del lazo del Cazador y te mantendrá a salvo de la enfermedad. Estarás cubierto por sus plumas, bajo sus alas estarás seguro.",
+      "translation": "Chapter 91: Blessed are those who find their refuge in the secret place of the Lord and under the shadow of the Almighty's wings, for the Lord says, \"He is my refuge and my stronghold.\" He is my God, in whom I trust. He will deliver you from the trap of the hunter and keep you safe from disease. You will be sheltered under his wings, and you will be safe under his protection."
+    },
+    {
+      "source": "Su fidelidad será tu salvación. No tendrás miedo de las cosas malvadas de la noche o de la flecha que vuela durante el día o de la enfermedad que toma a los hombres en la oscuridad o de la destrucción que hacen cuando el sol está alto. Verás mil caer a tu lado y diez mil a tu derecha, pero no se acercará a ti. Sólo con tus ojos verás la recompensa de los malhechores.",
+      "translation": "Your faithfulness will be your salvation. You will not be afraid of the evil things that come at night, or the arrows that fly during the day, or the sickness that afflicts men in the darkness, or the destruction they cause when the sun is high. You will see a thousand fall at your side and ten thousand at your right, but they will not come near you. Only with your eyes will you see the reward of the wicked."
+    },
+    {
+      "source": "Porque has dicho, estoy en manos del Señor, el Altísimo es mi lugar de descanso seguro. No vendrá sobre ti mal y ninguna enfermedad se acercará a tu morada. Porque él te entregará al cuidado de sus ángeles para mantenerte donde quiera que vayas. En sus manos te mantendrán arriba, para que tu pie no tropiece contra una piedra.",
+      "translation": "Because you have said, \"I am in the Lord's hand, the Most High is my secure dwelling place,\" no evil will come upon you, and no disease will approach your dwelling. For He will deliver you to the care of His angels, to keep you wherever you go. In His hands, you will be kept safe, so that your foot will not stumble on a stone."
+    },
+    {
+      "source": "Pondrás tu pie sobre el león y la serpiente, entre monstruos y serpientes. Porque él me ha dado su amor, lo sacaré del peligro. Lo pondré en un lugar de honor, porque él ha guardado mi nombre en su corazón. Cuando su clamor se acerque a mí, le responderé, estaré con él en problemas, lo liberaré del peligro y le daré honor.",
+      "translation": "I will place my foot on the lion and the serpent, among the monsters and serpents. Because he has given me his love, I will rescue him from danger. I will place him in a place of honor, because he has kept my name in his heart. When his cry comes to me, I will answer him, I will be with him in trouble, I will rescue him from danger, and I will give him honor."
+    },
+    {
+      "source": "Con larga vida será recompensado y le dejaré ver mi salvación. Capítulo 103 Alaba al Señor, alma mía. Deja que todo en mí alabe su santo nombre. Alaba al Señor, alma mía.",
+      "translation": "With a long life, I will be rewarded, and I will allow everyone to see my salvation. Chapter 103: Praise the Lord, my soul. Let everything within me praise His holy name. Praise the Lord, my soul."
+    },
+    {
+      "source": "No olvides ninguna de sus bendiciones. Él perdona todos tus pecados. Él sana todas tus enfermedades. Él retiene tu vida de la destrucción, coronándote con misericordia y gracia.",
+      "translation": "Don't forget any of His blessings. He forgives all your sins. He heals all your illnesses. He protects you from destruction, and bestows upon you mercy and grace."
+    },
+    {
+      "source": "Él te llena la boca de cosas buenas, para que tu fuerza se vuelva nueva como la del águila. El Señor juzga en justicia para todos los que están en problemas. Él le dio a conocer su camino a Moisés e hizo claro sus actos a los hijos de Israel. El Señor es amable y lleno de compasión, no se enoja rápidamente, pero siempre está listo para tener misericordia.",
+      "translation": "He fills your mouth with good things, so that your strength becomes new, like that of an eagle. The Lord judges fairly for everyone who is in need. He revealed his path to Moses and made his actions clear to the Israelites. The Lord is kind and full of compassion; he does not get angry quickly, but he is always ready to show mercy."
+    },
+    {
+      "source": "Su sentimiento ya no será amargo. Él no guardará su ira para siempre. Él no nos ha dado el castigo por nuestros pecados o la recompensa de nuestra mala acción. Porque como el cielo es alto sobre la tierra, grande es su misericordia para sus fieles.",
+      "translation": "His bitterness will no longer be a defining characteristic. He will not hold onto his anger forever. He has not brought upon us the punishment for our sins or the reward for our wrongdoing. Because, as the heavens are high above the earth, so is his compassion towards his faithful."
+    },
+    {
+      "source": "En cuanto al oriente es del oeste, hasta ahora nos ha quitado nuestros pecados. Como un padre tiene misericordia de sus hijos, así el Señor tiene misericordia de sus adoradores. Porque Él tiene conocimiento de nuestro cuerpo débil, Él ve que solo somos polvo. En cuanto al hombre, sus días son como la hierba.",
+      "translation": "As for the east and west, until now, it has taken away our sins. Just as a father shows mercy to his children, so the Lord shows mercy to those who worship him. Because he knows our weak bodies, he sees that we are nothing but dust. As for man, his days are like grass."
+    },
+    {
+      "source": "Su hermoso crecimiento es como la flor del campo. El viento lo sobrepasa y se va, y deja de existir y nadie vuelve a saber de ella. Pero la misericordia del Señor es eterna para sus adoradores y los hijos de sus hijos verán su justicia, si mantienen su acuerdo y tienen sus leyes en mente para hacerlas. El Señor preparó su trono en los cielos, su reino está gobernando sobre todo.",
+      "translation": "Its beautiful growth is like a wildflower. The wind blows it over and it disappears, and it ceases to exist, and no one ever hears of it again. However, the Lord's mercy is eternal for those who worship him, and the children of his children will see his justice, if they keep their covenant and have his laws in mind. The Lord has prepared his throne in the heavens, and his kingdom reigns over everything."
+    },
+    {
+      "source": "Alaben al Señor, ustedes sus ángeles, que son grandes en fortaleza, que cumplen sus órdenes y esperan su voz. Alaben al Señor, todos ustedes sus ejércitos y ustedes sus siervos que hacen su placer. Alaben al Señor, todas sus obras en todos los lugares bajo su gobierno. Alaba al Señor, alma mía.",
+      "translation": "Praise the Lord, you angels, who are mighty in strength, who carry out his commands and await his voice. Praise the Lord, all of you, my armies and my servants, who delight him. Praise the Lord, all his works in every place under his dominion. Praise the Lord, my soul."
+    },
+    {
+      "source": "Capítulo 121 Mis ojos se elevan a las colinas, ¿de dónde vendrá mi ayuda? Tu ayuda viene del Señor que hizo los cielos y la tierra, que no deja que resbale tu pie, no tiene necesidad de dormir el que te guarda. Mira, los ojos del guardián de Israel no se cerrarán en el sueño. El Señor es tu guardián, el Señor es tu sombra en tu mano derecha, no te tocará el sol en el día ni la luna en la noche.",
+      "translation": "Chapter 121: My eyes lift up to the hills, where will my help come from? Your help comes from the Lord who made the heavens and the earth, who will not allow your foot to slip, who does not need to sleep; he who watches over you will not slumber. Behold, the eyes of the Lord, guardian of Israel, will not close in sleep. The Lord is your guardian, the Lord is your shadow on your right hand, he will not scorch you with the sun or burn you with the moon."
+    },
+    {
+      "source": "El Señor te mantendrá salvo de todo mal, Él cuidará tu alma. El Señor cuidará de tu salida y de tu entrada, desde este momento y para siempre. Capítulo 139 Oh Señor, tú me has examinado y me conoces, usted tiene conocimiento cuando estoy sentado y cuando me levanto, ve mis pensamientos desde lejos, tú vigilas mis pasos y mi sueño y conoces todos mis caminos. Porque no hay palabra en mi lengua aún y tú, Señor, ya la conoces.",
+      "translation": "The Lord will keep you safe from all harm; He will care for your soul. The Lord will watch over your coming and going, from this moment and forever. Chapter 139 Oh Lord, you have searched me and are aware of me. You know my thoughts from afar. You watch over my steps and my sleep, and you are familiar with all my paths. For not a word has been spoken yet, and you, Lord, already know it."
+    },
+    {
+      "source": "Me has rodeado por todos lados y me has puesto la mano encima. Tal conocimiento es una maravilla mayor que mis poderes, es tan alto que no puedo comprenderlo. ¿A dónde puedo iré de tu espíritu? ¿Cómo puedo huir en vuelo de tu presencia?",
+      "translation": "You are all around me, and you have your hand on me. Such knowledge is a wonder greater than my own, it is so vast that I cannot comprehend it. Where can I go to escape your presence? How can I flee from your presence?"
+    },
+    {
+      "source": "Si voy al cielo, estás allí. O si hago mi cama en el inframundo, estás allí. Si tomo las alas de la mañana y voy a las partes más lejanas del mar, aún allí seré guiado por tu mano y tu diestra me guardará. Si dijera, sólo déjame estar cubierto por la oscuridad, aún la noche resplandecerá alrededor de mí.",
+      "translation": "If I go to heaven, you'll be there. Or if I make my bed in hell, you'll be there. If I take the wings of the morning and travel to the farthest reaches of the sea, you'll still guide me with your hand, and your right hand will protect me. If I simply ask to be enveloped in darkness, even the night will shine around me."
+    },
+    {
+      "source": "Incluso la oscuridad no es oscura para ti. La noche es tan brillante como el día. Porque la oscuridad y la luz son lo mismo para ti. Mi carne fue hecha por ti y mis partes se unieron en el cuerpo de mi madre.",
+      "translation": "Even darkness is not dark for you. The night is as bright as the day. Because darkness and light are the same for you. My flesh was created by you, and my parts were joined together in the body of my mother."
+    },
+    {
+      "source": "Te alabaré porque estoy extraña y delicadamente formado. Tus obras son grandes maravillas y de esto mi alma está completamente consciente. Mi cuerpo no fue visto por ti cuando fui hecho en secreto y extrañamente formado en las partes más bajas de la tierra. Tus ojos vieron mi sustancia sin forma.",
+      "translation": "I will praise you because I am wonderfully and uniquely formed. Your works are great wonders, and my soul is fully aware of this. My body was not seen by you when I was secretly and uniquely formed in the depths of the earth. Your eyes saw my formless substance."
+    },
+    {
+      "source": "En tu libro se registraron todos mis días, incluso aquellos que fueron propuestos antes de que hubieran surgido. Cuán queridos son tus pensamientos para mí, oh Dios. Cuán grande es el número de ellos. Si los número serían más que granos de arena.",
+      "translation": "In my book, all my days are recorded, even those that were conceived before they actually happened. How precious your thoughts are to me, oh God. How numerous they are. If they were grains of sand, there would be an endless supply."
+    },
+    {
+      "source": "Cuando estoy despierto, todavía estoy contigo. Si tan solo pusieras a los pecadores a la muerte, oh Dios. Lejos de mí, hombres sanguinarios. Porque van contra ti con malos designios y tus enemigos se burlan de tu nombre.",
+      "translation": "When I am awake, I am still with you. If only you would put the wicked to death, oh God. Far from me, you bloodthirsty men. Because they conspire against you, and your enemies mock your name."
+    },
+    {
+      "source": "No aborrezco a tus enemigos, oh Señor. No son los que se levantan contra ti una causa de aflicción para mí. Mi odio por ellos está completo. Mis pensamientos sobre ellos son como si estuvieran haciendo guerra contra mí.",
+      "translation": "I do not despise your enemies, Lord. They are not the source of my suffering. My hatred for them is complete. My thoughts about them are as if they are waging war against me."
+    },
+    {
+      "source": "Oh Dios, que los secretos de mi corazón sean descubiertos y que mis pensamientos sean puestos a prueba. Mira si hay camino de perversidad en mí y sé mi guía en el camino eterno.",
+      "translation": "Oh God, may the secrets of my heart be revealed and may my thoughts be tested. Examine me and show me if there is any darkness within me, and be my guide on this eternal path."
+    }
+  ]
+}

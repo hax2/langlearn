@@ -1,0 +1,148 @@
+{
+  "id": "module-30",
+  "title": "Theme: Business and Office",
+  "description": "Vocabulary for professional settings and meetings.",
+  "level": "Intermediate",
+  "sentences": [
+    {
+      "id": "m30-s1",
+      "spanish": "Tenemos una reunión importante a las diez de la mañana.",
+      "english": "We have an important meeting at ten in the morning.",
+      "wordMeanings": {
+        "reunión": "meeting",
+        "importante": "important",
+        "mañana": "morning"
+      }
+    },
+    {
+      "id": "m30-s2",
+      "spanish": "Por favor, mándame el informe por email antes del mediodía.",
+      "english": "Please send me the report by email before noon.",
+      "wordMeanings": {
+        "mándame": "send me",
+        "informe": "report",
+        "email": "email",
+        "mediodía": "noon"
+      }
+    },
+    {
+      "id": "m30-s3",
+      "spanish": "Estoy revisando el presupuesto para el próximo trimestre.",
+      "english": "I am reviewing the budget for the next quarter.",
+      "wordMeanings": {
+        "revisando": "reviewing",
+        "presupuesto": "budget",
+        "próximo": "next",
+        "trimestre": "quarter"
+      }
+    },
+    {
+      "id": "m30-s4",
+      "spanish": "Necesitamos contratar a una persona más para el departamento de ventas.",
+      "english": "We need to hire one more person for the sales department.",
+      "wordMeanings": {
+        "contratar": "hire",
+        "persona": "person",
+        "más": "more",
+        "departamento": "department",
+        "ventas": "sales"
+      }
+    },
+    {
+      "id": "m30-s5",
+      "spanish": "La empresa quiere entrar en el mercado europeo.",
+      "english": "The company wants to enter the European market.",
+      "wordMeanings": {
+        "empresa": "company",
+        "quiere": "wants",
+        "entrar": "to enter",
+        "mercado": "market",
+        "europeo": "European"
+      }
+    },
+    {
+      "id": "m30-s6",
+      "spanish": "El responsable del proyecto está fuera de la oficina esta semana.",
+      "english": "The project lead is out of the office this week.",
+      "wordMeanings": {
+        "responsable": "person in charge",
+        "proyecto": "project",
+        "fuera": "out",
+        "oficina": "office"
+      }
+    },
+    {
+      "id": "m30-s7",
+      "spanish": "¿Podemos organizar una videollamada para comentar los detalles?",
+      "english": "Can we schedule a video call to go over the details?",
+      "wordMeanings": {
+        "organizar": "organize / schedule",
+        "videollamada": "video call",
+        "comentar": "discuss / go over",
+        "detalles": "details"
+      }
+    },
+    {
+      "id": "m30-s8",
+      "spanish": "Te adjunto el contrato firmado en este email.",
+      "english": "I'm attaching the signed contract to this email.",
+      "wordMeanings": {
+        "te": "you / to you",
+        "adjunto": "I attach",
+        "contrato": "contract",
+        "firmado": "signed",
+        "email": "email"
+      }
+    },
+    {
+      "id": "m30-s9",
+      "spanish": "Estamos trabajando mucho para llegar a tiempo.",
+      "english": "We are working hard to meet the deadline.",
+      "wordMeanings": {
+        "trabajando": "working",
+        "mucho": "a lot",
+        "llegar": "to arrive / make it",
+        "a tiempo": "on time"
+      }
+    },
+    {
+      "id": "m30-s10",
+      "spanish": "Gracias por tu ayuda con este proyecto.",
+      "english": "Thank you for your help with this project.",
+      "wordMeanings": {
+        "ayuda": "help",
+        "proyecto": "project"
+      }
+    }
+  ],
+  "vocabulary": {
+    "reunión": {
+      "mnemonic": "Think 'reunion' — a meeting!",
+      "explanation": "Cognate."
+    },
+    "importante": {
+      "mnemonic": "Nearly identical to 'important' — cognate!",
+      "explanation": "Same for masc/fem."
+    },
+    "mañana": {
+      "mnemonic": "'Mañana, mañana' — putting off till tomorrow.",
+      "explanation": "Means 'tomorrow' or 'morning'."
+    },
+    "informe": {
+      "mnemonic": "Think 'inform' — a report.",
+      "explanation": "Cognate."
+    },
+    "empresa": {
+      "mnemonic": "Think 'enterprise' — company.",
+      "explanation": "Means 'company/business'."
+    },
+    "fuera": {
+      "mnemonic": "Think 'fury' — the fury is outside!",
+      "explanation": "'Fuera de' = outside of."
+    },
+    "oficina": {
+      "mnemonic": "Sounds like 'office-ina' — the office!",
+      "explanation": "Feminine noun meaning office."
+    }
+  }
+}

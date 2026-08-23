@@ -1,0 +1,722 @@
+{
+  "id": "module-5",
+  "title": "Chapter 5: Regular -AR Verbs",
+  "description": "Learn basic actions like speaking, working, and studying.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "m5-s1",
+      "spanish": "Yo hablo español.",
+      "english": "I speak Spanish.",
+      "wordMeanings": {
+        "Yo": "I",
+        "hablo": "I speak",
+        "español": "Spanish"
+      }
+    },
+    {
+      "id": "m5-s2",
+      "spanish": "Tú hablas español.",
+      "english": "You speak Spanish.",
+      "wordMeanings": {
+        "Tú": "you",
+        "hablas": "you speak",
+        "español": "Spanish"
+      }
+    },
+    {
+      "id": "m5-s3",
+      "spanish": "Él habla español.",
+      "english": "He speaks Spanish.",
+      "wordMeanings": {
+        "Él": "he",
+        "habla": "speaks",
+        "español": "Spanish"
+      }
+    },
+    {
+      "id": "m5-s4",
+      "spanish": "Ella habla español.",
+      "english": "She speaks Spanish.",
+      "wordMeanings": {
+        "Ella": "she / her",
+        "habla": "speaks",
+        "español": "Spanish"
+      }
+    },
+    {
+      "id": "m5-s5",
+      "spanish": "Nosotros hablamos español.",
+      "english": "We speak Spanish.",
+      "wordMeanings": {
+        "Nosotros": "we",
+        "hablamos": "we speak",
+        "español": "Spanish"
+      }
+    },
+    {
+      "id": "m5-s6",
+      "spanish": "Vosotros habláis español.",
+      "english": "You all speak Spanish.",
+      "wordMeanings": {
+        "Vosotros": "you all",
+        "habláis": "you all speak",
+        "español": "Spanish"
+      }
+    },
+    {
+      "id": "m5-s7",
+      "spanish": "Yo trabajo hoy.",
+      "english": "I work today.",
+      "wordMeanings": {
+        "Yo": "I",
+        "trabajo": "I work / job",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "m5-s8",
+      "spanish": "Tú trabajas hoy.",
+      "english": "You work today.",
+      "wordMeanings": {
+        "Tú": "you",
+        "trabajas": "you work",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "m5-s9",
+      "spanish": "Él trabaja en casa.",
+      "english": "He works at home.",
+      "wordMeanings": {
+        "Él": "he",
+        "trabaja": "works",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m5-s10",
+      "spanish": "Ella trabaja en el centro.",
+      "english": "She works downtown.",
+      "wordMeanings": {
+        "Ella": "she / her",
+        "trabaja": "works",
+        "en": "in / on",
+        "el": "the",
+        "centro": "downtown"
+      }
+    },
+    {
+      "id": "m5-s11",
+      "spanish": "Nosotros trabajamos aquí.",
+      "english": "We work here.",
+      "wordMeanings": {
+        "Nosotros": "we",
+        "trabajamos": "we work",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m5-s12",
+      "spanish": "¿Dónde trabajas?",
+      "english": "Where do you work?",
+      "wordMeanings": {
+        "Dónde": "where",
+        "trabajas": "you work"
+      }
+    },
+    {
+      "id": "m5-s13",
+      "spanish": "Yo estudio en casa.",
+      "english": "I study at home.",
+      "wordMeanings": {
+        "Yo": "I",
+        "estudio": "I study",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m5-s14",
+      "spanish": "Tú estudias en la escuela.",
+      "english": "You study at school.",
+      "wordMeanings": {
+        "Tú": "you",
+        "estudias": "you study",
+        "en": "in / on",
+        "la": "the / it (fem)",
+        "escuela": "school"
+      }
+    },
+    {
+      "id": "m5-s15",
+      "spanish": "Él estudia español.",
+      "english": "He studies Spanish.",
+      "wordMeanings": {
+        "Él": "he",
+        "estudia": "studies",
+        "español": "Spanish"
+      }
+    },
+    {
+      "id": "m5-s16",
+      "spanish": "Ella estudia mucho.",
+      "english": "She studies a lot.",
+      "wordMeanings": {
+        "Ella": "she / her",
+        "estudia": "studies",
+        "mucho": "much / a lot"
+      }
+    },
+    {
+      "id": "m5-s17",
+      "spanish": "Nosotros estudiamos cada día.",
+      "english": "We study every day.",
+      "wordMeanings": {
+        "Nosotros": "we",
+        "estudiamos": "we study",
+        "cada": "each",
+        "día": "day"
+      }
+    },
+    {
+      "id": "m5-s18",
+      "spanish": "Yo compro pan.",
+      "english": "I buy bread.",
+      "wordMeanings": {
+        "Yo": "I",
+        "compro": "I buy",
+        "pan": "bread"
+      }
+    },
+    {
+      "id": "m5-s19",
+      "spanish": "Tú compras café.",
+      "english": "You buy coffee.",
+      "wordMeanings": {
+        "Tú": "you",
+        "compras": "you buy",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m5-s20",
+      "spanish": "Él compra un libro nuevo.",
+      "english": "He buys a new book.",
+      "wordMeanings": {
+        "Él": "he",
+        "compra": "buys",
+        "un": "a",
+        "libro": "book",
+        "nuevo": "new (masc)"
+      }
+    },
+    {
+      "id": "m5-s21",
+      "spanish": "Ella busca algo nuevo.",
+      "english": "She looks for something new.",
+      "wordMeanings": {
+        "Ella": "she / her",
+        "busca": "looks for",
+        "algo": "something",
+        "nuevo": "new"
+      }
+    },
+    {
+      "id": "m5-s22",
+      "spanish": "Nosotros compramos comida.",
+      "english": "We buy food.",
+      "wordMeanings": {
+        "Nosotros": "we",
+        "compramos": "we buy",
+        "comida": "food"
+      }
+    },
+    {
+      "id": "m5-s23",
+      "spanish": "Yo busco un café.",
+      "english": "I look for a café.",
+      "wordMeanings": {
+        "Yo": "I",
+        "busco": "I look for",
+        "un": "a",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m5-s24",
+      "spanish": "¿Buscas algo?",
+      "english": "Are you looking for something?",
+      "wordMeanings": {
+        "Buscas": "you look for",
+        "algo": "something"
+      }
+    },
+    {
+      "id": "m5-s25",
+      "spanish": "Él busca un trabajo.",
+      "english": "He looks for a job.",
+      "wordMeanings": {
+        "Él": "he",
+        "busca": "looks for",
+        "un": "a",
+        "trabajo": "I work / job"
+      }
+    },
+    {
+      "id": "m5-s26",
+      "spanish": "Ella busca una casa.",
+      "english": "She looks for a house.",
+      "wordMeanings": {
+        "Ella": "she / her",
+        "busca": "looks for",
+        "una": "a (fem)",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m5-s27",
+      "spanish": "Nosotros buscamos un libro.",
+      "english": "We look for a book.",
+      "wordMeanings": {
+        "Nosotros": "we",
+        "buscamos": "we look for",
+        "un": "a",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "m5-s28",
+      "spanish": "Yo espero aquí.",
+      "english": "I wait here.",
+      "wordMeanings": {
+        "Yo": "I",
+        "espero": "I wait / hope",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m5-s29",
+      "spanish": "Tú esperas allí.",
+      "english": "You wait there.",
+      "wordMeanings": {
+        "Tú": "you",
+        "esperas": "you wait",
+        "allí": "there"
+      }
+    },
+    {
+      "id": "m5-s30",
+      "spanish": "Él espera en el café.",
+      "english": "He waits in the café.",
+      "wordMeanings": {
+        "Él": "he",
+        "espera": "waits",
+        "en": "in / on",
+        "el": "the",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m5-s31",
+      "spanish": "Ella espera en casa.",
+      "english": "She waits at home.",
+      "wordMeanings": {
+        "Ella": "she / her",
+        "espera": "waits",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m5-s32",
+      "spanish": "Nosotros esperamos en la calle.",
+      "english": "We wait in the street.",
+      "wordMeanings": {
+        "Nosotros": "we",
+        "esperamos": "we wait",
+        "en": "in / on",
+        "la": "the / it (fem)",
+        "calle": "street"
+      }
+    },
+    {
+      "id": "m5-s33",
+      "spanish": "Yo escucho música.",
+      "english": "I listen to music.",
+      "wordMeanings": {
+        "Yo": "I",
+        "escucho": "I listen",
+        "música": "music"
+      }
+    },
+    {
+      "id": "m5-s34",
+      "spanish": "Tú escuchas español.",
+      "english": "You listen to Spanish.",
+      "wordMeanings": {
+        "Tú": "you",
+        "escuchas": "you listen",
+        "español": "Spanish"
+      }
+    },
+    {
+      "id": "m5-s35",
+      "spanish": "Él escucha en silencio.",
+      "english": "He listens in silence.",
+      "wordMeanings": {
+        "Él": "he",
+        "escucha": "listens",
+        "en": "in / on",
+        "silencio": "silence"
+      }
+    },
+    {
+      "id": "m5-s36",
+      "spanish": "Ella escucha aquí.",
+      "english": "She listens here.",
+      "wordMeanings": {
+        "Ella": "she / her",
+        "escucha": "listens",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m5-s37",
+      "spanish": "Yo miro el teléfono.",
+      "english": "I look at the phone.",
+      "wordMeanings": {
+        "Yo": "I",
+        "miro": "I look",
+        "el": "the",
+        "teléfono": "telephone"
+      }
+    },
+    {
+      "id": "m5-s38",
+      "spanish": "Tú miras la foto.",
+      "english": "You look at the photo.",
+      "wordMeanings": {
+        "Tú": "you",
+        "miras": "you look",
+        "la": "the / it (fem)",
+        "foto": "photo"
+      }
+    },
+    {
+      "id": "m5-s39",
+      "spanish": "Él mira el libro.",
+      "english": "He looks at the book.",
+      "wordMeanings": {
+        "Él": "he",
+        "mira": "looks",
+        "el": "the",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "m5-s40",
+      "spanish": "Ella mira la casa.",
+      "english": "She looks at the house.",
+      "wordMeanings": {
+        "Ella": "she / her",
+        "mira": "looks",
+        "la": "the / it (fem)",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m5-s41",
+      "spanish": "Hoy estudio y mañana trabajo.",
+      "english": "Today I study and tomorrow I work.",
+      "wordMeanings": {
+        "Hoy": "today",
+        "estudio": "I study",
+        "y": "and",
+        "mañana": "tomorrow / morning",
+        "trabajo": "I work / job"
+      }
+    },
+    {
+      "id": "m5-s42",
+      "spanish": "Yo hablo y tú escuchas.",
+      "english": "I speak and you listen.",
+      "wordMeanings": {
+        "Yo": "I",
+        "hablo": "I speak",
+        "y": "and",
+        "tú": "you",
+        "escuchas": "you listen"
+      }
+    },
+    {
+      "id": "m5-s43",
+      "spanish": "Ella compra pan y café.",
+      "english": "She buys bread and coffee.",
+      "wordMeanings": {
+        "Ella": "she / her",
+        "compra": "buys",
+        "pan": "bread",
+        "y": "and",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m5-s44",
+      "spanish": "¡Me encanta!",
+      "english": "I love it!",
+      "wordMeanings": {
+        "Me": "to me",
+        "encanta": "it enchants"
+      }
+    }
+  ],
+  "grammarExplanation": "Regular -AR verbs follow a predictable conjugation pattern. Remove '-ar' and add these endings:\n\n• -o (yo): hablo\n• -as (tú): hablas\n• -a (él/ella): habla\n• -amos (nosotros): hablamos\n• -áis (vosotros): habláis\n• -an (ellos/ellas): hablan\n\nThis same pattern works for hablar, trabajar, estudiar, comprar, buscar, esperar, escuchar, mirar, and many more.",
+  "vocabulary": {
+    "hablo": {
+      "mnemonic": "Think 'hobble along while speaking'.",
+      "explanation": "First person of 'hablar' (to speak)."
+    },
+    "español": {
+      "mnemonic": "'Espagne/Spain' + '-ol' — the Spanish language.",
+      "explanation": "Both the language and nationality."
+    },
+    "hablas": {
+      "mnemonic": "'Ha-blas' — you blast out words.",
+      "explanation": "Second person of 'hablar'."
+    },
+    "él": {
+      "mnemonic": "Like 'el' in 'elevator' — he goes up!",
+      "explanation": "Subject pronoun 'he'. Accent distinguishes from 'el' (the)."
+    },
+    "habla": {
+      "mnemonic": "'Ha-bla' — he/she speaks.",
+      "explanation": "Third person of 'hablar'."
+    },
+    "ella": {
+      "mnemonic": "Think 'Cinderella' ends with '-ella' — she!",
+      "explanation": "Subject pronoun 'she/her'."
+    },
+    "nosotros": {
+      "mnemonic": "'nos' (us) + 'otros' (others) = we.",
+      "explanation": "Literally 'us others'. Fun compound word."
+    },
+    "hablamos": {
+      "mnemonic": "'Hobble-amos' — we talk.",
+      "explanation": "First person plural of 'hablar'."
+    },
+    "ustedes": {
+      "mnemonic": "Think 'you-sted-es' — all of you!",
+      "explanation": "Formal/neutral 'you all' in Latin American Spanish."
+    },
+    "hablan": {
+      "mnemonic": "'Ha-blan' — they all speak.",
+      "explanation": "Third person plural of 'hablar'."
+    },
+    "trabajo": {
+      "mnemonic": "Think 'travel to work'.",
+      "explanation": "Means 'work/job'. Also 'I work'."
+    },
+    "hoy": {
+      "mnemonic": "'Hoy! today!' — an exclamation for today.",
+      "explanation": "Means 'today'."
+    },
+    "trabajas": {
+      "mnemonic": "'Travel-has' — you work.",
+      "explanation": "Second person of 'trabajar'."
+    },
+    "trabaja": {
+      "mnemonic": "'Travel-ha' — he/she works.",
+      "explanation": "Third person of 'trabajar'."
+    },
+    "casa": {
+      "mnemonic": "Think 'casino' — a big house of games.",
+      "explanation": "Feminine noun. 'En casa' = at home."
+    },
+    "centro": {
+      "mnemonic": "Same as English 'center' — downtown!",
+      "explanation": "Also means 'center'. 'Centro' = downtown area."
+    },
+    "trabajamos": {
+      "mnemonic": "We all travel to work every day.",
+      "explanation": "First person plural of 'trabajar'."
+    },
+    "aquí": {
+      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
+      "explanation": "Means 'here'. More precise than 'acá'."
+    },
+    "estudio": {
+      "mnemonic": "Think 'studio' — I study in my studio.",
+      "explanation": "First person of 'estudiar'."
+    },
+    "estudias": {
+      "mnemonic": "'You study-as' — you study.",
+      "explanation": "Second person of 'estudiar'."
+    },
+    "la": {
+      "mnemonic": "'La lady' — her/it (feminine).",
+      "explanation": "Also 'the' (feminine)."
+    },
+    "escuela": {
+      "mnemonic": "Sounds like 'school-a' — it IS school!",
+      "explanation": "Feminine noun meaning school."
+    },
+    "estudia": {
+      "mnemonic": "'Study-a' — he/she studies.",
+      "explanation": "Third person of 'estudiar'."
+    },
+    "mucho": {
+      "mnemonic": "Think 'much-o' — much/a lot!",
+      "explanation": "Means 'much/a lot'. Fem: mucha."
+    },
+    "estudiamos": {
+      "mnemonic": "'Study-amos' — we study!",
+      "explanation": "First person plural of 'estudiar'."
+    },
+    "cada": {
+      "mnemonic": "Think 'cadence' — each beat.",
+      "explanation": "Means 'each/every'."
+    },
+    "día": {
+      "mnemonic": "Think 'diary' — each day.",
+      "explanation": "Masculine despite ending in -a."
+    },
+    "compro": {
+      "mnemonic": "'Compare-o' — I compare before I buy.",
+      "explanation": "First person of 'comprar' (to buy)."
+    },
+    "pan": {
+      "mnemonic": "Bread baked in a pan!",
+      "explanation": "Means 'bread'. Masculine noun."
+    },
+    "compras": {
+      "mnemonic": "'Compare and purchase' — you buy.",
+      "explanation": "Second person of 'comprar'."
+    },
+    "café": {
+      "mnemonic": "Same as English 'café' — coffee!",
+      "explanation": "Means 'coffee' or 'café'."
+    },
+    "compra": {
+      "mnemonic": "'Comp-ra' — he/she buys.",
+      "explanation": "Third person of 'comprar'."
+    },
+    "libro": {
+      "mnemonic": "Think 'library' — full of libros (books)!",
+      "explanation": "Means 'book'. Masculine noun."
+    },
+    "nuevo": {
+      "mnemonic": "Think 'new-vo' — brand new!",
+      "explanation": "Means 'new'. Fem: nueva."
+    },
+    "mesa": {
+      "mnemonic": "A 'mesa' (flat-topped hill) — flat like a table.",
+      "explanation": "Means 'table'. Feminine noun."
+    },
+    "grande": {
+      "mnemonic": "Think 'grand' — something grand is big!",
+      "explanation": "Means 'big/large'. Same for masc/fem."
+    },
+    "compramos": {
+      "mnemonic": "'Comp-ramos' — we buy in bulk.",
+      "explanation": "First person plural of 'comprar'."
+    },
+    "comida": {
+      "mnemonic": "'Come eat-a' — comida is food!",
+      "explanation": "From 'comer' (to eat)."
+    },
+    "busco": {
+      "mnemonic": "'Bus-go' — I go looking for it.",
+      "explanation": "First person of 'buscar' (to look for)."
+    },
+    "buscas": {
+      "mnemonic": "'Bus-case' — you look for your bus case.",
+      "explanation": "Second person of 'buscar'."
+    },
+    "busca": {
+      "mnemonic": "'Bus-ka' — he/she looks for the bus.",
+      "explanation": "Third person of 'buscar'."
+    },
+    "buscamos": {
+      "mnemonic": "'Bus-camos' — we all look for the bus.",
+      "explanation": "First person plural of 'buscar'."
+    },
+    "espero": {
+      "mnemonic": "Think 'aspire and wait' — I wait/hope.",
+      "explanation": "First person of 'esperar'."
+    },
+    "esperas": {
+      "mnemonic": "'You aspire' — you wait with hope.",
+      "explanation": "Second person of 'esperar'."
+    },
+    "allí": {
+      "mnemonic": "Sounds like 'a lee' — over there.",
+      "explanation": "Means 'there'. Points to a specific spot."
+    },
+    "espera": {
+      "mnemonic": "'Aspire-a' — he/she waits.",
+      "explanation": "Third person of 'esperar'."
+    },
+    "esperamos": {
+      "mnemonic": "We aspire together — we wait.",
+      "explanation": "First person plural of 'esperar'."
+    },
+    "calle": {
+      "mnemonic": "Think 'call-ay' — you call from down the street.",
+      "explanation": "Feminine noun meaning street."
+    },
+    "escucho": {
+      "mnemonic": "'Sketch what I hear' — I listen.",
+      "explanation": "First person of 'escuchar'."
+    },
+    "música": {
+      "mnemonic": "Nearly identical to 'music' — cognate!",
+      "explanation": "Feminine noun."
+    },
+    "escuchas": {
+      "mnemonic": "'Sketches of sounds' — you listen.",
+      "explanation": "Second person of 'escuchar'."
+    },
+    "escucha": {
+      "mnemonic": "'Sketch-a sound' — he/she listens.",
+      "explanation": "Third person of 'escuchar'."
+    },
+    "silencio": {
+      "mnemonic": "Nearly identical to 'silence' — cognate!",
+      "explanation": "Means 'silence'."
+    },
+    "miro": {
+      "mnemonic": "Think 'mirror' — I look in the mirror.",
+      "explanation": "First person of 'mirar' (to look at)."
+    },
+    "teléfono": {
+      "mnemonic": "Nearly identical to 'telephone' — cognate!",
+      "explanation": "Masculine noun."
+    },
+    "miras": {
+      "mnemonic": "Think 'mirrors' — you look at things.",
+      "explanation": "Second person of 'mirar'."
+    },
+    "foto": {
+      "mnemonic": "Same as English 'photo'!",
+      "explanation": "Short for 'fotografía'. Feminine."
+    },
+    "mira": {
+      "mnemonic": "Think 'mirror-a' — he/she looks.",
+      "explanation": "Third person of 'mirar'. Also used as 'Look!'."
+    },
+    "y": {
+      "mnemonic": "The letter 'Y' connects — like 'and' connects words.",
+      "explanation": "Pronounced like 'ee'. The simplest conjunction."
+    },
+    "mañana": {
+      "mnemonic": "'Mañana, mañana' — putting off till tomorrow.",
+      "explanation": "Means 'tomorrow' or 'morning'."
+    },
+    "dónde": {
+      "mnemonic": "Think 'done-day' — where?",
+      "explanation": "Question word for location."
+    }
+  }
+}

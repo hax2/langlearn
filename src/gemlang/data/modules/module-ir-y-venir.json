@@ -1,0 +1,302 @@
+{
+  "id": "module-ir-y-venir",
+  "title": "Grammar: Verb Focus: Ir and Venir",
+  "description": "'To go' vs 'to come': irregular forms, al/a la contractions, and choosing between them.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "mirven-s1",
+      "spanish": "Voy al gimnasio tres días por semana.",
+      "english": "I go to the gym three days a week.",
+      "wordMeanings": {
+        "Voy": "I go",
+        "al": "to the",
+        "gimnasio": "gym",
+        "días": "days",
+        "por": "per",
+        "semana": "week"
+      }
+    },
+    {
+      "id": "mirven-s2",
+      "spanish": "Voy al trabajo en metro.",
+      "english": "I go to work by metro.",
+      "wordMeanings": {
+        "trabajo": "work",
+        "en": "by",
+        "metro": "underground"
+      }
+    },
+    {
+      "id": "mirven-s3",
+      "spanish": "¿Vas a la fiesta de Marta?",
+      "english": "Are you going to Marta's party?",
+      "wordMeanings": {
+        "Vas": "you go",
+        "fiesta": "party"
+      }
+    },
+    {
+      "id": "mirven-s4",
+      "spanish": "Vamos al cine esta noche.",
+      "english": "We're going to the cinema tonight.",
+      "wordMeanings": {
+        "Vamos": "we go",
+        "cine": "cinema",
+        "esta": "this",
+        "noche": "night"
+      }
+    },
+    {
+      "id": "mirven-s5",
+      "spanish": "Los niños van al colegio en bici.",
+      "english": "The kids go to school by bike.",
+      "wordMeanings": {
+        "van": "they go",
+        "colegio": "school",
+        "bici": "bike"
+      }
+    },
+    {
+      "id": "mirven-s6",
+      "spanish": "¿Vais a la playa este fin de semana?",
+      "english": "Are you all going to the beach this weekend?",
+      "wordMeanings": {
+        "Vais": "you all go",
+        "playa": "beach",
+        "fin": "end",
+        "semana": "week"
+      }
+    },
+    {
+      "id": "mirven-s7",
+      "spanish": "Mis padres van al médico cada mes.",
+      "english": "My parents go to the doctor every month.",
+      "wordMeanings": {
+        "Mis": "my (plural)",
+        "padres": "parents",
+        "van": "they go",
+        "cada": "each",
+        "mes": "month"
+      }
+    },
+    {
+      "id": "mirven-s8",
+      "spanish": "Voy a casa de Ana a estudiar.",
+      "english": "I'm going over to Ana's place to study.",
+      "wordMeanings": {
+        "estudiar": "to study"
+      }
+    },
+    {
+      "id": "mirven-s9",
+      "spanish": "Mañana vamos a ir a Segovia en tren.",
+      "english": "Tomorrow we're going to go to Segovia by train.",
+      "wordMeanings": {
+        "Mañana": "tomorrow",
+        "ir": "to go",
+        "en": "by",
+        "tren": "train"
+      }
+    },
+    {
+      "id": "mirven-s10",
+      "spanish": "Esta tarde voy a ir al dentista.",
+      "english": "This afternoon I'm going to go to the dentist.",
+      "wordMeanings": {
+        "tarde": "afternoon",
+        "dentista": "dentist"
+      }
+    },
+    {
+      "id": "mirven-s11",
+      "spanish": "¿Adónde vas tan deprisa?",
+      "english": "Where are you off to in such a hurry?",
+      "wordMeanings": {
+        "Adónde": "where to",
+        "tan": "so",
+        "deprisa": "in a hurry"
+      }
+    },
+    {
+      "id": "mirven-s12",
+      "spanish": "Vengo enseguida.",
+      "english": "I'll be right back.",
+      "wordMeanings": {
+        "Vengo": "I come",
+        "enseguida": "right away"
+      }
+    },
+    {
+      "id": "mirven-s13",
+      "spanish": "¿De dónde vienes?",
+      "english": "Where are you coming from?",
+      "wordMeanings": {
+        "De": "from",
+        "dónde": "where",
+        "vienes": "you come"
+      }
+    },
+    {
+      "id": "mirven-s14",
+      "spanish": "Vengo de la oficina.",
+      "english": "I'm coming from the office.",
+      "wordMeanings": {
+        "oficina": "office"
+      }
+    },
+    {
+      "id": "mirven-s15",
+      "spanish": "Mi hermana viene a cenar esta noche.",
+      "english": "My sister is coming for dinner tonight.",
+      "wordMeanings": {
+        "viene": "she comes",
+        "cenar": "to have dinner"
+      }
+    },
+    {
+      "id": "mirven-s16",
+      "spanish": "Venimos del mercado con las bolsas llenas.",
+      "english": "We're coming back from the market with our bags full.",
+      "wordMeanings": {
+        "Venimos": "we come",
+        "del": "from the",
+        "mercado": "market",
+        "bolsas": "bags",
+        "llenas": "full (fem pl)"
+      }
+    },
+    {
+      "id": "mirven-s17",
+      "spanish": "¿Venís con nosotros al concierto?",
+      "english": "Are you all coming with us to the concert?",
+      "wordMeanings": {
+        "Venís": "you all come",
+        "nosotros": "us",
+        "concierto": "concert"
+      }
+    },
+    {
+      "id": "mirven-s18",
+      "spanish": "Mis primos vienen de visita este fin de semana.",
+      "english": "My cousins are coming to visit this weekend.",
+      "wordMeanings": {
+        "primos": "cousins",
+        "vienen": "they come",
+        "visita": "visit"
+      }
+    },
+    {
+      "id": "mirven-s19",
+      "spanish": "Yo voy a tu casa; tú vienes a la mía.",
+      "english": "I'll go to your house; you come to mine.",
+      "wordMeanings": {
+        "tu": "your",
+        "tú": "you",
+        "vienes": "you come",
+        "mía": "mine"
+      }
+    },
+    {
+      "id": "mirven-s20",
+      "spanish": "¿Puedo venir contigo?",
+      "english": "Can I come with you?",
+      "wordMeanings": {
+        "Puedo": "may I",
+        "contigo": "with you"
+      }
+    },
+    {
+      "id": "mirven-s21",
+      "spanish": "¿Cómo vais al trabajo, en coche o andando?",
+      "english": "How do you all get to work, by car or walking?",
+      "wordMeanings": {
+        "Cómo": "how",
+        "coche": "car",
+        "andando": "walking"
+      }
+    },
+    {
+      "id": "mirven-s22",
+      "spanish": "Vamos a pie, está al lado.",
+      "english": "Let's walk, it's just next door.",
+      "wordMeanings": {
+        "pie": "foot (a pie = on foot)",
+        "está": "it is",
+        "al": "at the",
+        "lado": "side / nearby spot"
+      }
+    },
+    {
+      "id": "mirven-s23",
+      "spanish": "Todos los veranos vamos a la misma cala.",
+      "english": "Every summer we go to the same cove.",
+      "wordMeanings": {
+        "Todos": "all",
+        "veranos": "summers",
+        "misma": "same",
+        "cala": "cove"
+      }
+    },
+    {
+      "id": "mirven-s24",
+      "spanish": "¿Vienes al gimnasio hoy?",
+      "english": "Are you coming to the gym today?",
+      "wordMeanings": {
+        "gimnasio": "gym",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "mirven-s25",
+      "spanish": "Un día tienes que venir a mi pueblo.",
+      "english": "One day you have to come to my village.",
+      "wordMeanings": {
+        "día": "day",
+        "tienes": "you have",
+        "que": "(tener) que = have to",
+        "venir": "to come",
+        "pueblo": "village"
+      }
+    },
+    {
+      "id": "mirven-s26",
+      "spanish": "¡Hasta luego, me voy corriendo!",
+      "english": "See you later, I'm dashing off!",
+      "wordMeanings": {
+        "Hasta": "until / see you",
+        "luego": "later",
+        "me": "myself",
+        "voy": "I go",
+        "corriendo": "running"
+      }
+    }
+  ],
+  "grammarExplanation": "'Ir' = to go (movement AWAY from where the speaker is). 'Venir' = to come (movement TOWARD the speaker or listener).\n\nIr (irregular):\n• Voy = I go • Vas = you go • Va = he/she goes\n• Vamos = we go • Vais = you all go • Van = they go\n\nVenir (also irregular):\n• Vengo = I come • Vienes • Viene • Venimos • Venís • Vienen\n\nRemember:\n• a + el = al → Voy AL gimnasio\n• de + el = del → Vengo DEL mercado\n• ir + a + infinitive = going to do something → Mañana vamos a ir a Segovia.",
+  "vocabulary": {
+    "deprisa": {
+      "mnemonic": "Depress the pedal — hurry!",
+      "explanation": "Fast / in a hurry."
+    },
+    "enseguida": {
+      "mnemonic": "In a second — en seguida.",
+      "explanation": "Right away."
+    },
+    "contigo": {
+      "mnemonic": "Con + tigo = with you.",
+      "explanation": "With you."
+    },
+    "colegio": {
+      "mnemonic": "College for the little ones.",
+      "explanation": "School (primary/secondary)."
+    },
+    "cala": {
+      "mnemonic": "Hidden coves on the Costa.",
+      "explanation": "Small cove / inlet beach."
+    },
+    "corriendo": {
+      "mnemonic": "Running corriente-style fast.",
+      "explanation": "Running."
+    }
+  }
+}

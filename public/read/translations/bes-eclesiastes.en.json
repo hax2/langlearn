@@ -1,0 +1,332 @@
+{
+  "version": 1,
+  "trackId": "bes-eclesiastes",
+  "sourceHash": "a64bd500311a5de3e59a9ad6ff3ebd5d62d61154a1ee02a21bcbe75bc9bc0e4f",
+  "provider": "ollama/translategemma:4b",
+  "sourceLanguage": "es",
+  "targetLanguage": "en",
+  "translatedAt": "2026-08-15T08:26:56.389187+00:00",
+  "characters": 28638,
+  "blocks": [
+    {
+      "source": "Eclesiastés. Capítulo 1. Las palabras del predicador, hijo de David, rey en Jerusalén. Todo es sin ningún propósito, dijo el predicador.",
+      "translation": "Ecclesiastes. Chapter 1. The words of the Preacher, son of David, king in Jerusalem. \"Everything is meaningless,\" said the Preacher."
+    },
+    {
+      "source": "Todos los caminos del hombre no tienen ningún propósito. ¿De qué se beneficia un hombre por todo su trabajo que hace bajo el sol? Una generación va y otra viene, mas la tierra es para siempre. El sol sale y el sol se pone, y regresa rápidamente al lugar donde salió.",
+      "translation": "Not all of a person's endeavors have any purpose. What benefit does a person gain from all their work under the sun? Generations come and go, but the earth endures. The sun rises and sets, and quickly returns to the same place."
+    },
+    {
+      "source": "El viento va hacia el sur, volviendo de nuevo hacia el norte, dando vueltas para siempre. Todos los ríos bajan al mar, pero el mar no está lleno. Al lugar donde van los ríos, allí vuelven. Todas las cosas están llenas de cansancio.",
+      "translation": "The wind blows south, returning north, circling endlessly. All the rivers flow towards the sea, but the sea is not full. Where the rivers flow, they return. Everything is filled with weariness."
+    },
+    {
+      "source": "El hombre puede no dar su historia, el ojo nunca tiene suficiente de lo que ve o el oído de su oído. Lo que ha sido es lo que ha de ser, y lo que se ha hecho es lo que se hará, y no hay nada nuevo bajo el sol. Hay algo de lo que los hombres digan. ¿Ves?",
+      "translation": "A man may not share his story, an eye never sees enough, or an ear never hears enough. What has been is what will be, and what has been done is what will be done, and there is nothing new under the sun. There is something to be said about what people say. See?"
+    },
+    {
+      "source": "Esto es nuevo. Ya estaba en el tiempo antiguo que estaba antes de nosotros. No hay memoria de los que han ido antes, y de los que vienen después, no habrá memoria para los que todavía están por venir después de ellos. Yo, el predicador, fui rey sobre Israel en Jerusalén, y di mi corazón a buscar con sabiduría todas las cosas que se hacen bajo el cielo.",
+      "translation": "This is new. It was already in the ancient times, before our own. There is no record of those who came before, and there will be no record for those who come after. I, the prophet, was king over Israel in Jerusalem, and I dedicated myself to seeking wisdom in all things under the heavens."
+    },
+    {
+      "source": "Es una cosa difícil que Dios ha puesto sobre los hijos de los hombres. He visto todas las obras que se hacen bajo el sol. Nada tiene propósito y aflicción de espíritu. Lo que está doblado no puede ser enderezado, y lo que no está allí no puede ser numerado.",
+      "translation": "It is a difficult thing that God has placed upon mankind. I have seen all the works that are done under the sun. Nothing has meaning or brings lasting peace of mind. What is crooked cannot be straightened, and what is absent cannot be counted."
+    },
+    {
+      "source": "Dije a mi corazón, mira, me he vuelto grande y tengo más sabiduría que todos los que me precedieron en Jerusalén. Sí, mi corazón ha visto mucha sabiduría y conocimiento. Y di mi corazón para obtener conocimiento de la sabiduría y de los caminos de los necios, y vi que de nuevo se trataba de un deseo por el viento. Porque en mucha sabiduría hay mucho dolor, y el aumento del conocimiento es aumento del dolor.",
+      "translation": "I told my heart, \"Look, I've grown and have more wisdom than all those who came before me in Jerusalem. Yes, my heart has seen a great deal of wisdom and knowledge. And I asked my heart to learn from the wisdom and the ways of fools, and I saw that it was, once again, a desire for fleeting pleasures. Because with great wisdom comes great sorrow, and the increase in knowledge leads to an increase in sorrow.\""
+    },
+    {
+      "source": "Capítulo 2 Dije en mi corazón, te daré alegría por una prueba. Así que toma tu placer, pero fue sin ningún propósito. De risa dije, es insensato, y de alegría, ¿de qué sirve? Hice una búsqueda con mi corazón para dar placer a mi carne con vino, todavía guiando mi corazón con sabiduría, y perseguir cosas tontas para poder ver lo que era bueno para los hijos de los hombres hacer bajo los cielos todos los días de su vida.",
+      "translation": "Chapter 2 I said in my heart, I will give you joy for a test. So take your pleasure, but it was without any purpose. I laughed and said, it's absurd, and with joy, what good does it do? I searched with my heart to give pleasure to my flesh with wine, still guiding my heart with wisdom, and pursuing foolish things in order to see what was good for men to do under the heavens every day of their lives."
+    },
+    {
+      "source": "Realicé grandes obras, construyéndome casas y plantando viñas. Me hice jardines y huertos, plantando en ellos árboles frutales de todo tipo. Hice estanques para regar los bosques donde crecían los árboles. Compré siervos y sirvientas, y dieron a luz hijos e hijas en mi casa.",
+      "translation": "I undertook large-scale projects, building houses and planting vineyards. I created gardens and orchards, planting a variety of fruit trees. I built ponds to irrigate the forests where the trees grew. I bought servants and servants, and they gave birth to children in my home."
+    },
+    {
+      "source": "Tenía una gran riqueza de rebaños y manadas, más que todos los que estaban en Jerusalén antes que yo. Reuní plata y oro y la riqueza de los reyes y de los países. Me hice de creadores de canto, cantores y cantoras, y las delicias de los hijos de los hombres y concubinas. Y me engrandecí, aumentando más que todos los que habían estado antes que yo en Jerusalén, y mi sabiduría todavía estaba conmigo.",
+      "translation": "I possessed a vast number of flocks and herds, more than any others in Jerusalem before me. I gathered silver and gold, and the wealth of kings and nations. I acquired singers and musicians, as well as the pleasures of men and their concubines. And I prospered, exceeding all who had come before me in Jerusalem, and my wisdom remained with me."
+    },
+    {
+      "source": "Y nada de lo que mis ojos deseaban les negué. No guardé ninguna alegría de mi corazón, porque mi corazón se complació en todo mi trabajo, y esta fue mi recompensa. Entonces vi todas las obras que mis manos habían hecho, y todo aquello por lo que había estado trabajando, y vi que todo era inútil y aflicción de espíritu, y que no había ganancia bajo el sol. Volví a buscar sabiduría y caminos necios.",
+      "translation": "And I didn't withhold anything my eyes desired. I didn't keep any joy in my heart, because my heart was satisfied with all my work, and this was my reward. Then I saw all the works that my hands had created, and everything for which I had been striving, and I saw that it was all useless and a source of spiritual anguish, and that there was no gain under the sun. I turned back to seek foolish wisdom and ways."
+    },
+    {
+      "source": "¿Qué puede hacer el hombre que viene después del rey? Lo que él ha hecho antes. Entonces vi que la sabiduría es mejor que la insensatez, y que la luz es mejor que la oscuridad. Los ojos del sabio están en su cabeza, pero el necio va caminando en la oscuridad.",
+      "translation": "What can the person who comes after the king do? What he has done before. Then I realized that wisdom is better than foolishness, and that light is better than darkness. The wise person's eyes are in their head, but the fool walks in the dark."
+    },
+    {
+      "source": "Pero aún así vi que el mismo suceso les llega a todos. Entonces dije en mi corazón, en lo que se refiere al hombre necio, así vendrá a mí. Así que, ¿para qué he sido demasiado sabio? Entonces dije en mi corazón, esto de nuevo no tiene ningún propósito.",
+      "translation": "But I still saw that the same thing was happening to everyone. Then, in my heart, I thought, \"If this is going to happen to foolish men, it will happen to me too.\" So, why have I been so wise? Then, in my heart, I thought, \"This doesn't seem to have any purpose.\""
+    },
+    {
+      "source": "Del sabio como del necio no hay memoria para siempre, ya que aquellos que ahora son habrán desaparecido de la memoria en los próximos días, mira cómo la muerte llega a los sabios como a los necios. Entonces odiaba la vida porque todo lo que estaba debajo del sol era malo para mí. No tiene ningún propósito y todo es aflicción de espíritu. Yo odiaba todo el fruto de mi trabajo que había hecho, porque lo dejaré al hombre que viene después de mí.",
+      "translation": "Just as the wise and the foolish have no lasting memory, those who are now alive will soon disappear from memory. Observe how death comes to both the wise and the foolish. Therefore, I hated life because everything under the sun was bad for me. It had no purpose, and everything was a source of spiritual anguish. I hated all the fruits of my labor, because I would leave them for the person who comes after me."
+    },
+    {
+      "source": "¿Y quién puede decir si ese hombre será sabio o insensato? Pero tendrá poder sobre todo el trabajo que he hecho y en el que he sido sabio bajo el sol. Esto de nuevo no tiene ningún propósito. Así que mi mente se convirtió en dolor por todos los problemas que había tomado y toda mi sabiduría bajo el sol.",
+      "translation": "And who can say whether that man will be wise or foolish? But he will have power over all the work I have done and in which I have been wise under the sun. This, again, has no purpose. So my mind became filled with pain over all the problems I had taken on, and all my wisdom under the sun."
+    },
+    {
+      "source": "Porque hay un hombre cuyo trabajo ha sido hecho con sabiduría, con conocimiento y con mano experta. Pero uno que no ha hecho nada por él lo tendrá por su herencia. Esto de nuevo no tiene ningún propósito y es un gran mal. ¿Qué obtiene un hombre por todo su trabajo y por el peso del cuidado con el que ha hecho su trabajo bajo el sol?",
+      "translation": "Because there is a man whose work has been done with wisdom, knowledge, and skillful hands. But someone who has done nothing for him will consider it his inheritance. This is pointless and a great injustice. What does a man gain from all his work and the care he has taken in doing it under the sun?"
+    },
+    {
+      "source": "Todos sus días son dolor y su obra está llena de dolor. Incluso en la noche su corazón no tiene descanso. Esto de nuevo no tiene ningún propósito. No hay nada mejor para un hombre que comer y beber y deleitarse en su trabajo.",
+      "translation": "Every day is filled with pain, and his work is full of it. Even at night, his heart finds no rest. This seems pointless. There is nothing better for a man than to eat, drink, and enjoy his work."
+    },
+    {
+      "source": "Esto que nuevamente vi fue de la mano de Dios. ¿Quién puede comer o tener placer sin él? Al hombre con quien se complace, Dios le da sabiduría, conocimiento y gozo, pero al pecador le da el trabajo de juntar bienes y acumular riquezas para dar a aquel en quien Dios tiene placer. Esto de nuevo no tiene ningún propósito y es aflicción de espíritu.",
+      "translation": "What I saw again was a gift from God. Who can truly enjoy pleasure or satisfaction without Him? God gives wisdom, knowledge, and joy to the person who finds pleasure, but He gives the sinner the task of accumulating wealth and riches to give to the person God favors. This seems pointless and causes spiritual distress."
+    },
+    {
+      "source": "Capítulo 3. Para todo hay un tiempo fijo y un tiempo para cada propósito bajo el cielo. Un tiempo para el nacimiento y un tiempo para la muerte. Un tiempo para plantar y un tiempo para arrancar de raíz.",
+      "translation": "Chapter 3. There is a time for everything, and a season for every activity under heaven. There is a time for birth and a time for death. There is a time for planting and a time for harvesting."
+    },
+    {
+      "source": "Un tiempo para dar muerte y un tiempo para sanar. Un tiempo para derribar y un tiempo para construir. Un tiempo para llorar y un tiempo para reír. Un tiempo para el dolor y un tiempo para bailar.",
+      "translation": "A time for both death and healing. A time for destruction and a time for building. A time for sorrow and a time for joy. A time for pain and a time for dancing."
+    },
+    {
+      "source": "Un tiempo para quitar piedras y un tiempo para juntar piedras. Un tiempo para abrazar y un tiempo para no abrazar. Un tiempo para la búsqueda y un tiempo para la pérdida. Un tiempo para guardar y un tiempo para regalar.",
+      "translation": "A time to remove obstacles and a time to build them up. A time to embrace and a time to withdraw. A time for searching and a time for loss. A time to save and a time to give."
+    },
+    {
+      "source": "Un tiempo para desgarrar y un un tiempo para coser, un tiempo para guardar silencio, y un tiempo para hablar, un tiempo para el amor, y un tiempo para el odio, un tiempo para la guerra, y un tiempo para la paz. ¿Qué beneficio tiene el trabajador en el trabajo que él hace? Vi la obra que Dios ha puesto sobre los hijos del hombre, él hizo todo hermoso en su tiempo, y entregó el mundo a su voluntad, pero él ha hecho sus corazones sin conocimiento, de modo que el hombre no puede ver las obras de Dios, desde el principio hasta el fin. Estoy seguro de que no hay nada mejor para un hombre que estar contento y hacer el bien mientras la vida está en él, y para cada hombre que coma, beba y tenga gozo en toda su obra, es una recompensa de Dios.",
+      "translation": "A time for joy and a time for sorrow, a time for silence and a time for speech, a time for love and a time for hate, a time for war and a time for peace. What benefit does the worker gain from their work? I have seen the work that God has put into the hearts of men; He made all things beautiful in its time, and He gave the world into their hands, but they have turned their hearts away from Him, so that men cannot see God's work, from beginning to end. I am sure that there is nothing better for a man than to be happy and to do good while he is alive, and for every man who eats, drinks, and enjoys his work, it is a reward from God."
+    },
+    {
+      "source": "Estoy seguro de que todo lo que Dios haga será para siempre, no se le puede hacer ninguna adición, no se le puede quitar nada, y Dios lo ha hecho para que el hombre tenga reverencia ante él. Lo que ha sido antes, ya es, y lo que debe ser, es ahora, porque Dios hace la búsqueda de las cosas que son pasadas. Y otra vez, vi debajo del sol, en el lugar de los jueces, que el mal estaba allí, y en el lugar de la justicia, que el mal estaba allí. Dije en mi corazón, Dios juzgará lo bueno y lo malo, porque ha fijado un tiempo para cada propósito y para cada trabajo.",
+      "translation": "I am certain that everything God does will endure forever; nothing can be added to it, and nothing can be taken away. God has created it this way so that humans will have reverence for Him. What was, is, and what will be, is now, because God orchestrates the events of the past. And again, I saw under the sun, in the place of the judges, that evil was there, and in the place of justice, that evil was there. I said in my heart, \"God will judge good and evil, because He has set a time for every purpose and for every work.\""
+    },
+    {
+      "source": "Dije en mi corazón, es por los hijos de los hombres, para que Dios los ponga a prueba, y se vean a sí mismos como bestias. Porque el destino de los hijos de los hombres y el destino de las bestias es el mismo. Como la muerte de uno, así es la muerte del otro, y todos tienen un espíritu. El hombre no tiene ventaja sobre las bestias, porque todo es vanidad.",
+      "translation": "I said to myself, it is for the sake of men's children, so that God may test them, and they may see themselves as beasts. For the fate of men's children and the fate of beasts are the same. Just as one dies, so too does the other, and they all have a spirit. Man has no advantage over beasts, for everything is vanity."
+    },
+    {
+      "source": "Todos van a un lugar, todos son del polvo, y todos serán convertidos en polvo nuevamente. ¿Quién está seguro de que el espíritu de los hijos de los hombres sube al cielo, o que el espíritu de las bestias desciende a la tierra? Entonces vi que no hay nada mejor que un hombre tenga gozo en su trabajo, porque esa es su recompensa. ¿Quién le hará ver lo que vendrá después de él?",
+      "translation": "Everyone goes to the same place, everyone is made of dust, and everyone will eventually return to dust. Who can be sure that the spirits of human beings ascend to heaven, or that the spirits of animals descend to earth? Then I realized that there is nothing better than a person finding joy in their work, because that is their reward. Who will show them what will come after them?"
+    },
+    {
+      "source": "Capítulo 4 Y nuevamente vi todas las cosas crueles que se hacen bajo el sol. Estaba el llanto de aquellos que les habían hecho mal, y no tenían consolador. Y de las manos de los malvados estaba el poder, pero no tenían consolador. Mi alabanza fue para los muertos que han ido a su muerte, más que para los vivos que aún tienen vida.",
+      "translation": "Chapter 4 And once again, I saw all the cruel things that are done under the sun. There was the weeping of those who had been wronged, and there was no one to comfort them. And the power of the wicked was in their hands, but there was no one to comfort them. My praise was for those who have died, rather than for those who are still alive."
+    },
+    {
+      "source": "Sí, más feliz que los muertos o los vivos parecía el que nunca ha estado, que no ha visto el mal que se hace bajo el sol. Y vi que la causa de todo el trabajo y de todo lo que está bien hecho era la envidia del hombre al prójimo. Esto de nuevo es para ningún propósito y aflicción de espíritu. El hombre necio, doblando sus manos, toma la carne de su propio cuerpo para comer.",
+      "translation": "Yes, he seemed happier than the dead or the living, having never experienced hardship or seen the evil that humans inflict upon each other. I saw that the source of all labor and all that is well-done was the envy of one person towards another. This, again, is for no purpose and causes only spiritual distress. The foolish man, bending down to eat the flesh of his own body, is a clear example of this."
+    },
+    {
+      "source": "Una mano llena de descanso es mejor que dos manos llenas de problemas y aflicción de espíritu. Luego volví y vi un ejemplo de lo que no tiene propósito bajo el sol. Es aquel que está solo, sin sucesor y sin hijo o hermano. Pero no hay fin a todo su trabajo y él nunca tiene suficiente riqueza.",
+      "translation": "A hand full of rest is better than two hands full of problems and spiritual distress. Then I turned and saw an example of what has no purpose under the sun: it is the solitary person, without a successor or children, or siblings. But there is no end to his work, and he never has enough wealth."
+    },
+    {
+      "source": "¿Para quién, entonces, estoy trabajando y manteniéndome del placer? Esto de nuevo no tiene ningún propósito y es un trabajo amargo. Dos son mejores que uno porque tienen una buena recompensa por su trabajo. Y si uno tiene una caída, el otro le dará una mano.",
+      "translation": "So, who am I working for and benefiting from? This, again, seems pointless and is a difficult job. Two people are better than one because they receive a good reward for their work. And if one person falls, the other will help them."
+    },
+    {
+      "source": "Pero infeliz es el hombre que está solo, porque no tiene ayudante. De nuevo, si dos están durmiendo juntos, son cálidos. ¿Pero cómo puede uno ser cálido por sí mismo? Y dos atacados por uno estarían a salvo y tres cuerdas torcidas juntas no se rompen rápidamente.",
+      "translation": "However, the unfortunate person is the one who is alone, because they have no one to help. Again, if two people are sleeping together, they are safe. But how can one person be safe on their own? And two people being attacked by one would be safe, and three people tied together would not easily break apart."
+    },
+    {
+      "source": "Un joven que es pobre y sabio es mejor que un rey que es viejo e insensato y no será guiado por la sabiduría de los demás. Porque de la prisión el joven viene a ser rey, aunque al nacer solo era un hombre pobre en el reino. Vi a todos los que vivían bajo el sol alrededor del joven que iba a ser gobernante en lugar del rey. No hubo fin de todas las personas, de todos aquellos cuya cabeza era, pero los que vengan después no se deleitarán en él.",
+      "translation": "A young, poor, and wise person is better than an old, foolish king who will not be guided by the wisdom of others. For, from the confines of youth, the young person will rise to become king, even though he was only a poor man in the kingdom at birth. I saw all those who lived under the sun around the young man who was destined to rule, instead of the king. There was no end to the people, or to those whose heads were, but those who come after will not rejoice in him."
+    },
+    {
+      "source": "Esto, de nuevo, no tiene ningún propósito y es aflicción de espíritu. Capítulo 5 Cuida tus pies con cuidado cuando vayas a la casa de Dios porque es mejor escuchar que hacer las ofrendas quemadas de los necios, porque no saben que solo hacen el mal. No seas imprudente con tu boca y no te apresures a que tu corazón diga nada delante de Dios, porque Dios está en el cielo y tú estás en la tierra. Por lo tanto, sean pocas tus palabras.",
+      "translation": "This, once again, serves no purpose and is a source of spiritual anguish. Chapter 5: Take good care of your feet when you go to God's house, because it is better to listen than to offer burnt sacrifices, as the foolish do, because they do not know that they are only causing harm. Be careful with your words and do not rush to speak before God, because God is in heaven and you are on earth. Therefore, keep your words to a minimum."
+    },
+    {
+      "source": "Como un sueño proviene de mucha tarea, la voz de un hombre necio viene con palabras en gran número. Cuando hagas un juramento ante Dios, cúmplelo rápidamente porque él no tiene placer en los necios. Cumple el juramento que has tomado. Es mejor no prestar juramento que jurar y no cumplir.",
+      "translation": "Since a promise comes from a great deal of effort, the words of a foolish man come with a large number of words. When you make a vow before God, fulfill it quickly because he does not take pleasure in fools. Fulfill the vow you have made. It is better not to make a vow than to make a vow and not fulfill it."
+    },
+    {
+      "source": "No permitas que tu boca haga que tu carne haga el mal. Y no digas ante el ángel. Fue un error. Para que Dios no se enoje con tus palabras y ponga fin a la obra de tus manos, porque se habla mucho de los sueños y de cosas sin sentido.",
+      "translation": "Don't let your words cause harm. And don't speak before the angel. It was a mistake. In order for God not to be angered by your words and to end the work of your hands, because there is much talk about dreams and meaningless things."
+    },
+    {
+      "source": "Pero deja que el temor de Dios esté en ti. Si ves a los pobres bajo un yugo cruel y la ley y el derecho están siendo violentamente volcados en un país, no te sorprendas, porque una autoridad está vigilando a otra y hay más altas que ellas. Generalmente es bueno para un país donde se trabaja la tierra para tener un rey. El que ama la plata nunca tiene suficiente plata o el que ama la riqueza, suficiente ganancia.",
+      "translation": "But let the fear of God be within you. If you see the poor being subjected to a cruel yoke and the law and justice being violently overturned in a country, do not be surprised, because one authority is watching over another, and there are those who are higher than them. Generally, it is good for a country where agriculture is practiced to have a king. Whoever loves silver never has enough silver, or whoever loves wealth, never has enough profit."
+    },
+    {
+      "source": "Esto, de nuevo, no tiene ningún propósito. Cuando aumentan los bienes, aumenta el número de consumidores. ¿Y qué beneficio tiene el dueño más que verlos? El sueño de un hombre trabajador es dulce si tiene poco o mucho alimento.",
+      "translation": "This, again, serves no purpose. When goods increase, the number of consumers also increases. And what benefit does the owner gain besides seeing them? The dream of a hard-working man is sweet whether he has little or a lot of food."
+    },
+    {
+      "source": "Pero al que está lleno, el sueño no vendrá. Hay un gran mal que he visto bajo el sol. La riqueza guardada por el dueño para ser su perdición. Y vi la destrucción de su riqueza por una mala oportunidad.",
+      "translation": "But for the one who is full, the dream will not come. I have seen a great evil under the sun. Wealth hoarded by the owner, destined to be his downfall. And I saw the destruction of his wealth due to a bad opportunity."
+    },
+    {
+      "source": "Y cuando llegó a ser padre de un hijo, no tenía nada en la mano. Al salir de su madre al nacer, vuelve a ir. No obtiene de su trabajo ninguna recompensa que pueda quitar en su mano. Y, de nuevo, esto es un gran mal que en todos los puntos, al irse, se irá.",
+      "translation": "And when he became a father, he had nothing to show for it. When his son was born, he returned to his mother, and received no financial reward from his work that he could take with him. And, once again, this is a significant loss, as he will be leaving behind everything he has worked for."
+    },
+    {
+      "source": "¿Y qué beneficio tiene él trabajando para el viento? Todos sus días están en la oscuridad y él tiene mucha aflicción, dolor, enfermedad y problemas. Esto es lo que he visto. Es bueno y justo para un hombre comer y beber y tener gozo en toda su obra bajo el sol.",
+      "translation": "And what benefit does he get from working for the wind? His days are filled with darkness, and he experiences much suffering, pain, illness, and hardship. This is what I have observed. It is good and right for a man to eat, drink, and find joy in his work under the sun."
+    },
+    {
+      "source": "Todos los días de su vida que Dios le ha dado. Esa es su recompensa. Todo hombre a quien Dios le ha dado dinero, riquezas y el poder de tener placer en ello y hacer su parte y tener alegría en su trabajo. Esto es dado por Dios.",
+      "translation": "For every day of his life that God has given him. That is his reward. Any man to whom God has given money, wealth, and the ability to enjoy it and to contribute and find joy in his work. This is a gift from God."
+    },
+    {
+      "source": "No pensará mucho en los días de su vida, porque Dios le permite ser ocupado con el gozo de su corazón. Capítulo 6. Hay un mal que he visto bajo el sol y es común para los hombres. Un hombre a quien Dios le da dinero, riqueza y honor para que tenga todos sus deseos, pero Dios no le da el poder de gozar de él.",
+      "translation": "He won't spend much time dwelling on the days of his life, because God allows him to be occupied with the joy of his heart. Chapter 6. I have seen a great evil under the sun, and it is common among men. A man who God gives money, wealth, and honor, so that he can have everything he desires, but God does not give him the ability to enjoy it."
+    },
+    {
+      "source": "Y un hombre extranjero lo toma. Esto es vanidad y una enfermedad maligna. Si un hombre tiene cien hijos y su vida es larga, los días de sus años son muy numerosos, pero su alma no se complace del bien y careció de sepultura. Yo digo que un abortivo es mejor que él.",
+      "translation": "And a foreign man takes it. This is vanity and a terrible affliction. If a man has one hundred children and lives a long life, his days are numerous, but his soul is not satisfied with good and lacks a proper burial. I say that an abortion is better than him."
+    },
+    {
+      "source": "En el viento vino y se iría a la oscuridad y con la oscuridad se ocultará su nombre. Sí, no vio el sol y no tuvo conocimiento. Es mejor con esto que con el otro. Y aunque continúa viviendo mil veces más y no ve bien, ¿no van los dos al mismo lugar?",
+      "translation": "The wind carried it away, and it would disappear into the darkness, and with the darkness, its name would be forgotten. Yes, it never saw the sun and had no awareness. It's better this way than the other. And even though it continues to live for thousands of years and cannot see well, don't both paths lead to the same destination?"
+    },
+    {
+      "source": "Toda la obra del hombre es para su boca y todavía tiene un deseo de comer. ¿Qué ventaja tienen los sabios que los necios y qué tiene el pobre que camina sabiamente entre los vivos? Lo que ven los ojos es mejor que el deseo errante. Esto es vanidad y aflicción de espíritu.",
+      "translation": "All of a person's work is for their own mouth, and they still have a desire to eat. What advantage do the wise have over the foolish, and what does the poor man gain by walking wisely among the living? What the eyes see is better than a wandering desire. This is vanity and torment of the spirit."
+    },
+    {
+      "source": "Lo que es ha sido nombrado antes y se sabe que es hombre. Él no tiene poder contra uno más fuerte que él. Hay muchas palabras para aumentar la vanidad, pero ¿en qué beneficia al hombre? ¿Quién puede decir lo que es bueno para el hombre en la vida todos los días de su vida insensata por los que pasa como una sombra?",
+      "translation": "This has already been mentioned, and it is known to be a man. He has no power against someone stronger than him. There are many words to inflate his ego, but what benefit does that bring to the man? Who can say what is good for the man in his life every day, as he drifts through it like a shadow?"
+    },
+    {
+      "source": "¿Quién dirá lo que será después de él bajo el sol? Capítulo 7 Un buen nombre es mejor que el aceite de gran precio y el día de la muerte que el día de nacimiento. Es mejor ir a la casa del llanto que ir a la casa del banquete, porque ese es el fin de cada hombre y los vivos lo llevarán a sus corazones. El dolor es mejor que la alegría.",
+      "translation": "Who will say what will be after him under the sun? Chapter 7 A good name is better than expensive oil, and the day of death is better than the day of birth. It is better to go to the house of weeping than to the house of feasting, for that is the end of every man, and the living will carry it to their hearts. Pain is better than joy."
+    },
+    {
+      "source": "Cuando la cara está triste, la mente mejora. Los corazones de los sabios están en la casa del llanto, más los corazones de los necios están en la casa de la alegría. Es mejor tomar nota de la represión de los hombres sabios que escuchar el canto de los necios. Al igual que el crujir de espinas debajo de una olla, también lo es la risa de un hombre necio, y esto de nuevo no tiene ningún propósito.",
+      "translation": "When the face is sad, the mind improves. The hearts of the wise are in the house of sorrow, while the hearts of the foolish are in the house of joy. It is better to observe the repression of wise men than to listen to the foolish. Just as the sound of thorns under a pot is unpleasant, so too is the laughter of a foolish man, and this, again, serves no purpose."
+    },
+    {
+      "source": "Los sabios están preocupados por la opresión de los crueles y dar dinero es la destrucción del corazón. El fin de una cosa es mejor que su comienzo, y un espíritu amable es mejor que el orgullo. No dejes que tu espíritu se enoje, porque la ira está en el corazón de los necios. No digas, ¿por qué los días que han pasado son mejores que estos?",
+      "translation": "Wise people are concerned about the oppression of the cruel, and giving money is the destruction of the heart. The end of one thing is better than its beginning, and a kind spirit is better than pride. Do not let your spirit become angry, because anger is in the hearts of fools. Do not say, \"Why were the days that have passed better than these?\""
+    },
+    {
+      "source": "Tal pregunta no proviene de la sabiduría. La sabiduría junto con una herencia es buena y un beneficio para los que ven el sol. La sabiduría evita que un hombre corra peligro, como protege el dinero. Pero el valor del conocimiento es que la sabiduría da vida a su dueño.",
+      "translation": "That question doesn't come from wisdom. Wisdom, along with inheritance, is a good thing and a benefit for those who see the light. Wisdom protects a person from danger, just as money protects one's assets. However, the value of knowledge lies in the fact that wisdom gives life to its owner."
+    },
+    {
+      "source": "En el día de la riqueza, ten alegría, pero en el día del mal, piensa. Dios ha puesto el uno en contra del otro, para que el hombre no esté seguro de lo que sucederá después de él. Estos dos los he visto en mi vida que no tienen ningún propósito. Un hombre bueno que llega a su fin en su justicia, y un hombre malo cuyos días son largos en su maldad.",
+      "translation": "On the day of prosperity, be joyful, but on the day of misfortune, reflect. God has placed them in opposition to each other, so that humans cannot be certain of what will happen after them. I have seen both of these in my life – a good man who meets his end through justice, and a bad man whose days are long in his wickedness."
+    },
+    {
+      "source": "No seas demasiado justo y no sé demasiado sabio. ¿Por qué dejar que la destrucción venga sobre ti? No seas malvado y no seas necio. ¿Por qué llegar a su fin antes de tiempo?",
+      "translation": "Don't be too harsh and don't be too wise. Why allow yourself to be destroyed? Don't be evil and don't be foolish. Why bring an early end to yourself?"
+    },
+    {
+      "source": "Es bueno tomar esto en tu mano y no apartarte de esto a otro. El que tiene temor de Dios estará libre de los dos. La sabiduría hace a un hombre sabio más fuerte que diez gobernantes en una ciudad. No hay hombre en la tierra de tal justicia que haga el bien y esté libre de pecado todos los días.",
+      "translation": "It's better to hold onto this and not let go. Those who fear God are free from both. Wisdom makes a wise man stronger than ten rulers in a city. There is no man on earth who is so just that he does good and is free from sin every day."
+    },
+    {
+      "source": "No escuches todas las palabras que los hombres dicen por temor a escuchar las maldiciones de tu siervo. Tu corazón tiene conocimiento de la frecuencia con que otros han sido maldecidos por ti. Todo esto lo he puesto a prueba por sabiduría. Dije, seré sabio, pero estaba lejos de mí.",
+      "translation": "Don't listen to everything men say out of fear of hearing the curses of your servant. Your heart knows how often others have been cursed by you. I have done this for wisdom. I said, \"I will be wise,\" but it was far from me."
+    },
+    {
+      "source": "Lejos está la existencia verdadera y muy profunda. ¿Quién puede tener conocimiento de ello? Me dediqué a conocer y a buscar la sabiduría y la razón de las cosas, y reconocer la maldad de la insensatez y la necedad de la locura. Y vi una cosa más amarga que la muerte, incluso la mujer cuyo corazón está lleno de trucos y redes, y cuyas manos son como cadenas.",
+      "translation": "The true and profound existence is far removed. Who can truly know it? I dedicated myself to understanding and seeking the wisdom and reason behind things, and recognizing the folly and senselessness of madness. And I saw something even more bitter than death, even the woman whose heart is full of deceit and traps, and whose hands are like chains."
+    },
+    {
+      "source": "Aquel con quien Dios se complace se liberará de ella, pero el pecador será tomado por ella. Mira, esto lo he visto, dijo el predicador, tomando una cosa tras otra para obtener la cuenta verdadera, que mi alma todavía está buscando, pero no la tengo. Un hombre entre mil he visto, pero una mujer entre todas estas no he hallado. Esto sólo lo he visto, que Dios enderezó a los hombres, pero han estado buscando todo tipo de artimañas.",
+      "translation": "The one whom God approves will be freed from it, but the sinner will be taken by it. Look, I have seen this, said the preacher, taking one thing after another to obtain the true account, which my soul is still seeking, but I have not found. I have seen one man among thousands, but I have not found a woman among all these. I have only seen this, that God has straightened men, but they have been seeking all sorts of tricks."
+    },
+    {
+      "source": "Capítulo 8 ¿Quién es como el hombre sabio? ¿Y para quién es claro el sentido de algo? La sabiduría de un hombre hace brillar su rostro, y su duro rostro será cambiado. Te digo, guarda la ley del rey del respeto por el juramento de Dios.",
+      "translation": "Chapter 8: Who is like a wise man? And for whom is the meaning of something clear? The wisdom of a man makes his face shine, and his hardened face will be transformed. I tell you, keep the law of the king, which is to respect the oath of God."
+    },
+    {
+      "source": "No te apresures a irte de su presencia. No te fijes en un diseño malvado, porque él hace lo que le agrada. La palabra de un rey tiene autoridad, y ¿quién puede decirle qué es esto que estás haciendo? El que guarda la ley no sufrirá el mal, y el corazón del sabio tiene conocimiento del tiempo y de la decisión.",
+      "translation": "Don't rush to leave his presence. Don't focus on a wicked design, because he does what he pleases. The word of a king has authority, and who can tell him what he is doing? The one who upholds the law will not suffer, and the heart of the wise knows the time and the decision."
+    },
+    {
+      "source": "Para cada propósito hay un tiempo y una decisión, porque el dolor del hombre es grande sobre él. Nadie está seguro de lo que será, y quién podrá decirle cuándo será. Ningún hombre tiene autoridad sobre el viento para mantener el viento, o es gobernante el día de su muerte. En la guerra el tiempo de nadie es libre, y el mal no mantendrá seguro al pecador.",
+      "translation": "For each purpose, there is a time and a decision, because a person's suffering is great upon them. No one is certain of what will be, and no one can tell them when it will be. No one has authority over the wind to control it, or the day of their death is their own. In war, no one's time is free, and evil will not protect the sinner."
+    },
+    {
+      "source": "Todo esto lo he visto, y he entregado mi corazón a todo el trabajo que se realiza bajo el sol. Hay un momento en que el hombre tiene poder sobre el hombre para su destrucción, y luego vi a los hombres malvados que fueron sepultados, que entraban y salían incluso del lugar santo, y fueron pronto olvidados en la ciudad donde habían hecho. Esto de nuevo no tiene ningún propósito. Debido a que el castigo por una obra malvada no llega rápidamente, las mentes de los hijos de los hombres están totalmente dedicadas a hacer el mal.",
+      "translation": "I have witnessed all of this, and I have dedicated my heart to the work that is done under the sun. There is a time when a man has power over another man for his own destruction, and I saw the wicked men who were buried, who entered and left even the holy place, and were soon forgotten in the city where they had made their mark. This, in itself, has no purpose. Because the punishment for evil deeds does not come quickly, the minds of men are completely devoted to doing evil."
+    },
+    {
+      "source": "Aunque un pecador hace el mal cientos de veces y su vida es larga, estoy seguro de que será bueno para los que temen a Dios y tienen temor ante su presencia. Pero no será bueno para el malvado. No hará que sus días sean largos como una sombra, porque no tiene temor ante Dios. Hay una cosa que no tiene ningún propósito en la tierra, que hay hombres buenos a quienes se les da el mismo castigo que a los que son malos, y hay hombres malvados que reciben la recompensa del bien.",
+      "translation": "Although a sinner may commit evil hundreds of times and live a long life, I am certain that it will be beneficial for those who fear God and respect His presence. However, it will not be beneficial for the wicked. It will not make their days as long as a shadow, because they do not fear God. There is one thing that has no purpose on earth: good people are given the same punishment as the wicked, and wicked people receive the reward of the good."
+    },
+    {
+      "source": "Yo digo que esto de nuevo no tiene ningún propósito, así que a la ve la alegría, porque no hay nada mejor que pueda hacer un hombre bajo el sol que comer, beber y ser feliz, porque eso estará con él en su trabajo todos los días de su vida que Dios le da bajo el sol. Cuando me dediqué al conocimiento de la sabiduría y al trabajo que se realiza en la tierra, y hay quienes no ven dormir ni de día ni de noche, entonces vi toda la obra de Dios, y ese hombre no puede conocer la obra que se realiza bajo el sol, porque si un hombre trabaja arduamente para la búsqueda, no obtendrá conocimiento, e incluso si el hombre sabio parece estar llegando al final de su búsqueda, seguirá sin saberlo. Todo esto lo tomé en serio, y mi corazón lo vio todo, que los justos y los sabios y sus obras están en la mano de Dios, y los hombres pueden no estar seguros de si será amor u odio, todo lo que pasa delante de ellos, porque para todos hay un acontecimiento, para el hombre recto y para el mal, para el limpio y para el inmundo, para el que hace una ofrenda y para el que no hace ninguna ofrenda. Como es bueno así es el pecador, el que hace juramento es como el que le teme.",
+      "translation": "I believe that this pursuit has no purpose, so I embrace joy, because there is nothing a man can do under the sun that is better than eating, drinking, and being happy. This is because it will be with him in his work every day of his life that God gives him under the sun. When I dedicated myself to the pursuit of wisdom and the work that is done on earth, and when some people don't sleep day or night, then I saw all of God's work, and that man cannot know the work that is done under the sun, because if a man works hard in his search, he will not gain knowledge, and even if the wise man seems to be nearing the end of his search, he will still not know. I took all of this seriously, and my heart saw it all: that the righteous and the wise, and their works, are in the hand of God, and that men may not be sure whether it will be love or hate, everything that happens before them, because there is an event for everyone: for the upright and for the wicked, for the pure and for the impure, for the one who makes an offering and for the one who does not. As it is good, so it is for the sinner, the one who makes a vow is like the one who fears God."
+    },
+    {
+      "source": "Esto es malo en todas las cosas que se hacen bajo el sol, que hay un destino para todos, y los corazones de los hijos de los hombres están llenos de mal. Mientras tienen vida, sus corazones son tontos, y después de eso al sepulcro. Para el que está unido a todos los que viven allí, hay esperanza. Un perro vivo es mejor que un león muerto.",
+      "translation": "This is true in all things done under the sun, that there is a purpose for everything, and the hearts of men are filled with wickedness. While they have life, their hearts are foolish, and after that, to the grave. But for those who are united with all who live, there is hope. A living dog is better than a dead lion."
+    },
+    {
+      "source": "Los vivos están conscientes de que la muerte les llegará, pero los muertos no tienen conciencia de nada, y ya no tienen una recompensa, porque no hay memoria de ellos. Su amor, su odio y su envidia han terminado, y ya no tienen una parte para siempre en nada que se haga bajo el sol. Ven, toma tu pan con alegría, y tu vino con un corazón alegre. Dios le ha complacido tus obras.",
+      "translation": "The living are aware that death will come for them, but the dead are not conscious of anything, and they no longer have a reward, because there is no memory of them. Their love, their hatred, and their envy are over, and they no longer have a permanent place in anything that happens under the sun. Come, take your bread with joy, and your wine with a happy heart. God has approved your works."
+    },
+    {
+      "source": "Deja que tu ropa sea blanca en todo momento, y no permitas que tu cabeza esté sin aceite. Disfruta con la mujer que amas todos los días de tu vida transitoria que él te da bajo el sol, porque esa es tu parte en la vida y en tu trabajo que haces bajo el sol. Lo que venga a tu mano para hacer, con todo tu poder, hazlo, porque no hay trabajo, ni pensamiento, ni conocimiento, ni sabiduría en el lugar de los muertos a donde vas a parar. Y otra vez vi bajo el sol que la recompensa no es para el que es rápido o los frutos de la guerra para el fuerte, y no hay pan para los sabios, ni riqueza para los hombres de aprendizaje, ni respeto para los que tienen conocimiento.",
+      "translation": "Always keep your clothes white, and never let your head get greasy. Enjoy the woman you love every day of your fleeting life, under the sun, because that is your part in life and in your work, under the sun. Do whatever comes to your hand, with all your power, and do it, because there is no work, no thought, no knowledge, or wisdom in the place where you will end up. And again, I saw under the sun that the reward is not for the quick or the strong, and there is no bread for the wise, no wealth for the learned, or respect for those who have knowledge."
+    },
+    {
+      "source": "Pero el tiempo y la oportunidad llegan a todos. Incluso el hombre no tiene conocimiento de su tiempo. Como los peces tomados en una red malvada o como los pájaros tomados por engaño son los hijos de los hombres tomados en un mal momento cuando se presenta de repente sobre ellos. Otra vez lo he visto bajo el sol como sabiduría y me pareció genial.",
+      "translation": "But time and opportunity come to everyone. Even a man doesn't know when his time will come. Just as fish caught in a wicked net or birds caught by deception are men caught at a bad time when they suddenly appear before them. I have seen it again under the sun, and it seemed wonderful to me."
+    },
+    {
+      "source": "Había un pequeño pueblo y el número de sus hombres era pequeño. Y hubo un gran rey en su contra que atacó, construyendo obras de guerra alrededor de él. Ahora había en la ciudad un hombre pobre y sabio, y él, por su sabiduría, mantuvo la ciudad a salvo. Pero nadie tenía ningún recuerdo de ese mismo pobre hombre.",
+      "translation": "There was a small town, and the number of its men was small. And there was a powerful king who attacked it, building fortifications around it. Now, there was a poor but wise man in the town, and he, through his wisdom, kept the town safe. But no one remembered that same poor man."
+    },
+    {
+      "source": "Entonces dije, la sabiduría es mejor que la fuerza, pero la sabiduría del pobre no es respetada y sus palabras no son escuchadas. Las palabras de los sabios que llegan silenciosamente al oído se notan más que el clamor de un gobernante entre los necios. La sabiduría es mejor que los armas de guerra, pero un pecador es la destrucción de mucho bien. Capítulo 10.",
+      "translation": "Then I said, wisdom is better than strength, but the wisdom of the poor is not respected, and their words are not heard. The words of wise people, which reach the ear quietly, are more noticeable than the clamor of a ruler among the foolish. Wisdom is better than weapons of war, but a sinner destroys much good. Chapter 10."
+    },
+    {
+      "source": "Las moscas muertas hacen que el aceite del perfumista emita un mal olor. Más valiosa es un poco de sabiduría que la gran gloria de los necios. El corazón del sabio va en la dirección correcta, pero el corazón de un hombre necio en el mal, y cuando el hombre insensato camina por el camino no tiene ningún sentido y permite que todos vean que es insensato. Si la ira del gobernante está contra ti, guarda tu lugar.",
+      "translation": "Dead flies cause the perfumer's oil to emit a foul odor. A little wisdom is worth more than the great glory of fools. The heart of a wise person is in the right direction, but the heart of a foolish person is in the wrong, and when a foolish person walks, they have no sense and allow everyone to see that they are foolish. If the ruler's anger is against you, keep your place."
+    },
+    {
+      "source": "En aquel que guarda silencio incluso los grandes pecados pueden ser pasados por alto. Hay un mal que he visto bajo el sol, como un error que viene por la causa de un gobernante. Los insensatos se colocan en posiciones altas, pero los hombres ricos se mantienen bajos. He visto sirvientes a caballo y gobernantes caminando sobre la tierra como sirvientes.",
+      "translation": "In a place where even the greatest sins can be overlooked, a wrongdoing can occur under the sun, as a result of the actions of a ruler. Foolish people occupy high positions, while wealthy individuals remain humble. I have seen servants riding horses and rulers walking as servants."
+    },
+    {
+      "source": "El que haga un agujero para los demás, él mismo entrará en él, y para el que haga un agujero a través de una pared, la mordedura de una serpiente será un castigo. El que saque piedras de la tierra será dañado por ellos, y en el corte de la madera hay peligro. Si el hierro no tiene filo y él no lo afila, entonces tiene que sacar más fuerza. Pero la sabiduría hace que las cosas vayan bien.",
+      "translation": "Whoever makes a hole for others will also make one for himself, and whoever makes a hole through a wall will be bitten by a snake as a punishment. Whoever takes stones from the ground will be harmed by them, and there is danger in cutting wood. If the iron is not sharp and he does not sharpen it, then he will have to exert more effort. But wisdom makes everything go smoothly."
+    },
+    {
+      "source": "Si una serpiente da un mordisco antes de ser encantada, entonces ya no hay ningún provecho para él encantador. Las palabras de un sabio son dulces para todos, pero los labios de un hombre necio son su destrucción. Las primeras palabras de su boca son insensatas, y el final de su discurso es un crimen perverso. Los insensatos están llenos de palabras, el hombre no tiene conocimiento de lo que será, y quién es capaz de decir qué será después de él.",
+      "translation": "If a snake bites before being charmed, then there is no benefit for the person doing the charming. The words of a wise person are pleasing to everyone, but the words of a foolish man are his destruction. The first words from his mouth are nonsensical, and the end of his speech is a perverse crime. Foolish people are full of words, but the man has no understanding of what will be, and who is capable of saying what will be after him."
+    },
+    {
+      "source": "El trabajo de los necios será un cansancio para él, porque él no tiene conocimiento del camino al pueblo. Infeliz es la tierra cuyo rey es un niño, y cuyos gobernantes están festejando en la mañana. Feliz es la tierra cuyo gobernante es de noble nacimiento, y cuyos jefes comen en el momento adecuado, para recuperar la fuerza y no para emborracharse. Cuando no se hace ningún trabajo, el techo se cae, y cuando las manos no hacen nada, el agua gotea en la casa.",
+      "translation": "The work of the foolish will be a burden for him, because he has no knowledge of the path to the town. It is a sad land whose king is a child, and whose rulers are celebrating in the morning. It is a fortunate land whose ruler is of noble birth, and whose leaders eat at the right time, to regain their strength and not to get drunk. When no work is done, the roof falls down, and when the hands do nothing, the water leaks into the house."
+    },
+    {
+      "source": "Una fiesta es para reír, y el vino alegra el corazón, pero el dinero es la respuesta de todo. No digas maldición contra el rey ni siquiera en tus pensamientos, e incluso secretamente no digas una maldición contra el hombre de riqueza, porque un pájaro del aire tomará la voz, y lo que tiene alas dará noticias de ello. Echa tu pan sobre las aguas, porque después de un largo tiempo volverá a ti otra vez. Da tu parte a siete, o incluso a ocho, porque no tienes conocimiento del mal que vendrá sobre la tierra.",
+      "translation": "A party is for laughter, and wine cheers the heart, but money is the answer to everything. Don't utter curses against the king, even in your thoughts, and even secretly, don't curse the wealthy man, because a bird in the air will take up the cause, and whoever has wings will spread the word. Cast your bread upon the waters, for it will return to you, multiplied. Give a portion to seven, or even eight, because you have no knowledge of the evil that is coming upon the earth."
+    },
+    {
+      "source": "Si las nubes están llenas de lluvia, la envían a la tierra, y si un árbol desciende hacia el sur o hacia el norte, en cualquier lugar donde baje, allí se quedará. El que mira el viento no tendrá la semilla plantada, y el que mira las nubes no segará. Como no tienes conocimiento del camino del viento, ni del crecimiento de los huesos en el cuerpo de la mujer que está embarazada, tampoco tienes conocimiento de las obras de Dios que lo ha hecho todo. Por la mañana pon tu semilla en la tierra, y hasta la tarde no dejes reposar tu mano, porque no estás seguro de qué hará bien esto o aquello, o si los dos serán igualmente buenos.",
+      "translation": "If the clouds are full of rain, they send it to the earth, and if a tree falls south or north, wherever it falls, it will stay there. Whoever looks at the wind will not plant the seed, and whoever looks at the clouds will not harvest. Since you don't know the path of the wind, nor the growth of the bones in the pregnant woman's body, you also don't know the works of God that have made everything. In the morning, put your seed in the ground, and don't stop working until the afternoon, because you don't know what will be good or bad, or if both will be equally good."
+    },
+    {
+      "source": "En verdad, la luz es agradable, y es bueno que los ojos vean el sol. Pero aunque la vida de un hombre sea larga y tenga gozo en todos sus años, tenga en cuenta los días oscuros, porque serán muchos en número. Lo que pueda venir no tiene ningún propósito. Ten alegría joven, mientras que tú eres joven, y alegrese tu corazón en los días de tu juventud, y vea en los impulsos de tu corazón y en el deseo de tus ojos.",
+      "translation": "In truth, the light is pleasant, and it is good for the eyes to see the sun. But even if a man's life is long and filled with joy in every year, remember the dark days, for they will be many. Whatever may come has no purpose. Enjoy your youth while you are young, and let your heart be filled with joy in the days of your youth, and see in the impulses of your heart and the desires of your eyes."
+    },
+    {
+      "source": "Pero ten la certeza de que por todas estas cosas Dios será tu juez. Así quita el enojo de tu corazón y el mal de tu carne, porque los primeros años y la juventud son vanidad. Capítulo 12. Deja que tu mente se dirija a tu hacedor en los días de tu juventud, mientras que los días malos no vienen, y los años se acerquen cuando digas, no tengo placer en ellos, mientras que el sol, o la luz, o la luna, o las estrellas, no son oscuras, o las nubes grises no regresan después de la lluvia.",
+      "translation": "But be certain that God will be your judge for all these things. Therefore, cast out anger from your heart and evil from your flesh, for the early years and youth are vanity. Chapter 12. Let your mind turn to your maker in the days of your youth, while the bad days do not come, and the years approach when you say, \"I do not find pleasure in them,\" while the sun, or light, or moon, or stars, are not dark, or the gray clouds do not return after the rain."
+    },
+    {
+      "source": "En el día en que los encargados de la casa tiemblan de miedo, y los hombres fuertes se inclinan, y las mujeres que trituraban el grano descansan, porque su número es pequeño, y las que miran por la... Ventana no pueden ver. Cuando las puertas están cerradas en la calle, y el sonido del molino es bajo, y se levanten a la voz del ave, y las hijas de la música serán humilladas. Cuando tengan miedo de lo que es alto, y el peligro que está en el camino, y el árbol es blanco con flores, y lo menos es un peso, y el deseo se acaba, porque el hombre va a su último lugar de descanso, y los que están tristes están en las calles, antes de que se corte el cordón de plata, o se rompa la vasija de oro, o se rompa la olla en la fuente, o se rompe la rueda en el pozo de agua, y el polvo vuelve a la tierra como era, y el espíritu vuelve a Dios que lo dio.",
+      "translation": "On the day when those in charge tremble in fear, and the strong men bow, and the women who grind grain rest, because their numbers are few, and those who look out the... window cannot see. When the doors are closed on the street, and the sound of the mill is faint, and the birds call out, and the daughters of music are humiliated. When they are afraid of what is tall, and the danger that lies ahead, and the tree is white with flowers, and the smallest thing is a burden, and the desire is gone, because the man goes to his final resting place, and those who are sad are in the streets, before the silver cord is cut, or the golden vessel is broken, or the pot is broken in the fountain, or the wheel is broken in the well, and the dust returns to the earth as it was, and the spirit returns to God who gave it."
+    },
+    {
+      "source": "Todas las cosas no tienen ningún propósito, dice el predicador. Todo no tiene ningún propósito. Y como el predicador fue sabio, todavía le dio conocimiento a la gente, buscando, probando y poniendo en orden una gran cantidad de dichos sabios. El predicador hizo una búsqueda de palabras agradables, pero sus escritos fueron rectos y verdaderos.",
+      "translation": "\"Everything has no purpose,\" the preacher declared. \"Nothing has any purpose.\" And since the preacher was wise, he still imparted knowledge to people, seeking out, testing, and organizing the teachings of many wise individuals. The preacher searched for pleasing words, but his writings were straightforward and truthful."
+    },
+    {
+      "source": "Las palabras de los sabios son como aguijones, y los dichos agrupados son como clavos fijados con un martillo, son dados por un pastor de la congregación. Y además, hijo mío, toma nota de esto. De la fabricación de libros no hay fin, y mucho aprendizaje es un cansancio para la carne. Esta es la última palabra.",
+      "translation": "The words of the wise are like needles, and sayings grouped together are like nails hammered in, given by a shepherd of the congregation. And furthermore, my son, take note of this: there is no end to the making of books, and much learning is a burden for the body. This is the final word."
+    },
+    {
+      "source": "Todo se ha dicho. Teme a Dios y guarda sus leyes, porque esto es correcto para cada hombre. Dios juzgará toda obra, con todo lo secreto, lo bueno o lo malo.",
+      "translation": "Everything has been said. Fear God and keep his laws, for this is true for every person. God will judge every deed, whether it is secret, good, or bad."
+    }
+  ]
+}

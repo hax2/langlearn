@@ -1,0 +1,540 @@
+{
+  "id": "module-38",
+  "title": "Theme: Family and Relationships",
+  "description": "Vocabulary for describing family members and relationships.",
+  "level": "Intermediate",
+  "sentences": [
+    {
+      "id": "38-s1",
+      "spanish": "Mi tía habla con la familia los fines de semana.",
+      "english": "My aunt talks with the family on weekends.",
+      "wordMeanings": {
+        "tía": "aunt",
+        "habla": "talks",
+        "familia": "family",
+        "fines de semana": "weekends"
+      }
+    },
+    {
+      "id": "38-s2",
+      "spanish": "Nuestro abuelo habla con su sobrino a menudo.",
+      "english": "Our grandfather talks with his/her nephew often.",
+      "wordMeanings": {
+        "abuelo": "grandfather",
+        "habla": "talks",
+        "sobrino": "nephew",
+        "a menudo": "often"
+      }
+    },
+    {
+      "id": "38-s3",
+      "spanish": "Mi hermano habla con su sobrino a menudo.",
+      "english": "My brother talks with his/her nephew often.",
+      "wordMeanings": {
+        "hermano": "brother",
+        "habla": "talks",
+        "sobrino": "nephew",
+        "a menudo": "often"
+      }
+    },
+    {
+      "id": "38-s4",
+      "spanish": "La suegra habla con mi cuñado los fines de semana.",
+      "english": "The mother-in-law talks with my brother-in-law on weekends.",
+      "wordMeanings": {
+        "suegra": "mother-in-law",
+        "habla": "talks",
+        "cuñado": "brother-in-law",
+        "fines de semana": "weekends"
+      }
+    },
+    {
+      "id": "38-s5",
+      "spanish": "Su primo habla con su sobrino a menudo.",
+      "english": "Their cousin talks with their nephew often.",
+      "wordMeanings": {
+        "primo": "cousin",
+        "habla": "talks",
+        "sobrino": "nephew",
+        "a menudo": "often"
+      }
+    },
+    {
+      "id": "38-s6",
+      "spanish": "Mi tía habla con la familia a menudo.",
+      "english": "My aunt talks with the family often.",
+      "wordMeanings": {
+        "tía": "aunt",
+        "habla": "talks",
+        "familia": "family",
+        "a menudo": "often"
+      }
+    },
+    {
+      "id": "38-s7",
+      "spanish": "Nuestro abuelo habla con la familia a menudo.",
+      "english": "Our grandfather talks with the family often.",
+      "wordMeanings": {
+        "abuelo": "grandfather",
+        "habla": "talks",
+        "familia": "family",
+        "a menudo": "often"
+      }
+    },
+    {
+      "id": "38-s8",
+      "spanish": "Su primo habla con su sobrino en casa.",
+      "english": "Their cousin talks with their nephew at home.",
+      "wordMeanings": {
+        "primo": "cousin",
+        "habla": "talks",
+        "sobrino": "nephew",
+        "casa": "home"
+      }
+    },
+    {
+      "id": "38-s9",
+      "spanish": "Mi tía habla con mi cuñado todos los días.",
+      "english": "My aunt talks with my brother-in-law every day.",
+      "wordMeanings": {
+        "tía": "aunt",
+        "habla": "talks",
+        "cuñado": "brother-in-law",
+        "días": "days"
+      }
+    },
+    {
+      "id": "38-s10",
+      "spanish": "Nuestro abuelo habla con mi cuñado en casa.",
+      "english": "Our grandfather talks with my brother-in-law at home.",
+      "wordMeanings": {
+        "abuelo": "grandfather",
+        "habla": "talks",
+        "cuñado": "brother-in-law",
+        "casa": "home"
+      }
+    },
+    {
+      "id": "38-s11",
+      "spanish": "Nuestro abuelo habla con el nieto los fines de semana.",
+      "english": "Our grandfather talks with the grandson on weekends.",
+      "wordMeanings": {
+        "abuelo": "grandfather",
+        "habla": "talks",
+        "nieto": "grandson",
+        "fines de semana": "weekends"
+      }
+    },
+    {
+      "id": "38-s12",
+      "spanish": "La suegra visita al nieto todos los días.",
+      "english": "The mother-in-law visits the grandson every day.",
+      "wordMeanings": {
+        "suegra": "mother-in-law",
+        "visita": "visits",
+        "nieto": "grandson",
+        "días": "days"
+      }
+    },
+    {
+      "id": "38-s13",
+      "spanish": "Mi tía ayuda a su sobrino a menudo.",
+      "english": "My aunt helps his/her nephew often.",
+      "wordMeanings": {
+        "tía": "aunt",
+        "ayuda": "helps",
+        "sobrino": "nephew",
+        "a menudo": "often"
+      }
+    },
+    {
+      "id": "38-s14",
+      "spanish": "Mi hermano visita al nieto con cariño.",
+      "english": "My brother visits the grandson with affection.",
+      "wordMeanings": {
+        "hermano": "brother",
+        "visita": "visits",
+        "nieto": "grandson",
+        "cariño": "affection"
+      }
+    },
+    {
+      "id": "38-s15",
+      "spanish": "Su primo ayuda a la familia a menudo.",
+      "english": "Their cousin helps the family often.",
+      "wordMeanings": {
+        "primo": "cousin",
+        "ayuda": "helps",
+        "familia": "family",
+        "a menudo": "often"
+      }
+    },
+    {
+      "id": "38-s16",
+      "spanish": "La suegra visita al nieto con cariño.",
+      "english": "The mother-in-law visits the grandson with affection.",
+      "wordMeanings": {
+        "suegra": "mother-in-law",
+        "visita": "visits",
+        "nieto": "grandson",
+        "cariño": "affection"
+      }
+    },
+    {
+      "id": "38-s17",
+      "spanish": "Mi tía ayuda al nieto con cariño.",
+      "english": "My aunt helps the grandson with affection.",
+      "wordMeanings": {
+        "tía": "aunt",
+        "ayuda": "helps",
+        "nieto": "grandson",
+        "cariño": "affection"
+      }
+    },
+    {
+      "id": "38-s18",
+      "spanish": "Nuestro abuelo visita a la familia en casa.",
+      "english": "Our grandfather visits the family at home.",
+      "wordMeanings": {
+        "abuelo": "grandfather",
+        "visita": "visits",
+        "familia": "family",
+        "casa": "home"
+      }
+    },
+    {
+      "id": "38-s19",
+      "spanish": "Mi tía ayuda a mi cuñado en casa.",
+      "english": "My aunt helps my brother-in-law at home.",
+      "wordMeanings": {
+        "tía": "aunt",
+        "ayuda": "helps",
+        "cuñado": "brother-in-law",
+        "casa": "home"
+      }
+    },
+    {
+      "id": "38-s20",
+      "spanish": "Su primo visita a los gemelos con cariño.",
+      "english": "Their cousin visits the twins with affection.",
+      "wordMeanings": {
+        "primo": "cousin",
+        "visita": "visits",
+        "gemelos": "twins",
+        "cariño": "affection"
+      }
+    },
+    {
+      "id": "38-s21",
+      "spanish": "Mi hermano ayuda al nieto con cariño.",
+      "english": "My brother helps the grandson with affection.",
+      "wordMeanings": {
+        "hermano": "brother",
+        "ayuda": "helps",
+        "nieto": "grandson",
+        "cariño": "affection"
+      }
+    },
+    {
+      "id": "38-s22",
+      "spanish": "Nuestro abuelo visita a mi cuñado todos los días.",
+      "english": "Our grandfather visits my brother-in-law every day.",
+      "wordMeanings": {
+        "abuelo": "grandfather",
+        "visita": "visits",
+        "cuñado": "brother-in-law",
+        "días": "days"
+      }
+    },
+    {
+      "id": "38-s23",
+      "spanish": "Su primo ayuda a la familia en casa.",
+      "english": "Their cousin helps the family at home.",
+      "wordMeanings": {
+        "primo": "cousin",
+        "ayuda": "helps",
+        "familia": "family",
+        "casa": "home"
+      }
+    },
+    {
+      "id": "38-s24",
+      "spanish": "Su primo visita a su sobrino todos los días.",
+      "english": "Their cousin visits their nephew every day.",
+      "wordMeanings": {
+        "primo": "cousin",
+        "visita": "visits",
+        "sobrino": "nephew",
+        "días": "days"
+      }
+    },
+    {
+      "id": "38-s25",
+      "spanish": "Mi hermano visita a su sobrino los fines de semana.",
+      "english": "My brother visits his/her nephew on weekends.",
+      "wordMeanings": {
+        "hermano": "brother",
+        "visita": "visits",
+        "sobrino": "nephew",
+        "fines de semana": "weekends"
+      }
+    },
+    {
+      "id": "38-s26",
+      "spanish": "Mi tía abraza a mi cuñado los fines de semana.",
+      "english": "My aunt hugs my brother-in-law on weekends.",
+      "wordMeanings": {
+        "tía": "aunt",
+        "abraza": "hugs",
+        "cuñado": "brother-in-law",
+        "fines de semana": "weekends"
+      }
+    },
+    {
+      "id": "38-s27",
+      "spanish": "La suegra abraza a los gemelos con cariño.",
+      "english": "The mother-in-law hugs the twins with affection.",
+      "wordMeanings": {
+        "suegra": "mother-in-law",
+        "abraza": "hugs",
+        "gemelos": "twins",
+        "cariño": "affection"
+      }
+    },
+    {
+      "id": "38-s28",
+      "spanish": "Su primo abraza a la familia con cariño.",
+      "english": "Their cousin hugs the family with affection.",
+      "wordMeanings": {
+        "primo": "cousin",
+        "abraza": "hugs",
+        "familia": "family",
+        "cariño": "affection"
+      }
+    },
+    {
+      "id": "38-s29",
+      "spanish": "Mi hermano abraza al nieto con cariño.",
+      "english": "My brother hugs the grandson with affection.",
+      "wordMeanings": {
+        "hermano": "brother",
+        "abraza": "hugs",
+        "nieto": "grandson",
+        "cariño": "affection"
+      }
+    },
+    {
+      "id": "38-s30",
+      "spanish": "Nuestro abuelo abraza a su sobrino los fines de semana.",
+      "english": "Our grandfather hugs his/her nephew on weekends.",
+      "wordMeanings": {
+        "abuelo": "grandfather",
+        "abraza": "hugs",
+        "sobrino": "nephew",
+        "fines de semana": "weekends"
+      }
+    },
+    {
+      "id": "38-s31",
+      "spanish": "Su primo abraza a los gemelos todos los días.",
+      "english": "Their cousin hugs the twins every day.",
+      "wordMeanings": {
+        "primo": "cousin",
+        "abraza": "hugs",
+        "gemelos": "twins",
+        "días": "days"
+      }
+    },
+    {
+      "id": "38-s32",
+      "spanish": "Mi hermano abraza a mi cuñado a menudo.",
+      "english": "My brother hugs my brother-in-law often.",
+      "wordMeanings": {
+        "hermano": "brother",
+        "abraza": "hugs",
+        "cuñado": "brother-in-law",
+        "a menudo": "often"
+      }
+    },
+    {
+      "id": "38-s33",
+      "spanish": "Su primo abraza a la familia a menudo.",
+      "english": "Their cousin hugs the family often.",
+      "wordMeanings": {
+        "primo": "cousin",
+        "abraza": "hugs",
+        "familia": "family",
+        "a menudo": "often"
+      }
+    },
+    {
+      "id": "38-s34",
+      "spanish": "Mi hermano abraza a su sobrino en casa.",
+      "english": "My brother hugs his/her nephew at home.",
+      "wordMeanings": {
+        "hermano": "brother",
+        "abraza": "hugs",
+        "sobrino": "nephew",
+        "casa": "home"
+      }
+    },
+    {
+      "id": "38-s35",
+      "spanish": "Su primo abraza a su sobrino los fines de semana.",
+      "english": "Their cousin hugs their nephew on weekends.",
+      "wordMeanings": {
+        "primo": "cousin",
+        "abraza": "hugs",
+        "sobrino": "nephew",
+        "fines de semana": "weekends"
+      }
+    },
+    {
+      "id": "38-s36",
+      "spanish": "Su primo quiere a la familia los fines de semana.",
+      "english": "Their cousin loves the family on weekends.",
+      "wordMeanings": {
+        "primo": "cousin",
+        "quiere": "loves",
+        "familia": "family",
+        "fines de semana": "weekends"
+      }
+    },
+    {
+      "id": "38-s37",
+      "spanish": "Mi tía quiere a los gemelos en casa.",
+      "english": "My aunt loves the twins at home.",
+      "wordMeanings": {
+        "tía": "aunt",
+        "quiere": "loves",
+        "gemelos": "twins",
+        "casa": "home"
+      }
+    },
+    {
+      "id": "38-s38",
+      "spanish": "La suegra quiere a su sobrino los fines de semana.",
+      "english": "The mother-in-law loves his/her nephew on weekends.",
+      "wordMeanings": {
+        "suegra": "mother-in-law",
+        "quiere": "loves",
+        "sobrino": "nephew",
+        "fines de semana": "weekends"
+      }
+    },
+    {
+      "id": "38-s39",
+      "spanish": "Mi tía quiere a la familia los fines de semana.",
+      "english": "My aunt loves the family on weekends.",
+      "wordMeanings": {
+        "tía": "aunt",
+        "quiere": "loves",
+        "familia": "family",
+        "fines de semana": "weekends"
+      }
+    },
+    {
+      "id": "38-s40",
+      "spanish": "Nuestro abuelo quiere a mi cuñado con cariño.",
+      "english": "Our grandfather loves my brother-in-law with affection.",
+      "wordMeanings": {
+        "abuelo": "grandfather",
+        "quiere": "loves",
+        "cuñado": "brother-in-law",
+        "cariño": "affection"
+      }
+    },
+    {
+      "id": "38-s41",
+      "spanish": "Su primo quiere a su sobrino con cariño.",
+      "english": "Their cousin loves their nephew with affection.",
+      "wordMeanings": {
+        "primo": "cousin",
+        "quiere": "loves",
+        "sobrino": "nephew",
+        "cariño": "affection"
+      }
+    },
+    {
+      "id": "38-s42",
+      "spanish": "Mi tía quiere al nieto con cariño.",
+      "english": "My aunt loves the grandson with affection.",
+      "wordMeanings": {
+        "tía": "aunt",
+        "quiere": "loves",
+        "nieto": "grandson",
+        "cariño": "affection"
+      }
+    },
+    {
+      "id": "38-s43",
+      "spanish": "La suegra quiere a la familia los fines de semana.",
+      "english": "The mother-in-law loves the family on weekends.",
+      "wordMeanings": {
+        "suegra": "mother-in-law",
+        "quiere": "loves",
+        "familia": "family",
+        "fines de semana": "weekends"
+      }
+    },
+    {
+      "id": "38-s44",
+      "spanish": "Su primo quiere a mi cuñado en casa.",
+      "english": "Their cousin loves my brother-in-law at home.",
+      "wordMeanings": {
+        "primo": "cousin",
+        "quiere": "loves",
+        "cuñado": "brother-in-law",
+        "casa": "home"
+      }
+    },
+    {
+      "id": "38-s45",
+      "spanish": "Su primo quiere a los gemelos en casa.",
+      "english": "Their cousin loves the twins at home.",
+      "wordMeanings": {
+        "primo": "cousin",
+        "quiere": "loves",
+        "gemelos": "twins",
+        "casa": "home"
+      }
+    },
+    {
+      "id": "38-s-colloq1",
+      "spanish": "Mis hermanos y yo somos uña y carne.",
+      "english": "My siblings and I are very close (like nail and flesh).",
+      "wordMeanings": {
+        "Mis": "my",
+        "hermanos": "siblings",
+        "y": "and",
+        "yo": "I",
+        "somos": "we are",
+        "uña": "nail",
+        "carne": "flesh / meat"
+      }
+    },
+    {
+      "id": "38-s-colloq2",
+      "spanish": "Me llevo genial con mi suegra.",
+      "english": "I get along great with my mother-in-law.",
+      "wordMeanings": {
+        "Me": "myself",
+        "llevo": "I carry (get along)",
+        "genial": "great",
+        "con": "with",
+        "mi": "my",
+        "suegra": "mother-in-law"
+      }
+    }
+  ],
+  "vocabulary": {
+    "hermano": {
+      "mnemonic": "Her man, no! That's my brother!",
+      "explanation": "Means 'brother'."
+    },
+    "suegro": {
+      "mnemonic": "Sue-grow. You hope your relationship with your in-laws will grow.",
+      "explanation": "Means 'father-in-law'."
+    }
+  }
+}

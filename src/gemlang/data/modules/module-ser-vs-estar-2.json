@@ -1,0 +1,557 @@
+{
+  "id": "module-ser-vs-estar-2",
+  "title": "Grammar: Ser vs. Estar II",
+  "description": "More ser/estar practice: characteristics, emotions, jobs, and actions in progress.",
+  "level": "Beginner",
+  "specialPractice": "ser-estar-rules",
+  "sentences": [],
+  "grammarExplanation": "This short special module builds ser vs. estar a few rules at a time. In each rule phase, choose the right form in the blank first. The audio reads the sentence up to the blank, then reads the correct continuation after you choose. Missed choices come back before the phase is over. After each set, translate five mixed-up sentences from English to Spanish.",
+  "rules": [
+    {
+      "id": "characteristics",
+      "name": "Ser: lasting characteristics",
+      "explanation": "Use ser for inherent or normal characteristics: personality, appearance, size, color, and general qualities.",
+      "examples": [
+        {
+          "prompt": "Mi hermano",
+          "correct": "es",
+          "continuation": "alto.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Height is a characteristic, so use ser."
+        },
+        {
+          "prompt": "Las clases",
+          "correct": "son",
+          "continuation": "difíciles.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "A general quality uses ser."
+        },
+        {
+          "prompt": "Tú",
+          "correct": "eres",
+          "continuation": "muy amable.",
+          "options": [
+            "eres",
+            "estás"
+          ],
+          "reason": "Personality or character uses ser."
+        },
+        {
+          "prompt": "El coche",
+          "correct": "es",
+          "continuation": "rojo.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Color as a normal trait uses ser."
+        },
+        {
+          "prompt": "Mis abuelos",
+          "correct": "son",
+          "continuation": "pacientes.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "A personality trait uses ser."
+        },
+        {
+          "prompt": "La casa",
+          "correct": "es",
+          "continuation": "grande.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Size as a characteristic uses ser."
+        },
+        {
+          "prompt": "Yo",
+          "correct": "soy",
+          "continuation": "curioso.",
+          "options": [
+            "soy",
+            "estoy"
+          ],
+          "reason": "A personality trait uses ser."
+        },
+        {
+          "prompt": "Los ejercicios",
+          "correct": "son",
+          "continuation": "útiles.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "A general quality uses ser."
+        },
+        {
+          "prompt": "La película",
+          "correct": "es",
+          "continuation": "interesante.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "What the movie is like in general uses ser."
+        },
+        {
+          "prompt": "Nuestros vecinos",
+          "correct": "son",
+          "continuation": "simpáticos.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "Personality uses ser."
+        }
+      ],
+      "translations": [
+        {
+          "english": "The house is big.",
+          "spanish": "La casa es grande.",
+          "reason": "Size as a characteristic uses ser."
+        },
+        {
+          "english": "The exercises are useful.",
+          "spanish": "Los ejercicios son útiles.",
+          "reason": "General quality uses ser."
+        },
+        {
+          "english": "I am curious.",
+          "spanish": "Yo soy curioso.",
+          "reason": "Personality uses ser."
+        },
+        {
+          "english": "The car is red.",
+          "spanish": "El coche es rojo.",
+          "reason": "Color as an inherent description uses ser."
+        },
+        {
+          "english": "Our neighbors are nice.",
+          "spanish": "Nuestros vecinos son simpáticos.",
+          "reason": "Personality uses ser."
+        }
+      ]
+    },
+    {
+      "id": "emotions",
+      "name": "Estar: emotions",
+      "explanation": "Use estar for feelings and emotions, because they describe someone's current state.",
+      "examples": [
+        {
+          "prompt": "Ella",
+          "correct": "está",
+          "continuation": "triste.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Sad is an emotion, so use estar."
+        },
+        {
+          "prompt": "Nosotros",
+          "correct": "estamos",
+          "continuation": "contentos.",
+          "options": [
+            "somos",
+            "estamos"
+          ],
+          "reason": "Happy right now is an emotion, so use estar."
+        },
+        {
+          "prompt": "Yo",
+          "correct": "estoy",
+          "continuation": "nervioso.",
+          "options": [
+            "soy",
+            "estoy"
+          ],
+          "reason": "Nervous is a feeling, so use estar."
+        },
+        {
+          "prompt": "Mis amigos",
+          "correct": "están",
+          "continuation": "emocionados.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "Excited is an emotion, so use estar."
+        },
+        {
+          "prompt": "Tú",
+          "correct": "estás",
+          "continuation": "tranquilo hoy.",
+          "options": [
+            "eres",
+            "estás"
+          ],
+          "reason": "A current mood uses estar."
+        },
+        {
+          "prompt": "El niño",
+          "correct": "está",
+          "continuation": "asustado.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Scared is an emotion, so use estar."
+        },
+        {
+          "prompt": "Los estudiantes",
+          "correct": "están",
+          "continuation": "preocupados.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "Worried is a feeling, so use estar."
+        },
+        {
+          "prompt": "Mi madre",
+          "correct": "está",
+          "continuation": "orgullosa.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Proud is an emotional state here, so use estar."
+        },
+        {
+          "prompt": "Mis amigos",
+          "correct": "están",
+          "continuation": "orgullosos.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "Proud is an emotional state here, so use estar."
+        },
+        {
+          "prompt": "Yo",
+          "correct": "estoy",
+          "continuation": "feliz contigo.",
+          "options": [
+            "soy",
+            "estoy"
+          ],
+          "reason": "Feeling happy uses estar."
+        }
+      ],
+      "translations": [
+        {
+          "english": "The students are worried.",
+          "spanish": "Los estudiantes están preocupados.",
+          "reason": "Emotions use estar."
+        },
+        {
+          "english": "I am nervous.",
+          "spanish": "Yo estoy nervioso.",
+          "reason": "A feeling uses estar."
+        },
+        {
+          "english": "My friends are excited.",
+          "spanish": "Mis amigos están emocionados.",
+          "reason": "Excited is an emotion."
+        },
+        {
+          "english": "My mother is proud.",
+          "spanish": "Mi madre está orgullosa.",
+          "reason": "Proud is an emotional state, so use estar."
+        },
+        {
+          "english": "You are calm today.",
+          "spanish": "Tú estás tranquilo hoy.",
+          "reason": "A current mood uses estar."
+        }
+      ]
+    },
+    {
+      "id": "occupation-relationship",
+      "name": "Ser: jobs, relationships, ownership",
+      "explanation": "Use ser for occupations, relationships, and possession or ownership.",
+      "examples": [
+        {
+          "prompt": "Ella",
+          "correct": "es",
+          "continuation": "doctora.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Occupations use ser."
+        },
+        {
+          "prompt": "Nosotros",
+          "correct": "somos",
+          "continuation": "profesores.",
+          "options": [
+            "somos",
+            "estamos"
+          ],
+          "reason": "Jobs use ser."
+        },
+        {
+          "prompt": "Estos zapatos",
+          "correct": "son",
+          "continuation": "míos.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "Ownership uses ser."
+        },
+        {
+          "prompt": "Luis",
+          "correct": "es",
+          "continuation": "mi primo.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Family relationships use ser."
+        },
+        {
+          "prompt": "Tú",
+          "correct": "eres",
+          "continuation": "mi mejor amigo.",
+          "options": [
+            "eres",
+            "estás"
+          ],
+          "reason": "Relationships use ser."
+        },
+        {
+          "prompt": "Las llaves",
+          "correct": "son",
+          "continuation": "de Marta.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "Possession with de uses ser."
+        },
+        {
+          "prompt": "Yo",
+          "correct": "soy",
+          "continuation": "ingeniero.",
+          "options": [
+            "soy",
+            "estoy"
+          ],
+          "reason": "Occupations use ser."
+        },
+        {
+          "prompt": "Ellas",
+          "correct": "son",
+          "continuation": "hermanas.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "Family relationship uses ser."
+        },
+        {
+          "prompt": "El cuaderno",
+          "correct": "es",
+          "continuation": "tuyo.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Ownership uses ser."
+        },
+        {
+          "prompt": "Mi madre",
+          "correct": "es",
+          "continuation": "abogada.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Professions use ser."
+        }
+      ],
+      "translations": [
+        {
+          "english": "The keys are Marta's.",
+          "spanish": "Las llaves son de Marta.",
+          "reason": "Possession uses ser."
+        },
+        {
+          "english": "I am an engineer.",
+          "spanish": "Yo soy ingeniero.",
+          "reason": "Occupations use ser."
+        },
+        {
+          "english": "Luis is my cousin.",
+          "spanish": "Luis es mi primo.",
+          "reason": "Family relationship uses ser."
+        },
+        {
+          "english": "These shoes are mine.",
+          "spanish": "Estos zapatos son míos.",
+          "reason": "Ownership uses ser."
+        },
+        {
+          "english": "They are sisters.",
+          "spanish": "Ellas son hermanas.",
+          "reason": "Family relationship uses ser."
+        }
+      ]
+    },
+    {
+      "id": "progressive",
+      "name": "Estar: actions in progress",
+      "explanation": "Use estar plus -ando or -iendo for actions happening right now.",
+      "examples": [
+        {
+          "prompt": "Yo",
+          "correct": "estoy",
+          "continuation": "estudiando.",
+          "options": [
+            "soy",
+            "estoy"
+          ],
+          "reason": "Estoy + -ando marks an action in progress."
+        },
+        {
+          "prompt": "Ella",
+          "correct": "está",
+          "continuation": "leyendo.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Está + -iendo means she is reading right now."
+        },
+        {
+          "prompt": "Nosotros",
+          "correct": "estamos",
+          "continuation": "comiendo.",
+          "options": [
+            "somos",
+            "estamos"
+          ],
+          "reason": "Estamos + -iendo marks a current action."
+        },
+        {
+          "prompt": "Los niños",
+          "correct": "están",
+          "continuation": "jugando.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "Están + -ando shows an action in progress."
+        },
+        {
+          "prompt": "Tú",
+          "correct": "estás",
+          "continuation": "escuchando música.",
+          "options": [
+            "eres",
+            "estás"
+          ],
+          "reason": "Estás + -ando marks what you are doing now."
+        },
+        {
+          "prompt": "Mi padre",
+          "correct": "está",
+          "continuation": "trabajando.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Current actions use estar."
+        },
+        {
+          "prompt": "Ellas",
+          "correct": "están",
+          "continuation": "aprendiendo español.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "Están + -iendo marks an action in progress."
+        },
+        {
+          "prompt": "El perro",
+          "correct": "está",
+          "continuation": "durmiendo.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Sleeping right now uses estar."
+        },
+        {
+          "prompt": "Vosotros",
+          "correct": "estáis",
+          "continuation": "hablando rápido.",
+          "options": [
+            "sois",
+            "estáis"
+          ],
+          "reason": "Talking right now uses estar."
+        },
+        {
+          "prompt": "La profesora",
+          "correct": "está",
+          "continuation": "explicando la regla.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Explaining right now uses estar."
+        }
+      ],
+      "translations": [
+        {
+          "english": "The teacher is explaining the rule.",
+          "spanish": "La profesora está explicando la regla.",
+          "reason": "Action in progress uses estar."
+        },
+        {
+          "english": "They are learning Spanish.",
+          "spanish": "Ellas están aprendiendo español.",
+          "reason": "Estar + -iendo marks an ongoing action."
+        },
+        {
+          "english": "We are eating.",
+          "spanish": "Nosotros estamos comiendo.",
+          "reason": "Current action uses estar."
+        },
+        {
+          "english": "You are listening to music.",
+          "spanish": "Tú estás escuchando música.",
+          "reason": "Current action uses estar."
+        },
+        {
+          "english": "The dog is sleeping.",
+          "spanish": "El perro está durmiendo.",
+          "reason": "Action in progress uses estar."
+        }
+      ]
+    }
+  ],
+  "vocabulary": {
+    "ser": {
+      "mnemonic": "Ser says what it is.",
+      "explanation": "Identity, origin, traits, time, relationships, ownership, and events."
+    },
+    "estar": {
+      "mnemonic": "Estar says where or how it stands now.",
+      "explanation": "Location, position, current state, emotions, and actions in progress."
+    }
+  }
+}

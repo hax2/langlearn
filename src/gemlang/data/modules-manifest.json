@@ -1,0 +1,576 @@
+[
+  {
+    "id": "module-1",
+    "title": "Chapter 1: Greetings & Basics",
+    "description": "Learn to say hello, goodbye, and basic introductions.",
+    "level": "Beginner",
+    "sentenceCount": 48,
+    "file": "module-1.json"
+  },
+  {
+    "id": "module-2",
+    "title": "Chapter 2: Locations",
+    "description": "Express where things and people are using 'estar'.",
+    "level": "Beginner",
+    "sentenceCount": 47,
+    "file": "module-2.json"
+  },
+  {
+    "id": "module-3",
+    "title": "Chapter 3: Descriptions",
+    "description": "Describe objects and people using 'ser' and adjectives.",
+    "level": "Beginner",
+    "sentenceCount": 52,
+    "file": "module-3.json"
+  },
+  {
+    "id": "review-1-2-3",
+    "title": "🔄 Review: Chapters 1, 2, 3",
+    "description": "Mixed practice from Greetings & Basics, Locations, Descriptions.",
+    "type": "review",
+    "level": "Beginner",
+    "sentenceCount": 15,
+    "file": "review-1-2-3.json"
+  },
+  {
+    "id": "module-hay-vs-esta",
+    "title": "Grammar: 'Hay' vs. 'Está'",
+    "description": "Master the difference between 'hay' (there is/are) and 'está' (is located).",
+    "level": "Beginner",
+    "sentenceCount": 26,
+    "file": "module-hay-vs-esta.json"
+  },
+  {
+    "id": "module-ser-vs-estar",
+    "title": "Grammar: Ser vs. Estar I",
+    "description": "Core ser/estar practice: identity, location, origin, and conditions.",
+    "level": "Beginner",
+    "sentenceCount": 60,
+    "file": "module-ser-vs-estar.json"
+  },
+  {
+    "id": "module-ser-vs-estar-2",
+    "title": "Grammar: Ser vs. Estar II",
+    "description": "More ser/estar practice: characteristics, emotions, jobs, and actions in progress.",
+    "level": "Beginner",
+    "sentenceCount": 60,
+    "file": "module-ser-vs-estar-2.json"
+  },
+  {
+    "id": "module-ser-vs-estar-3",
+    "title": "Grammar: Ser vs. Estar III",
+    "description": "Ser/estar practice for time, events, and mixed review.",
+    "level": "Beginner",
+    "sentenceCount": 30,
+    "file": "module-ser-vs-estar-3.json"
+  },
+  {
+    "id": "story-1",
+    "title": "📖 Story: Ana's New Friend",
+    "description": "A short story using what you've learned about greetings, locations, and descriptions.",
+    "type": "story",
+    "level": "Beginner",
+    "sentenceCount": 12,
+    "file": "story-1.json"
+  },
+  {
+    "id": "module-4",
+    "title": "Chapter 4: Possession",
+    "description": "Talk about what you have using 'tener'.",
+    "level": "Beginner",
+    "sentenceCount": 47,
+    "file": "module-4.json"
+  },
+  {
+    "id": "module-5",
+    "title": "Chapter 5: Regular -AR Verbs",
+    "description": "Learn basic actions like speaking, working, and studying.",
+    "level": "Beginner",
+    "sentenceCount": 44,
+    "file": "module-5.json"
+  },
+  {
+    "id": "module-6",
+    "title": "Chapter 6: Regular -ER/-IR Verbs",
+    "description": "Action verbs like eating, drinking, living, and opening.",
+    "level": "Beginner",
+    "sentenceCount": 42,
+    "file": "module-6.json"
+  },
+  {
+    "id": "review-4-5-6",
+    "title": "🔄 Review: Chapters 4, 5, 6",
+    "description": "Mixed practice from Possession, Regular -AR Verbs, Regular -ER/-IR Verbs.",
+    "type": "review",
+    "level": "Beginner",
+    "sentenceCount": 15,
+    "file": "review-4-5-6.json"
+  },
+  {
+    "id": "module-verb-tener",
+    "title": "Grammar: The Verb 'Tener'",
+    "description": "Deep practice of 'tener': age, possessions, feelings, and the 'tener que' structure.",
+    "level": "Beginner",
+    "sentenceCount": 30,
+    "file": "module-verb-tener.json"
+  },
+  {
+    "id": "module-verb-hacer",
+    "title": "Grammar: The Verb 'Hacer'",
+    "description": "Deep practice of 'hacer': the weather, everyday activities, and saying how long things have been happening.",
+    "level": "Beginner",
+    "sentenceCount": 27,
+    "file": "module-verb-hacer.json"
+  },
+  {
+    "id": "module-stem-changing",
+    "title": "Grammar: Stem-Changing Verbs",
+    "description": "Querer, poder, dormir and friends: verbs that change their vowel in most forms.",
+    "level": "Beginner",
+    "sentenceCount": 28,
+    "file": "module-stem-changing.json"
+  },
+  {
+    "id": "module-7",
+    "title": "Chapter 7: Reflexive Verbs",
+    "description": "Daily routines and actions done to oneself.",
+    "level": "Beginner",
+    "sentenceCount": 46,
+    "file": "module-7.json"
+  },
+  {
+    "id": "module-8",
+    "title": "Chapter 8: Expressing Likes",
+    "description": "Use 'gustar' to express what you like.",
+    "level": "Beginner",
+    "sentenceCount": 45,
+    "file": "module-8.json"
+  },
+  {
+    "id": "module-saber-vs-conocer",
+    "title": "Grammar: Saber vs. Conocer",
+    "description": "Learn the difference between the two verbs for 'to know'.",
+    "level": "Beginner",
+    "sentenceCount": 25,
+    "file": "module-saber-vs-conocer.json"
+  },
+  {
+    "id": "story-2",
+    "title": "📖 Story: A Day with Marta",
+    "description": "Follow Marta through her daily routine using verbs, possession, and likes.",
+    "type": "story",
+    "level": "Beginner",
+    "sentenceCount": 14,
+    "file": "story-2.json"
+  },
+  {
+    "id": "module-9",
+    "title": "Chapter 9: The Near Future",
+    "description": "Express what you are going to do using 'ir + a'.",
+    "level": "Beginner",
+    "sentenceCount": 37,
+    "file": "module-9.json"
+  },
+  {
+    "id": "review-7-8-9",
+    "title": "🔄 Review: Chapters 7, 8, 9",
+    "description": "Mixed practice from Reflexive Verbs, Expressing Likes, The Near Future.",
+    "type": "review",
+    "level": "Beginner",
+    "sentenceCount": 15,
+    "file": "review-7-8-9.json"
+  },
+  {
+    "id": "module-gustar-family",
+    "title": "Grammar: Gustar-Family Verbs",
+    "description": "Go beyond 'gustar': encantar, apetecer, doler, molestar, interesar, faltar and more.",
+    "level": "Beginner",
+    "sentenceCount": 26,
+    "file": "module-gustar-family.json"
+  },
+  {
+    "id": "module-ir-y-venir",
+    "title": "Grammar: Verb Focus: Ir and Venir",
+    "description": "'To go' vs 'to come': irregular forms, al/a la contractions, and choosing between them.",
+    "level": "Beginner",
+    "sentenceCount": 26,
+    "file": "module-ir-y-venir.json"
+  },
+  {
+    "id": "module-10",
+    "title": "Chapter 10: The Preterite Tense",
+    "description": "Talk about completed past actions.",
+    "level": "Beginner",
+    "sentenceCount": 41,
+    "file": "module-10.json"
+  },
+  {
+    "id": "module-11",
+    "title": "Chapter 11: The Imperfect Tense",
+    "description": "Describe ongoing past actions and habits.",
+    "level": "Beginner",
+    "sentenceCount": 40,
+    "file": "module-11.json"
+  },
+  {
+    "id": "module-past-comparison",
+    "title": "Grammar: Preterite vs. Imperfect",
+    "description": "Understand when to use completed actions versus ongoing background actions.",
+    "level": "Beginner",
+    "sentenceCount": 25,
+    "file": "module-preterite-vs-imperfect.json"
+  },
+  {
+    "id": "story-3",
+    "title": "📖 Story: Carlos's Weekend Trip",
+    "description": "A story about a weekend trip, told using the near future, preterite, and imperfect tenses.",
+    "type": "story",
+    "level": "Beginner",
+    "sentenceCount": 12,
+    "file": "story-3.json"
+  },
+  {
+    "id": "module-12",
+    "title": "Chapter 12: The Present Perfect",
+    "description": "Talk about what you 'have done'.",
+    "level": "Beginner",
+    "sentenceCount": 50,
+    "file": "module-12.json"
+  },
+  {
+    "id": "review-10-11-12",
+    "title": "🔄 Review: Chapters 10, 11, 12",
+    "description": "Mixed practice from The Preterite Tense, The Imperfect Tense, The Present Perfect.",
+    "type": "review",
+    "level": "Beginner",
+    "sentenceCount": 15,
+    "file": "review-10-11-12.json"
+  },
+  {
+    "id": "module-preterite-vs-present-perfect",
+    "title": "Grammar: Preterite vs. Present Perfect",
+    "description": "Learn when to use the simple past versus the 'have done' past.",
+    "level": "Beginner",
+    "sentenceCount": 25,
+    "file": "module-preterite-vs-present-perfect.json"
+  },
+  {
+    "id": "module-13",
+    "title": "Chapter 13: Direct Object Pronouns",
+    "description": "Replace nouns with 'lo, la, los, las'.",
+    "level": "Beginner",
+    "sentenceCount": 42,
+    "file": "module-13.json"
+  },
+  {
+    "id": "module-14",
+    "title": "Chapter 14: Indirect Object Pronouns",
+    "description": "Express 'to whom' or 'for whom' using 'le' and 'les'.",
+    "level": "Beginner",
+    "sentenceCount": 32,
+    "file": "module-14.json"
+  },
+  {
+    "id": "module-15",
+    "title": "Chapter 15: Double Object Pronouns",
+    "description": "Use both direct and indirect object pronouns together.",
+    "level": "Beginner",
+    "sentenceCount": 29,
+    "file": "module-15.json"
+  },
+  {
+    "id": "review-13-14-15",
+    "title": "🔄 Review: Chapters 13, 14, 15",
+    "description": "Mixed practice from Direct Object Pronouns, Indirect Object Pronouns, Double Object Pronouns.",
+    "type": "review",
+    "level": "Beginner",
+    "sentenceCount": 15,
+    "file": "review-13-14-15.json"
+  },
+  {
+    "id": "module-por-vs-para",
+    "title": "Grammar: Por vs. Para",
+    "description": "Learn the difference between 'por' and 'para', one of the trickiest concepts in Spanish.",
+    "level": "Intermediate",
+    "sentenceCount": 25,
+    "file": "module-por-vs-para.json"
+  },
+  {
+    "id": "story-4",
+    "title": "📖 Story: The Missing Phone",
+    "description": "A mystery story using object pronouns, the present perfect, and por vs para.",
+    "type": "story",
+    "level": "Intermediate",
+    "sentenceCount": 12,
+    "file": "story-4.json"
+  },
+  {
+    "id": "module-16",
+    "title": "Chapter 16: Affirmative Commands",
+    "description": "Give direct orders like 'Speak' or 'Eat'.",
+    "level": "Beginner",
+    "sentenceCount": 36,
+    "file": "module-16.json"
+  },
+  {
+    "id": "module-17",
+    "title": "Chapter 17: Negative Commands",
+    "description": "Learn to say 'Don't do' something.",
+    "level": "Beginner",
+    "sentenceCount": 30,
+    "file": "module-17.json"
+  },
+  {
+    "id": "module-18",
+    "title": "Chapter 18: Subjunctive: Desires",
+    "description": "Express what you want others to do using 'Quiero que'.",
+    "level": "Beginner",
+    "sentenceCount": 30,
+    "file": "module-18.json"
+  },
+  {
+    "id": "review-16-17-18",
+    "title": "🔄 Review: Chapters 16, 17, 18",
+    "description": "Mixed practice from Affirmative Commands, Negative Commands, Subjunctive: Desires.",
+    "type": "review",
+    "level": "Beginner",
+    "sentenceCount": 15,
+    "file": "review-16-17-18.json"
+  },
+  {
+    "id": "module-19",
+    "title": "Chapter 19: Subjunctive: Hope",
+    "description": "Express hope and uncertainty with 'Espero que'.",
+    "level": "Beginner",
+    "sentenceCount": 30,
+    "file": "module-19.json"
+  },
+  {
+    "id": "module-20",
+    "title": "Chapter 20: Subjunctive: Importance",
+    "description": "Use impersonal expressions like 'Es importante que'.",
+    "level": "Beginner",
+    "sentenceCount": 29,
+    "file": "module-20.json"
+  },
+  {
+    "id": "story-5",
+    "title": "📖 Story: Advice for a Friend",
+    "description": "A story about giving advice, using commands and the subjunctive mood.",
+    "type": "story",
+    "level": "Beginner",
+    "sentenceCount": 12,
+    "file": "story-5.json"
+  },
+  {
+    "id": "module-21",
+    "title": "Chapter 21: Real Conditionals",
+    "description": "Talk about what happens if a condition is met.",
+    "level": "Beginner",
+    "sentenceCount": 30,
+    "file": "module-21.json"
+  },
+  {
+    "id": "review-19-20-21",
+    "title": "🔄 Review: Chapters 19, 20, 21",
+    "description": "Mixed practice from Subjunctive: Hope, Subjunctive: Importance, Real Conditionals.",
+    "type": "review",
+    "level": "Beginner",
+    "sentenceCount": 15,
+    "file": "review-19-20-21.json"
+  },
+  {
+    "id": "module-22",
+    "title": "Chapter 22: Hypothetical Conditionals",
+    "description": "Talk about what would happen in hypothetical situations.",
+    "level": "Beginner",
+    "sentenceCount": 30,
+    "file": "module-22.json"
+  },
+  {
+    "id": "module-23",
+    "title": "Chapter 23: Done Actions (Acabar de)",
+    "description": "Say what you just finished doing.",
+    "level": "Beginner",
+    "sentenceCount": 30,
+    "file": "module-23.json"
+  },
+  {
+    "id": "module-24",
+    "title": "Chapter 24: Duration (Llevar + Gerund)",
+    "description": "Express how long you've been doing something.",
+    "level": "Beginner",
+    "sentenceCount": 31,
+    "file": "module-24.json"
+  },
+  {
+    "id": "review-22-23-24",
+    "title": "🔄 Review: Chapters 22, 23, 24",
+    "description": "Mixed practice from Hypothetical Conditionals, Done Actions (Acabar de), Duration (Llevar + Gerund).",
+    "type": "review",
+    "level": "Beginner",
+    "sentenceCount": 15,
+    "file": "review-22-23-24.json"
+  },
+  {
+    "id": "story-6",
+    "title": "📖 Story: What Would You Do?",
+    "description": "A story using conditionals, acabar de, and llevar + gerund.",
+    "type": "story",
+    "level": "Beginner",
+    "sentenceCount": 12,
+    "file": "story-6.json"
+  },
+  {
+    "id": "module-25",
+    "title": "Caperucita Roja - Part 1",
+    "description": "A classic fairy tale told in Spanish.",
+    "level": "Intermediate",
+    "sentenceCount": 10,
+    "file": "module-25.json"
+  },
+  {
+    "id": "module-26",
+    "title": "Don Quijote de la Mancha - Excerpt",
+    "description": "A passage from the most famous work of Spanish literature.",
+    "level": "Advanced",
+    "sentenceCount": 10,
+    "file": "module-26.json"
+  },
+  {
+    "id": "module-27",
+    "title": "Poetry: Bécquer",
+    "description": "Rimas by Gustavo Adolfo Bécquer.",
+    "level": "Advanced",
+    "sentenceCount": 10,
+    "file": "module-27.json"
+  },
+  {
+    "id": "module-28",
+    "title": "Grammar: The Past Subjunctive",
+    "description": "Practice the imperfect subjunctive for hypothetical situations.",
+    "level": "Intermediate",
+    "sentenceCount": 10,
+    "file": "module-28.json"
+  },
+  {
+    "id": "module-29",
+    "title": "Theme: Travel and Airport",
+    "description": "Useful vocabulary and phrases for traveling by plane.",
+    "level": "Intermediate",
+    "sentenceCount": 10,
+    "file": "module-29.json"
+  },
+  {
+    "id": "module-30",
+    "title": "Theme: Business and Office",
+    "description": "Vocabulary for professional settings and meetings.",
+    "level": "Intermediate",
+    "sentenceCount": 10,
+    "file": "module-30.json"
+  },
+  {
+    "id": "module-31",
+    "title": "Theme: Food and Dining",
+    "description": "Vocabulary for restaurants, cooking, and food.",
+    "level": "Intermediate",
+    "sentenceCount": 10,
+    "file": "module-31.json"
+  },
+  {
+    "id": "module-32",
+    "title": "Theme: Health and Medicine",
+    "description": "Vocabulary for doctor visits, symptoms, and pharmacy.",
+    "level": "Intermediate",
+    "sentenceCount": 10,
+    "file": "module-32.json"
+  },
+  {
+    "id": "module-33",
+    "title": "Theme: Nature and Environment",
+    "description": "Vocabulary for weather, landscapes, and conservation.",
+    "level": "Intermediate",
+    "sentenceCount": 10,
+    "file": "module-33.json"
+  },
+  {
+    "id": "module-34",
+    "title": "Poetry: Mariposa del Aire",
+    "description": "A lovely poem by Federico García Lorca.",
+    "level": "Advanced",
+    "sentenceCount": 9,
+    "file": "module-34.json"
+  },
+  {
+    "id": "module-35",
+    "title": "Dialogue: At the Café",
+    "description": "A conversation between two friends ordering coffee.",
+    "level": "Intermediate",
+    "sentenceCount": 9,
+    "file": "module-35.json"
+  },
+  {
+    "id": "module-36",
+    "title": "Literature: Cien Años de Soledad",
+    "description": "The iconic opening of Gabriel García Márquez's masterpiece.",
+    "level": "Advanced",
+    "sentenceCount": 5,
+    "file": "module-36.json"
+  },
+  {
+    "id": "module-37",
+    "title": "Theme: Technology and Internet",
+    "description": "Vocabulary for computers, internet, and modern technology.",
+    "level": "Intermediate",
+    "sentenceCount": 45,
+    "file": "module-37.json"
+  },
+  {
+    "id": "module-38",
+    "title": "Theme: Family and Relationships",
+    "description": "Vocabulary for describing family members and relationships.",
+    "level": "Intermediate",
+    "sentenceCount": 47,
+    "file": "module-38.json"
+  },
+  {
+    "id": "module-39",
+    "title": "Theme: Work and Professions",
+    "description": "Vocabulary for jobs, the workplace, and careers.",
+    "level": "Intermediate",
+    "sentenceCount": 45,
+    "file": "module-39.json"
+  },
+  {
+    "id": "module-40",
+    "title": "Theme: Shopping and Clothing",
+    "description": "Vocabulary for going shopping and describing clothes.",
+    "level": "Intermediate",
+    "sentenceCount": 45,
+    "file": "module-40.json"
+  },
+  {
+    "id": "module-41",
+    "title": "Theme: House and Furniture",
+    "description": "Vocabulary for describing parts of the house and daily living objects.",
+    "level": "Intermediate",
+    "sentenceCount": 47,
+    "file": "module-41.json"
+  },
+  {
+    "id": "module-42",
+    "title": "Theme: Hobbies and Free Time",
+    "description": "Vocabulary for describing what you do in your leisure hours.",
+    "level": "Intermediate",
+    "sentenceCount": 45,
+    "file": "module-42.json"
+  },
+  {
+    "id": "module-43",
+    "title": "Theme: Emotions and Feelings",
+    "description": "Vocabulary for expressing how you feel internally.",
+    "level": "Intermediate",
+    "sentenceCount": 47,
+    "file": "module-43.json"
+  }
+]

@@ -1,0 +1,397 @@
+{
+  "id": "module-15",
+  "title": "Chapter 15: Double Object Pronouns",
+  "description": "Use both direct and indirect object pronouns together.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "m15-s1",
+      "spanish": "Le doy el libro a Ana.",
+      "english": "I give Ana the book.",
+      "wordMeanings": {
+        "Le": "to him / her",
+        "doy": "I give",
+        "el": "the",
+        "libro": "book",
+        "a": "to",
+        "Ana": "Ana"
+      }
+    },
+    {
+      "id": "m15-s2",
+      "spanish": "Se lo doy.",
+      "english": "I give it to her.",
+      "wordMeanings": {
+        "Se": "to him / her / them",
+        "lo": "it / him",
+        "doy": "I give"
+      }
+    },
+    {
+      "id": "m15-s3",
+      "spanish": "Le doy la carta a Luis.",
+      "english": "I give Luis the letter.",
+      "wordMeanings": {
+        "Le": "to him / her",
+        "doy": "I give",
+        "la": "the / it (fem)",
+        "carta": "letter",
+        "a": "to",
+        "Luis": "Luis"
+      }
+    },
+    {
+      "id": "m15-s4",
+      "spanish": "Se la doy.",
+      "english": "I give it to him.",
+      "wordMeanings": {
+        "Se": "to him / her / them",
+        "la": "the / it (fem)",
+        "doy": "I give"
+      }
+    },
+    {
+      "id": "m15-s5",
+      "spanish": "Les doy los libros a ellos.",
+      "english": "I give them the books.",
+      "wordMeanings": {
+        "Les": "to them",
+        "doy": "I give",
+        "los": "the / them",
+        "libros": "books",
+        "a": "to",
+        "ellos": "they / them"
+      }
+    },
+    {
+      "id": "m15-s6",
+      "spanish": "Se los doy.",
+      "english": "I give them to them.",
+      "wordMeanings": {
+        "Se": "to him / her / them",
+        "los": "the / them",
+        "doy": "I give"
+      }
+    },
+    {
+      "id": "m15-s7",
+      "spanish": "Les doy las llaves a ustedes.",
+      "english": "I give you (pl.) the keys.",
+      "wordMeanings": {
+        "Les": "to them",
+        "doy": "I give",
+        "las": "the / them (fem)",
+        "llaves": "keys",
+        "a": "to",
+        "ustedes": "you (plural)"
+      }
+    },
+    {
+      "id": "m15-s8",
+      "spanish": "Se las doy.",
+      "english": "I give them to you (pl.).",
+      "wordMeanings": {
+        "Se": "to him / her / them",
+        "las": "the / them (fem)",
+        "doy": "I give"
+      }
+    },
+    {
+      "id": "m15-s9",
+      "spanish": "¿Se lo das ahora?",
+      "english": "Do you give it to him/her now?",
+      "wordMeanings": {
+        "Se": "to him / her / them",
+        "lo": "it / him",
+        "das": "you give",
+        "ahora": "now"
+      }
+    },
+    {
+      "id": "m15-s10",
+      "spanish": "Sí, se lo doy ahora.",
+      "english": "Yes, I give it now.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "se": "to him / her / them",
+        "lo": "it / him",
+        "doy": "I give",
+        "ahora": "now"
+      }
+    },
+    {
+      "id": "m15-s11",
+      "spanish": "No, no se lo doy ahora.",
+      "english": "No, I don’t give it now.",
+      "wordMeanings": {
+        "No": "no / not",
+        "no": "no / not",
+        "se": "to him / her / them",
+        "lo": "it / him",
+        "doy": "I give",
+        "ahora": "now"
+      }
+    },
+    {
+      "id": "m15-s12",
+      "spanish": "¿Se la das hoy?",
+      "english": "Do you give it to him/her today?",
+      "wordMeanings": {
+        "Se": "to him / her / them",
+        "la": "the / it (fem)",
+        "das": "you give",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "m15-s13",
+      "spanish": "Sí, se la doy hoy.",
+      "english": "Yes, I give it today.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "se": "to him / her / them",
+        "la": "the / it (fem)",
+        "doy": "I give",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "m15-s14",
+      "spanish": "Ayer se lo di.",
+      "english": "Yesterday I gave it to him/her.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "se": "to him / her / them",
+        "lo": "it / him",
+        "di": "I gave"
+      }
+    },
+    {
+      "id": "m15-s15",
+      "spanish": "Ayer se la di.",
+      "english": "Yesterday I gave it to him/her.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "se": "to him / her / them",
+        "la": "the / it (fem)",
+        "di": "I gave"
+      }
+    },
+    {
+      "id": "m15-s16",
+      "spanish": "Hoy se lo he dado.",
+      "english": "Today I’ve given it to him/her.",
+      "wordMeanings": {
+        "Hoy": "today",
+        "se": "to him / her / them",
+        "lo": "it / him",
+        "he": "I have",
+        "dado": "given"
+      }
+    },
+    {
+      "id": "m15-s17",
+      "spanish": "Hoy se la he dado.",
+      "english": "Today I’ve given it to him/her.",
+      "wordMeanings": {
+        "Hoy": "today",
+        "se": "to him / her / them",
+        "la": "the / it (fem)",
+        "he": "I have",
+        "dado": "given"
+      }
+    },
+    {
+      "id": "m15-s18",
+      "spanish": "Se lo quiero dar.",
+      "english": "I want to give it to him/her.",
+      "wordMeanings": {
+        "Se": "to him / her / them",
+        "lo": "it / him",
+        "quiero": "I want",
+        "dar": "to give"
+      }
+    },
+    {
+      "id": "m15-s19",
+      "spanish": "Quiero dárselo.",
+      "english": "I want to give it to him/her.",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "dárselo": "to give it to him/her"
+      }
+    },
+    {
+      "id": "m15-s20",
+      "spanish": "Se la voy a dar.",
+      "english": "I’m going to give it to him/her.",
+      "wordMeanings": {
+        "Se": "to him / her / them",
+        "la": "the / it (fem)",
+        "voy": "I go",
+        "a": "to",
+        "dar": "to give"
+      }
+    },
+    {
+      "id": "m15-s21",
+      "spanish": "Voy a dársela.",
+      "english": "I’m going to give it to him/her.",
+      "wordMeanings": {
+        "Voy": "I go",
+        "a": "to",
+        "dársela": "to give it to him/her"
+      }
+    },
+    {
+      "id": "m15-s22",
+      "spanish": "Se los estamos dando.",
+      "english": "We’re giving them to them.",
+      "wordMeanings": {
+        "Se": "to him / her / them",
+        "los": "the / them",
+        "estamos": "we are",
+        "dando": "giving"
+      }
+    },
+    {
+      "id": "m15-s23",
+      "spanish": "Estamos dándoselos.",
+      "english": "We’re giving them to them.",
+      "wordMeanings": {
+        "Estamos": "we are",
+        "dándoselos": "giving them to them"
+      }
+    },
+    {
+      "id": "m15-s24",
+      "spanish": "No se lo digas.",
+      "english": "Don’t tell it to him/her.",
+      "wordMeanings": {
+        "No": "no / not",
+        "se": "to him / her / them",
+        "lo": "it / him",
+        "digas": "say (subj)"
+      }
+    },
+    {
+      "id": "m15-s25",
+      "spanish": "Díselo.",
+      "english": "Tell it to him/her.",
+      "wordMeanings": {
+        "Díselo": "tell it to him/her"
+      }
+    },
+    {
+      "id": "m15-s26",
+      "spanish": "Se lo explico.",
+      "english": "I explain it to him/her.",
+      "wordMeanings": {
+        "Se": "to him / her / them",
+        "lo": "it / him",
+        "explico": "I explain"
+      }
+    },
+    {
+      "id": "m15-s27",
+      "spanish": "Se la explico.",
+      "english": "I explain it to him/her.",
+      "wordMeanings": {
+        "Se": "to him / her / them",
+        "la": "the / it (fem)",
+        "explico": "I explain"
+      }
+    },
+    {
+      "spanish": "¡Te lo dije!",
+      "english": "I told you so!",
+      "wordMeanings": {
+        "Te": "to you",
+        "lo": "it",
+        "dije": "I said"
+      },
+      "id": "m15-s-colloq1"
+    },
+    {
+      "spanish": "Me lo llevo.",
+      "english": "I'll take it.",
+      "wordMeanings": {
+        "Me": "myself",
+        "lo": "it",
+        "llevo": "I carry/take"
+      },
+      "id": "m15-s-colloq2"
+    }
+  ],
+  "grammarExplanation": "When both an indirect AND direct object pronoun appear together, the indirect one comes FIRST:\n\n• le/les + lo/la/los/las → 'se' replaces le/les\n• 'Le doy el libro' + 'lo' → 'Se lo doy' (I give it to her)\n\nWith infinitives, pronouns can attach to the end:\n• 'Se lo quiero dar' or 'Quiero dárselo'\n\nOrder: se → te/me/nos → lo/la/los/las → verb.",
+  "vocabulary": {
+    "le": {
+      "mnemonic": "'Lend to him/her' — indirect pronoun.",
+      "explanation": "Indirect object: to him/her."
+    },
+    "libro": {
+      "mnemonic": "Think 'library' — full of libros (books)!",
+      "explanation": "Means 'book'. Masculine noun."
+    },
+    "se": {
+      "mnemonic": "Think 'self' — reflexive pronoun.",
+      "explanation": "Replaces le/les before lo/la/los/las."
+    },
+    "lo": {
+      "mnemonic": "'Low him' — direct object him/it.",
+      "explanation": "Masculine direct object pronoun."
+    },
+    "la": {
+      "mnemonic": "'La lady' — her/it (feminine).",
+      "explanation": "Also 'the' (feminine)."
+    },
+    "carta": {
+      "mnemonic": "Think 'card/letter'.",
+      "explanation": "Means 'letter' or 'menu'."
+    },
+    "les": {
+      "mnemonic": "'Lend to them' — indirect pronoun.",
+      "explanation": "Indirect object: to them."
+    },
+    "los": {
+      "mnemonic": "'Los' = them (masculine plural).",
+      "explanation": "Direct object pronoun."
+    },
+    "las": {
+      "mnemonic": "'Las ladies' — them (feminine).",
+      "explanation": "Direct object pronoun."
+    },
+    "ustedes": {
+      "mnemonic": "Think 'you-sted-es' — all of you!",
+      "explanation": "In Spain this is formal only; everyday plural 'you all' is vosotros."
+    },
+    "hoy": {
+      "mnemonic": "'Hoy! today!' — an exclamation for today.",
+      "explanation": "Means 'today'."
+    },
+    "ayer": {
+      "mnemonic": "'A year ago? No, just yesterday!'",
+      "explanation": "Means 'yesterday'."
+    },
+    "di": {
+      "mnemonic": "Think 'did give' — di, I gave.",
+      "explanation": "Preterite first person of 'dar': I gave. (Also the tú command of 'decir'.)"
+    },
+    "he": {
+      "mnemonic": "'He' is the 'have' helper verb.",
+      "explanation": "Auxiliary for present perfect."
+    },
+    "quiero": {
+      "mnemonic": "'I query what I want' — I want.",
+      "explanation": "First person of 'querer' (to want)."
+    },
+    "voy": {
+      "mnemonic": "Think 'voyage' — I go!",
+      "explanation": "First person of 'ir' (to go). Irregular."
+    },
+    "estamos": {
+      "mnemonic": "'We establish ourselves' — we are.",
+      "explanation": "First person plural of 'estar'."
+    }
+  }
+}

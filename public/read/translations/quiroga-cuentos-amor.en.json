@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "trackId": "quiroga-cuentos-amor",
+  "sourceHash": "3119e573eebce02ae8bab995527ca86dc132289dc7047b17d146aa6b8963c24c",
+  "provider": "ollama/translategemma:4b",
+  "sourceLanguage": "es",
+  "targetLanguage": "en",
+  "translatedAt": "2026-08-15T08:18:59.800062+00:00",
+  "characters": 8432,
+  "blocks": [
+    {
+      "source": "El almojado de plumas su luna de miel fue un largo escalofrío, rubia, angelical y tímida. El carácter duro de su marido heló sus soñadas niñerías de novia. Lo quería mucho, sin embargo, a veces con un ligero estremecimiento, cuando volviendo de noche juntos por la calle, echaba una furtiva mirada a la alta estatura de Jordán, mudo desde hacía una hora. Él, por su parte, la amaba profundamente, sin darlo a conocer.",
+      "translation": "Their honeymoon was a long, chilly affair: blonde, angelic, and shy. Her husband's tough personality extinguished her dreams of a romantic, domestic life. She loved him very much, but sometimes, when they walked home together at night, she would steal glances at Jordan's tall figure, who had been silent for an hour. He, in turn, loved her deeply, but kept it hidden."
+    },
+    {
+      "source": "Durante tres meses se habían casado en abril. Vivieron una dicha especial. Sin duda hubiera ella deseado menos severidad en ese rígido cielo de amor, más expansiva e incauta ternura. Pero el impasible semblante de su marido la contenía siempre.",
+      "translation": "They had married in April, and had been happily together for three months. She felt a special kind of joy. She would have wished for a less strict and more expansive, carefree love from her husband, but his calm demeanor always reassured her."
+    },
+    {
+      "source": "La casa en que vivían influía un poco en sus estremecimientos. La blancura del patio silencioso, frisos, columnas y estatuas de mármol, producía una otoñal impresión de palacio encantado. Dentro, el brillo glacial del estuco, sin el más leve rascuño en las altas paredes, afirmaba aquella sensación de desapasible frío. Al cruzar de una pieza a otra, los pasos hallaban eco en toda la casa, como si un largo abandono hubiera sensibilizado su resonancia.",
+      "translation": "The house they lived in subtly influenced their feelings of unease. The stark white of the silent courtyard, with its intricate moldings, columns, and marble statues, created an impression of a haunted palace. Inside, the icy sheen of the stucco, with not a single scratch on the high walls, reinforced that sense of chilling cold. As they moved from room to room, their footsteps echoed throughout the house, as if a long period of abandonment had amplified the sound."
+    },
+    {
+      "source": "En ese extraño nido de amor, Alicia pasó todo el otoño. No había concluido por echar un velo sobre sus antiguos sueños y aún vivía dormida en la casa hostil sin querer pensar en nada hasta que llegaba su marido. No es raro que adelgazara. Tuvo un ligero ataque de influenza que se arrastró insidiosamente, días y días.",
+      "translation": "In that strange haven of love, Alicia spent the entire autumn. She had withdrawn from her old dreams and was still living passively in the hostile house, unwilling to think about anything until her husband arrived. It was not unusual for her to become thinner. She suffered a mild case of influenza that lingered for days and days."
+    },
+    {
+      "source": "Alicia no se reponía al fin una tarde pudo salir al jardín apoyada en el brazo de él. Miraba indiferente a uno y otro lado. De pronto, Jordán, con onda ternura, le pasó la mano por la cabeza y Alicia rompió enseguida ensoyosos, echándole los brazos al cuello. Lloró largamente todo su espanto callado, redoblando el llanto a la menor tentativa de caricia.",
+      "translation": "Alicia finally managed to relax enough to go outside into the garden, leaning on his arm. She looked indifferently in both directions. Suddenly, Jordan, with a gentle touch, reached out and stroked her hair, and Alicia immediately burst into tears, burying her face in his neck. She sobbed uncontrollably, intensifying her crying at the slightest attempt to comfort her."
+    },
+    {
+      "source": "Luego los ensoyosos fueron retardándose y aún quedó largo rato escondida en su cuello, sin moverse ni decir una palabra. Fue ese el último día que Alicia estuvo levantada. Al día siguiente, amaneció desvanecida. El médico de Jordán la examinó con suma atención, ordenándole calma y descanso absolutos.",
+      "translation": "Subsequently, the baby began to sleep more and more, and remained lying down for a long time, without moving or making a sound. That was the last day Alicia was awake. The next day, she woke up unconscious. Dr. Jordan examined her carefully, instructing her to remain calm and rest completely."
+    },
+    {
+      "source": "No sé. Le dijo a Jordán, en la puerta de calle, con la voz todavía baja. Tiene una gran debilidad que no me explico y sin vómitos, nada. Si mañana se despierta como hoy, llámeme enseguida.",
+      "translation": "I don't know. I told Jordan, standing at the doorway, in a low voice. He has a significant weakness that I can't explain, and there are no other symptoms. If he wakes up like this tomorrow, please call me immediately."
+    },
+    {
+      "source": "Al otro día, Alicia seguía peor. Hubo consulta. Constatóse una anemia de marcha agudísima, completamente inexplicable. Alicia no tuvo más desmayos, pero se iba visiblemente a la muerte.",
+      "translation": "The next day, Alicia's condition worsened. She was seen by a doctor, who diagnosed a severe and inexplicable anemia. Alicia had no further fainting spells, but her condition was visibly deteriorating."
+    },
+    {
+      "source": "Todo el día el dormitorio estaba con las luces prendidas y en pleno silencio. Pasabanse horas sin oír el la luz encendida. Paseaba sin cesar de un extremo a otro, con incansable obstinación. La alfombra ahogaba sus pasos.",
+      "translation": "Throughout the day, the bedroom lights were on, and there was complete silence. Hours would pass without hearing the sound of the light being switched on. I would constantly walk from one end of the room to the other, with relentless determination. The rug muffled my footsteps."
+    },
+    {
+      "source": "A ratos entraba en el dormitorio y proseguía su mudo vaivén a lo largo de la cama, mirando a su mujer cada vez que caminaba en su dirección. Pronto Alicia comenzó a tener alucinaciones, confusas y flotantes al principio, y que descendieron luego a ras del suelo. La joven, con los ojos desmesuradamente abiertos, no hacía sino mirar la alfombra a uno y otro lado del respaldo de la cama. Una noche se quedó de repente mirando fijamente.",
+      "translation": "The rat would sometimes enter the bedroom and continue its silent movements along the bed, watching its wife whenever she walked in that direction. Soon, Alicia began to have hallucinations, which were initially confusing and floating, but later became closer to the ground. The young woman, with her eyes wide open, would only stare at the carpet on either side of the bed. One night, she suddenly froze, staring intently."
+    },
+    {
+      "source": "Al rato abrió la boca para gritar, y sus narices y labios se perlaron de sudor. ¡Jordán, Jordán! clamó, rígida de espanto, sin dejar de mirar la alfombra. Jordán corrió al dormitorio, y al verlo aparecer Alicia dio un alarido de horror.",
+      "translation": "Soon, she opened her mouth to scream, and her nose and lips glistened with sweat. \"Jordan, Jordan!\" she cried, rigid with fear, still staring at the rug. Jordan ran into the bedroom, and when he appeared, Alicia let out a scream of horror."
+    },
+    {
+      "source": "¡Soy yo, Alicia, soy yo! Alicia lo miró con extravío, miró la alfombra, volvió a mirarlo, y después de largo rato de estupefacta confrontación, se serenó. Sonrió y tomó entre las suyas la mano de su marido, acariciándola temblando. Entre sus alucinaciones más porfiadas, hubo un antropoide, apoqueado en la alfombra sobre los dedos, que tenía fijos en ella los ojos.",
+      "translation": "\"It's me, Alicia, it's me!\" Alicia stared at him with bewilderment, looked at the rug, then looked at him again. After a long period of stunned confrontation, she calmed down. She smiled and took her husband's hand, gently stroking it. Among her most persistent hallucinations, there was an anthropoid figure, lying on the rug near her fingers, with its eyes fixed on her."
+    },
+    {
+      "source": "Los médicos volvieron inútilmente. Había allí delante de ellos una vida que se acababa, desangrándose día a día, hora a hora, sin saber absolutamente cómo. En la última consulta, Alicia yacía en estupor mientras ellos la pulsaban, pasándose de uno a otro la muñeca inerte. La observaron largo rato en silencio y siguieron al comedor.",
+      "translation": "The doctors returned, but their efforts were in vain. Before them lay a life that was ebbing away, bleeding out day by day, hour by hour, with no one able to understand what was happening. During the last consultation, Alicia lay in a state of shock while they examined her, passing her still arm from one to another. They observed her in silence for a long time and then went to the dining room."
+    },
+    {
+      "source": "Se encogió de hombros, desalentado su médico. Solo eso me faltaba, resopló Jordán y tamborileó, bruscamente sobre la mesa. Alicia fue, extinguiéndose en su delirio de anemia, agravado de tarde, pero que remitía siempre, en las primeras horas. Durante el día no avanzaba su enfermedad, pero cada mañana amanecía lívida, en síncope casi.",
+      "translation": "He shrugged, discouraged by his doctor. That was the last thing I needed, Jordan sighed, drumming his fingers impatiently on the table. Alicia would fluctuate, her anemia worsening in the afternoons but always improving in the early hours of the morning. Her condition would not progress during the day, but she would always wake up pale and weak."
+    },
+    {
+      "source": "Parecía que únicamente de noche se le fuera la vida en nuevas olas de sangre. Tenía siempre al despertar la sensación de estar desplomada en la cama con un millón de kilos encima. Desde el tercer día este hundimiento no la abandonó más, apenas podía mover la cabeza. No quiso que le tocaran la cama, ni aún que le arreglaran el almohadón.",
+      "translation": "It seemed that only at night did her life ebb and flow in new waves of blood. She always woke up with the feeling of being slumped over in bed, as if a million pounds were pressing down on her. From the third day, this feeling of heaviness never left her; she could barely move her head. She didn't want anyone to touch her bed, or even to adjust her pillow."
+    },
+    {
+      "source": "Sus terrores crepusculares avanzaron en forma de monstruos que se arrastraban hasta la cama y trepaban dificultosamente por la noche. Perdió luego el conocimiento. Los dos días finales deliró sin cesar a media voz. Las luces continuaban funebremente encendidas en el dormitorio y la sala.",
+      "translation": "His nocturnal terrors manifested as monstrous creatures that crawled towards the bed and struggled to climb up during the night. He then lost consciousness. For the final two days, he continuously muttered incoherently in a low voice. The lights in the bedroom and living room remained ominously lit."
+    },
+    {
+      "source": "En el silencio gónico de la casa no se oía más que el delirio monótono que salía de la cama y el rumor ahogado de los de Jordán. Murió, por fin. La sirvienta, que entró después a deshacer la cama sola ya, miró un rato extrañada el almohadón. ¡Señor!",
+      "translation": "In the quiet stillness of the house, all that could be heard was the monotonous murmur coming from the bed and the muffled sounds of Jordan. He finally died. The maid, who had entered shortly after to make the bed alone, stared at the pillow for a moment, bewildered. \"Oh, my Lord!\""
+    },
+    {
+      "source": "Llamó a Jordán en voz baja. En el almohadón hay manchas que parecen de sangre. Jordán se acercó rápidamente y se dobló a su vez, efectivamente, sobre la funda. A ambos lados del hueco que había dejado la cabeza de Alicia se veían manchitas oscuras.",
+      "translation": "He called Jordan in a low voice. There are stains on the pillow that appear to be blood. Jordan quickly approached and knelt down, confirming that, indeed, there was blood on the pillow. On either side of the opening left by Alicia's head, there were dark stains."
+    },
+    {
+      "source": "¿Parecen picaduras? murmuró la sirvienta después de un rato de inmóvil observación. Levántelo a la luz, le dijo Jordán. La sirvienta lo levantó, pero enseguida lo dejó caer y se quedó mirando a aquel, lívida y temblando.",
+      "translation": "\"Do they look like insect bites?\" the maid murmured after a period of silent observation. \"Hold it up to the light,\" Jordan instructed. The maid lifted it, but immediately dropped it again, staring at it with a pale, trembling face."
+    },
+    {
+      "source": "Sin saber por qué, Jordán sintió que los cabellos se le erizaban. ¿Qué hay? murmuró con la voz ronca. Pesa mucho, articuló la sirvienta sin dejar de temblar.",
+      "translation": "Without knowing why, Jordan felt a tingling sensation in his hair. \"What's happening?\" he murmured, his voice hoarse. \"It feels very heavy,\" the maid said, still trembling."
+    },
+    {
+      "source": "Jordán lo levantó. Pesaba extraordinariamente. Salieron con él y sobre la mesa del comedor Jordán cortó funda y envoltura de un tajo. Las plumas superiores volaron y la sirvienta dio un grito de horror con toda la boca abierta, llevándose las manos crispadas a los bandos.",
+      "translation": "Jordan lifted it. It was incredibly heavy. They carried it in and on the dining room table, Jordan cut open the packaging and wrapping. The top feathers flew out, and the maid let out a scream of horror, her mouth wide open, her hands clenched at her sides."
+    },
+    {
+      "source": "Sobre el fondo, entre las plumas, moviendo lentamente las patas velludas, había un animal monstruoso. Una bola viviente y viscosa. Estaba tan hinchado que apenas se le pronunciaba la boca. Noche a noche, desde que Alicia había caído en cama, había aplicado sigilosamente su boca.",
+      "translation": "In the background, amidst the feathers, a monstrous creature was moving slowly, its furry legs barely visible. It was a living, viscous ball. It was so swollen that its mouth was barely discernible. Night after night, since Alicia had gone to bed, she had been secretly using her mouth."
+    },
+    {
+      "source": "Su trompa. Mejor dicho, a las sienes de aquella, chupándole la sangre. La picadura era casi imperceptible. La remoción diaria del almohadón había impedido sin duda su desarrollo, pero desde que la joven no pudo moverse, la succión fue vertiginosa.",
+      "translation": "Its proboscis. More accurately, its suckers, attached to her temples, were draining her blood. The bite was almost imperceptible. The daily removal of the cushion had undoubtedly prevented its growth, but since the young woman had been unable to move, the suction became intense."
+    },
+    {
+      "source": "En cinco días, en cinco noches, había vaciado Alicia. Estos parásitos de las aves, diminutos en el medio habitual, llegan a adquirir en ciertas condiciones proporciones enormes. La sangre humana parece serles particularmente favorable. Y no es raro hallarlos en los almohadones de pluma.",
+      "translation": "Over five days, over five nights, Alicia was completely drained. These bird parasites, normally small, can grow to enormous sizes under certain conditions. Human blood seems to be particularly attractive to them. It's not uncommon to find them in feather pillows."
+    },
+    {
+      "source": "Sobre esta edición electrónica, este libro electrónico proviene de la versión en español de la biblioteca digital Wikisource. Esta biblioteca digital multilingüe, realizada por voluntarios, tiene el objetivo de poner a disposición de todo el mundo, el mayor número posible de documentos públicos de todo tipo, novelas, poesías, revistas, cartas, etcétera. Lo proporcionamos de manera gratuita gracias a que los textos utilizados son libres de derechos o están bajo licencia libre. Puede utilizar nuestros libros electrónicos de manera totalmente libre, con finalidades comerciales o no, respetando las cláusulas de la licencia Creative Commons by ESEA 3, BAMENI o SEGUN SEA de la licencia GANU FDEEDUR, con ser dur.",
+      "translation": "Regarding this electronic edition, this ebook originates from the Spanish version of the digital library, Wikisource. This multilingual digital library, created by volunteers, aims to make as many public documents as possible available to the world, including novels, poems, magazines, letters, etc. We provide it freely because the texts used are either in the public domain or under a free license. You can use our ebooks freely for commercial or non-commercial purposes, while respecting the terms of the Creative Commons by ESEA 3, BAMENI, or SEGUN license, or the GANU FDEEDUR license, as appropriate."
+    },
+    {
+      "source": "Del cero catasise, dos libre. Tres petacedos o SEGUN SEA de la licencia GANU FDEED3. Wikisource está constantemente buscando nuevos colaboradores. No dude en colaborar con nosotros.",
+      "translation": "From zero, two free. Three petacedos or according to the GANU FDEED3 license. Wikisource is constantly seeking new collaborators. Please do not hesitate to collaborate with us."
+    },
+    {
+      "source": "A pesar de nuestro cuidado puede ser que se escape algún error en la transcripción del texto a partir del facsímil. Puede avisar de errores en esta dirección QARQA. Los siguientes contribuidores han permitido la realización de este libro. Shook Lady in Grey, Lady Bots, Kirito Lager Rembiapo Pogiet.",
+      "translation": "Despite our careful efforts, there may be errors in the transcription of the text from the facsimile. Please notify us of any errors at this email address: QARQA. The following contributors have made this book possible: Shook Lady in Grey, Lady Bots, Kirito Lager Rembiapo Pogiet."
+    },
+    {
+      "source": "Botocuado. Es wikisource. Llama al Imperio Primo. ITTPAATPE.",
+      "translation": "Botocuado. This is Wikisource. Call \"First Empire.\" ITTPAATPE."
+    },
+    {
+      "source": "CREACO CHARTÚ NOCHO PINGLE. ARCA GONZ LACH. BU GONZ SEREKON. AYUDO INFORMAR DE ANKERCH.",
+      "translation": "CREACO CHARTÚ NOCHO PINGLE. ARCA GONZ LACH. BU GONZ SEREKON. HELP INFORM ABOUT ANKERCH."
+    },
+    {
+      "source": "ATE DEBICIER A ARCA. COMPUMAN ORCO. COMLEK GONZ. HALIK SHUKBOA.",
+      "translation": "ATE DEBICIER A ARCA. COMPUMAN ORCO. COMLEK GONZ. HALIK SHUKBOA."
+    },
+    {
+      "source": "GONZ BOCH. CHUKZERN. DIGTI. AYUDA INFORMAR DE AN ETRO.",
+      "translation": "GONZ BOCH. CHUKZERN. DIGTI. HELP PROVIDE INFORMATION ABOUT AN EVENT."
+    }
+  ]
+}

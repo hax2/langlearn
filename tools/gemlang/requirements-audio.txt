@@ -1,0 +1,5 @@
+google-cloud-texttospeech>=2.27.0
+google-auth-oauthlib>=1.2.2
+kokoro>=0.9.4
+numpy>=1.26.0
+soundfile>=0.12.1

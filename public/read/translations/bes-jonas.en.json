@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "trackId": "bes-jonas",
+  "sourceHash": "af80f9c2103fe7bc53cc7f6b250fc4cf6cfbff6e22ff01e06c67aff690a93b39",
+  "provider": "ollama/translategemma:4b",
+  "sourceLanguage": "es",
+  "targetLanguage": "en",
+  "translatedAt": "2026-08-15T08:28:03.878338+00:00",
+  "characters": 6489,
+  "blocks": [
+    {
+      "source": "Jonás, capítulo 1. Y la palabra del Señor vino a Jonás, hijo de Amitay, diciendo, Levántate, ve a Nínive, esa gran ciudad, y deja que tu voz llegue a ella, porque su maldad ha surgido delante de mí. Y Jonás se levantó para huir a Tarsis, lejos del Señor, y bajó a Jope, y vio allí un barco que iba a Tarsis, así que les dio el precio del viaje, y bajó para ir con ellos a Tarsis, lejos del Señor. Y el Señor envió un gran viento hacia el mar, y hubo una tormenta violenta en el mar, por lo que el barco parecía estar en peligro de hacerse pedazos.",
+      "translation": "Jonah, Chapter 1. And the word of the Lord came to Jonah, son of Amittay, saying, \"Arise, go to Nineveh, that great city, and cry out against it; for its wickedness has come before me.\" And Jonah arose to flee from the presence of the Lord to Tarshish. He went down to Joph, where he found a ship that was setting out for Tarshish. He went on board, and the Lord calmed the storm and the sea, so that the storm ceased."
+    },
+    {
+      "source": "Entonces los marineros estaban llenos de miedo, cada hombre llorando a su Dios, y los bienes en el barco fueron arrojados al mar para reducir el peso. Pero Joná había bajado a la parte más interior del barco, donde estaba tendido en un sueño profundo. Y el capitán del barco se le acercó y le dijo, ¿Qué haces durmiendo? ¡Levántate!",
+      "translation": "So, the sailors were filled with fear, each man crying out to his God, and the cargo on the ship was thrown overboard to reduce the weight. But Jonah had gone down to the very bottom of the ship, where he was lying asleep. And the captain of the ship approached him and said, \"What are you doing sleeping? Get up!\""
+    },
+    {
+      "source": "Dí una oración a tu Dios, si por casualidad Dios tendrá compasión de nosotros, para que no lleguemos a la destrucción. Y se dijeron el uno al otro, ven, pongamos esto a la decisión del azar, y veamos por quién nos ha venido este mal. Entonces lo hicieron, y Jonás fue visto como el hombre. Entonces le dijeron, ahora dinos cuál es tu trabajo y de dónde vienes, cuál es tu país y quién es tu gente.",
+      "translation": "\"Let us cast lots to determine who will appease this angry God,\" they said to each other. \"Let chance decide our fate.\" They did so, and Jonah was chosen. Then they asked him, \"Now tell us what your occupation is and where you come from, what your country is, and who your people are.\""
+    },
+    {
+      "source": "Y él les dijo, soy hebreo, adorador del Señor, el Dios del cielo, que hizo el mar y la tierra seca. Y los hombres estaban muy temerosos, y le dijeron, ¿Qué es esto que has hecho? Porque los hombres tenían conocimiento de su huida del Señor, porque Él no se la había ocultado. Y le dijeron, ¿Qué te vamos a hacer para que el mar se calme?",
+      "translation": "And he told them, \"I am a Hebrew worshiper of the Lord, the God of the heavens, who made the sea and the dry land.\" The men were very afraid, and they said to him, \"What is this that you have done? Because the men knew that they had fled from the Lord, and he had not concealed it from them.\" And they said to him, \"What shall we do to appease the Lord and stop the storm?\""
+    },
+    {
+      "source": "Porque el mar se estaba volviendo cada vez más tempestuoso. Y él les dijo, tómame y échame en el mar, y el mar se calmará, porque estoy seguro de que por mí esta gran tormenta ha venido sobre ustedes. Y los hombres estaban trabajando duro para regresar a la tierra, pero no pudieron hacerlo, porque el mar se hizo cada vez más duro contra ellos. Entonces, clamando al Señor, dijeron, escucha, oh Señor, nuestra oración, y no permitas que la destrucción nos alcance por la vida de este hombre, no nos pongas sangre inocente sobre nosotros, porque Tú, Señor, has hecho lo que te pareció bien.",
+      "translation": "Because the sea was becoming increasingly stormy. And he said to them, \"Take me and cast me into the sea, and the sea will become calm, because I am certain that this great storm has come upon you because of me.\" The men were working hard to return to land, but they couldn't, because the sea was becoming increasingly hostile to them. Then, crying out to the Lord, they said, \"Lord, hear our prayer, and do not let this man's destruction reach us. Do not shed innocent blood upon us, for you, Lord, have done what seemed right in your own eyes.\""
+    },
+    {
+      "source": "Entonces tomaron a Jonás y lo echaron al mar, y el mar volvió a su calma. Entonces fue grande la reverencia de los hombres al Señor, e hicieron una ofrenda al Señor, y le hicieron juramentos. Y el Señor preparó un gran pez para que se tragara a Jonás, y Jonás estuvo dentro del pez durante tres días y tres noches. CAPÍTULO 2 Entonces Jonás hizo oración al Señor su Dios desde el interior del pez, y dijo, En mi angustia clamé al Señor, y él me dio una respuesta.",
+      "translation": "Then they took Jonah and threw him into the sea, and the sea became calm. Then the people of that place had a great fear and reverence for the Lord, and they made an offering to the Lord and made vows to him. Then the Lord made a great fish to swallow Jonah, and Jonah was inside the fish for three days and three nights. CHAPTER 2 Then Jonah prayed to the Lord, his God, from inside the fish, and he said, \"In my distress, I called to the Lord, and he answered me and rescued me from the fish.\""
+    },
+    {
+      "source": "Desde el más profundo del Seol, lancé un grito y tú escuchaste mi voz. Porque me has puesto en lo profundo, en el corazón del mar. La corriente me inundó. Todas tus ondas y grandes olas pasaron sobre mí, y dije, fui enviado lejos de delante de tus ojos, sin embargo volveré a mirar tu templo santo.",
+      "translation": "From the deepest depths of the sea, I cried out, and you heard my voice. Because you have placed me in the depths, at the heart of the sea. The current washed over me. All your waves and large swells passed over me, and I said, \"I have been sent far away from your sight, but I will return to look upon your holy temple.\""
+    },
+    {
+      "source": "Las aguas me cercaron hasta el cuello, lo profundo me envolvió, la hierba marina estaba retorcida alrededor de mi cabeza. Bajé a las bases de las montañas, en cuanto a la tierra, sus muros me rodearon para siempre, pero tú me has sacado mi vida del sepulcro, Señor Dios mío. Cuando mi alma en mí desfallecía, guardé el recuerdo del Señor, y mi oración llegó a ti, a tu santo templo. Los adoradores de dioses falsos han renunciado a su única esperanza.",
+      "translation": "The waters surrounded me, reaching my neck, the deep sea enveloped me, and the seaweed was twisted around my head. I descended to the foot of the mountains, where the earth's walls surrounded me forever, but you have brought me out of the grave, my Lord and God. When my soul within me was failing, I kept the memory of the Lord, and my prayer reached you, to your holy temple. Those who worship false gods have abandoned their only hope."
+    },
+    {
+      "source": "Pero te haré una ofrenda con voz de acción de gracia, daré efecto a mis juramentos, las salvaciones del Señor, y por orden del Señor el pez envió a Jonás de su boca a la tierra seca. Capítulo 3 Y la palabra del Señor vino a Jonás por segunda vez, diciendo, Levántate, ve a Nínive, esa gran ciudad, y dale la palabra que te he dado. Entonces Jonás se levantó y fue a Nínive como el Señor lo había dicho. Ahora Nínive era una ciudad muy grande, tres días de viaje de punta a punta, y Jonás, en primer lugar, hizo un viaje de un día a la ciudad, y gritando dijo, en cuarenta días la destrucción alcanzará a Nínive.",
+      "translation": "But I will offer a gracious plea, I will fulfill my vows, the Lord's salvation, and by the Lord's command, the fish sent Jonah from its mouth to the dry land. Chapter 3 And the word of the Lord came to Jonah a second time, saying, \"Arise, go to Nineveh, that great city, and give forth my message.\" Then Jonah arose and went to Nineveh as the Lord had commanded. Now Nineveh was a very great city, three days' journey from one end to the other, and Jonah first traveled to the city in one day, and he cried out, \"Forty and two days shall no one eat, nor shall any good thing be drunk; and I will declare unto Nineveh, that her calamity is at hand.\""
+    },
+    {
+      "source": "Y el pueblo de Nínive creyeron en Dios, y se fijó un tiempo de ayuno, y se vistieron de cilicio, de mayor a menor. Y llegó la noticia al rey de Nínive, y él se levantó de su asiento de autoridad, y se quitó la túnica, y se vistió de cilicio, se sentó en el polvo. Y lo hizo dar a conocer en Nínive. Por orden del rey y sus grandes hombres, ningún hombre o bestia, rebaño o ganado debe probar nada, que no tengan comida ni agua.",
+      "translation": "And the people of Nineveh believed in God, and they set aside a time of fasting, and they clothed themselves in sackcloth, from the greatest to the least. And the news reached the king of Nineveh, who rose from his royal seat, removed his royal garments, and clothed himself in sackcloth, and sat in dust. And he proclaimed it throughout Nineveh. By order of the king and his leading men, no man or beast, flock or herd, should eat or drink anything."
+    },
+    {
+      "source": "Y que el hombre y la bestia se vistan de cilicio, y clamen a Dios fuertemente, y que todos se parten de su mal camino y de los actos violentos de sus manos. ¿Quién puede decir que Dios cambie de parecer, cambiando su propósito y alejándose de su ira ardiente, y no perezcamos? Y Dios vio lo que hicieron, cómo fueron apartados de su mal camino, y el propósito de Dios fue cambiado en cuanto al mal que dijo que les haría, y no lo hizo. Capítulo 4 Pero esto le pareció muy mal a Jonás, y estaba enojado.",
+      "translation": "And that the man and the beast should dress in sackcloth and cry out to God fervently, and that everyone should turn away from their wicked ways and the violent acts of their hands. Who can say that God will change his mind, altering his purpose and turning away from his fiery anger, and not perish? And God saw what they had done, how they had been turned away from their wicked ways, and God's purpose was changed regarding the evil he had threatened to do to them, and he did not do it. Chapter 4 But this greatly displeased Jonah, and he was angry."
+    },
+    {
+      "source": "E hizo una oración al Señor y dijo, Señor, ¿no es esto lo que dije cuando aún estaba en mi país? Es por eso que me anticipé de huir a Tarsis, porque estaba seguro de que eras un Dios amoroso, lleno de piedad, lento para la ira y grande en misericordia, y te arrepientes del mal con que amenazas. Así que ahora, oh Señor, escucha mi oración y quita mi vida de mí, porque la muerte es mejor para mí que la vida. Y el Señor dijo, ¿te parece bien enojarte así?",
+      "translation": "And he prayed to the Lord, \"Lord, isn't this what I said when I was still in my own country? Because of this, I fled to Tarshish, because I knew you were a loving God, full of compassion, slow to anger, and great in mercy, and you would forgive my sins. So now, oh Lord, hear my prayer and spare my life, because death is better for me than life. And the Lord said, \"Is it right for you to be so angry?\""
+    },
+    {
+      "source": "Entonces Jonás salió de la ciudad, se sentó en el lado este de la ciudad, y se hizo un techo de ramas, y se sentó bajo su sombra hasta que vio lo que sería de la ciudad. Y el Señor Dios hizo que una vid subiera sobre Jonás para darle sombra sobre su cabeza. Y Jonás se alegró mucho por la vid. Pero temprano en la mañana después, Dios preparó un gusano para la destrucción de la vid, y se secó.",
+      "translation": "Then Jonah left the city and sat on the eastern side, building a shelter of branches and resting in its shade until he could see what the city looked like. God then caused a vine to grow over Jonah, providing him with shade. Jonah was very pleased with the vine. However, early the next morning, God sent a worm to destroy the vine, and it withered."
+    },
+    {
+      "source": "Luego, cuando salió el sol, Dios envió un viento ardiente del este, y tan fuerte era el calor del sol sobre su cabeza que Jonás fue vencido y pidiendo la muerte para sí mismo, dijo, la muerte es mejor para mí que la vida. Y el Señor le dijo a Jonás, ¿tienes derecho a enojarte por la vid? Y él respondió, tengo derecho a estar realmente enojado hasta la muerte. Y el Señor dijo, te compadeciste de la vid, por la cual no trabajaste, y de cuyo crecimiento no fuiste responsable, que surgió en una noche y terminó en una noche.",
+      "translation": "Then, when the sun rose, God sent a scorching wind from the east, and the heat of the sun on his head was so intense that Jonah was overcome and, pleading for his life, he said, \"It is better for me to die than to live.\" And the Lord said to Jonah, \"Do you have the right to be angry about the fig tree?\" And he replied, \"I have the right to be truly angry until I die.\" And the Lord said, \"You pitied the fig tree, for which you did not labor, and over whose growth you had no control, which appeared in one night and perished in another.\""
+    },
+    {
+      "source": "¿Y no tendré piedad de Nínive, esa gran ciudad en la que hay más de 120 .000 personas, sin el poder de juzgar entre derecha e izquierda, así como mucho ganado?",
+      "translation": "And will I show no mercy towards Nineveh, that great city with over 120,000 people, without the power to distinguish between right and wrong, and also to protect the livestock?"
+    }
+  ]
+}

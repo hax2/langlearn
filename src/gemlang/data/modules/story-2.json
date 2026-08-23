@@ -1,0 +1,205 @@
+{
+  "id": "story-2",
+  "type": "story",
+  "title": "📖 Story: A Day with Marta",
+  "description": "Follow Marta through her daily routine using verbs, possession, and likes.",
+  "level": "Beginner",
+  "storyIntro": "You've now learned about possession with tener, regular -AR and -ER/-IR verbs, reflexive verbs, and how to express likes with gustar.\n\nLet's follow Marta through a typical day and see all of these concepts come to life!",
+  "sentences": [
+    {
+      "id": "s2-s1",
+      "spanish": "Marta se despierta a las siete.",
+      "english": "Marta wakes up at seven.",
+      "wordMeanings": {
+        "Marta": "Marta",
+        "se despierta": "wakes up (reflexive)",
+        "a": "at",
+        "las": "the",
+        "siete": "seven"
+      }
+    },
+    {
+      "id": "s2-s2",
+      "spanish": "Ella se ducha y se viste rápido.",
+      "english": "She showers and gets dressed quickly.",
+      "wordMeanings": {
+        "Ella": "she",
+        "se ducha": "showers (reflexive)",
+        "y": "and",
+        "se viste": "gets dressed (reflexive)",
+        "rápido": "quickly"
+      }
+    },
+    {
+      "id": "s2-s3",
+      "spanish": "Marta tiene un gato. El gato se llama Luna.",
+      "english": "Marta has a cat. The cat is called Luna.",
+      "wordMeanings": {
+        "tiene": "has",
+        "un": "a",
+        "gato": "cat",
+        "El": "the",
+        "se llama": "is called (reflexive)",
+        "Luna": "Luna (Moon)"
+      }
+    },
+    {
+      "id": "s2-s4",
+      "spanish": "A Marta le gusta el café con leche.",
+      "english": "Marta likes coffee with milk.",
+      "wordMeanings": {
+        "A": "to",
+        "Marta": "Marta",
+        "le gusta": "likes (pleases her)",
+        "el": "the",
+        "café": "coffee",
+        "con": "with",
+        "leche": "milk"
+      }
+    },
+    {
+      "id": "s2-s5",
+      "spanish": "Ella estudia español en la escuela.",
+      "english": "She studies Spanish at school.",
+      "wordMeanings": {
+        "Ella": "she",
+        "estudia": "studies",
+        "español": "Spanish",
+        "en": "at / in",
+        "la": "the",
+        "escuela": "school"
+      }
+    },
+    {
+      "id": "s2-s6",
+      "spanish": "Ella habla con sus amigos.",
+      "english": "She talks with her friends.",
+      "wordMeanings": {
+        "habla": "talks / speaks",
+        "con": "with",
+        "sus": "her (plural possessive)",
+        "amigos": "friends"
+      }
+    },
+    {
+      "id": "s2-s7",
+      "spanish": "A ellos les gusta comer juntos.",
+      "english": "They like to eat together.",
+      "wordMeanings": {
+        "A ellos": "to them",
+        "les gusta": "they like",
+        "comer": "to eat",
+        "juntos": "together"
+      }
+    },
+    {
+      "id": "s2-s8",
+      "spanish": "Marta come una ensalada y bebe agua.",
+      "english": "Marta eats a salad and drinks water.",
+      "wordMeanings": {
+        "come": "eats",
+        "una": "a",
+        "ensalada": "salad",
+        "y": "and",
+        "bebe": "drinks",
+        "agua": "water"
+      }
+    },
+    {
+      "id": "s2-s9",
+      "spanish": "Ella trabaja mucho. Ella escribe en su cuaderno.",
+      "english": "She works a lot. She writes in her notebook.",
+      "wordMeanings": {
+        "trabaja": "works",
+        "mucho": "a lot",
+        "escribe": "writes",
+        "en": "in",
+        "su": "her",
+        "cuaderno": "notebook"
+      }
+    },
+    {
+      "id": "s2-s10",
+      "spanish": "No le gusta la tarea. Es aburrida.",
+      "english": "She doesn't like the homework. It's boring.",
+      "wordMeanings": {
+        "No": "not",
+        "le gusta": "she likes",
+        "la": "the",
+        "tarea": "homework",
+        "Es": "it is",
+        "aburrida": "boring"
+      }
+    },
+    {
+      "id": "s2-s11",
+      "spanish": "Marta tiene dos hermanos. Ellos viven en la misma casa.",
+      "english": "Marta has two brothers. They live in the same house.",
+      "wordMeanings": {
+        "tiene": "has",
+        "dos": "two",
+        "hermanos": "brothers",
+        "Ellos": "they",
+        "viven": "live",
+        "en": "in",
+        "la": "the",
+        "misma": "same",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "s2-s12",
+      "spanish": "Por la noche, Marta se acuesta temprano.",
+      "english": "At night, Marta goes to bed early.",
+      "wordMeanings": {
+        "Por": "during",
+        "la": "the",
+        "noche": "night",
+        "se acuesta": "goes to bed (reflexive)",
+        "temprano": "early"
+      }
+    },
+    {
+      "id": "s2-s13",
+      "spanish": "A ella le gusta leer antes de dormir.",
+      "english": "She likes to read before sleeping.",
+      "wordMeanings": {
+        "A ella": "to her",
+        "le gusta": "she likes",
+        "leer": "to read",
+        "antes de": "before",
+        "dormir": "to sleep"
+      }
+    },
+    {
+      "id": "s2-s14",
+      "spanish": "Buenas noches, Luna. Hasta mañana.",
+      "english": "Good night, Luna. Until tomorrow.",
+      "wordMeanings": {
+        "Buenas": "good (fem pl)",
+        "noches": "nights",
+        "Luna": "Luna",
+        "Hasta": "until",
+        "mañana": "tomorrow"
+      }
+    }
+  ],
+  "vocabulary": {
+    "ensalada": {
+      "mnemonic": "Sounds like 'in salad' — a nice healthy salad!",
+      "explanation": "Feminine noun meaning 'salad'."
+    },
+    "cuaderno": {
+      "mnemonic": "Think 'quad notebook' — four-sided pages.",
+      "explanation": "Means 'notebook'."
+    },
+    "tarea": {
+      "mnemonic": "Think 'task-area' — your homework task!",
+      "explanation": "Means 'homework' or 'task'."
+    },
+    "temprano": {
+      "mnemonic": "Think 'temp-rain-o' — early morning temperature.",
+      "explanation": "Means 'early'. Opposite of 'tarde'."
+    }
+  }
+}

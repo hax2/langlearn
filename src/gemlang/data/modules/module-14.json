@@ -1,0 +1,466 @@
+{
+  "id": "module-14",
+  "title": "Chapter 14: Indirect Object Pronouns",
+  "description": "Express 'to whom' or 'for whom' using 'le' and 'les'.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "m14-s1",
+      "spanish": "Doy el libro a Ana.",
+      "english": "I give the book to Ana.",
+      "wordMeanings": {
+        "Doy": "I give",
+        "el": "the",
+        "libro": "book",
+        "a": "to",
+        "Ana": "Ana"
+      }
+    },
+    {
+      "id": "m14-s2",
+      "spanish": "Le doy el libro.",
+      "english": "I give her the book.",
+      "wordMeanings": {
+        "Le": "to him / her",
+        "doy": "I give",
+        "el": "the",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "m14-s3",
+      "spanish": "Doy la carta a Luis.",
+      "english": "I give the letter to Luis.",
+      "wordMeanings": {
+        "Doy": "I give",
+        "la": "the / it (fem)",
+        "carta": "letter",
+        "a": "to",
+        "Luis": "Luis"
+      }
+    },
+    {
+      "id": "m14-s4",
+      "spanish": "Le doy la carta.",
+      "english": "I give him the letter.",
+      "wordMeanings": {
+        "Le": "to him / her",
+        "doy": "I give",
+        "la": "the / it (fem)",
+        "carta": "letter"
+      }
+    },
+    {
+      "id": "m14-s5",
+      "spanish": "Escribo a Marta.",
+      "english": "I write to Marta.",
+      "wordMeanings": {
+        "Escribo": "I write",
+        "a": "to",
+        "Marta": "Marta"
+      }
+    },
+    {
+      "id": "m14-s6",
+      "spanish": "Le escribo.",
+      "english": "I write to her.",
+      "wordMeanings": {
+        "Le": "to him / her",
+        "escribo": "I write"
+      }
+    },
+    {
+      "id": "m14-s7",
+      "spanish": "Llamo a Carlos.",
+      "english": "I call Carlos.",
+      "wordMeanings": {
+        "Llamo": "I call",
+        "a": "to",
+        "Carlos": "Carlos"
+      }
+    },
+    {
+      "id": "m14-s8",
+      "spanish": "Le llamo.",
+      "english": "I call him.",
+      "wordMeanings": {
+        "Le": "to him / her",
+        "llamo": "I call"
+      }
+    },
+    {
+      "id": "m14-s9",
+      "spanish": "¿Le das dinero a tu hermano?",
+      "english": "Do you give money to your brother?",
+      "wordMeanings": {
+        "Le": "to him / her",
+        "das": "you give",
+        "dinero": "money",
+        "a": "to",
+        "tu": "your",
+        "hermano": "brother"
+      }
+    },
+    {
+      "id": "m14-s10",
+      "spanish": "Sí, le doy dinero.",
+      "english": "Yes, I give him money.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "le": "to him / her",
+        "doy": "I give",
+        "dinero": "money"
+      }
+    },
+    {
+      "id": "m14-s11",
+      "spanish": "¿Le das el regalo a tu amiga?",
+      "english": "Do you give the gift to your friend?",
+      "wordMeanings": {
+        "Le": "to her",
+        "das": "you give",
+        "el": "the",
+        "regalo": "gift",
+        "a": "to",
+        "tu": "your",
+        "amiga": "friend (female)"
+      }
+    },
+    {
+      "id": "m14-s12",
+      "spanish": "No, no le doy el regalo.",
+      "english": "No, I don’t give her the gift.",
+      "wordMeanings": {
+        "No": "no / not",
+        "no": "no / not",
+        "le": "to her",
+        "doy": "I give",
+        "el": "the",
+        "regalo": "gift"
+      }
+    },
+    {
+      "id": "m14-s13",
+      "spanish": "Damos el pan a ellos.",
+      "english": "We give the bread to them.",
+      "wordMeanings": {
+        "Damos": "we give",
+        "el": "the",
+        "pan": "bread",
+        "a": "to",
+        "ellos": "they / them"
+      }
+    },
+    {
+      "id": "m14-s14",
+      "spanish": "Les damos el pan.",
+      "english": "We give them the bread.",
+      "wordMeanings": {
+        "Les": "to them",
+        "damos": "we give",
+        "el": "the",
+        "pan": "bread"
+      }
+    },
+    {
+      "id": "m14-s15",
+      "spanish": "Damos la sopa a ustedes.",
+      "english": "We give the soup to you (pl.).",
+      "wordMeanings": {
+        "Damos": "we give",
+        "la": "the / it (fem)",
+        "sopa": "soup",
+        "a": "to",
+        "ustedes": "you (plural)"
+      }
+    },
+    {
+      "id": "m14-s16",
+      "spanish": "Les damos la sopa.",
+      "english": "We give you (pl.) the soup.",
+      "wordMeanings": {
+        "Les": "to them",
+        "damos": "we give",
+        "la": "the / it (fem)",
+        "sopa": "soup"
+      }
+    },
+    {
+      "id": "m14-s17",
+      "spanish": "Ayer le escribí a Ana.",
+      "english": "Yesterday I wrote to Ana.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "le": "to him / her",
+        "escribí": "I wrote",
+        "a": "to",
+        "Ana": "Ana"
+      }
+    },
+    {
+      "id": "m14-s18",
+      "spanish": "Ayer le llamé a Luis.",
+      "english": "Yesterday I called Luis.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "le": "to him / her",
+        "llamé": "I called",
+        "a": "to",
+        "Luis": "Luis"
+      }
+    },
+    {
+      "id": "m14-s19",
+      "spanish": "Hoy le he escrito a Marta.",
+      "english": "Today I’ve written to Marta.",
+      "wordMeanings": {
+        "Hoy": "today",
+        "le": "to him / her",
+        "he": "I have",
+        "escrito": "written",
+        "a": "to",
+        "Marta": "Marta"
+      }
+    },
+    {
+      "id": "m14-s20",
+      "spanish": "Hoy le he llamado a Carlos.",
+      "english": "Today I’ve called Carlos.",
+      "wordMeanings": {
+        "Hoy": "today",
+        "le": "to him / her",
+        "he": "I have",
+        "llamado": "called",
+        "a": "to",
+        "Carlos": "Carlos"
+      }
+    },
+    {
+      "id": "m14-s21",
+      "spanish": "Le digo la verdad.",
+      "english": "I tell him/her the truth.",
+      "wordMeanings": {
+        "Le": "to him / her",
+        "digo": "I say",
+        "la": "the / it (fem)",
+        "verdad": "truth"
+      }
+    },
+    {
+      "id": "m14-s22",
+      "spanish": "Les digo la verdad.",
+      "english": "I tell them the truth.",
+      "wordMeanings": {
+        "Les": "to them",
+        "digo": "I say",
+        "la": "the / it (fem)",
+        "verdad": "truth"
+      }
+    },
+    {
+      "id": "m14-s23",
+      "spanish": "¿Qué le dices?",
+      "english": "What do you tell him/her?",
+      "wordMeanings": {
+        "Qué": "what",
+        "le": "to him / her",
+        "dices": "you say"
+      }
+    },
+    {
+      "id": "m14-s24",
+      "spanish": "Le digo: 'Hola'.",
+      "english": "I tell him/her: 'Hi'.",
+      "wordMeanings": {
+        "Le": "to him / her",
+        "digo:": "I say:",
+        "'Hola'": "hello"
+      }
+    },
+    {
+      "id": "m14-s25",
+      "spanish": "Le gusta el café a Ana.",
+      "english": "Ana likes coffee.",
+      "wordMeanings": {
+        "Le": "to him / her",
+        "gusta": "likes",
+        "el": "the",
+        "café": "coffee",
+        "a": "to",
+        "Ana": "Ana"
+      }
+    },
+    {
+      "id": "m14-s26",
+      "spanish": "A Ana le gusta el café.",
+      "english": "Ana likes coffee.",
+      "wordMeanings": {
+        "A": "to",
+        "Ana": "Ana",
+        "le": "to him / her",
+        "gusta": "likes",
+        "el": "the",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m14-s27",
+      "spanish": "Le doy el libro ahora.",
+      "english": "I give him/her the book now.",
+      "wordMeanings": {
+        "Le": "to him / her",
+        "doy": "I give",
+        "el": "the",
+        "libro": "book",
+        "ahora": "now"
+      }
+    },
+    {
+      "id": "m14-s28",
+      "spanish": "No le doy el libro ahora.",
+      "english": "I don’t give him/her the book now.",
+      "wordMeanings": {
+        "No": "no / not",
+        "le": "to him / her",
+        "doy": "I give",
+        "el": "the",
+        "libro": "book",
+        "ahora": "now"
+      }
+    },
+    {
+      "id": "m14-s29",
+      "spanish": "¿Le hablas a tu amigo?",
+      "english": "Do you talk to your friend?",
+      "wordMeanings": {
+        "Le": "to him / her",
+        "hablas": "you speak",
+        "a": "to",
+        "tu": "your",
+        "amigo": "friend (male)"
+      }
+    },
+    {
+      "id": "m14-s30",
+      "spanish": "Sí, le hablo.",
+      "english": "Yes, I talk to him/her.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "le": "to him / her",
+        "hablo": "I speak"
+      }
+    },
+    {
+      "spanish": "Le echo una mano.",
+      "english": "I lend him/her a hand.",
+      "wordMeanings": {
+        "Le": "to him/her",
+        "echo": "I throw (lend)",
+        "una": "a",
+        "mano": "hand"
+      },
+      "id": "m14-s-colloq1"
+    },
+    {
+      "spanish": "¿Qué le pasa?",
+      "english": "What's wrong with him/her?",
+      "wordMeanings": {
+        "Qué": "what",
+        "le": "to him/her",
+        "pasa": "happens"
+      },
+      "id": "m14-s-colloq2"
+    }
+  ],
+  "grammarExplanation": "Indirect object pronouns tell TO WHOM or FOR WHOM an action is done:\n\n• me = to me\n• te = to you\n• le = to him/her/you (formal)\n• nos = to us\n• les = to them/you (plural)\n\nThey go BEFORE the verb:\n• 'Doy el libro a Ana' → 'Le doy el libro' (I give her the book)\n\n'A + person' can clarify who 'le/les' refers to:\n• 'Le doy el libro a Ana.'",
+  "vocabulary": {
+    "libro": {
+      "mnemonic": "Think 'library' — full of libros (books)!",
+      "explanation": "Means 'book'. Masculine noun."
+    },
+    "le": {
+      "mnemonic": "'Lend to him/her' — indirect pronoun.",
+      "explanation": "Indirect object: to him/her."
+    },
+    "la": {
+      "mnemonic": "'La lady' — her/it (feminine).",
+      "explanation": "Also 'the' (feminine)."
+    },
+    "carta": {
+      "mnemonic": "Think 'card/letter'.",
+      "explanation": "Means 'letter' or 'menu'."
+    },
+    "escribo": {
+      "mnemonic": "Think 'scribe' — I write.",
+      "explanation": "First person of 'escribir' (to write)."
+    },
+    "dinero": {
+      "mnemonic": "'Diner-o' — you need dinero at the diner.",
+      "explanation": "Means 'money'."
+    },
+    "tu": {
+      "mnemonic": "Sounds like 'to' — what belongs to you.",
+      "explanation": "Possessive 'your'. No accent (unlike 'tú' = you)."
+    },
+    "hermano": {
+      "mnemonic": "'Her man, oh!' — her brother.",
+      "explanation": "Means 'brother'. Fem: hermana."
+    },
+    "tiempo": {
+      "mnemonic": "Think 'tempo' — time and rhythm.",
+      "explanation": "Means 'time' or 'weather'."
+    },
+    "amiga": {
+      "mnemonic": "Feminine version of 'amigo' — your gal pal.",
+      "explanation": "Female friend. Note the -a ending."
+    },
+    "pan": {
+      "mnemonic": "Bread baked in a pan!",
+      "explanation": "Means 'bread'. Masculine noun."
+    },
+    "les": {
+      "mnemonic": "'Lend to them' — indirect pronoun.",
+      "explanation": "Indirect object: to them."
+    },
+    "ustedes": {
+      "mnemonic": "Think 'you-sted-es' — all of you!",
+      "explanation": "In Spain this is formal only; everyday plural 'you all' is vosotros."
+    },
+    "ayer": {
+      "mnemonic": "'A year ago? No, just yesterday!'",
+      "explanation": "Means 'yesterday'."
+    },
+    "hoy": {
+      "mnemonic": "'Hoy! today!' — an exclamation for today.",
+      "explanation": "Means 'today'."
+    },
+    "he": {
+      "mnemonic": "'He' is the 'have' helper verb.",
+      "explanation": "Auxiliary for present perfect."
+    },
+    "escrito": {
+      "mnemonic": "Think 'script' — written!",
+      "explanation": "Past participle of 'escribir'. Irregular."
+    },
+    "gusta": {
+      "mnemonic": "Think 'gusto' — 'with gusto, I like it!'",
+      "explanation": "'Me gusta' = it pleases me."
+    },
+    "café": {
+      "mnemonic": "Same as English 'café' — coffee!",
+      "explanation": "Means 'coffee' or 'café'."
+    },
+    "hablas": {
+      "mnemonic": "'Ha-blas' — you blast out words.",
+      "explanation": "Second person of 'hablar'."
+    },
+    "amigo": {
+      "mnemonic": "Already used in English — a friendly buddy.",
+      "explanation": "Male friend. 'Amiga' for female."
+    },
+    "hablo": {
+      "mnemonic": "Think 'hobble along while speaking'.",
+      "explanation": "First person of 'hablar' (to speak)."
+    }
+  }
+}

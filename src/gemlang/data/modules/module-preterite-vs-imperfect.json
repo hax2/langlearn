@@ -1,0 +1,400 @@
+{
+  "id": "module-past-comparison",
+  "title": "Grammar: Preterite vs. Imperfect",
+  "description": "Understand when to use completed actions versus ongoing background actions.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "mpvsi-s1",
+      "spanish": "Ayer llovía cuando salí.",
+      "english": "Yesterday it was raining when I left.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "llovía": "was raining",
+        "cuando": "when",
+        "salí": "I left"
+      }
+    },
+    {
+      "id": "mpvsi-s2",
+      "spanish": "Yo leía mientras él dormía.",
+      "english": "I was reading while he was sleeping.",
+      "wordMeanings": {
+        "Yo": "I",
+        "leía": "I was reading",
+        "mientras": "while",
+        "él": "he",
+        "dormía": "was sleeping"
+      }
+    },
+    {
+      "id": "mpvsi-s3",
+      "spanish": "Hacía sol y fuimos a la playa.",
+      "english": "It was sunny and we went to the beach.",
+      "wordMeanings": {
+        "Hacía": "it was (doing)",
+        "sol": "sun",
+        "y": "and",
+        "fuimos": "we went",
+        "a": "to",
+        "la": "the",
+        "playa": "beach"
+      }
+    },
+    {
+      "id": "mpvsi-s4",
+      "spanish": "Eran las tres cuando llegaron.",
+      "english": "It was three o'clock when they arrived.",
+      "wordMeanings": {
+        "Eran": "It was",
+        "las": "the (fem pl)",
+        "tres": "three",
+        "cuando": "when",
+        "llegaron": "they arrived"
+      }
+    },
+    {
+      "id": "mpvsi-s5",
+      "spanish": "Estaba cansado, así que me fui.",
+      "english": "I was tired, so I left.",
+      "wordMeanings": {
+        "Estaba": "I was",
+        "cansado": "tired",
+        "así": "so / like this",
+        "que": "that",
+        "me": "myself",
+        "fui": "I went / I left"
+      }
+    },
+    {
+      "id": "mpvsi-s6",
+      "spanish": "Conocí a mi mujer en Madrid.",
+      "english": "I met my wife in Madrid.",
+      "wordMeanings": {
+        "Conocí": "I met",
+        "a": "to (personal a)",
+        "mi": "my",
+        "mujer": "wife / woman",
+        "en": "in",
+        "Madrid": "Madrid"
+      }
+    },
+    {
+      "id": "mpvsi-s7",
+      "spanish": "Yo sabía la verdad pero no dije nada.",
+      "english": "I knew the truth but didn't say anything.",
+      "wordMeanings": {
+        "Yo": "I",
+        "sabía": "I knew",
+        "la": "the",
+        "verdad": "truth",
+        "pero": "but",
+        "no": "not",
+        "dije": "I said",
+        "nada": "nothing"
+      }
+    },
+    {
+      "id": "mpvsi-s8",
+      "spanish": "De niño, jugaba en el parque.",
+      "english": "As a child, I used to play in the park.",
+      "wordMeanings": {
+        "De": "of / as",
+        "niño": "boy / child",
+        "jugaba": "I used to play",
+        "en": "in",
+        "el": "the",
+        "parque": "park"
+      }
+    },
+    {
+      "id": "mpvsi-s9",
+      "spanish": "Hablamos por dos horas anoche.",
+      "english": "We talked for two hours last night.",
+      "wordMeanings": {
+        "Hablamos": "we talked",
+        "por": "for / by",
+        "dos": "two",
+        "horas": "hours",
+        "anoche": "last night"
+      }
+    },
+    {
+      "id": "mpvsi-s10",
+      "spanish": "Quería salir, pero empezó a llover.",
+      "english": "I wanted to go out, but it started to rain.",
+      "wordMeanings": {
+        "Quería": "I wanted",
+        "salir": "to leave",
+        "pero": "but",
+        "empezó": "started",
+        "a": "to",
+        "llover": "to rain"
+      }
+    },
+    {
+      "id": "mpvsi-s11",
+      "spanish": "Era tarde cuando llegamos.",
+      "english": "It was late when we arrived.",
+      "wordMeanings": {
+        "Era": "it was",
+        "tarde": "late",
+        "cuando": "when",
+        "llegamos": "we arrived"
+      }
+    },
+    {
+      "id": "mpvsi-s12",
+      "spanish": "Hacía frío y empezó a nevar.",
+      "english": "It was cold and started to snow.",
+      "wordMeanings": {
+        "Hacía": "it was (making)",
+        "frío": "cold",
+        "y": "and",
+        "empezó": "started",
+        "a": "to",
+        "nevar": "snow"
+      }
+    },
+    {
+      "id": "mpvsi-s13",
+      "spanish": "Yo de niño bebía mucha leche.",
+      "english": "As a child I drank a lot of milk.",
+      "wordMeanings": {
+        "Yo": "I",
+        "de": "as/from",
+        "niño": "child/boy",
+        "bebía": "I drank/used to drink",
+        "mucha": "a lot of",
+        "leche": "milk"
+      }
+    },
+    {
+      "id": "mpvsi-s14",
+      "spanish": "Anoche comí una pizza entera.",
+      "english": "Last night I ate a whole pizza.",
+      "wordMeanings": {
+        "Anoche": "last night",
+        "comí": "I ate",
+        "una": "a",
+        "pizza": "pizza",
+        "entera": "whole"
+      }
+    },
+    {
+      "id": "mpvsi-s15",
+      "spanish": "Mientras cantaban, entró el profesor.",
+      "english": "While they were singing, the teacher entered.",
+      "wordMeanings": {
+        "Mientras": "while",
+        "cantaban": "they were singing",
+        "entró": "entered",
+        "el": "the",
+        "profesor": "teacher"
+      }
+    },
+    {
+      "id": "mpvsi-s16",
+      "spanish": "Siempre íbamos al cine los domingos.",
+      "english": "We always went to the cinema on Sundays.",
+      "wordMeanings": {
+        "Siempre": "always",
+        "íbamos": "we used to go",
+        "al": "to the",
+        "cine": "cinema/movies",
+        "los": "the",
+        "domingos": "Sundays"
+      }
+    },
+    {
+      "id": "mpvsi-s17",
+      "spanish": "Fui a la tienda tres veces ayer.",
+      "english": "I went to the store three times yesterday.",
+      "wordMeanings": {
+        "Fui": "I went",
+        "a": "to",
+        "la": "the",
+        "tienda": "store",
+        "tres": "three",
+        "veces": "times",
+        "ayer": "yesterday"
+      }
+    },
+    {
+      "id": "mpvsi-s18",
+      "spanish": "Nos conocimos en la fiesta el año pasado.",
+      "english": "We met at the party last year.",
+      "wordMeanings": {
+        "Nos": "each other/us",
+        "conocimos": "we met",
+        "en": "in/at",
+        "la": "the",
+        "fiesta": "party",
+        "el": "the",
+        "año": "year",
+        "pasado": "past/last"
+      }
+    },
+    {
+      "id": "mpvsi-s19",
+      "spanish": "Vosotros queríais viajar pero no teníais dinero.",
+      "english": "You (plural) wanted to travel but didn't have money.",
+      "wordMeanings": {
+        "Vosotros": "you (plural)",
+        "queríais": "wanted",
+        "viajar": "to travel",
+        "pero": "but",
+        "no": "not",
+        "teníais": "had",
+        "dinero": "money"
+      }
+    },
+    {
+      "id": "mpvsi-s20",
+      "spanish": "El teléfono sonó mientras me duchaba.",
+      "english": "The phone rang while I was showering.",
+      "wordMeanings": {
+        "El": "the",
+        "teléfono": "phone",
+        "sonó": "rang",
+        "mientras": "while",
+        "me": "myself",
+        "duchaba": "was showering"
+      }
+    },
+    {
+      "id": "mpvsi-s21",
+      "spanish": "Leí el libro en dos horas.",
+      "english": "I read the book in two hours.",
+      "wordMeanings": {
+        "Leí": "I read",
+        "el": "the",
+        "libro": "book",
+        "en": "in",
+        "dos": "two",
+        "horas": "hours"
+      }
+    },
+    {
+      "id": "mpvsi-s22",
+      "spanish": "Me sentí mal porque estaba enfermo.",
+      "english": "I felt bad because I was sick.",
+      "wordMeanings": {
+        "Me": "myself",
+        "sentí": "felt",
+        "mal": "bad",
+        "porque": "because",
+        "estaba": "was",
+        "enfermo": "sick"
+      }
+    },
+    {
+      "id": "mpvsi-s23",
+      "spanish": "Trabajábamos cuando oímos el ruido.",
+      "english": "We were working when we heard the noise.",
+      "wordMeanings": {
+        "Trabajábamos": "we were working",
+        "cuando": "when",
+        "oímos": "we heard",
+        "el": "the",
+        "ruido": "noise"
+      }
+    },
+    {
+      "id": "mpvsi-s24",
+      "spanish": "Tenía cinco años cuando tuve mi primer perro.",
+      "english": "I was five years old when I got my first dog.",
+      "wordMeanings": {
+        "Tenía": "I had/was",
+        "cinco": "five",
+        "años": "years",
+        "cuando": "when",
+        "tuve": "I had/got",
+        "mi": "my",
+        "primer": "first",
+        "perro": "dog"
+      }
+    },
+    {
+      "id": "mpvsi-s25",
+      "spanish": "Ella era alta y tenía pelo castaño.",
+      "english": "She was tall and had brown hair.",
+      "wordMeanings": {
+        "Ella": "she",
+        "era": "was",
+        "alta": "tall",
+        "y": "and",
+        "tenía": "had",
+        "pelo": "hair",
+        "castaño": "brown"
+      }
+    }
+  ],
+  "grammarExplanation": "Use the Preterite for completed actions, specific times, or interrupting actions (e.g., salí, fuimos). Use the Imperfect for ongoing background actions, descriptions in the past, age/time, or repeated habitual actions (e.g., llovía, era, jugaba). Verbs like 'saber' and 'conocer' change meaning based on tense: 'sabía' (I knew), 'supe' (I found out), 'conocía' (I knew someone), 'conocí' (I met someone).",
+  "vocabulary": {
+    "llovía": {
+      "mnemonic": "It was raining 'yo-vi-a' (I saw it).",
+      "explanation": "Imperfect of llover (to rain)."
+    },
+    "cuando": {
+      "mnemonic": "C-wan-do you want to go?",
+      "explanation": "Means 'when'."
+    },
+    "salí": {
+      "mnemonic": "Sally went out.",
+      "explanation": "Preterite of salir (to leave/go out)."
+    },
+    "mientras": {
+      "mnemonic": "Me entering while you leave.",
+      "explanation": "Means 'while'."
+    },
+    "dormía": {
+      "mnemonic": "Dormitory is for sleeping.",
+      "explanation": "Imperfect of dormir (to sleep)."
+    },
+    "hacía": {
+      "mnemonic": "Hacienda was making goods.",
+      "explanation": "Imperfect of hacer (to make/do). Used for weather."
+    },
+    "playa": {
+      "mnemonic": "Play at the playa.",
+      "explanation": "Means 'beach'."
+    },
+    "eran": {
+      "mnemonic": "Era a long time ago.",
+      "explanation": "Imperfect of ser (to be) for plural times or they were."
+    },
+    "llegaron": {
+      "mnemonic": "They arrived with luggage.",
+      "explanation": "Preterite of llegar (to arrive)."
+    },
+    "estaba": {
+      "mnemonic": "Establisment was there.",
+      "explanation": "Imperfect of estar (to be) for states/locations."
+    },
+    "cansado": {
+      "mnemonic": "Can't do more, I'm tired.",
+      "explanation": "Adjective meaning tired."
+    },
+    "conocí": {
+      "mnemonic": "Cognitive recognition.",
+      "explanation": "Preterite of conocer. In preterite it means 'met (for the first time)'."
+    },
+    "sabía": {
+      "mnemonic": "Savvy?",
+      "explanation": "Imperfect of saber. In imperfect it means 'knew (ongoing knowledge)'."
+    },
+    "dije": {
+      "mnemonic": "DJ said to dance.",
+      "explanation": "Preterite of decir (to say/tell)."
+    },
+    "jugaba": {
+      "mnemonic": "Juggle when playing.",
+      "explanation": "Imperfect of jugar (to play)."
+    },
+    "empezó": {
+      "mnemonic": "Emperor started his reign.",
+      "explanation": "Preterite of empezar (to start)."
+    }
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "id": "module-gustar-family",
+  "description": "Go beyond 'gustar': encantar, apetecer, doler, molestar, interesar, faltar and more.",
+  "title": "Grammar: Gustar-Family Verbs",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "mgustar-s1",
+      "spanish": "Me gusta el café solo.",
+      "english": "I like black coffee.",
+      "wordMeanings": {
+        "Me": "to me",
+        "gusta": "it pleases",
+        "solo": "plain / black"
+      }
+    },
+    {
+      "id": "mgustar-s2",
+      "spanish": "Me gustan las aceitunas.",
+      "english": "I like olives.",
+      "wordMeanings": {
+        "Me": "to me",
+        "gustan": "they please",
+        "aceitunas": "olives"
+      }
+    },
+    {
+      "id": "mgustar-s3",
+      "spanish": "¿Te gusta el fútbol?",
+      "english": "Do you like football?",
+      "wordMeanings": {
+        "Te": "to you",
+        "fútbol": "football"
+      }
+    },
+    {
+      "id": "mgustar-s4",
+      "spanish": "No me gusta madrugar los lunes.",
+      "english": "I don't like getting up early on Mondays.",
+      "wordMeanings": {
+        "lunes": "Mondays"
+      }
+    },
+    {
+      "id": "mgustar-s5",
+      "spanish": "A mi hermano le gustan los coches clásicos.",
+      "english": "My brother likes classic cars.",
+      "wordMeanings": {
+        "A": "to",
+        "le": "to him / her",
+        "coches": "cars",
+        "clásicos": "classic"
+      }
+    },
+    {
+      "id": "mgustar-s6",
+      "spanish": "Nos gusta salir por el centro.",
+      "english": "We like going out around the city centre.",
+      "wordMeanings": {
+        "Nos": "to us",
+        "salir": "going out",
+        "por": "around",
+        "centro": "centre"
+      }
+    },
+    {
+      "id": "mgustar-s7",
+      "spanish": "¿Os gusta el flamenco?",
+      "english": "Do you all like flamenco?",
+      "wordMeanings": {
+        "Os": "to you all",
+        "flamenco": "flamenco"
+      }
+    },
+    {
+      "id": "mgustar-s8",
+      "spanish": "Les encanta viajar en tren.",
+      "english": "They love travelling by train.",
+      "wordMeanings": {
+        "Les": "to them",
+        "encanta": "it delights",
+        "viajar": "to travel",
+        "tren": "train"
+      }
+    },
+    {
+      "id": "mgustar-s9",
+      "spanish": "Me encanta esta canción.",
+      "english": "I love this song.",
+      "wordMeanings": {
+        "encanta": "it delights",
+        "canción": "song"
+      }
+    },
+    {
+      "id": "mgustar-s10",
+      "spanish": "Me encantan los libros de historia.",
+      "english": "I love history books.",
+      "wordMeanings": {
+        "encantan": "they delight",
+        "libros": "books",
+        "historia": "history"
+      }
+    },
+    {
+      "id": "mgustar-s11",
+      "spanish": "¿Te apetece ir al cine esta noche?",
+      "english": "Fancy going to the cinema tonight?",
+      "wordMeanings": {
+        "apetece": "appeals to you (fancy)",
+        "cine": "cinema"
+      }
+    },
+    {
+      "id": "mgustar-s12",
+      "spanish": "Me apetece una caña bien fría.",
+      "english": "I fancy an ice-cold caña.",
+      "wordMeanings": {
+        "apetece": "appeals to me",
+        "caña": "small draught beer",
+        "bien": "really",
+        "fría": "cold (fem)"
+      }
+    },
+    {
+      "id": "mgustar-s13",
+      "spanish": "No me apetece cocinar hoy.",
+      "english": "I don't feel like cooking today.",
+      "wordMeanings": {
+        "cocinar": "to cook"
+      }
+    },
+    {
+      "id": "mgustar-s14",
+      "spanish": "Le duele la cabeza.",
+      "english": "His head hurts.",
+      "wordMeanings": {
+        "duele": "hurts (to him/her)",
+        "cabeza": "head"
+      }
+    },
+    {
+      "id": "mgustar-s15",
+      "spanish": "¿Te duelen los pies?",
+      "english": "Do your feet hurt?",
+      "wordMeanings": {
+        "duelen": "they hurt",
+        "pies": "feet"
+      }
+    },
+    {
+      "id": "mgustar-s16",
+      "spanish": "Me molesta el ruido de la calle.",
+      "english": "The street noise bothers me.",
+      "wordMeanings": {
+        "molesta": "bothers",
+        "ruido": "noise",
+        "calle": "street"
+      }
+    },
+    {
+      "id": "mgustar-s17",
+      "spanish": "Nos molesta llegar tarde.",
+      "english": "Being late annoys us.",
+      "wordMeanings": {
+        "llegar": "arriving",
+        "tarde": "late"
+      }
+    },
+    {
+      "id": "mgustar-s18",
+      "spanish": "Me interesa la historia de España.",
+      "english": "I'm interested in the history of Spain.",
+      "wordMeanings": {
+        "interesa": "interests",
+        "España": "Spain"
+      }
+    },
+    {
+      "id": "mgustar-s19",
+      "spanish": "¿Te interesan los coches antiguos?",
+      "english": "Are old cars interesting to you?",
+      "wordMeanings": {
+        "interesan": "they interest",
+        "antiguos": "old / vintage"
+      }
+    },
+    {
+      "id": "mgustar-s20",
+      "spanish": "No me importa llegar un poco tarde.",
+      "english": "I don't mind being a bit late.",
+      "wordMeanings": {
+        "importa": "matters",
+        "un": "a",
+        "poco": "bit / little"
+      }
+    },
+    {
+      "id": "mgustar-s21",
+      "spanish": "Me falta tiempo para todo.",
+      "english": "I don't have enough time for everything.",
+      "wordMeanings": {
+        "falta": "is lacking",
+        "todo": "everything"
+      }
+    },
+    {
+      "id": "mgustar-s22",
+      "spanish": "Les faltan dos jugadores.",
+      "english": "They are two players short.",
+      "wordMeanings": {
+        "faltan": "are missing",
+        "jugadores": "players"
+      }
+    },
+    {
+      "id": "mgustar-s23",
+      "spanish": "Me cae bien tu hermana.",
+      "english": "I really like your sister.",
+      "wordMeanings": {
+        "cae": "comes across (caer bien = to like someone)"
+      }
+    },
+    {
+      "id": "mgustar-s24",
+      "spanish": "Me caen genial tus primos.",
+      "english": "Your cousins are great fun.",
+      "wordMeanings": {
+        "caen": "come across (plural)",
+        "genial": "great",
+        "primos": "cousins"
+      }
+    },
+    {
+      "id": "mgustar-s25",
+      "spanish": "Me gustaría visitar Sevilla.",
+      "english": "I'd like to visit Seville.",
+      "wordMeanings": {
+        "gustaría": "would please me",
+        "visitar": "to visit",
+        "Sevilla": "Seville"
+      }
+    },
+    {
+      "id": "mgustar-s26",
+      "spanish": "Ya no me gusta tanto el chocolate.",
+      "english": "I don't like chocolate so much any more.",
+      "wordMeanings": {
+        "Ya": "no longer (ya no)",
+        "tanto": "so much",
+        "chocolate": "chocolate"
+      }
+    }
+  ],
+  "grammarExplanation": "These verbs work back-to-front compared with English: the THING is the grammatical subject and the PERSON is an indirect object pronoun.\n\n• Me gusta el café = Coffee pleases me (= I like coffee)\n• Me gustan las aceitunas = The olives please me (plural thing → gustan)\n\nIndirect object pronouns:\n• me = to me • te = to you • le = to him/her • nos = to us • os = to you all • les = to them\n\nThe verb agrees with the THING: gusta/gustan, encanta/encantan, interesa/interesan, falta/faltan.\n\nThe family:\n• encantar = to love (stronger than gustar)\n• apetecer = to fancy / feel like\n• doler = to hurt (me duele la cabeza)\n• molestar = to bother\n• interesar = to interest\n• importar = to matter (no me importa = I don't mind)\n• faltar = to be missing / lacking\n• caer bien = to like (a person): Me cae bien tu hermana.",
+  "vocabulary": {
+    "aceitunas": {
+      "mnemonic": "Olives = aceitunas, the tapa classic.",
+      "explanation": "Olives."
+    },
+    "caña": {
+      "mnemonic": "Small glass, big tradition.",
+      "explanation": "Small draught beer — the standard Spanish order."
+    },
+    "flamenco": {
+      "mnemonic": "Flamingo legs dance flamenco.",
+      "explanation": "Flamenco music and dance."
+    },
+    "genial": {
+      "mnemonic": "Genius-level great.",
+      "explanation": "Great / brilliant."
+    },
+    "ruido": {
+      "mnemonic": "Ruido ruins the quiet.",
+      "explanation": "Noise."
+    },
+    "antiguos": {
+      "mnemonic": "Antiques are old.",
+      "explanation": "Old / vintage."
+    },
+    "jugadores": {
+      "mnemonic": "Players juggle the ball.",
+      "explanation": "Players (team sports)."
+    }
+  }
+}

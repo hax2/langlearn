@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "trackId": "samaniego-leon-raton",
+  "sourceHash": "506cb946a62aa0ce77cba249786232c44ec7a5381dc87b99b1ee1689d6a00b58",
+  "provider": "ollama/translategemma:4b",
+  "sourceLanguage": "es",
+  "targetLanguage": "en",
+  "translatedAt": "2026-08-15T08:07:45.500322+00:00",
+  "characters": 796,
+  "blocks": [
+    {
+      "source": "el león y el ratón, Félix María Samaniego. Estaba un ratoncillo aprisionado. En las garras de un león, el desdichado en la tal ratonera no fue preso por ladrón de tocino ni de queso, sino porque con otros molestaba al león que en su retiro descansaba. Pide perdón, llorando su insolencia.",
+      "translation": "The Lion and the Mouse, by Félix María Samaniego. There was a little mouse trapped. Held in the claws of a lion, the unfortunate mouse was not imprisoned for stealing bacon or cheese, but because he disturbed the lion, who was resting. He begs for forgiveness, lamenting his insolence."
+    },
+    {
+      "source": "Al oír implorar la real clemencia, responde el rey en majestuoso tono, no dijera más Tito. Te perdono. Poco después, cazando el león, tropieza en una red oculta en la maleza. Quiere salir, más queda prisionero.",
+      "translation": "Hearing the prince plead for genuine mercy, the king responds in a majestic tone: \"Do not say any more, Titus. I forgive you.\" Shortly after, while hunting, he stumbles upon a hidden net in the undergrowth. He tries to escape, but finds himself trapped."
+    },
+    {
+      "source": "Atronando la selva, ruge fiero. El libre ratoncillo, que lo siente, corriendo llega, roe diligente los nudos de la red, de tal manera que al fin rompió los grillos de la fiera. Conviene al poderoso para los infelices ser piadoso. Tal vez se puede ver necesitado del auxilio de aquel más desdichado.",
+      "translation": "Roaring through the jungle, the fierce beast thunders. The small, free mouse, sensing its presence, quickly arrives and diligently gnaws at the knots of the net, eventually breaking the beast's restraints. It is important for the powerful to show compassion to those in need. Perhaps he can see that he needs the help of the most unfortunate."
+    }
+  ]
+}

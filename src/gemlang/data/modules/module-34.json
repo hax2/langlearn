@@ -1,0 +1,143 @@
+{
+  "id": "module-34",
+  "title": "Poetry: Mariposa del Aire",
+  "description": "A lovely poem by Federico García Lorca.",
+  "level": "Advanced",
+  "sentences": [
+    {
+      "id": "m34-s1",
+      "spanish": "Mariposa del aire, qué hermosa eres.",
+      "english": "Butterfly of the air, how beautiful you are.",
+      "wordMeanings": {
+        "Mariposa": "butterfly",
+        "del": "of the",
+        "aire": "air",
+        "qué": "how",
+        "hermosa": "beautiful",
+        "eres": "you are"
+      }
+    },
+    {
+      "id": "m34-s2",
+      "spanish": "Mariposa del aire, dorada y verde.",
+      "english": "Butterfly of the air, golden and green.",
+      "wordMeanings": {
+        "Mariposa": "butterfly",
+        "del": "of the",
+        "aire": "air",
+        "dorada": "golden",
+        "y": "and",
+        "verde": "green"
+      }
+    },
+    {
+      "id": "m34-s3",
+      "spanish": "Luz del candil, mariposa del aire.",
+      "english": "Light of the lamp, butterfly of the air.",
+      "wordMeanings": {
+        "Luz": "light",
+        "del": "of the",
+        "candil": "oil lamp",
+        "mariposa": "butterfly",
+        "aire": "air"
+      }
+    },
+    {
+      "id": "m34-s4",
+      "spanish": "¡Quédate ahí, ahí, ahí!",
+      "english": "Stay there, there, there!",
+      "wordMeanings": {
+        "Quédate": "stay",
+        "ahí": "there"
+      }
+    },
+    {
+      "id": "m34-s5",
+      "spanish": "No te quieres parar, pararte no quieres.",
+      "english": "You do not want to stop, to stop you do not want.",
+      "wordMeanings": {
+        "No": "no",
+        "te": "yourself",
+        "quieres": "you want",
+        "parar": "to stop",
+        "pararte": "to stop yourself",
+        "no": "no"
+      }
+    },
+    {
+      "id": "m34-s6",
+      "spanish": "Mariposa del aire, dorada y verde.",
+      "english": "Butterfly of the air, golden and green.",
+      "wordMeanings": {
+        "Mariposa": "butterfly",
+        "del": "of the",
+        "aire": "air",
+        "dorada": "golden",
+        "y": "and",
+        "verde": "green"
+      }
+    },
+    {
+      "id": "m34-s7",
+      "spanish": "Luz del candil, mariposa del aire.",
+      "english": "Light of the lamp, butterfly of the air.",
+      "wordMeanings": {
+        "Luz": "light",
+        "del": "of the",
+        "candil": "oil lamp",
+        "mariposa": "butterfly",
+        "aire": "air"
+      }
+    },
+    {
+      "id": "m34-s8",
+      "spanish": "¡Quédate ahí, ahí, ahí!",
+      "english": "Stay there, there, there!",
+      "wordMeanings": {
+        "Quédate": "stay",
+        "ahí": "there"
+      }
+    },
+    {
+      "id": "m34-s9",
+      "spanish": "¡Quédate ahí! Mariposa, ¿estás ahí?",
+      "english": "Stay there! Butterfly, are you there?",
+      "wordMeanings": {
+        "Quédate": "stay",
+        "ahí": "there",
+        "Mariposa": "butterfly",
+        "estás": "are you"
+      }
+    }
+  ],
+  "vocabulary": {
+    "mariposa": {
+      "mnemonic": "'Mary poses' — a butterfly posing!",
+      "explanation": "Means 'butterfly'."
+    },
+    "aire": {
+      "mnemonic": "Same as English 'air'!",
+      "explanation": "Cognate."
+    },
+    "eres": {
+      "mnemonic": "Sounds like 'air is' — 'You are like air.'",
+      "explanation": "Informal 'you are' form of 'ser'."
+    },
+    "y": {
+      "mnemonic": "The letter 'Y' connects — like 'and' connects words.",
+      "explanation": "Pronounced like 'ee'. The simplest conjunction."
+    },
+    "verde": {
+      "mnemonic": "Think 'verdant' — lush green vegetation.",
+      "explanation": "Means 'green'. Same for masc/fem."
+    },
+    "luz": {
+      "mnemonic": "Think 'lux/luminous' — light.",
+      "explanation": "Feminine noun."
+    },
+    "estás": {
+      "mnemonic": "Think 'you establish your position'.",
+      "explanation": "Informal 'you are' (estar)."
+    }
+  }
+}

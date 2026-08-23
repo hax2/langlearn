@@ -1,0 +1,558 @@
+{
+  "id": "module-21",
+  "title": "Chapter 21: Real Conditionals",
+  "description": "Talk about what happens if a condition is met.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "m21-s1",
+      "spanish": "Si tienes tiempo, te vienes.",
+      "english": "If you have time, come along.",
+      "wordMeanings": {
+        "Si": "if",
+        "tienes": "you have",
+        "tiempo": "time",
+        "te": "yourself",
+        "vienes": "you come"
+      }
+    },
+    {
+      "id": "m21-s2",
+      "spanish": "Si tienes dinero, compra pan.",
+      "english": "If you have money, buy bread.",
+      "wordMeanings": {
+        "Si": "if",
+        "tienes": "you have",
+        "dinero": "money",
+        "compra": "buy (command)",
+        "pan": "bread"
+      }
+    },
+    {
+      "id": "m21-s3",
+      "spanish": "Si estudias un poco cada día, aprendes.",
+      "english": "If you study a little every day, you learn.",
+      "wordMeanings": {
+        "Si": "if",
+        "estudias": "you study",
+        "un": "a",
+        "poco": "little / bit",
+        "cada": "each / every",
+        "día": "day",
+        "aprendes": "you learn"
+      }
+    },
+    {
+      "id": "m21-s4",
+      "spanish": "Si trabajas mucho, ganas dinero.",
+      "english": "If you work a lot, you earn money.",
+      "wordMeanings": {
+        "Si": "if",
+        "trabajas": "you work",
+        "mucho": "much / a lot",
+        "ganas": "you earn / win",
+        "dinero": "money"
+      }
+    },
+    {
+      "id": "m21-s5",
+      "spanish": "Si comes bien, duermes bien.",
+      "english": "If you eat well, you sleep well.",
+      "wordMeanings": {
+        "Si": "if",
+        "comes": "you eat",
+        "bien": "well/good",
+        "duermes": "you sleep"
+      }
+    },
+    {
+      "id": "m21-s6",
+      "spanish": "Si bebes agua, estás mejor.",
+      "english": "If you drink water, you feel better.",
+      "wordMeanings": {
+        "Si": "if",
+        "bebes": "you drink",
+        "agua": "water",
+        "estás": "you are",
+        "mejor": "better"
+      }
+    },
+    {
+      "id": "m21-s7",
+      "spanish": "Si llegas pronto, hablamos.",
+      "english": "If you arrive soon, we'll talk.",
+      "wordMeanings": {
+        "Si": "if",
+        "llegas": "you arrive",
+        "pronto": "soon / early",
+        "hablamos": "we speak"
+      }
+    },
+    {
+      "id": "m21-s8",
+      "spanish": "Si llegas tarde, no comemos juntos.",
+      "english": "If you arrive late, we don't eat together.",
+      "wordMeanings": {
+        "Si": "if",
+        "llegas": "you arrive",
+        "tarde": "late / afternoon",
+        "no": "no / not",
+        "comemos": "we eat",
+        "juntos": "together"
+      }
+    },
+    {
+      "id": "m21-s9",
+      "spanish": "Si vienes mañana, vamos a tomar un café.",
+      "english": "If you come tomorrow, we'll go for a coffee.",
+      "wordMeanings": {
+        "Si": "if",
+        "vienes": "you come",
+        "mañana": "tomorrow / morning",
+        "vamos": "we go",
+        "a": "to",
+        "tomar": "to have / take",
+        "un": "a",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m21-s10",
+      "spanish": "Si vas hoy, compra el libro.",
+      "english": "If you go today, buy the book.",
+      "wordMeanings": {
+        "Si": "if",
+        "vas": "you go",
+        "hoy": "today",
+        "compra": "buy (command)",
+        "el": "the",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "m21-s11",
+      "spanish": "Si abres la puerta, entra.",
+      "english": "If you open the door, he/she comes in.",
+      "wordMeanings": {
+        "Si": "if",
+        "abres": "you open",
+        "la": "the / it (fem)",
+        "puerta": "door",
+        "entra": "enters"
+      }
+    },
+    {
+      "id": "m21-s12",
+      "spanish": "Si cierras la ventana, se está mejor.",
+      "english": "If you close the window, it's more comfortable.",
+      "wordMeanings": {
+        "Si": "if",
+        "cierras": "you close",
+        "la": "the / it (fem)",
+        "ventana": "window",
+        "se": "one / people",
+        "está": "is",
+        "mejor": "better"
+      }
+    },
+    {
+      "id": "m21-s13",
+      "spanish": "Si me escuchas, lo entiendes.",
+      "english": "If you listen to me, you'll understand it.",
+      "wordMeanings": {
+        "Si": "if",
+        "me": "me / to me",
+        "escuchas": "you listen",
+        "lo": "it / him",
+        "entiendes": "you understand"
+      }
+    },
+    {
+      "id": "m21-s14",
+      "spanish": "Si me dices la verdad, te ayudo.",
+      "english": "If you tell me the truth, I'll help you.",
+      "wordMeanings": {
+        "Si": "if",
+        "me": "me / to me",
+        "dices": "you say",
+        "la": "the / it (fem)",
+        "verdad": "truth",
+        "te": "you / to you",
+        "ayudo": "I help"
+      }
+    },
+    {
+      "id": "m21-s15",
+      "spanish": "Si me lo dices, lo entiendo.",
+      "english": "If you tell it to me, I understand it.",
+      "wordMeanings": {
+        "Si": "if",
+        "me": "me / to me",
+        "lo": "it / him",
+        "dices": "you say",
+        "entiendo": "I understand"
+      }
+    },
+    {
+      "id": "m21-s16",
+      "spanish": "Si lo compras hoy, es más barato.",
+      "english": "If you buy it today, it's cheaper.",
+      "wordMeanings": {
+        "Si": "if",
+        "lo": "it / him",
+        "compras": "you buy",
+        "hoy": "today",
+        "es": "is",
+        "más": "more",
+        "barato": "cheap"
+      }
+    },
+    {
+      "id": "m21-s17",
+      "spanish": "Si la compras hoy, es más barata.",
+      "english": "If you buy it today, it's cheaper.",
+      "wordMeanings": {
+        "Si": "if",
+        "la": "the / it (fem)",
+        "compras": "you buy",
+        "hoy": "today",
+        "es": "is",
+        "más": "more",
+        "barata": "cheap (fem)"
+      }
+    },
+    {
+      "id": "m21-s18",
+      "spanish": "Si los compras hoy, es mejor.",
+      "english": "If you buy them today, it's better.",
+      "wordMeanings": {
+        "Si": "if",
+        "los": "the / them",
+        "compras": "you buy",
+        "hoy": "today",
+        "es": "is",
+        "mejor": "better"
+      }
+    },
+    {
+      "id": "m21-s19",
+      "spanish": "Si las compras hoy, es mejor.",
+      "english": "If you buy them today, it's better.",
+      "wordMeanings": {
+        "Si": "if",
+        "las": "the / them (fem)",
+        "compras": "you buy",
+        "hoy": "today",
+        "es": "is",
+        "mejor": "better"
+      }
+    },
+    {
+      "id": "m21-s20",
+      "spanish": "Si tienes hambre, come ahora.",
+      "english": "If you're hungry, eat now.",
+      "wordMeanings": {
+        "Si": "if",
+        "tienes": "you have",
+        "hambre": "hunger",
+        "come": "eat (command)",
+        "ahora": "now"
+      }
+    },
+    {
+      "id": "m21-s21",
+      "spanish": "Si tienes sed, bebe agua.",
+      "english": "If you're thirsty, drink water.",
+      "wordMeanings": {
+        "Si": "if",
+        "tienes": "you have",
+        "sed": "thirst",
+        "bebe": "drink (command)",
+        "agua": "water"
+      }
+    },
+    {
+      "id": "m21-s22",
+      "spanish": "Si estás aquí, te veo.",
+      "english": "If you're here, I see you.",
+      "wordMeanings": {
+        "Si": "if",
+        "estás": "you are",
+        "aquí": "here",
+        "te": "you / to you",
+        "veo": "I see"
+      }
+    },
+    {
+      "id": "m21-s23",
+      "spanish": "Si no estás aquí, no te veo.",
+      "english": "If you're not here, I don't see you.",
+      "wordMeanings": {
+        "Si": "if",
+        "no": "no / not",
+        "estás": "you are",
+        "aquí": "here",
+        "te": "you / to you",
+        "veo": "I see"
+      }
+    },
+    {
+      "id": "m21-s24",
+      "spanish": "Si quieres, lo hablamos.",
+      "english": "If you want, we'll talk about it.",
+      "wordMeanings": {
+        "Si": "if",
+        "quieres": "you want",
+        "lo": "it",
+        "hablamos": "we speak / discuss"
+      }
+    },
+    {
+      "id": "m21-s25",
+      "spanish": "Si quieres, abro la puerta.",
+      "english": "If you want, I'll open the door.",
+      "wordMeanings": {
+        "Si": "if",
+        "quieres": "you want",
+        "abro": "I open",
+        "la": "the / it (fem)",
+        "puerta": "door"
+      }
+    },
+    {
+      "id": "m21-s26",
+      "spanish": "Si quieres, te espero.",
+      "english": "If you want, I wait for you.",
+      "wordMeanings": {
+        "Si": "if",
+        "quieres": "you want",
+        "te": "you / to you",
+        "espero": "I wait / hope"
+      }
+    },
+    {
+      "id": "m21-s27",
+      "spanish": "Si puedes, ven ahora.",
+      "english": "If you can, come now.",
+      "wordMeanings": {
+        "Si": "if",
+        "puedes": "you can",
+        "ven": "come (command)",
+        "ahora": "now"
+      }
+    },
+    {
+      "id": "m21-s28",
+      "spanish": "Si no puedes, ven mañana.",
+      "english": "If you can't, come tomorrow.",
+      "wordMeanings": {
+        "Si": "if",
+        "no": "no / not",
+        "puedes": "you can",
+        "ven": "come (command)",
+        "mañana": "tomorrow / morning"
+      }
+    },
+    {
+      "id": "m21-s29",
+      "spanish": "Si llueve, me quedo en casa.",
+      "english": "If it rains, I stay at home.",
+      "wordMeanings": {
+        "Si": "if",
+        "llueve": "rains",
+        "me": "me / to me",
+        "quedo": "I stay",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m21-s30",
+      "spanish": "Si hace sol, vamos al centro.",
+      "english": "If it's sunny, we go to the city centre.",
+      "wordMeanings": {
+        "Si": "if",
+        "hace": "makes / does",
+        "sol": "sun",
+        "vamos": "we go",
+        "al": "to the",
+        "centro": "town centre"
+      }
+    }
+  ],
+  "grammarExplanation": "Real (open) conditionals describe things that CAN or DO happen when a condition is met. The 'si' clause uses the PRESENT INDICATIVE:\n\n'Si + present tense, present tense / command'\n\n• Si tienes tiempo, te vienes = If you have time, come along.\n• Si estudias, aprendes = If you study, you learn.\n• Si llueve, me quedo en casa = If it rains, I stay home.\n\nThe 'si' clause can go first or second: 'Te vienes si tienes tiempo.'",
+  "vocabulary": {
+    "si": {
+      "mnemonic": "'See if' — si = if.",
+      "explanation": "No accent = if. 'Sí' with accent = yes."
+    },
+    "tienes": {
+      "mnemonic": "'Tea-en-es' — you have tea.",
+      "explanation": "Informal 'you have'. From 'tener'."
+    },
+    "tiempo": {
+      "mnemonic": "Think 'tempo' — time and rhythm.",
+      "explanation": "Means 'time' or 'weather'."
+    },
+    "dinero": {
+      "mnemonic": "'Diner-o' — you need dinero at the diner.",
+      "explanation": "Means 'money'."
+    },
+    "compras": {
+      "mnemonic": "'Compare and purchase' — you buy.",
+      "explanation": "Second person of 'comprar'."
+    },
+    "pan": {
+      "mnemonic": "Bread baked in a pan!",
+      "explanation": "Means 'bread'. Masculine noun."
+    },
+    "estudias": {
+      "mnemonic": "'You study-as' — you study.",
+      "explanation": "Second person of 'estudiar'."
+    },
+    "trabajas": {
+      "mnemonic": "'Travel-has' — you work.",
+      "explanation": "Second person of 'trabajar'."
+    },
+    "mucho": {
+      "mnemonic": "Think 'much-o' — much/a lot!",
+      "explanation": "Means 'much/a lot'. Fem: mucha."
+    },
+    "comes": {
+      "mnemonic": "'Comes to eat' — you eat.",
+      "explanation": "Second person of 'comer'."
+    },
+    "bebes": {
+      "mnemonic": "Think 'babies drink'.",
+      "explanation": "Second person of 'beber'."
+    },
+    "agua": {
+      "mnemonic": "Think 'aqua' — water!",
+      "explanation": "Fem but uses 'el agua'."
+    },
+    "estás": {
+      "mnemonic": "Think 'you establish your position'.",
+      "explanation": "Informal 'you are' (estar)."
+    },
+    "mejor": {
+      "mnemonic": "'Major improvement' — better/best.",
+      "explanation": "Means 'better' or 'best'."
+    },
+    "temprano": {
+      "mnemonic": "'Temporary morning' — early!",
+      "explanation": "Means 'early'."
+    },
+    "hablamos": {
+      "mnemonic": "'Hobble-amos' — we talk.",
+      "explanation": "First person plural of 'hablar'."
+    },
+    "tarde": {
+      "mnemonic": "Think 'tardy' — late!",
+      "explanation": "Means 'late' or 'afternoon'."
+    },
+    "comemos": {
+      "mnemonic": "'Come-emos' — we eat together.",
+      "explanation": "First person plural of 'comer'."
+    },
+    "mañana": {
+      "mnemonic": "'Mañana, mañana' — putting off till tomorrow.",
+      "explanation": "Means 'tomorrow' or 'morning'."
+    },
+    "vamos": {
+      "mnemonic": "'¡Vamos!' — Let's go! Already English.",
+      "explanation": "First person plural of 'ir'."
+    },
+    "café": {
+      "mnemonic": "Same as English 'café' — coffee!",
+      "explanation": "Means 'coffee' or 'café'."
+    },
+    "vas": {
+      "mnemonic": "'Vast journey' — you go.",
+      "explanation": "Second person of 'ir'."
+    },
+    "hoy": {
+      "mnemonic": "'Hoy! today!' — an exclamation for today.",
+      "explanation": "Means 'today'."
+    },
+    "libro": {
+      "mnemonic": "Think 'library' — full of libros (books)!",
+      "explanation": "Means 'book'. Masculine noun."
+    },
+    "la": {
+      "mnemonic": "'La lady' — her/it (feminine).",
+      "explanation": "Also 'the' (feminine)."
+    },
+    "puerta": {
+      "mnemonic": "Think 'port/portal' — a door.",
+      "explanation": "Feminine noun meaning door/gate."
+    },
+    "ventana": {
+      "mnemonic": "'Vent-ana' — air vents in a window.",
+      "explanation": "From Latin 'ventus' (wind)."
+    },
+    "está": {
+      "mnemonic": "Think 'establish' where something is.",
+      "explanation": "Third person of 'estar' (to be, location/state)."
+    },
+    "escuchas": {
+      "mnemonic": "'Sketches of sounds' — you listen.",
+      "explanation": "Second person of 'escuchar'."
+    },
+    "lo": {
+      "mnemonic": "'Low him' — direct object him/it.",
+      "explanation": "Masculine direct object pronoun."
+    },
+    "es": {
+      "mnemonic": "Sounds like letter 'S' — 'He/She is S-uper.'",
+      "explanation": "Third person singular of 'ser'."
+    },
+    "los": {
+      "mnemonic": "'Los' = them (masculine plural).",
+      "explanation": "Direct object pronoun."
+    },
+    "las": {
+      "mnemonic": "'Las ladies' — them (feminine).",
+      "explanation": "Direct object pronoun."
+    },
+    "hambre": {
+      "mnemonic": "Think 'hamburger' — so hungry for one!",
+      "explanation": "'Tener hambre' = to be hungry."
+    },
+    "sed": {
+      "mnemonic": "Think 'said I'm thirsty!'",
+      "explanation": "'Tener sed' = to be thirsty."
+    },
+    "aquí": {
+      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
+      "explanation": "Means 'here'. More precise than 'acá'."
+    },
+    "hablo": {
+      "mnemonic": "Think 'hobble along while speaking'.",
+      "explanation": "First person of 'hablar' (to speak)."
+    },
+    "abro": {
+      "mnemonic": "Think 'abrogate/open' — I open.",
+      "explanation": "First person of 'abrir' (to open)."
+    },
+    "espero": {
+      "mnemonic": "Think 'aspire and wait' — I wait/hope.",
+      "explanation": "First person of 'esperar'."
+    },
+    "llueve": {
+      "mnemonic": "'It leaves rain' — it rains.",
+      "explanation": "Third person of 'llover' (to rain)."
+    },
+    "casa": {
+      "mnemonic": "Think 'casino' — a big house of games.",
+      "explanation": "Feminine noun. 'En casa' = at home."
+    },
+    "sol": {
+      "mnemonic": "Think 'solar' — sun!",
+      "explanation": "Means 'sun'."
+    },
+    "centro": {
+      "mnemonic": "Same as English 'centre' — the town centre!",
+      "explanation": "Also means 'centre'. 'El centro' = the town centre."
+    }
+  }
+}

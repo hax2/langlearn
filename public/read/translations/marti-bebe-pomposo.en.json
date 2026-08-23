@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "trackId": "marti-bebe-pomposo",
+  "sourceHash": "b2c797d2ebe96c890b516b663c4f82cc5511ed34d7eddaa746d2eb6bd8e8d73d",
+  "provider": "ollama/translategemma:4b",
+  "sourceLanguage": "es",
+  "targetLanguage": "en",
+  "translatedAt": "2026-08-15T08:10:02.108937+00:00",
+  "characters": 7341,
+  "blocks": [
+    {
+      "source": "Bebè y el señor Don Pomposo José Martí. Bebè es un niño magnífico, de cinco años. Tiene el pelo muy rubio, que le cae en rizos por la espalda, como en la lámina de los hijos del rey Eduardo, que el pícaro Gloucester hizo matar en la Torre de Londres, para hacerse él rey. A Bebè lo visten como al duquecito Fauntleroy, el que no tenía vergüenza de que lo vieran conversando en la calle con los niños pobres.",
+      "translation": "Bébé and Mr. Don Pomposo. Bébé is a wonderful child, five years old. He has very blonde hair that falls in curls down his back, just like in the illustration of the children of King Edward, whom the cunning Gloucester had murdered in the Tower of London, in order to become king himself. Bébé is dressed like the little Duke Fauntleroy, who was not ashamed to be seen talking to poor children in the street."
+    },
+    {
+      "source": "Le ponen pantaloncitos cortos ceñidos a la rodilla, y blusa con cuello de marinero, de drill blanco como los pantalones, y medias de seda colorada, y zapatos bajos. Como lo quieren a él mucho, él quiere mucho a los demás. No es un santo, oh no! Le tuerce los ojos a su criada francesa, cuando no le quiere dar más dulces, y se sentó una vez en visita con las pierna cruzadas, y rompió un día un jarrón muy hermoso, corriendo detrás de un gato.",
+      "translation": "He wears short, knee-length trousers and a sailor-style shirt, both made of white drill, along with red silk stockings and low shoes. Because he is so loved, he, in turn, loves everyone. He's not a saint, no! He rolls his eyes at his French maid when she refuses to give him more sweets, and he once sat with his legs crossed during a visit, and also broke a very beautiful vase one day while chasing a cat."
+    },
+    {
+      "source": "Pero en cuanto ve un niño descalzo, le quiere dar todo lo que tiene. A su caballo le lleva azúcar todas las mañanas, y lo llama caballito de mi alma. Con los criados viejos se está horas y horas, oyéndoles los cuentos de su tierra de África, de cuando ellos eran príncipes y reyes. Y tenían muchas vacas y muchos elefantes, y cada vez que Bebè ve a su mamá, le echa el bracito por la cintura, o se le sienta al lado en la banqueta, a que le cuente cómo crecen las flores, y de dónde le viene la luz al sol, y de qué está hecha la aguja con que cose, y si es verdad que la seda de su vestido la hacen unos gusanos, y si los gusanos van fabricando la tierra, como dijo ayer en la sala aquel señor de espejuelos.",
+      "translation": "But when he sees a barefoot child, he wants to give them everything he has. He brings his horse sugar every morning, and calls him \"my soul's horse.\" He spends hours talking to the older servants, listening to their stories about their homeland in Africa, when they were princes and kings. They had many cows and many elephants, and every time Bebè sees his mother, he reaches out to hug her, or sits beside her on the bench, listening to her tell him about how flowers grow, and where the sun's light comes from, and what the needle she uses for sewing is made of, and whether the silk in her dress is made by worms, and whether the worms are actually making the earth, as that gentleman in the hall said yesterday."
+    },
+    {
+      "source": "Y la madre te dice que sí, que hay unos gusanos que se fabrican unas casitas de seda, largas y redondas, que se llaman capullos y que es hora de irse a dormir, como los gusanitos que se meten en el capullo hasta que salen hechos mariposas. Y entonces sí que está lindo Bebè, a la hora de acostarse con sus medicitas caídas, y su color de rosa, como los niños que se bañan mucho, y su camisola de dormir, lo mismo que los angelitos de las pinturas, un angelito sin alas. Abraza mucho a su madre, la abraza muy fuerte, con la cabecita baja, como si quisiera quedarse en su corazón, y da brincos y vueltas de carnero, y salta en el colchón con los brazos levantados, para ver si alcanza a la mariposa azul que está pintada en el techo. Y se pone a nadar como en el baño, o a hacer como que cepilla la baranda de la cama, porque va a ser carpintero, o rueda por la cama hecho un carretel, con los rizos rubios revueltos con las medias coloradas.",
+      "translation": "And the mother says yes, that there are caterpillars that build little silk houses, long and round, called cocoons, and it's time to go to sleep, just like the caterpillars that go into the cocoon until they emerge as butterflies. And then, Bebè, it's so lovely to go to bed with his medicine and his pink pajamas, just like children who take baths a lot, and his sleeping gown, just like the angels in paintings, an angel without wings. He hugs his mother very tightly, with his head down, as if he wants to stay in her heart, and he jumps and rolls around, and jumps on the bed with his arms raised, trying to reach the blue butterfly that is painted on the ceiling. And he starts swimming like in the bathtub, or pretending to brush the bed, because he's going to be a carpenter, or he rolls around on the bed like a spool, with his blonde curls tangled with his red socks."
+    },
+    {
+      "source": "Pero esta noche Bebè está muy serio, y no da volteretas como todas las noches, ni se le cuelga del cuello a su mamá para que no se vaya, ni le dice a Luisa, a la francesita, que le cuente el cuento del gran comelón que se murió solo, y se comió un melón. Bebè cierra los ojos, pero no está dormido, Bebè está pensando. La verdad es que Bebè tiene mucho en qué pensar, porque va de viaje a París, como todos los años, para que los médicos buenos le digan a su mamá las medicinas que le van a quitar la tos, esa tos mala que a Bebè no le gusta oír, se le aguan los ojos a Bebè en cuanto oye toser a su mamá, y la abraza muy fuerte, muy fuerte, como si quisiera sujetarla. Esta vez Bebè no va solo a París, porque él no quiere hacer nada solo, como el hombre del melón, sino con un primito suyo que no tiene madre.",
+      "translation": "However, tonight Bebè is very serious, and he doesn't roll around like he does every night, nor does he cling to his mother's neck to stop her from leaving, nor does he tell Luisa, the French girl, the story about the big eater who died alone and ate a melon. Bebè closes his eyes, but he's not asleep; Bebè is thinking. The truth is, Bebè has a lot on his mind, because he's traveling to Paris, as he does every year, so that the good doctors can tell his mother the medicine that will cure his cough, that nasty cough that Bebè doesn't like to hear. Bebè's eyes water as soon as he hears his mother coughing, and he hugs her very tightly, very tightly, as if he wants to hold her. This time, Bebè is not going to Paris alone, because he doesn't want to do anything alone, like the man who ate the melon, but with his cousin, who doesn't have a mother."
+    },
+    {
+      "source": "Su primito Raúl va con él a París, a ver con él al hombre que llama a los pájaros, y la tienda del lubre, donde les regalan globos a los niños, y el teatro guiñol, donde hablan los muñecos y el policía se lleva preso al ladrón, y el hombre bueno le da un coscorrón al hombre malo. Raúl va con Bebè a París, los dos juntos se van el sábado en el vapor grande, con tres chimeneas. Allí en el cuarto está Raúl con Bebè, el pobre Raúl, que no tiene el pelo rubio, ni va vestido de duquecito, ni lleva medias de seda colorada. Bebè y Raúl han hecho hoy muchas visitas.",
+      "translation": "His younger brother, Raúl, goes with him to Paris to see the man who talks to birds, the shop where they give balloons to children, the puppet theater where the puppets talk, and the police station where the thief is arrested. The good man then gives the bad man a slap. Raúl goes to Paris with Bebè, and they both leave on Saturday on a large steamer with three chimneys. In the cabin, Raúl and Bebè are together. Poor Raúl, who doesn't have blonde hair, doesn't wear a prince's outfit, or red silk stockings. Bebè and Raúl have had many visits today."
+    },
+    {
+      "source": "Han ido con su mamá a ver a los ciegos, que leen con los dedos, en unos libros con las letras muy altas. Han ido a la calle de los periódicos, a ver como los niños pobres que no tienen casa donde dormir, compran diarios para venderlos después y pagar su casa. Han ido a un hotel elegante, con criados de casaca azul y pantalón amarillo, a ver a un señor muy flaco y muy estirado, el tío de mamá, el señor Don Pomposo. Bebè está pensando en la visita del señor Don Pomposo.",
+      "translation": "They went with their mother to see the blind, who read using their fingers, in books with very large letters. They went to Newspaper Street to see the poor children who don't have a place to sleep, buying newspapers to sell later and pay for their accommodation. They went to a luxurious hotel, with maids in blue uniforms and yellow trousers, to see a very thin and tall man, their mother's uncle, Mr. Pomposo. Baby is thinking about Mr. Pomposo's visit."
+    },
+    {
+      "source": "Bebè está pensando, con los ojos cerrados él piensa, él se acuerda de todo. ¡Qué largo, qué largo el tío de mamá, como los palos del telégrafo! ¡Qué leontina tan grande y tan suelta, como la cuerda de saltar! ¡Qué pedrote tan feo, como un pedazo de vidrio, el pedrote de la corbata!",
+      "translation": "Baby is thinking, with his eyes closed, he's remembering everything. How long and slender my mother's hair was, like the wires of a telegraph! How big and bouncy her curls were, like a jump rope! And what a horrible, ugly tie, like a piece of broken glass!"
+    },
+    {
+      "source": "Y a mamá no la dejaba mover y le ponía un cojín detrás de la espalda, y le puso una banqueta en los pies y le hablaba como dicen que les hablan a las reinas. Bebè se acuerda de lo que dice el criado viejito, que la gente le habla así a mamá. Porque mamá es muy rica y que a mamá no le gusta eso, porque mamá es buena. Y Bebè vuelve a pensar en lo sucedió en la visita.",
+      "translation": "And Mom wouldn't let him move, and she put a cushion behind his back, and she put a stool under his feet, and she talked to him in the way that servants usually talk to their employers. Bebè remembers what the old, elderly servant said: that people talk to Mom like this. Because Mom is very wealthy, and Mom doesn't like that, because Mom is a good person. And Bebè thinks back to what happened during the visit."
+    },
+    {
+      "source": "En cuanto entró en el cuarto el señor Don Pomposo le dio la mano, como se la dan los hombres a los papás. Le puso el sombrerito en la cama como si fuera una cosa santa, y le dio muchos besos, unos besos feos, que se le pegaban a la cara como si fueran manchas. Y a Raúl, al pobre Raúl, ni lo saludó, ni le quitó el sombrero, ni le dio un beso. Raúl estaba metido en un sillón, con el sombrero en la mano y con los ojos muy grandes.",
+      "translation": "As soon as he entered the room, Mr. Pomposo took his hand, just as men do with their fathers. He placed the hat on the bed as if it were a sacred object, and gave him many kisses, rather unpleasant kisses that stuck to his face like stains. And poor Raúl, he didn't even greet him, didn't take off his hat, or give him a kiss. Raúl was sitting in an armchair, with the hat in his hand and his eyes wide."
+    },
+    {
+      "source": "Y entonces se levantó Don Pomposo del sofá colorado. Mira, mira, Bebè, lo que te tengo guardado. Esto cuesta mucho dinero, Bebè, esto es para que quieras mucho a tu tío. Y se sacó del bolsillo un llavero como con treinta llaves, y abrió una gaveta que olía a lo que huele el tocador de Luisa, y le trajo a Bebè un sable dorado, ¡oh, qué sable!",
+      "translation": "And then, Don Pomposo got up from the red sofa. Look, look, Bebè, I have something special for you. This is very expensive, Bebè, it's a gift to make you love your uncle. He pulled out a keychain with thirty keys, and opened a drawer that smelled just like Luisa's dressing table, and brought Bebè a golden sword, oh, what a sword!"
+    },
+    {
+      "source": "¡Oh, qué gran sable! Y le abrochó por la cintura el cinturón de charol, ¡oh, qué cinturón tan lujoso! Y le dijo, anda, Bebè, mírate al espejo, ese es un sable muy rico, eso no es más que para Bebè, para el niño. Y Bebè, muy contento, volvió la cabeza a donde estaba Raúl, que lo miraba, miraba al sable con los ojos más grandes que nunca, y con la cara muy triste, como si se fuera a morir.",
+      "translation": "\"Oh, what a magnificent sword! And he fastened the leather belt around his waist, oh, what a luxurious belt! And he said to Bebè, \"Look in the mirror, that's a very fine sword, it's only for you, Bebè.\" And Bebè, very pleased, turned his head towards Raúl, who was watching him, staring at the sword with the biggest eyes he had ever seen, and with a very sad expression, as if he were about to die.\""
+    },
+    {
+      "source": "¡Oh, qué sable tan feo, tan feo! ¡Oh, qué tío tan malo! En todo eso estaba pensando Bebè. Bebè estaba pensando.",
+      "translation": "\"Oh, what a hideous sword, so hideous! Oh, what a terrible guy! That's what Bebè was thinking. Bebè was pondering."
+    },
+    {
+      "source": "El sable está allí, encima del tocador. Bebè levanta la cabeza poquito a poco, para que Luisa no lo oiga, y ve el puño brillante como si fuera de sol, porque la luz de la lámpara da toda en el puño. Así eran los sables de los generales el día de la procesión, lo mismo que el de él. Él también, cuando sea grande, va a ser general con un vestido de drill blanco y un sombrero con plumas, y muchos soldados detrás, y él en un caballo morado, como el vestido que tenía el obispo.",
+      "translation": "The saber is there, on top of the dressing table. Bebè slowly lifts his head, so that Luisa doesn't hear him, and sees the gleaming hilt as if it were made of sunlight, because the light from the lamp shines directly onto it. That's how the sabers of the generals were on the day of the procession, and so will his. When he grows up, he will also be a general, wearing a white drill uniform and a hat with feathers, and many soldiers behind him, and he will ride a purple horse, just like the bishop's uniform."
+    },
+    {
+      "source": "Él no ha visto nunca caballos morados, pero se lo mandarán a hacer. Y a Raúl, ¿quién le manda a hacer caballos? Nadie, nadie. Raúl no tiene mamá que le compre vestidos de duquecito.",
+      "translation": "He has never seen purple horses, but he will have one made. And who will make a purple horse for Raúl? No one, no one. Raúl doesn't have a mother who buys him fancy dresses."
+    },
+    {
+      "source": "Raúl no tiene tíos largos que le compren sables. Bebè levanta la cabecita poco a poco. Raúl está dormido. Luisa se ha ido a su cuarto a ponerse olores.",
+      "translation": "Raúl doesn't have any long-lost uncles who buy him swords. Baby is gradually lifting his head. Raúl is asleep. Luisa has gone to her room to get dressed."
+    },
+    {
+      "source": "Bebè se escurre de la cama, va al tocador en la punta de los pies, levanta el sable despacio para que no haga ruido. ¿Y qué hace? ¿Qué hace Bebè? Va riendose, va riendose el pícaro, hasta que llega a la almohada de Raúl y le pone el sable dorado en la almohada.",
+      "translation": "Baby gets out of bed, walks to the bathroom using his fingertips, and slowly lifts the golden toy so it doesn't make a noise. But what does he do? What does Baby do? He giggles, the mischievous little boy, until he reaches Raúl's pillow and places the golden toy on it."
+    }
+  ]
+}

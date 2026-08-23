@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "trackId": "marti-muneca-negra",
+  "sourceHash": "7ec52665409226de1a8ec0899c610cd7645b67d080510ec0f87d5f3f35f7f3bf",
+  "provider": "ollama/translategemma:4b",
+  "sourceLanguage": "es",
+  "targetLanguage": "en",
+  "translatedAt": "2026-08-15T08:11:18.240221+00:00",
+  "characters": 14986,
+  "blocks": [
+    {
+      "source": "La muñeca negra, José Martí. De puntillas, de puntillas, para no despertar a piedad, entran en el cuarto de dormir el padre y la madre. Vienen riéndose, como dos muchachones. Vienen de la mano, como dos muchachos.",
+      "translation": "The black doll, José Martí. On tiptoes, on tiptoes, so as not to wake the parents, the father and mother enter the bedroom. They come laughing, like two young people. They come hand-in-hand, like two young men."
+    },
+    {
+      "source": "El padre viene detrás, como si fuera a tropezar con todo. La madre no tropieza, porque conoce el camino. Trabaja mucho el padre, para comprar todo lo de la casa, y no puede ver a su hija cuando quiere. A veces, allá en el trabajo, se ríe solo, o se pone de repente como triste, o se le ve en la cara como una luz, y es que está pensando en su hija.",
+      "translation": "The father follows behind, as if he might trip over everything. The mother doesn't stumble, because she knows the way. The father works very hard to buy everything for the house, and he can't see his daughter when he wants to. Sometimes, at work, he laughs alone, or suddenly looks sad, or you can see a light in his eyes, and that's because he's thinking about his daughter."
+    },
+    {
+      "source": "Se le cae la pluma de la mano cuando piensa así, pero enseguida empieza a escribir, y escribe tan deprisa, tan deprisa, que es como si la pluma fuera volando. Y le hace muchos rasgos a la letra, y las oes le salen grandes como un sol, y las jes largas como un sable, y las eles están debajo de la línea, como si se fueran a clavar en el papel, y las heces caen al fin de la palabra, como una hoja de palma. Tiene que ver lo que escribe el padre cuando ha pensado mucho en la niña. Él dice que siempre que le llega por la ventana el olor de las flores del jardín, piensa en ella.",
+      "translation": "He finds it difficult to write when he thinks about it this way, but he quickly starts writing, and he writes so fast, so fast, that it's as if the pen is flying across the page. He also makes large, elaborate letters, with long, sweeping strokes and some letters that are underneath the line, as if they are about to pierce the paper. Finally, the vowels always fall at the end of the word, like the leaves of a palm tree. He must be writing what his father says when he has been thinking about the girl. He says that whenever he smells the flowers in the garden through the window, he thinks of her."
+    },
+    {
+      "source": "O a veces, cuando está trabajando cosas de números, o poniendo un libro sueco en español, la ve venir, venir despacio, como en una nube, y se le sienta al lado, le quita la pluma, para que repose un poco, le da un beso en la frente, le tira de la barba rubia, le esconde el tintero. Es sueño no más, no más que sueño, como esos que se tienen sin dormir, en que ve uno vestidos muy bonitos, o un caballo vivo de cola muy larga, o un cochecito con cuatro chivos blancos, o una sortija con la piedra. Azul, sueño es no más, pero dice el padre que es como si lo hubiera visto, y que después tiene más fuerza y escribe mejor, y la niña se va, se va despacio por el aire, que parece de luz todo, se va como una nube. Hoy el padre no trabajó mucho, porque tuvo que ir a una tienda.",
+      "translation": "Or sometimes, when she's working with numbers, or translating a Swedish book into Spanish, she'd fall asleep, slowly, like in a dream, and I'd sit beside her, take away her pen, so she could rest, give her a kiss on the forehead, pull her blonde beard, hide her inkwell. It was just a dream, nothing more than a dream, like those dreams you have when you're not even asleep, where you see yourself dressed in beautiful clothes, or a horse with a very long tail, or a car with four white horses, or a ring with a stone. \"Blue,\" I'd say, \"it's just a dream,\" but my father would say that it was like he had actually seen it, and that afterward, he would be stronger and write better. The little girl would then fall asleep, slowly, floating in the air, which seemed to be made of light, like a cloud. Today, my father didn't work much, because he had to go to the store."
+    },
+    {
+      "source": "¿A qué iría el padre a una tienda? Y dicen que por la puerta de atrás entró una caja grande. ¿Qué vendrá en la caja? A saber lo que vendrá.",
+      "translation": "What would the father go to the store for? And they say that a large box entered through the back door. What's inside the box? I wonder what's inside."
+    },
+    {
+      "source": "Mañana hace ocho años que nació Piedad. La criada fue al jardín, y se pinchó el dedo por cierto, por querer coger, para un ramo que hizo, una flor muy hermosa. La madre a todo dice que sí, y se puso el vestido nuevo, y le abrió la jaula al canario. El cocinero está haciendo un pastel, y recortando en figura de flores los nabos y las zanahorias, y le devolvió a la lavandera el gorro, porque tenía una mancha que no se veía apenas, pero hoy, hoy señora lavandera, el gorro ha de estar sin mancha.",
+      "translation": "Yesterday would have been Piedad's eighth birthday. The maid went to the garden, and unfortunately, she pricked her finger while trying to pick a beautiful flower for a bouquet she was making. The mother, meanwhile, was saying \"yes\" to everything, and she put on her new dress and opened the cage for the canary. The cook was making a cake, cutting the turnips and carrots into flower shapes, and he returned the hat to the laundress, as it had a small stain that was barely visible, but today, Mrs. Laundress, the hat must be spotless."
+    },
+    {
+      "source": "Piedad no sabía, no sabía. Ella sí vio que la casa estaba como el primer día de sol, cuando se vaya la nieve, y le salen las hojas a los árboles. Todos sus juguetes se los dieron aquella noche, todos. Y el padre llegó muy temprano del trabajo, a tiempo de ver a su hija dormida.",
+      "translation": "Piedad didn't know, she really didn't. But she did notice that the house looked exactly as it had on the first day of spring, when the snow had melted and the leaves were starting to appear on the trees. All her toys had been given to her that night, all of them. And her father arrived very early from work, just in time to see his daughter asleep."
+    },
+    {
+      "source": "La madre lo abrazó cuando lo vio entrar, y lo abrazó de veras. Mañana cumple Piedad ocho años. El cuarto está a media luz, una luz como la de las estrellas, que viene de la lámpara de velar, con su bombillo de color de ópalo. Pero se ve hundida en la almohada, la cabecita rubia.",
+      "translation": "The mother hugged him tightly when she saw him come in. Tomorrow is Piedad's eighth birthday. The room is dimly lit, with a soft, starlight-like glow coming from the nightlight, with its opal-colored bulb. But the blonde-haired child is nestled in the pillow, asleep."
+    },
+    {
+      "source": "Por la ventana entra la brisa, y parece que juegan las mariposas que no se ven, con el cabello dorado. Le da en el cabello la luz, y la madre y el padre vienen andando, de puntillas. Al suelo el tocador de jugar. Este padre ciego, que tropieza con todo, pero la niña no se ha despertado.",
+      "translation": "The breeze enters through the window, and it seems the butterflies are playing, their golden hair shimmering. The light from the window falls on her hair, and the mother and father are standing silently nearby. The small vanity is set up for play. This blind father, who stumbles over everything, but the little girl hasn't woken up yet."
+    },
+    {
+      "source": "La luz le da en la mano ahora. Parece una rosa la mano. A la cama no se puede llegar, porque están alrededor todos los juguetes, en mesas y sillas. En una silla está el baúl que le mandó en Pascuas la abuela, lleno de almendras y mazapanes.",
+      "translation": "The light is shining on her hand now. It looks like a rose. She can't get to bed because all the toys are scattered around, on tables and chairs. On one chair is the trunk that her grandmother sent her for Easter, filled with almonds and marzipan."
+    },
+    {
+      "source": "Boca abajo está el baúl, como si lo hubieran sacudido, a ver si caía alguna almendra de un rincón, o si andaban escondidas por la cerradura algunas migajas de mazapán. Eso es, de seguro, que las muñecas tenían hambre. En otra silla está la loza, mucha loza y muy fina, y en cada plato una fruta pintada, un plato tiene una cereza, y otro un higo, y otro una uva. Da en el plato ahora la luz, en el plato del higo, y se ven como chispas de estrella.",
+      "translation": "The chest of drawers is lying on its side, as if it had been shaken, in case any almonds had fallen from a corner, or if some pieces of marzipan were hidden behind the lock. It's certainly true that the dolls were hungry. In another chair is the serving dish, a very fine and ornate one, and on each plate there is a painted fruit: one has a cherry, another a fig, and another a grape. The light now falls on the plate with the fig, and it looks like a scattering of stars."
+    },
+    {
+      "source": "¿Cómo habrá venido esta estrella a los platos? Es azúcar, dice el pícaro padre, eso es, de seguro. Dice la madre, eso es que estuvieron las muñecas golosas comiéndose el azúcar. El costurero está en otra silla, y muy abierto, como de quien ha trabajado de verdad.",
+      "translation": "\"How did this star get into the dishes? It's sugar, says the sly father, that's for sure. The mother says, \"It's because the dolls were eating all the sugar.\" The tailor is sitting in a different chair, and he seems very open and honest, like someone who has actually worked hard."
+    },
+    {
+      "source": "El dedal está machucado, de tanto coser, cortó la modista mucho, porque del calicó que le dio la madre, no queda más que un redondel con el borde de picos, y el suelo está por allí lleno de recortes, que le salieron mal a la modista, y allí está la chambra empezada a coser, con la aguja clavada, junto a una gota de sangre. Pero la sala, y el gran juego, está en el velador, al lado de la cama. El rincón, allá contra la pared, es el cuarto de dormir de las muñequitas de loza, con su cama de la madre, de colcha de flores, y al lado una muñeca de traje rosado, en una silla roja. El tocador está entre la cama y la cuna, con su muñequita de trapo, tapada hasta la nariz, y el mosquitero encima.",
+      "translation": "The pincushion is crushed, from all the sewing, the seamstress has cut it up a lot, because the calico that her mother gave her is now just a small circle with a ruffled edge, and the floor is covered with scraps, which the seamstress has made mistakes with, and there the room is starting to be sewn, with the needle already inserted, next to a drop of blood. But the main part, and the beautiful doll, is on the bed, next to the mattress. The corner, over there against the wall, is the bedroom of the porcelain dolls, with their mother's quilt, and next to them is a doll in a pink suit, sitting in a red chair. The vanity is between the bed and the crib, with its rag doll, covered up to the nose, and the mosquito net over it."
+    },
+    {
+      "source": "La mesa del tocador es una cajita de cartón castaño, y el espejo es de los buenos, de los que vende la señora pobre de la dulcería, a dos por un centavo. La sala está en lo de delante del velador, y tiene en medio una mesa, con el pie hecho de un carretel de hilo, y lo de arriba de una concha de nácar, con una jarra mexicana en medio, de las que traen los muñecos aguadores de México, y alrededor unos papelitos doblados que son los libros. El piano es de madera, con las teclas pintadas, y no tiene banqueta de tornillo, que eso es poco lujo, sino una de espaldar, hecha de la caja de una sortija, con lo de abajo forrado de azul, y la tapa cosida por un lado, para la espalda y forrada de rosa, y encima un encaje. Hay visitas, por supuesto, y son de pelo de veras, con ropones de seda lila de cuartos blancos y zapatos dorados, y se sientan sin doblarse, con los pies en el asiento, y la señora mayor, la que trae gorra color de oro, y está en el sofá, tiene su levantapiés, porque del sofá se resbala, y el levantapiés es una cajita de paja japonesa, puesta boca abajo, en un sillón blanco, están sentadas juntas, con los brazos muy tiesos, dos hermanas de loza.",
+      "translation": "The vanity is a small, brown cardboard box, and the mirror is a good one, the kind that the poor woman in the bakery sells for two cents apiece. The living room is in the front room, and in the center there is a table, with a base made of a spool of thread, and a top made of mother-of-pearl, with a Mexican pitcher in the middle, the kind that the Mexican dolls bring, and around it are folded pieces of paper, which are the books. The piano is made of wood, with painted keys, and it doesn't have a screw-in stool, which is too much of a luxury, but a backrest, made from the box of a ring, with a blue-covered bottom, and a lid sewn on one side for the back, and covered in pink, and on top, lace. There are visitors, of course, and they are real people, with lilac silk dresses, white collars, and gold shoes, and they sit without bending, with their feet on the seat, and the older woman, who wears a hat the color of gold, is on the sofa, with her footstool, because the sofa is slippery, and the footstool is a Japanese straw box, upside down, on a white chair, they are sitting together, with their arms very stiff, two porcelain sisters."
+    },
+    {
+      "source": "Hay un cuadro en la sala, que tiene detrás, para que no se caiga, un pomo de olor, y es una niña de sombrero colorado, que trae en los brazos un cordero. En el pilar de la cama, del lado del velador, está una medalla de bronce, de una fiesta que hubo, con las cintas francesas. En su gran moña de los tres colores, está adornando la sala el medallón, con el retrato de un francés muy hermoso, que vino de Francia a pelear porque los hombres fueran libres, y otro retrato del que inventó el pararrayos, con la cara de abuelo que tenía cuando pasó el mar, para pedir a los reyes de Europa que lo ayudaran a hacer libre su tierra. Esa es la sala, y el gran juego de piedad.",
+      "translation": "There's a painting in the room, with a small hook behind it to prevent it from falling, and a scent diffuser. It depicts a little girl wearing a red hat, carrying a lamb in her arms. On the bedpost, on the side closest to the curtains, is a bronze medal from a celebration, with French ribbons. The room is also decorated with a medallion featuring a portrait of a beautiful French man who came from France to fight for the freedom of men, and another portrait of the inventor of the lightning rod, with a grandfatherly expression, as if he were looking out at the sea, asking the rulers of Europe to help him free his land. That's the room, and the grand display of piety."
+    },
+    {
+      "source": "Y en la almohada, durmiendo en su brazo, y con la boca desteñida de los besos, está su muñeca negra. Los pájaros del jardín la despertaron por la mañanita. Parece que se saludan los pájaros, y la convidan a volar. Un pájaro llama, y otro pájaro responde.",
+      "translation": "And in the pillow, sleeping in his arm, with his lips stained from kisses, is his black doll. The birds in the garden woke her up in the morning. It seems like the birds are greeting each other, and inviting her to fly. One bird calls out, and another answers."
+    },
+    {
+      "source": "En la casa hay algo, porque los pájaros se ponen así cuando el cocinero anda por la cocina, saliendo y entrando, con el delantal volándole por las piernas, y la olla de plata en las dos manos oliendo a leche quemada y a vino dulce. En la casa hay algo, porque si no, ¿para qué está ahí, al pie de la cama, su vestidito nuevo, el vestidito color de perla, y la cinta lila que compraron ayer, y las medias de encaje? Yo te digo, Leonor, que aquí pasa algo. Dímelo tú, Leonor, tú que estuviste ayer en el cuarto de mamá, cuando yo fui a paseo.",
+      "translation": "There's something in the house, because the birds are acting like that when the cook is moving around the kitchen, coming and going, with the apron flapping around his legs, and the silver pot in his hands, smelling of burnt milk and sweet wine. There's something in the house, because if there wasn't, what's the purpose of it being there, at the foot of the bed, the new dress, the pearl-colored dress, and the lilac ribbon they bought yesterday, and the lace stockings? I'm telling you, Leonor, something's happening here. Tell me, Leonor, you were in Mom's room yesterday when I went for a walk."
+    },
+    {
+      "source": "Mamá mala, que no te dejó ir conmigo, porque dice que te he puesto muy fea con tantos besos, y que no tienes pelo, porque te he peinado mucho. La verdad, Leonor, tú no tienes mucho pelo, pero yo te quiero así, sin pelo, Leonor. Tus ojos son los que quiero yo, porque con los ojos me dices que me quieres, te quiero mucho porque no te quieren. A ver, sentada aquí en mis rodillas, que te quiero peinar.",
+      "translation": "Bad Mom, she won't let me take you with me, because she says I've made you look really bad with all those kisses, and that you have no hair because I've styled it so much. The truth, Leonor, you don't have much hair, but I love you just the way you are, without hair, Leonor. It's your eyes that I love, because with your eyes you tell me you love me, and I love you very much because others don't. Okay, sitting here on my lap, I want to style your hair."
+    },
+    {
+      "source": "Las niñas buenas se peinan en cuanto se levantan. A ver, los zapatos, que ese lazo no está bien hecho. Y los dientes, déjame ver los dientes. Las uñas, Leonor, esas uñas no están limpias.",
+      "translation": "Good girls always brush their hair as soon as they get up. Okay, let's check the shoes, and this bow isn't quite right. And the teeth, let me see your teeth. And Leonor, those nails aren't clean."
+    },
+    {
+      "source": "Vamos, Leonor, dime la verdad. Oye, oye a los pájaros que parece que tienen baile. Dime, Leonor, qué pasa en esta casa. Y a piedad se le cayó el peine de la mano, cuando le tenía ya una trenza hecha a Leonor, y la otra estaba toda alborotada.",
+      "translation": "Come on, Leonor, tell me the truth. Hey, listen to the birds, they seem to be having a party. Leonor, what's going on in this house? And, by the way, she dropped her comb, while she was already braiding Leonor's hair, and the other one was completely messed up."
+    },
+    {
+      "source": "Lo que pasaba, allí lo veía ella. Por la puerta venía la procesión. La primera era la criada, con el delantal de rizos de los días de fiesta, y la cofia de servir la mesa en los días de visita. Traía el chocolate, el chocolate con crema, lo mismo que el día de año nuevo, y los panes dulces en una cesta de plata.",
+      "translation": "She saw everything that happened, right there. The procession came through the door. The first person was the maid, wearing her festive apron and serving tray, and she carried the chocolate, chocolate with cream, just as she did on New Year's Day, and the sweet bread in a silver basket."
+    },
+    {
+      "source": "Luego venía la madre, con un ramo de flores blancas y azules, ni una flor colorada en el ramo, ni una flor amarilla. Y luego venía la lavandera, con el gorro blanco que el cocinero no se quiso poner, y un estandarte que el cocinero le hizo con un diario y un bastón. Y decía en el estandarte, debajo de una corona de pensamientos, hoy cumple piedad ocho años. Y la besaron, y la vistieron con el traje color de perla, y la llevaron con el estandarte detrás, a la sala de los libros de su padre.",
+      "translation": "Then came the mother, with a bouquet of white and blue flowers, with no red or yellow flowers. And then came the washerwoman, wearing the white cap that the cook refused to wear, and a banner that the cook had made for her with a newspaper and a walking stick. On the banner, beneath a crown of thoughts, it read: \"Today, eight years ago, we were granted mercy.\" They kissed her, dressed her in a pearl-colored dress, and led her behind the banner to her father's library."
+    },
+    {
+      "source": "Que tenía muy peinada su barba rubia, como si se la hubieran peinado muy despacio, y redondeándole las puntas, y poniendo cada hebra en su lugar. A cada momento se asomaba a la puerta, a ver si piedad venía, escribía, y se ponía a silbar. Abría un libro, y se quedaba mirando a un retrato, a un retrato que tenía siempre en su mesa, y era como piedad, una piedad de vestido largo. Y cuando oyó ruido de pasos, y un vocerrón que venía tocando música en un cucurucho de papel, ¿quién sabe lo que sacó de una caja grande?",
+      "translation": "His blonde beard was meticulously styled, as if someone had taken great care to comb and shape it, rounding the ends and arranging each strand perfectly. He would frequently peer through the door, hoping for a visitor, and would often write and hum. He would open a book and gaze at a portrait, a portrait that he always kept on his desk, a long-sleeved portrait. And when he heard the sound of footsteps and a loud noise coming from someone playing music on a paper tube, one can only imagine what he pulled out of a large box."
+    },
+    {
+      "source": "Y se fue a la puerta con una mano en la espalda, y con el otro brazo cargó a su hija, luego dijo que sintió como que en el pecho se le abría una flor, y como que se le encendía en la cabeza un palacio con colgaduras azules de flecos de oro, y mucha gente con alas. Luego dijo todo eso, pero entonces nada se le oyó decir. Hasta que piedad dio un salto en sus brazos, y se le quiso subir por el hombro, porque en un espejo había visto lo que llevaba en la otra mano el padre. Es como el sol el pelo, mamá, lo mismo que el sol.",
+      "translation": "And he walked to the door with one hand on his back, and with the other arm, he carried his daughter. Then he said that he felt like a flower blooming in his chest, and like a palace with blue, golden fringe curtains appeared in his head, and many people with wings. Then he said all that, but nothing else came out of his mouth. Until, suddenly, his daughter jumped into his arms, and he tried to lift her onto his shoulder, because he had seen in a mirror what his father was holding in his other hand. It was like the sun, his hair, Mom, just like the sun."
+    },
+    {
+      "source": "Ya la vi, ya la vi, tiene el vestido rosado. Dile que me la dé, mamá, si es de peto verde, de peto de terciopelo, como las mías son las medias, de encaje como las mías. Y el padre se sentó con ella en el sillón, y le puso en los brazos la muñeca de seda y porcelana. Echó a correr piedad, como si buscase a alguien.",
+      "translation": "I've seen it, I've seen it, it has the pink dress. Tell her to give it to me, Mom, if it's a green dress, a velvet dress, like mine, or if it's a dress with lace, like mine. And the father sat down with her on the armchair, and he put the silk and porcelain doll in her arms. He seemed to be searching for someone."
+    },
+    {
+      "source": "Y yo me quedo hoy en casa por mi niña, le dijo su padre. ¿Y mi niña me deja solo? Ella escondió la cabecita en el pecho de su padre bueno, y en mucho, mucho tiempo no la levantó, aunque de veras, le picaba la barba. Hubo paseo por el jardín y almuerzo con un vino de espuma debajo de la parra, y el padre estaba muy conversador, cogiendole a cada momento la mano a su mamá, y la madre estaba como más alta, y hablaba poco, y era como música todo lo que hablaba.",
+      "translation": "\"And I'm staying home today for my daughter,\" his father said. \"But will my daughter leave me alone? She was snuggled up against her father, and he didn't lift her up for a long time, although she was definitely trying to scratch his beard. We took a walk in the garden and had lunch with a sparkling wine under the grape vines, and her father was very talkative, constantly taking her mother's hand, while her mother seemed even more relaxed and spoke very little, and everything she said was like music.\""
+    },
+    {
+      "source": "Piedad le llevó al cocinero una dahlia roja, y se la prendió en el pecho del delantal, y a la lavandera le hizo una corona de claveles. Y a la criada le llenó los bolsillos de flores de naranjo, y le puso en el pelo una flor, con sus dos hojas verdes. Y luego, con mucho cuidado, hizo un ramo de no me olvides. ¿Para quién es ese ramo, piedad?",
+      "translation": "Piedad gave the cook a red dahlia, which she pinned to the apron, and made a wreath of carnations for the washerwoman. She also filled the maid's pockets with orange blossoms and placed a flower in her hair, with its two green leaves. Then, with great care, she made a bouquet of forget-me-nots. Who is that bouquet for, Piedad?"
+    },
+    {
+      "source": "No sé, no sé, no sé para quién es. ¿Quién sabe si es para alguien? Y lo puso a la orilla de la acequia, donde corría como un cristal el agua. Un secreto le dijo a su madre, y luego le dijo, déjame ir.",
+      "translation": "I don't know, I don't know, I don't know who it's for. Who knows if it's for anyone? And he placed it on the edge of the ditch, where the water flowed like glass. A secret told his mother, and then he said, \"Let me go.\""
+    },
+    {
+      "source": "Pero le dijo caprichosa a su madre. ¿Y tu muñeca de seda? ¿No te gusta? Mírala la cara, que es muy linda, y no le has visto los ojos azules.",
+      "translation": "But she playfully told her mother, \"And what about my silk doll? Don't you like her? Look at her face, it's so cute, and you haven't seen her blue eyes.\""
+    },
+    {
+      "source": "Piedad sí se los había visto, y la tuvo sentada en la mesa después de comer, mirándola sin reirse, y la estuvo enseñando a andar en el jardín. Los ojos era lo que le miraba a ella, y le tocaba en el lado del corazón. Pero muñeca, háblame, háblame, y la muñeca de seda no le hablaba. ¿Con que no te ha gustado la muñeca que te compré, con sus medias de encaje y su cara de porcelana y su pelo fino?",
+      "translation": "Piedad had seen her before, and she had her sitting at the table after dinner, looking at her without laughing, and she had been teaching her to walk in the garden. It was her eyes that were focused on her, and they seemed to touch her on the side of her heart. But, \"doll, talk to me, talk to me,\" and the silk doll didn't respond. Was it because she hadn't liked the doll she had bought, with its lace stockings and porcelain face, and its fine hair?"
+    },
+    {
+      "source": "Sí, mi papá, sí me ha gustado mucho. Vamos, señora muñeca, vamos a pasear. Usted querrá coches y lacayos y querrá dulce de castañas, señora muñeca. Vamos, vamos a pasear.",
+      "translation": "Yes, Daddy, I really liked it. Come on, little lady, let's go for a walk. You'll want cars and servants, and you'll want chestnut sweets, little lady. Come on, let's go for a walk."
+    },
+    {
+      "source": "Pero en cuanto estuvo piedad donde no la veían, dejó a la muñeca en un tronco, de cara contra el árbol. Y se sentó sola, a pensar, sin levantar la cabeza, con la cara entre las dos manecitas. De pronto echó a correr, de miedo de que se hubiese llevado el agua al ramo de no me olvides. Pero criada, llévame pronto.",
+      "translation": "But as soon as she felt pity, she left the doll lying on a log, facing the tree. Then she sat down alone, thinking, without lifting her head, with her face between her hands. Suddenly, she started to run, afraid that the doll would have taken the \"Never Forget Me\" flowers. But, please, come back soon."
+    },
+    {
+      "source": "Piedad, ¿qué es eso de criada? Tú nunca le dices criada así como para ofenderla. No mamá, no, es que tengo mucho sueño, estoy muerta de sueño. Mira, me parece que es un monte la barba de papá, y el pastel de la mesa me da vueltas, vueltas alrededor, y se están riendo de mí las banderitas.",
+      "translation": "Piedad, what's with calling her \"maid\"? You never say that to her to offend her. No, Mom, no, I'm just really tired, I'm exhausted. Look, it seems like Dad's beard is a mountain, and the cake on the table is spinning around and around, and the little flags are laughing at me."
+    },
+    {
+      "source": "Y me parece que están bailando en el aire las flores de zanahoria, estoy muerta de sueño. Adiós, mi madre, mañana me levanto muy tempranito. Tú, papá, me despiertas antes de salir. Yo te quiero ver siempre antes de que te vayas a trabajar.",
+      "translation": "And I think the carrot flowers are dancing in the air; I'm so sleepy. Goodbye, Mom, I'll get up very early tomorrow. Dad, you wake me up before you go to work. I always want to see you before you leave."
+    },
+    {
+      "source": "Oh, las zanahorias, estoy muerta de sueño. Ay, mamá, no me mates el ramo. Mira, ya me mataste mi flor. ¿Con que se enoja mi hija porque le doy un abrazo?",
+      "translation": "Oh, the carrots, I'm so tired. Oh, Mom, please don't hurt me. Look, you already hurt my flower. How will my daughter react when I give her a hug?"
+    },
+    {
+      "source": "Pégame, mi mamá. Papá, pégame tú, es que tengo mucho sueño. Y piedad salió de la sala de los libros con la criada que le llevaba la muñeca de seda. ¿Qué deprisa va la niña?",
+      "translation": "Mom, I dare you. Dad, you dare me, because I'm really tired. And, oh, the maid just left the library, carrying the silk doll. What's all the rush?"
+    },
+    {
+      "source": "¿Qué se va a caer? ¿Quién espera a la niña? ¿Quién sabe quién me espera? Y no habló con la criada.",
+      "translation": "What's going to happen? Who's waiting for the girl? Who knows who's waiting for me? And he didn't speak to the maid."
+    },
+    {
+      "source": "No le dijo que le contase el cuento de la niña jorobadita que se volvió una flor. Un juguete no más le pidió y lo puso a los pies de la cama y le acarició a la criada la mano y se quedó dormida. Encendió la criada la lámpara de velar con su bombillo de ópalo. Salió de puntillas, cerró la puerta con mucho cuidado.",
+      "translation": "She didn't tell him the story of the little hunchback girl who turned into a flower. All she asked for was the toy, which she placed at the foot of the bed. The maid then stroked her hand and fell asleep. The maid lit the nightlight with its opal bulb. She quietly got out of bed and carefully closed the door."
+    },
+    {
+      "source": "Y en cuanto estuvo cerrada la puerta, relucieron dos ojitos en el borde de la sábana. Se alzó de repente la cubierta rubia. De rodillas en la cama le dio toda la luz a la lámpara de velar y se echó sobre el juguete que puso a los pies sobre la muñeca negra. La besó, la abrazó, se la apretó contra el corazón.",
+      "translation": "As soon as the door was closed, two little eyes appeared at the edge of the blanket. Suddenly, the blonde child lifted the blanket. From her knees on the bed, she directed all the light from the nightlight onto the doll and hugged it, placing it at the foot of the black doll. She kissed it, hugged it, held it close to her heart."
+    },
+    {
+      "source": "Ven, pobrecita, ven que esos malos te dejaron aquí sola. Tú no estás fea. No, aunque no tengas más que una trenza. La fea es esa, la que han traído hoy, la de los ojos que no hablan.",
+      "translation": "Come here, sweetie, come. Those bad guys left you here alone. You're not ugly. No, even though you only have one braid. That one is ugly, the one they brought in today, the one with the unseeing eyes."
+    },
+    {
+      "source": "Dime, Leonor, dime, ¿tú pensaste en mí? Mira el ramo que te traje, un ramo de no me olvides, de los más lindos del jardín. Así, en el pecho, esta es mi muñeca linda. ¿Y no has llorado?",
+      "translation": "Tell me, Leonor, tell me, did you think of me? Look at the bouquet I brought, a bouquet that says \"Don't forget me,\" from the most beautiful flowers in the garden. And, is this your favorite doll? And haven't you cried?"
+    },
+    {
+      "source": "¿Te dejaron tan sola? No me mires así, porque voy a llorar yo. No, tú, no tienes frío. Aquí conmigo, en mi almohada, verás cómo te calientas.",
+      "translation": "Did they leave you all alone? Don't look at me like that, because I'm going to cry. No, it's not you; you're not cold. Here with me, on my pillow, you'll see how you'll warm up."
+    },
+    {
+      "source": "Y me quitaron, para que no me hiciera daño, el dulce que te traía. Así, así, bien arropadita, a ver mi beso. Antes de dormirte, ahora la lámpara baja. Y a dormir, abrazadas las dos, te quiero porque no te quieren.",
+      "translation": "And they took away the sweet treat I brought, so I wouldn't hurt myself. That way, I could stay warm and cozy, and then you could give me a kiss. Before you go to sleep, the lamp goes out. And then we go to sleep, holding each other, I love you because you don't love me."
+    }
+  ]
+}

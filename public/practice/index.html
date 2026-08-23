@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Puente — Learn Spanish with the Morphing Sentence Method</title>
+<meta name="description" content="Puente turns English sentences into Spanish word by word. Five practice modes, spaced repetition, browser speech — free, private, and works offline.">
+<meta name="theme-color" content="#0e1116">
+<meta name="color-scheme" content="dark">
+<meta property="og:title" content="Puente — Learn Spanish with the Morphing Sentence Method">
+<meta property="og:description" content="Sentences start in English and fuse into Spanish, word by word. Your brain builds the bridge itself.">
+<meta property="og:image" content="icons/og-image.png">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Puente — Learn Spanish with the Morphing Sentence Method">
+<meta name="twitter:description" content="Sentences start in English and fuse into Spanish, word by word.">
+<meta name="twitter:image" content="icons/og-image.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<noscript>
+  <div style="background:#e05c5c;color:#fff;padding:14px;text-align:center;font-family:sans-serif">
+    Puente needs JavaScript to run — please enable it and reload.
+  </div>
+</noscript>
+
+<div class="top-actions">
+  <button class="icon-btn" id="btnDash" title="Progress dashboard" aria-label="Open progress dashboard">📊</button>
+  <button class="icon-btn" id="btnSettings" title="Settings" aria-label="Open settings">⚙️</button>
+  <button class="icon-btn" id="btnHelp" title="How to use" aria-label="Open help">?</button>
+</div>
+
+<header>
+  <h1>Puente</h1>
+  <p class="tagline">The <b>Morphing Sentence Method</b> — sentences start in English and <b>fuse into Spanish</b>, word by word. Your brain builds the bridge itself.</p>
+  <div class="xpwrap">
+    <span>Lv <b id="lvlNum" style="color:var(--accent)">1</b></span>
+    <div class="xpbar"><div id="xpFill"></div></div>
+    <span><b id="xpNum" style="color:var(--en)">0</b> XP</span>
+  </div>
+</header>
+
+<nav class="mode-switch" id="modeSwitch" aria-label="Practice modes">
+  <button data-mode="fusion" class="active">🧬 Fusion</button>
+  <button data-mode="dictation">👂 Echo Dictation</button>
+  <button data-mode="builder">🧩 Sentence Builder</button>
+  <button data-mode="cloze">✏️ Cloze Quiz</button>
+  <button data-mode="speak">🎤 Speak Back</button>
+</nav>
+
+<div class="difficulty-switch" id="difficultySwitch" aria-label="Choose sentence difficulty">
+  <span>Difficulty</span>
+  <button data-difficulty="all" class="active" aria-pressed="true">All</button>
+  <button data-difficulty="1" aria-pressed="false">1 · Beginner</button>
+  <button data-difficulty="2" aria-pressed="false">2 · Intermediate</button>
+  <button data-difficulty="3" aria-pressed="false">3 · Advanced</button>
+</div>
+
+<div class="stats">
+  <span>Streak <b id="streakNum">0</b></span>
+  <span>Best <b id="bestNum">0</b></span>
+  <span>Due now <b id="dueNum">0</b></span>
+  <span>Mastered <b id="masteredNum">0</b>/<b id="totalNum">0</b></span>
+</div>
+
+<main class="card">
+
+  <section id="view-fusion" aria-label="Fusion mode">
+    <div class="fusion-label"><span>English → Spanish</span><span id="fTopic"></span></div>
+    <div class="fusion-bar"><div class="fill" id="fFill"></div></div>
+    <div class="sentence" id="fSentence"></div>
+    <div class="note-box" id="fNote"></div>
+    <div class="hint" id="fHint" aria-live="polite"></div>
+    <div class="controls">
+      <button class="btn btn-ghost" id="btnFSpeak">🔊 Hear full sentence</button>
+      <button class="btn btn-ghost" id="btnFFlipAll">Flip remaining</button>
+      <button class="btn btn-primary" id="btnFNext">Next →</button>
+    </div>
+    <div class="kbdrow"><kbd>Space</kbd> hear it · <kbd>F</kbd> flip all · <kbd>Enter</kbd> next</div>
+  </section>
+
+  <section id="view-dictation" class="dictation" style="display:none" aria-label="Echo dictation mode">
+    <p style="color:var(--muted);font-size:.88rem">Listen, then type exactly what you hear.</p>
+    <p style="color:var(--muted);font-size:.78rem;margin-top:4px" id="dTopic"></p>
+    <button class="big-play" id="btnDPlay" aria-label="Play the sentence">▶</button>
+    <input id="dInput" type="text" autocomplete="off" spellcheck="false" placeholder="Escribe lo que escuchas..." aria-label="Type what you hear">
+    <div>
+      <button class="replay-link" id="btnDSlow">🐢 replay slowly</button>
+      <span style="color:#39404f;font-size:.82rem"> · replays: <span id="dReplays">0</span></span>
+    </div>
+    <div class="verdict" id="dVerdict" aria-live="polite"></div>
+    <div class="diffline" id="dDiff" aria-live="polite"></div>
+    <div class="answer-reveal" id="dReveal"></div>
+    <div class="note-box" id="dNote" style="text-align:left"></div>
+    <div class="controls">
+      <button class="btn btn-ghost" id="btnDCheck">Check</button>
+      <button class="btn btn-primary" id="btnDNext">Next →</button>
+    </div>
+    <div class="kbdrow"><kbd>Space</kbd> replay · <kbd>Enter</kbd> check / next</div>
+  </section>
+
+  <section id="view-builder" class="builder" style="display:none" aria-label="Sentence builder mode">
+    <p style="color:var(--muted);font-size:.88rem">Listen, then rebuild the sentence by clicking the words in order.</p>
+    <p style="color:var(--muted);font-size:.78rem;margin-top:4px" id="bTopic"></p>
+    <button class="big-play" id="btnBPlay" aria-label="Play the sentence">▶</button>
+    <div class="chiparea answer" id="bAnswer" aria-live="polite"></div>
+    <div class="chiparea" id="bPool"></div>
+    <div class="eng-ref" id="bEng"></div>
+    <div class="verdict" id="bVerdict" aria-live="polite"></div>
+    <div class="note-box" id="bNote" style="text-align:left"></div>
+    <div class="controls">
+      <button class="btn btn-ghost" id="btnBClear">Clear</button>
+      <button class="btn btn-ghost" id="btnBCheck">Check</button>
+      <button class="btn btn-primary" id="btnBNext">Next →</button>
+    </div>
+    <div class="kbdrow"><kbd>Space</kbd> replay · click a placed word to take it back</div>
+  </section>
+
+  <section id="view-cloze" class="cloze" style="display:none" aria-label="Cloze quiz mode">
+    <p style="color:var(--muted);font-size:.88rem">One word is missing. Type it in Spanish.</p>
+    <p style="color:var(--muted);font-size:.78rem;margin-top:4px" id="cTopic"></p>
+    <div class="sentence" id="cSentence" style="margin-top:14px"></div>
+    <input id="cInput" type="text" autocomplete="off" spellcheck="false" placeholder="la palabra que falta..." style="margin-top:16px" aria-label="Type the missing word">
+    <div class="verdict" id="cVerdict" aria-live="polite"></div>
+    <div class="note-box" id="cNote" style="text-align:left"></div>
+    <div class="controls">
+      <button class="btn btn-ghost" id="btnCCheck">Check</button>
+      <button class="btn btn-ghost" id="btnCSpeak">🔊 Hear it</button>
+      <button class="btn btn-primary" id="btnCNext">Next →</button>
+    </div>
+    <div class="kbdrow"><kbd>Enter</kbd> check / next</div>
+  </section>
+
+  <section id="view-speak" class="speakmode" style="display:none" aria-label="Speak back mode">
+    <p style="color:var(--muted);font-size:.88rem">Listen first, then say the sentence out loud. Your mic scores your pronunciation.</p>
+    <p style="color:var(--muted);font-size:.78rem;margin-top:4px" id="sTopic"></p>
+    <button class="big-play" id="btnSPlay" aria-label="Play the sentence">▶</button>
+    <div class="example-fusion" id="sTarget" style="margin:0 auto 18px;max-width:520px"></div>
+    <button class="big-play mic" id="btnSMic" style="width:76px;height:76px;font-size:1.6rem" aria-label="Start listening">🎤</button>
+    <div class="transcript" id="sTranscript" aria-live="polite"></div>
+    <div class="verdict" id="sVerdict" aria-live="polite"></div>
+    <div class="note-box" id="sNote" style="text-align:left"></div>
+    <div class="controls">
+      <button class="btn btn-ghost" id="btnSSlow">🐢 slowly</button>
+      <button class="btn btn-primary" id="btnSNext">Next →</button>
+    </div>
+    <div class="kbdrow"><kbd>Space</kbd> hear it again</div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <p>Puente runs entirely in your browser. Your progress stays on your device, and in Speak Back mode the microphone is used live only — nothing is ever recorded or uploaded.</p>
+  <p style="opacity:.55">Puente v1.3 · free forever · works offline after your first visit</p>
+</footer>
+
+<div class="overlay hidden" id="helpOverlay" role="dialog" aria-modal="true" aria-labelledby="helpTitle">
+  <div class="modal">
+    <h2 id="helpTitle">Welcome to Puente</h2>
+    <p class="sub">Five ways to cross the bridge from English-thinking to Spanish-thinking.</p>
+
+    <h3>🧬 Fusion Mode</h3>
+    <ol>
+      <li>Say each <b>English word's</b> Spanish translation out loud, then click it to flip and verify.</li>
+      <li>Green words are already Spanish. When everything is green, hear the full sentence.</li>
+      <li>Cards return sooner or later depending on how well you do (spaced repetition).</li>
+    </ol>
+    <div class="example-fusion"><span style="color:var(--es)">Estaba pensando</span> about <span style="color:var(--es)">mudarme</span> to <span style="color:var(--es)">la costa</span> next year</div>
+
+    <h3>👂 Echo Dictation</h3>
+    <ul><li>Hear a full Spanish sentence, type what you hear. You get a word-by-word diff and a match score. 80%+ passes.</li></ul>
+
+    <h3>🧩 Sentence Builder</h3>
+    <ul><li>Hear the sentence, then rebuild it by clicking shuffled word chips in the right order.</li></ul>
+
+    <h3>✏️ Cloze Quiz</h3>
+    <ul><li>A fully-Spanish sentence with one gap — produce the missing word from memory.</li></ul>
+
+    <h3>🎤 Speak Back</h3>
+    <ul><li>Repeat the sentence aloud; your browser's speech recognition scores your pronunciation. (Chrome/Edge recommended.)</li></ul>
+
+    <h3>📈 Progress</h3>
+    <ul>
+      <li>Choose Beginner, Intermediate or Advanced above the card, or mix all three levels.</li>
+      <li>Earn XP for every correct action; level up as you go.</li>
+      <li>Each card has a review level ●●○○○ — higher levels come back less often.</li>
+      <li>Every sentence carries a 📘 grammar note, shown after you complete it.</li>
+      <li>Filter topics and tune audio in ⚙️ Settings.</li>
+    </ul>
+
+    <h3>⌨️ Shortcuts</h3>
+    <p><kbd>Space</kbd> replay audio · <kbd>Enter</kbd> check / next · <kbd>F</kbd> flip remaining · <kbd>Esc</kbd> close dialogs</p>
+
+    <button class="btn btn-primary" id="btnStart" style="width:100%;margin-top:20px;padding:14px;font-size:1.02rem">Empezar — let's go</button>
+  </div>
+</div>
+
+<div class="overlay hidden" id="settingsOverlay" role="dialog" aria-modal="true" aria-labelledby="setTitle">
+  <div class="modal">
+    <h2 id="setTitle">Settings</h2>
+    <p class="sub">Changes save automatically.</p>
+    <div class="setrow">
+      <label for="setVoice">Spanish voice</label>
+      <select id="setVoice"></select>
+    </div>
+    <div class="setrow">
+      <label for="setRate">Speaking speed (<span id="rateVal">1×</span>)</label>
+      <input type="range" id="setRate" min="0.5" max="1.2" step="0.05" value="1">
+    </div>
+    <div class="setrow">
+      <label for="setAutoplay">Auto-play sentence when completed</label>
+      <input type="checkbox" id="setAutoplay" checked style="accent-color:var(--accent);width:18px;height:18px">
+    </div>
+    <div style="margin-top:18px">
+      <label style="font-size:.92rem;color:var(--en)" for="topicGrid">Topics</label>
+      <div class="topic-grid" id="topicGrid"></div>
+    </div>
+    <div class="controls" style="justify-content:space-between;margin-top:24px">
+      <button class="btn btn-ghost" id="btnReset" style="color:var(--bad)">Reset all progress</button>
+      <button class="btn btn-primary" id="btnCloseSettings">Done</button>
+    </div>
+    <p style="text-align:center;color:#5b6474;font-size:.75rem;margin-top:16px">Puente v1.3 · everything is stored locally on this device</p>
+  </div>
+</div>
+
+<div class="overlay hidden" id="dashOverlay" role="dialog" aria-modal="true" aria-labelledby="dashTitle">
+  <div class="modal">
+    <h2 id="dashTitle">Progress</h2>
+    <p class="sub">Your bridge, card by card.</p>
+    <div class="statgrid" id="dashStats"></div>
+    <table class="cards" id="dashTable"></table>
+    <div class="controls" style="margin-top:20px">
+      <button class="btn btn-primary" id="btnCloseDash">Close</button>
+    </div>
+  </div>
+</div>
+
+<div class="toasts" id="toasts" role="status" aria-live="polite"></div>
+
+<script src="js/data.js" defer></script>
+<script src="js/app.js" defer></script>
+</body>
+</html>

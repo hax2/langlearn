@@ -1,0 +1,198 @@
+{
+  "id": "story-5",
+  "type": "story",
+  "title": "📖 Story: Advice for a Friend",
+  "description": "A story about giving advice, using commands and the subjunctive mood.",
+  "level": "Beginner",
+  "storyIntro": "You've now learned affirmative and negative commands, plus the subjunctive for expressing desires, hopes, and importance.\n\nLet's see how Ana gives advice to her friend Carlos, who is nervous about a job interview. Notice how commands and subjunctive work in real conversation!",
+  "sentences": [
+    {
+      "id": "s5-s1",
+      "spanish": "Carlos tiene una entrevista de trabajo mañana.",
+      "english": "Carlos has a job interview tomorrow.",
+      "wordMeanings": {
+        "Carlos": "Carlos",
+        "tiene": "has",
+        "una": "a",
+        "entrevista": "interview",
+        "de": "of",
+        "trabajo": "work / job",
+        "mañana": "tomorrow"
+      }
+    },
+    {
+      "id": "s5-s2",
+      "spanish": "Él está muy nervioso. No sabe qué hacer.",
+      "english": "He is very nervous. He doesn't know what to do.",
+      "wordMeanings": {
+        "Él": "he",
+        "está": "is (state)",
+        "muy": "very",
+        "nervioso": "nervous",
+        "No": "not",
+        "sabe": "knows",
+        "qué": "what",
+        "hacer": "to do"
+      }
+    },
+    {
+      "id": "s5-s3",
+      "spanish": "Ana le dice: \"No te preocupes. Escúchame.\"",
+      "english": "Ana tells him: \"Don't worry. Listen to me.\"",
+      "wordMeanings": {
+        "Ana": "Ana",
+        "le dice": "tells him",
+        "No": "don't",
+        "te preocupes": "worry (negative command + reflexive)",
+        "Escúchame": "listen to me (affirmative command)"
+      }
+    },
+    {
+      "id": "s5-s4",
+      "spanish": "\"Duerme bien esta noche. No te acuestes tarde.\"",
+      "english": "\"Sleep well tonight. Don't go to bed late.\"",
+      "wordMeanings": {
+        "Duerme": "sleep (affirmative command)",
+        "bien": "well",
+        "esta": "this",
+        "noche": "night",
+        "No": "don't",
+        "te acuestes": "go to bed (negative command + reflexive)",
+        "tarde": "late"
+      }
+    },
+    {
+      "id": "s5-s5",
+      "spanish": "\"Espero que te vaya bien en la entrevista.\"",
+      "english": "\"I hope that the interview goes well for you.\"",
+      "wordMeanings": {
+        "Espero": "I hope",
+        "que": "that",
+        "te vaya": "goes for you (subjunctive)",
+        "bien": "well",
+        "en": "in",
+        "la": "the",
+        "entrevista": "interview"
+      }
+    },
+    {
+      "id": "s5-s6",
+      "spanish": "\"Quiero que estés tranquilo. Habla con confianza.\"",
+      "english": "\"I want you to be calm. Speak with confidence.\"",
+      "wordMeanings": {
+        "Quiero": "I want",
+        "que": "that",
+        "estés": "you be (subjunctive of estar)",
+        "tranquilo": "calm",
+        "Habla": "speak (affirmative command)",
+        "con": "with",
+        "confianza": "confidence"
+      }
+    },
+    {
+      "id": "s5-s7",
+      "spanish": "\"Es importante que llegues a tiempo.\"",
+      "english": "\"It's important that you arrive on time.\"",
+      "wordMeanings": {
+        "Es": "it is",
+        "importante": "important",
+        "que": "that",
+        "llegues": "arrive (subjunctive)",
+        "a": "on",
+        "tiempo": "time"
+      }
+    },
+    {
+      "id": "s5-s8",
+      "spanish": "\"Viste ropa formal. No te pongas vaqueros.\"",
+      "english": "\"Wear formal clothes. Don't put on jeans.\"",
+      "wordMeanings": {
+        "Viste": "wear (affirmative command - vestir)",
+        "ropa": "clothes",
+        "formal": "formal",
+        "No": "don't",
+        "te pongas": "put on (negative command + reflexive)",
+        "vaqueros": "jeans"
+      }
+    },
+    {
+      "id": "s5-s9",
+      "spanish": "Carlos responde: \"Gracias, Ana. Voy a seguir tus consejos.\"",
+      "english": "Carlos answers: \"Thanks, Ana. I'm going to follow your advice.\"",
+      "wordMeanings": {
+        "Carlos": "Carlos",
+        "responde": "answers",
+        "Gracias": "thanks",
+        "Ana": "Ana",
+        "Voy a": "I'm going to (near future)",
+        "seguir": "to follow",
+        "tus": "your",
+        "consejos": "advice (plural)"
+      }
+    },
+    {
+      "id": "s5-s10",
+      "spanish": "\"Espero que tengas razón. No quiero que me rechacen.\"",
+      "english": "\"I hope you're right. I don't want them to reject me.\"",
+      "wordMeanings": {
+        "Espero": "I hope",
+        "que": "that",
+        "tengas": "you have (subjunctive)",
+        "razón": "reason / right",
+        "No": "not",
+        "quiero": "I want",
+        "me rechacen": "they reject me (subjunctive)"
+      }
+    },
+    {
+      "id": "s5-s11",
+      "spanish": "\"No tengas miedo. Sé tú mismo y sé honesto.\"",
+      "english": "\"Don't be afraid. Be yourself and be honest.\"",
+      "wordMeanings": {
+        "No": "don't",
+        "tengas": "have (negative command)",
+        "miedo": "fear",
+        "Sé": "be (affirmative command - ser)",
+        "tú": "you",
+        "mismo": "yourself",
+        "y": "and",
+        "honesto": "honest"
+      }
+    },
+    {
+      "id": "s5-s12",
+      "spanish": "\"Está bien. Gracias por todo, amiga.\"",
+      "english": "\"Okay. Thanks for everything, friend.\"",
+      "wordMeanings": {
+        "Está": "it is",
+        "bien": "well / okay",
+        "Gracias": "thanks",
+        "por": "for",
+        "todo": "everything",
+        "amiga": "friend (female)"
+      }
+    }
+  ],
+  "vocabulary": {
+    "entrevista": {
+      "mnemonic": "Think 'interview' — almost the same word.",
+      "explanation": "Means 'interview'. From 'entre' (between) + 'vista' (view)."
+    },
+    "nervioso": {
+      "mnemonic": "Think 'nervous' — direct cognate!",
+      "explanation": "Means 'nervous'. Used with estar (temporary state)."
+    },
+    "confianza": {
+      "mnemonic": "Think 'confidence' — con + fianza.",
+      "explanation": "Means 'confidence' or 'trust'."
+    },
+    "consejos": {
+      "mnemonic": "Think 'counsel' — advice given!",
+      "explanation": "Plural of 'consejo', means 'advice'."
+    },
+    "honesto": {
+      "mnemonic": "Think 'honest' — exact cognate!",
+      "explanation": "Means 'honest'."
+    }
+  }
+}

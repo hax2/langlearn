@@ -1,0 +1,404 @@
+{
+  "id": "module-23",
+  "title": "Chapter 23: Done Actions (Acabar de)",
+  "description": "Say what you just finished doing.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "m23-s1",
+      "spanish": "Acabo de llegar.",
+      "english": "I just arrived.",
+      "wordMeanings": {
+        "Acabo": "I just finished",
+        "de": "of / from",
+        "llegar": "to arrive"
+      }
+    },
+    {
+      "id": "m23-s2",
+      "spanish": "Acabas de llegar.",
+      "english": "You just arrived.",
+      "wordMeanings": {
+        "Acabas": "you just finished",
+        "de": "of / from",
+        "llegar": "to arrive"
+      }
+    },
+    {
+      "id": "m23-s3",
+      "spanish": "Acaba de llegar.",
+      "english": "He/She just arrived.",
+      "wordMeanings": {
+        "Acaba": "(he/she) just finished",
+        "de": "of / from",
+        "llegar": "to arrive"
+      }
+    },
+    {
+      "id": "m23-s4",
+      "spanish": "Acabamos de llegar.",
+      "english": "We just arrived.",
+      "wordMeanings": {
+        "Acabamos": "we just finished",
+        "de": "of / from",
+        "llegar": "to arrive"
+      }
+    },
+    {
+      "id": "m23-s5",
+      "spanish": "Acabo de comer.",
+      "english": "I just ate.",
+      "wordMeanings": {
+        "Acabo": "I just finished",
+        "de": "of / from",
+        "comer": "to eat"
+      }
+    },
+    {
+      "id": "m23-s6",
+      "spanish": "Acabas de comer.",
+      "english": "You just ate.",
+      "wordMeanings": {
+        "Acabas": "you just finished",
+        "de": "of / from",
+        "comer": "to eat"
+      }
+    },
+    {
+      "id": "m23-s7",
+      "spanish": "Acaba de comer.",
+      "english": "He/She just ate.",
+      "wordMeanings": {
+        "Acaba": "(he/she) just finished",
+        "de": "of / from",
+        "comer": "to eat"
+      }
+    },
+    {
+      "id": "m23-s8",
+      "spanish": "Acabamos de comer.",
+      "english": "We just ate.",
+      "wordMeanings": {
+        "Acabamos": "we just finished",
+        "de": "of / from",
+        "comer": "to eat"
+      }
+    },
+    {
+      "id": "m23-s9",
+      "spanish": "Acabo de beber agua.",
+      "english": "I just drank water.",
+      "wordMeanings": {
+        "Acabo": "I just finished",
+        "de": "of / from",
+        "beber": "to drink",
+        "agua": "water"
+      }
+    },
+    {
+      "id": "m23-s10",
+      "spanish": "Acabas de abrir la puerta.",
+      "english": "You just opened the door.",
+      "wordMeanings": {
+        "Acabas": "you just finished",
+        "de": "of / from",
+        "abrir": "to open",
+        "la": "the / it (fem)",
+        "puerta": "door"
+      }
+    },
+    {
+      "id": "m23-s11",
+      "spanish": "Acaba de cerrar la ventana.",
+      "english": "He/She just closed the window.",
+      "wordMeanings": {
+        "Acaba": "(he/she) just finished",
+        "de": "of / from",
+        "cerrar": "to close",
+        "la": "the / it (fem)",
+        "ventana": "window"
+      }
+    },
+    {
+      "id": "m23-s12",
+      "spanish": "Acabamos de comprar pan.",
+      "english": "We just bought bread.",
+      "wordMeanings": {
+        "Acabamos": "we just finished",
+        "de": "of / from",
+        "comprar": "to buy",
+        "pan": "bread"
+      }
+    },
+    {
+      "id": "m23-s13",
+      "spanish": "Acabo de comprar el libro.",
+      "english": "I just bought the book.",
+      "wordMeanings": {
+        "Acabo": "I just finished",
+        "de": "of / from",
+        "comprar": "to buy",
+        "el": "the",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "m23-s14",
+      "spanish": "Lo acabo de comprar.",
+      "english": "I just bought it.",
+      "wordMeanings": {
+        "Lo": "it / him",
+        "acabo": "I just finished",
+        "de": "of / from",
+        "comprar": "to buy"
+      }
+    },
+    {
+      "id": "m23-s15",
+      "spanish": "Acabo de comprar la entrada.",
+      "english": "I just bought the ticket.",
+      "wordMeanings": {
+        "Acabo": "I just finished",
+        "de": "of / from",
+        "comprar": "to buy",
+        "la": "the / it (fem)",
+        "entrada": "ticket"
+      }
+    },
+    {
+      "id": "m23-s16",
+      "spanish": "La acabo de comprar.",
+      "english": "I just bought it.",
+      "wordMeanings": {
+        "La": "the / it (fem)",
+        "acabo": "I just finished",
+        "de": "of / from",
+        "comprar": "to buy"
+      }
+    },
+    {
+      "id": "m23-s17",
+      "spanish": "Acabo de ver a Ana.",
+      "english": "I just saw Ana.",
+      "wordMeanings": {
+        "Acabo": "I just finished",
+        "de": "of / from",
+        "ver": "to see",
+        "a": "(personal a)",
+        "Ana": "Ana"
+      }
+    },
+    {
+      "id": "m23-s18",
+      "spanish": "La acabo de ver.",
+      "english": "I just saw her.",
+      "wordMeanings": {
+        "La": "the / it (fem)",
+        "acabo": "I just finished",
+        "de": "of / from",
+        "ver": "to see"
+      }
+    },
+    {
+      "id": "m23-s19",
+      "spanish": "Acabo de llamar a Luis.",
+      "english": "I just called Luis.",
+      "wordMeanings": {
+        "Acabo": "I just finished",
+        "de": "of / from",
+        "llamar": "to call",
+        "a": "(personal a)",
+        "Luis": "Luis"
+      }
+    },
+    {
+      "id": "m23-s20",
+      "spanish": "Le acabo de llamar.",
+      "english": "I just called him.",
+      "wordMeanings": {
+        "Le": "him / to him",
+        "acabo": "I just finished",
+        "de": "of / from",
+        "llamar": "to call"
+      }
+    },
+    {
+      "id": "m23-s21",
+      "spanish": "Acabo de darle el libro a Ana.",
+      "english": "I just gave Ana the book.",
+      "wordMeanings": {
+        "Acabo": "I just finished",
+        "de": "of / from",
+        "darle": "to give him/her",
+        "el": "the",
+        "libro": "book",
+        "a": "to",
+        "Ana": "Ana"
+      }
+    },
+    {
+      "id": "m23-s22",
+      "spanish": "Se lo acabo de dar.",
+      "english": "I just gave it to her.",
+      "wordMeanings": {
+        "Se": "to him/her",
+        "lo": "it / him",
+        "acabo": "I just finished",
+        "de": "of / from",
+        "dar": "to give"
+      }
+    },
+    {
+      "id": "m23-s23",
+      "spanish": "Acabo de darle la carta a Luis.",
+      "english": "I just gave Luis the letter.",
+      "wordMeanings": {
+        "Acabo": "I just finished",
+        "de": "of / from",
+        "darle": "to give him/her",
+        "la": "the / it (fem)",
+        "carta": "letter",
+        "a": "to",
+        "Luis": "Luis"
+      }
+    },
+    {
+      "id": "m23-s24",
+      "spanish": "Se la acabo de dar.",
+      "english": "I just gave it to him.",
+      "wordMeanings": {
+        "Se": "to him/her",
+        "la": "the / it (fem)",
+        "acabo": "I just finished",
+        "de": "of / from",
+        "dar": "to give"
+      }
+    },
+    {
+      "id": "m23-s25",
+      "spanish": "¿Acabas de llegar?",
+      "english": "Did you just arrive?",
+      "wordMeanings": {
+        "Acabas": "you just finished",
+        "de": "of / from",
+        "llegar": "to arrive"
+      }
+    },
+    {
+      "id": "m23-s26",
+      "spanish": "Sí, acabo de llegar.",
+      "english": "Yes, I just arrived.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "acabo": "I just finished",
+        "de": "of / from",
+        "llegar": "to arrive"
+      }
+    },
+    {
+      "id": "m23-s27",
+      "spanish": "¿Acabas de comer?",
+      "english": "Did you just eat?",
+      "wordMeanings": {
+        "Acabas": "you just finished",
+        "de": "of / from",
+        "comer": "to eat"
+      }
+    },
+    {
+      "id": "m23-s28",
+      "spanish": "No, todavía no he comido.",
+      "english": "No, I haven't eaten yet.",
+      "wordMeanings": {
+        "No": "no / not",
+        "no": "no / not",
+        "todavía": "still / yet",
+        "he": "I have",
+        "comido": "eaten"
+      }
+    },
+    {
+      "id": "m23-s29",
+      "spanish": "Acabo de hablar con Marta.",
+      "english": "I just spoke with Marta.",
+      "wordMeanings": {
+        "Acabo": "I just finished",
+        "de": "of / from",
+        "hablar": "to speak",
+        "con": "with",
+        "Marta": "Marta"
+      }
+    },
+    {
+      "id": "m23-s30",
+      "spanish": "Acabo de decirle la verdad.",
+      "english": "I just told him/her the truth.",
+      "wordMeanings": {
+        "Acabo": "I just finished",
+        "de": "of / from",
+        "decirle": "to tell him/her",
+        "la": "the / it (fem)",
+        "verdad": "truth"
+      }
+    }
+  ],
+  "grammarExplanation": "'Acabar de + infinitive' expresses what you have JUST done.\n\nConjugate 'acabar' in the present:\n• Acabo de = I just...\n• Acabas de = You just...\n• Acaba de = He/She just...\n• Acabamos de = We just...\n\n• Acabo de llegar = I just arrived\n• Acabo de comer = I just ate\n\nObject pronouns can go before 'acabar' or attached to the infinitive:\n• 'Lo acabo de comprar' or 'Acabo de comprarlo'",
+  "vocabulary": {
+    "acabo": {
+      "mnemonic": "'A cab, oh!' — I just finished.",
+      "explanation": "'Acabo de + inf' = I have just..."
+    },
+    "acabamos": {
+      "mnemonic": "'A cab-amos' — we just finished.",
+      "explanation": "'Acabamos de + inf' = we have just..."
+    },
+    "comer": {
+      "mnemonic": "'Consume-er' — to eat.",
+      "explanation": "Infinitive. -ER verb."
+    },
+    "agua": {
+      "mnemonic": "Think 'aqua' — water!",
+      "explanation": "Fem but uses 'el agua'."
+    },
+    "la": {
+      "mnemonic": "'La lady' — her/it (feminine).",
+      "explanation": "Also 'the' (feminine)."
+    },
+    "puerta": {
+      "mnemonic": "Think 'port/portal' — a door.",
+      "explanation": "Feminine noun meaning door/gate."
+    },
+    "ventana": {
+      "mnemonic": "'Vent-ana' — air vents in a window.",
+      "explanation": "From Latin 'ventus' (wind)."
+    },
+    "comprar": {
+      "mnemonic": "'Compare & purchase' — to buy.",
+      "explanation": "Infinitive. -AR verb."
+    },
+    "pan": {
+      "mnemonic": "Bread baked in a pan!",
+      "explanation": "Means 'bread'. Masculine noun."
+    },
+    "libro": {
+      "mnemonic": "Think 'library' — full of libros (books)!",
+      "explanation": "Means 'book'. Masculine noun."
+    },
+    "lo": {
+      "mnemonic": "'Low him' — direct object him/it.",
+      "explanation": "Masculine direct object pronoun."
+    },
+    "carta": {
+      "mnemonic": "Think 'card/letter'.",
+      "explanation": "Means 'letter' or 'menu'."
+    },
+    "se": {
+      "mnemonic": "Think 'self' — reflexive pronoun.",
+      "explanation": "Replaces le/les before lo/la/los/las."
+    },
+    "hablar": {
+      "mnemonic": "'Hobble-ar' — to speak.",
+      "explanation": "Infinitive. -AR verb."
+    }
+  }
+}

@@ -1,0 +1,689 @@
+{
+  "id": "module-12",
+  "title": "Chapter 12: The Present Perfect",
+  "description": "Talk about what you 'have done'.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "m12-s1",
+      "spanish": "He comido pan.",
+      "english": "I have eaten bread.",
+      "wordMeanings": {
+        "He": "I have",
+        "comido": "eaten",
+        "pan": "bread"
+      }
+    },
+    {
+      "id": "m12-s2",
+      "spanish": "Has comido sopa.",
+      "english": "You have eaten soup.",
+      "wordMeanings": {
+        "Has": "you have",
+        "comido": "eaten",
+        "sopa": "soup"
+      }
+    },
+    {
+      "id": "m12-s3",
+      "spanish": "Ha bebido agua.",
+      "english": "He/She has drunk water.",
+      "wordMeanings": {
+        "Ha": "has",
+        "bebido": "drunk",
+        "agua": "water"
+      }
+    },
+    {
+      "id": "m12-s4",
+      "spanish": "Hemos bebido café.",
+      "english": "We have drunk coffee.",
+      "wordMeanings": {
+        "Hemos": "we have",
+        "bebido": "drunk",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m12-s5",
+      "spanish": "Han comido en casa.",
+      "english": "They have eaten at home.",
+      "wordMeanings": {
+        "Han": "have",
+        "comido": "eaten",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m12-s6",
+      "spanish": "¿Has estudiado hoy?",
+      "english": "Have you studied today?",
+      "wordMeanings": {
+        "Has": "you have",
+        "estudiado": "studied",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "m12-s7",
+      "spanish": "Sí, he estudiado hoy.",
+      "english": "Yes, I have studied today.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "he": "I have",
+        "estudiado": "studied",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "m12-s8",
+      "spanish": "No, no he estudiado hoy.",
+      "english": "No, I haven't studied today.",
+      "wordMeanings": {
+        "No": "no / not",
+        "no": "no / not",
+        "he": "I have",
+        "estudiado": "studied",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "m12-s9",
+      "spanish": "He trabajado mucho.",
+      "english": "I have worked a lot.",
+      "wordMeanings": {
+        "He": "I have",
+        "trabajado": "worked",
+        "mucho": "much / a lot"
+      }
+    },
+    {
+      "id": "m12-s10",
+      "spanish": "Has trabajado en casa.",
+      "english": "You have worked at home.",
+      "wordMeanings": {
+        "Has": "you have",
+        "trabajado": "worked",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m12-s11",
+      "spanish": "Ha trabajado en el centro.",
+      "english": "He/She has worked downtown.",
+      "wordMeanings": {
+        "Ha": "has",
+        "trabajado": "worked",
+        "en": "in / on",
+        "el": "the",
+        "centro": "downtown"
+      }
+    },
+    {
+      "id": "m12-s12",
+      "spanish": "Hemos trabajado hoy.",
+      "english": "We have worked today.",
+      "wordMeanings": {
+        "Hemos": "we have",
+        "trabajado": "worked",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "m12-s13",
+      "spanish": "He hablado con Ana.",
+      "english": "I have spoken with Ana.",
+      "wordMeanings": {
+        "He": "I have",
+        "hablado": "spoken",
+        "con": "with",
+        "Ana": "Ana"
+      }
+    },
+    {
+      "id": "m12-s14",
+      "spanish": "Has hablado con Luis.",
+      "english": "You have spoken with Luis.",
+      "wordMeanings": {
+        "Has": "you have",
+        "hablado": "spoken",
+        "con": "with",
+        "Luis": "Luis"
+      }
+    },
+    {
+      "id": "m12-s15",
+      "spanish": "Ha hablado con Marta.",
+      "english": "He/She has spoken with Marta.",
+      "wordMeanings": {
+        "Ha": "has",
+        "hablado": "spoken",
+        "con": "with",
+        "Marta": "Marta"
+      }
+    },
+    {
+      "id": "m12-s16",
+      "spanish": "Hemos hablado en español.",
+      "english": "We have spoken in Spanish.",
+      "wordMeanings": {
+        "Hemos": "we have",
+        "hablado": "spoken",
+        "en": "in / on",
+        "español": "Spanish"
+      }
+    },
+    {
+      "id": "m12-s17",
+      "spanish": "He comprado pan.",
+      "english": "I have bought bread.",
+      "wordMeanings": {
+        "He": "I have",
+        "comprado": "bought",
+        "pan": "bread"
+      }
+    },
+    {
+      "id": "m12-s18",
+      "spanish": "Has comprado café.",
+      "english": "You have bought coffee.",
+      "wordMeanings": {
+        "Has": "you have",
+        "comprado": "bought",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m12-s19",
+      "spanish": "Ha comprado un libro.",
+      "english": "He/She has bought a book.",
+      "wordMeanings": {
+        "Ha": "has",
+        "comprado": "bought",
+        "un": "a",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "m12-s20",
+      "spanish": "Hemos comprado comida.",
+      "english": "We have bought food.",
+      "wordMeanings": {
+        "Hemos": "we have",
+        "comprado": "bought",
+        "comida": "food"
+      }
+    },
+    {
+      "id": "m12-s21",
+      "spanish": "He buscado un trabajo.",
+      "english": "I have looked for a job.",
+      "wordMeanings": {
+        "He": "I have",
+        "buscado": "looked for",
+        "un": "a",
+        "trabajo": "I work / job"
+      }
+    },
+    {
+      "id": "m12-s22",
+      "spanish": "Has buscado un café.",
+      "english": "You have looked for a café.",
+      "wordMeanings": {
+        "Has": "you have",
+        "buscado": "looked for",
+        "un": "a",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m12-s23",
+      "spanish": "Ha buscado una casa.",
+      "english": "He/She has looked for a house.",
+      "wordMeanings": {
+        "Ha": "has",
+        "buscado": "looked for",
+        "una": "a (fem)",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m12-s24",
+      "spanish": "He abierto la puerta.",
+      "english": "I have opened the door.",
+      "wordMeanings": {
+        "He": "I have",
+        "abierto": "opened",
+        "la": "the / it (fem)",
+        "puerta": "door"
+      }
+    },
+    {
+      "id": "m12-s25",
+      "spanish": "Has abierto el libro.",
+      "english": "You have opened the book.",
+      "wordMeanings": {
+        "Has": "you have",
+        "abierto": "opened",
+        "el": "the",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "m12-s26",
+      "spanish": "Ha abierto la ventana.",
+      "english": "He/She has opened the window.",
+      "wordMeanings": {
+        "Ha": "has",
+        "abierto": "opened",
+        "la": "the / it (fem)",
+        "ventana": "window"
+      }
+    },
+    {
+      "id": "m12-s27",
+      "spanish": "He escrito un mensaje.",
+      "english": "I have written a message.",
+      "wordMeanings": {
+        "He": "I have",
+        "escrito": "written",
+        "un": "a",
+        "mensaje": "message"
+      }
+    },
+    {
+      "id": "m12-s28",
+      "spanish": "Has escrito una carta.",
+      "english": "You have written a letter.",
+      "wordMeanings": {
+        "Has": "you have",
+        "escrito": "written",
+        "una": "a (fem)",
+        "carta": "letter"
+      }
+    },
+    {
+      "id": "m12-s29",
+      "spanish": "Ha escrito un mensaje.",
+      "english": "He/She has written a message.",
+      "wordMeanings": {
+        "Ha": "has",
+        "escrito": "written",
+        "un": "a",
+        "mensaje": "message"
+      }
+    },
+    {
+      "id": "m12-s30",
+      "spanish": "He recibido un mensaje.",
+      "english": "I have received a message.",
+      "wordMeanings": {
+        "He": "I have",
+        "recibido": "received",
+        "un": "a",
+        "mensaje": "message"
+      }
+    },
+    {
+      "id": "m12-s31",
+      "spanish": "Has recibido una carta.",
+      "english": "You have received a letter.",
+      "wordMeanings": {
+        "Has": "you have",
+        "recibido": "received",
+        "una": "a (fem)",
+        "carta": "letter"
+      }
+    },
+    {
+      "id": "m12-s32",
+      "spanish": "Ha recibido un libro.",
+      "english": "He/She has received a book.",
+      "wordMeanings": {
+        "Ha": "has",
+        "recibido": "received",
+        "un": "a",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "m12-s33",
+      "spanish": "Hoy he tenido tiempo.",
+      "english": "Today I have had time.",
+      "wordMeanings": {
+        "Hoy": "today",
+        "he": "I have",
+        "tenido": "had",
+        "tiempo": "time"
+      }
+    },
+    {
+      "id": "m12-s34",
+      "spanish": "Hoy he tenido hambre.",
+      "english": "Today I have been hungry.",
+      "wordMeanings": {
+        "Hoy": "today",
+        "he": "I have",
+        "tenido": "had",
+        "hambre": "hunger"
+      }
+    },
+    {
+      "id": "m12-s35",
+      "spanish": "Hoy he tenido sed.",
+      "english": "Today I have been thirsty.",
+      "wordMeanings": {
+        "Hoy": "today",
+        "he": "I have",
+        "tenido": "had",
+        "sed": "thirst"
+      }
+    },
+    {
+      "id": "m12-s36",
+      "spanish": "Esta semana he estudiado mucho.",
+      "english": "This week I have studied a lot.",
+      "wordMeanings": {
+        "Esta": "this",
+        "semana": "week",
+        "he": "I have",
+        "estudiado": "studied",
+        "mucho": "much / a lot"
+      }
+    },
+    {
+      "id": "m12-s37",
+      "spanish": "Esta semana he trabajado mucho.",
+      "english": "This week I have worked a lot.",
+      "wordMeanings": {
+        "Esta": "this",
+        "semana": "week",
+        "he": "I have",
+        "trabajado": "worked",
+        "mucho": "much / a lot"
+      }
+    },
+    {
+      "id": "m12-s38",
+      "spanish": "¿Has ido al café hoy?",
+      "english": "Have you gone to the café today?",
+      "wordMeanings": {
+        "Has": "you have",
+        "ido": "gone",
+        "al": "to the",
+        "café": "coffee",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "m12-s39",
+      "spanish": "Sí, he ido al café hoy.",
+      "english": "Yes, I have gone to the café today.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "he": "I have",
+        "ido": "gone",
+        "al": "to the",
+        "café": "coffee",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "m12-s40",
+      "spanish": "No, no he ido al café hoy.",
+      "english": "No, I haven't gone to the café today.",
+      "wordMeanings": {
+        "No": "no / not",
+        "no": "no / not",
+        "he": "I have",
+        "ido": "gone",
+        "al": "to the",
+        "café": "coffee",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "m12-s41",
+      "spanish": "He vivido aquí.",
+      "english": "I have lived here.",
+      "wordMeanings": {
+        "He": "I have",
+        "vivido": "lived",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m12-s42",
+      "spanish": "Has vivido allí.",
+      "english": "You have lived there.",
+      "wordMeanings": {
+        "Has": "you have",
+        "vivido": "lived",
+        "allí": "there"
+      }
+    },
+    {
+      "id": "m12-s43",
+      "spanish": "Ha vivido en el centro.",
+      "english": "He/She has lived downtown.",
+      "wordMeanings": {
+        "Ha": "has",
+        "vivido": "lived",
+        "en": "in / on",
+        "el": "the",
+        "centro": "downtown"
+      }
+    },
+    {
+      "id": "m12-s44",
+      "spanish": "He aprendido español.",
+      "english": "I have learned Spanish.",
+      "wordMeanings": {
+        "He": "I have",
+        "aprendido": "learned",
+        "español": "Spanish"
+      }
+    },
+    {
+      "id": "m12-s45",
+      "spanish": "Has aprendido mucho.",
+      "english": "You have learned a lot.",
+      "wordMeanings": {
+        "Has": "you have",
+        "aprendido": "learned",
+        "mucho": "much / a lot"
+      }
+    },
+    {
+      "id": "m12-s46",
+      "spanish": "Hemos aprendido cada día.",
+      "english": "We have learned every day.",
+      "wordMeanings": {
+        "Hemos": "we have",
+        "aprendido": "learned",
+        "cada": "each",
+        "día": "day"
+      }
+    },
+    {
+      "id": "m12-s47",
+      "spanish": "Ayer estudié; hoy he estudiado.",
+      "english": "Yesterday I studied; today I have studied.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "estudié;": "I studied;",
+        "hoy": "today",
+        "he": "I have",
+        "estudiado": "studied"
+      }
+    },
+    {
+      "id": "m12-s48",
+      "spanish": "Antes estudiaba; hoy he estudiado.",
+      "english": "Before I used to study; today I have studied.",
+      "wordMeanings": {
+        "Antes": "before",
+        "estudiaba;": "used to study;",
+        "hoy": "today",
+        "he": "I have",
+        "estudiado": "studied"
+      }
+    },
+    {
+      "spanish": "¡Hoy no he parado!",
+      "english": "I haven't stopped today! (I've been very busy)",
+      "wordMeanings": {
+        "Hoy": "today",
+        "no": "not",
+        "he": "I have",
+        "parado": "stopped"
+      },
+      "id": "m12-s-colloq1"
+    },
+    {
+      "spanish": "Últimamente he estado muy liado.",
+      "english": "Lately I've been very busy.",
+      "wordMeanings": {
+        "Últimamente": "lately",
+        "he": "I have",
+        "estado": "been",
+        "muy": "very",
+        "liado": "busy/tied up"
+      },
+      "id": "m12-s-colloq2"
+    }
+  ],
+  "grammarExplanation": "The present perfect describes what has happened, formed with 'haber + past participle.'\n\nConjugate 'haber':\n• He, Has, Ha, Hemos, Han\n\nPast participles:\n• -AR → -ado: hablado, comprado, estudiado\n• -ER/-IR → -ido: comido, bebido, vivido\n\nIrregulars: abierto (abrir), escrito (escribir), dicho (decir), hecho (hacer), visto (ver)\n\nExample: 'He comido pan' = I have eaten bread.",
+  "vocabulary": {
+    "he": {
+      "mnemonic": "The root verb Haber has 2 vowel sounds 'a' and 'e'. 'ha' means 'he has' and 'he' means 'I have'.",
+      "explanation": "Auxiliary for present perfect."
+    },
+    "pan": {
+      "mnemonic": "Bread baked in a pan!",
+      "explanation": "Means 'bread'. Masculine noun."
+    },
+    "has": {
+      "mnemonic": "The root verb Haber has 2 vowel sounds. The first sound 'a' gives us 'he has' and adding an s gives us 'has' 'you have'.",
+      "explanation": "Second person auxiliary."
+    },
+    "ha": {
+      "mnemonic": "The root verb Haber has 2 vowel sounds. The first sound 'a' gives us 'he has'.",
+      "explanation": "Third person auxiliary."
+    },
+    "agua": {
+      "mnemonic": "Think 'aqua' — water!",
+      "explanation": "Fem but uses 'el agua'."
+    },
+    "hemos": {
+      "mnemonic": "'he' is 'I have' and 'we' is the plural of 'I' so we make 'he' plural and get 'hemos'.",
+      "explanation": "First person plural auxiliary."
+    },
+    "café": {
+      "mnemonic": "Same as English 'café' — coffee!",
+      "explanation": "Means 'coffee' or 'café'."
+    },
+    "han": {
+      "mnemonic": "'ha' is 'he has' and 'han' is 'they have'.",
+      "explanation": "Third person plural auxiliary."
+    },
+    "casa": {
+      "mnemonic": "Think 'casino' — a big house of games.",
+      "explanation": "Feminine noun. 'En casa' = at home."
+    },
+    "hoy": {
+      "mnemonic": "'Hoy! today!' — an exclamation for today.",
+      "explanation": "Means 'today'."
+    },
+    "mucho": {
+      "mnemonic": "Think 'much-o' — much/a lot!",
+      "explanation": "Means 'much/a lot'. Fem: mucha."
+    },
+    "centro": {
+      "mnemonic": "Same as English 'center' — downtown!",
+      "explanation": "Also means 'center'. 'Centro' = downtown area."
+    },
+    "español": {
+      "mnemonic": "'Espagne/Spain' + '-ol' — the Spanish language.",
+      "explanation": "Both the language and nationality."
+    },
+    "libro": {
+      "mnemonic": "Think 'library' — full of libros (books)!",
+      "explanation": "Means 'book'. Masculine noun."
+    },
+    "comida": {
+      "mnemonic": "'Come eat-a' — comida is food!",
+      "explanation": "From 'comer' (to eat)."
+    },
+    "trabajo": {
+      "mnemonic": "Think 'travel to work'.",
+      "explanation": "Means 'work/job'. Also 'I work'."
+    },
+    "abierto": {
+      "mnemonic": "'Open air-to' — opened.",
+      "explanation": "Past participle of 'abrir'. Irregular."
+    },
+    "la": {
+      "mnemonic": "'La lady' — her/it (feminine).",
+      "explanation": "Also 'the' (feminine)."
+    },
+    "puerta": {
+      "mnemonic": "Think 'port/portal' — a door.",
+      "explanation": "Feminine noun meaning door/gate."
+    },
+    "ventana": {
+      "mnemonic": "'Vent-ana' — air vents in a window.",
+      "explanation": "From Latin 'ventus' (wind)."
+    },
+    "escrito": {
+      "mnemonic": "Think 'script' — written!",
+      "explanation": "Past participle of 'escribir'. Irregular."
+    },
+    "carta": {
+      "mnemonic": "Think 'card/letter'.",
+      "explanation": "Means 'letter' or 'menu'."
+    },
+    "tiempo": {
+      "mnemonic": "Think 'tempo' — time and rhythm.",
+      "explanation": "Means 'time' or 'weather'."
+    },
+    "hambre": {
+      "mnemonic": "Think 'hamburger' — so hungry for one!",
+      "explanation": "'Tener hambre' = to be hungry."
+    },
+    "sed": {
+      "mnemonic": "Think 'said I'm thirsty!'",
+      "explanation": "'Tener sed' = to be thirsty."
+    },
+    "semana": {
+      "mnemonic": "Think 'semester has weeks'.",
+      "explanation": "Means 'week'. Feminine noun."
+    },
+    "aquí": {
+      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
+      "explanation": "Means 'here'. More precise than 'acá'."
+    },
+    "allí": {
+      "mnemonic": "Sounds like 'a lee' — over there.",
+      "explanation": "Means 'there'. Points to a specific spot."
+    },
+    "cada": {
+      "mnemonic": "Think 'cadence' — each beat.",
+      "explanation": "Means 'each/every'."
+    },
+    "día": {
+      "mnemonic": "Think 'diary' — each day.",
+      "explanation": "Masculine despite ending in -a."
+    },
+    "ayer": {
+      "mnemonic": "'A year ago? No, just yesterday!'",
+      "explanation": "Means 'yesterday'."
+    },
+    "antes": {
+      "mnemonic": "Think 'ante' (before in poker).",
+      "explanation": "Means 'before'."
+    }
+  }
+}

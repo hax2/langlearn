@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "trackId": "greek-platon-caverna",
+  "sourceHash": "ea885170ccdb17da5c3e553ff41aff4c054b61165fc76b68d821c709695fc66a",
+  "provider": "ollama/translategemma:4b",
+  "sourceLanguage": "es",
+  "targetLanguage": "en",
+  "translatedAt": "2026-08-15T08:29:19.289196+00:00",
+  "characters": 1764,
+  "blocks": [
+    {
+      "source": "Ahora represéntate el estado de la naturaleza humana, con relación a la ciencia y a la ignorancia, según el cuadro que te voy a trazar. Imagina un antro subterráneo, que tenga en toda su longitud una abertura que dé libre paso a la luz, y en esta caverna hombres encadenados desde la infancia, de suerte que no puedan mudar de lugar ni volver la cabeza a causa de las cadenas que les sujetan las piernas y el cuello, pudiendo solamente ver los objetos que tienen en frente. Detrás de ellos, a cierta distancia y a cierta altura, supóngase un fuego cuyo resplandor les alumbra, y un camino escarpado entre este fuego y los cautivos. Supon a lo largo de este camino un muro, semejante a los tabiques que los charlatanes ponen entre ellos y los espectadores, para ocultarles la combinación y los resortes secretos de las maravillas que hacen. –Ya me represento todo eso. –Figúrate personas, que pasan a lo largo del muro, llevando objetos de toda clase, figuras de hombres, de animales, de madera o piedra, de suerte que todo esto aparezca sobre el muro.",
+      "translation": "Now, imagine the state of human nature in relation to science and ignorance, according to the scenario I am about to describe. Picture a subterranean cave, with an opening along its entire length that allows light to enter, and within this cave, chained men from childhood, unable to move or turn their heads due to the chains that bind their legs and necks. They can only see the objects in front of them. Behind them, at a certain distance and height, imagine a fire whose light illuminates them, and a steep path between the fire and the prisoners. Along this path, imagine a wall, similar to the barriers that people use to separate themselves from the audience, to hide the mechanisms and secret workings of the wonders they create. – I can already picture it. Imagine people passing along the wall, carrying objects of all kinds: figures of men, animals, wood, or stone, so that all of this appears on the wall."
+    },
+    {
+      "source": "Entre los porteadores de todas estas cosas, unos se detienen a conversar y otros pasan sin decir nada. –Â¡Extraños prisioneros y cuadro singular! –Se parecen, sin embargo, a nosotros punto por punto. Por lo pronto ¿crees que puedan ver otra cosa de sí mismos y de los que están a su lado, que las sombras que van a producirse en frente de ellos en el fondo de la caverna. –¿Ni cómo hablan de poder ver más, si desde su nacimiento están precisados a tener la cabeza inmóvil? –Y respecto de los objetos que pasan detrás de ellos, ¿pueden ver otra cosa que las sombras de los mismos? –No. –Si pudieran conversar unos con otros, ¿no convendrían en dar a las sombras que ven los nombres de las cosas mismas? –Sin duda.",
+      "translation": "Among those carrying all these things, some stop to chat and others pass by without saying a word. –“These strange prisoners and this unique scene! –However, they resemble us point by point. For now, do you think they can see something else about themselves and those around them, the shadows that will appear before them at the back of the cave? –“But how can they even talk about seeing more, if from the moment they were born, they are destined to have their heads still?” –And regarding the objects passing behind them, can they see anything other than the shadows of those objects? –“No.” –If they could talk to each other, wouldn’t they agree to give the shadows they see the names of the objects themselves? –“Certainly.”"
+    }
+  ]
+}

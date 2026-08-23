@@ -1,0 +1,588 @@
+{
+  "id": "module-10",
+  "title": "Chapter 10: The Preterite Tense",
+  "description": "Talk about completed past actions.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "m10-s1",
+      "spanish": "Ayer hablé español.",
+      "english": "Yesterday I spoke Spanish.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "hablé": "I spoke",
+        "español": "Spanish"
+      }
+    },
+    {
+      "id": "m10-s2",
+      "spanish": "Ayer trabajé en casa.",
+      "english": "Yesterday I worked at home.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "trabajé": "I worked",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m10-s3",
+      "spanish": "Ayer estudié en el café.",
+      "english": "Yesterday I studied in the café.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "estudié": "I studied",
+        "en": "in / on",
+        "el": "the",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m10-s4",
+      "spanish": "Ayer compré pan.",
+      "english": "Yesterday I bought bread.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "compré": "I bought",
+        "pan": "bread"
+      }
+    },
+    {
+      "id": "m10-s5",
+      "spanish": "Ayer compré café.",
+      "english": "Yesterday I bought coffee.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "compré": "I bought",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m10-s6",
+      "spanish": "Ayer busqué un libro.",
+      "english": "Yesterday I looked for a book.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "busqué": "I looked for",
+        "un": "a",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "m10-s7",
+      "spanish": "Ayer esperé en la calle.",
+      "english": "Yesterday I waited in the street.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "esperé": "I waited",
+        "en": "in / on",
+        "la": "the / it (fem)",
+        "calle": "street"
+      }
+    },
+    {
+      "id": "m10-s8",
+      "spanish": "Ayer escuché música.",
+      "english": "Yesterday I listened to music.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "escuché": "I listened",
+        "música": "music"
+      }
+    },
+    {
+      "id": "m10-s9",
+      "spanish": "Ayer miré una foto.",
+      "english": "Yesterday I looked at a photo.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "miré": "I looked",
+        "una": "a (fem)",
+        "foto": "photo"
+      }
+    },
+    {
+      "id": "m10-s10",
+      "spanish": "Anoche comí sopa.",
+      "english": "Last night I ate soup.",
+      "wordMeanings": {
+        "Anoche": "last night",
+        "comí": "I ate",
+        "sopa": "soup"
+      }
+    },
+    {
+      "id": "m10-s11",
+      "spanish": "Anoche bebí té.",
+      "english": "Last night I drank tea.",
+      "wordMeanings": {
+        "Anoche": "last night",
+        "bebí": "I drank",
+        "té": "tea"
+      }
+    },
+    {
+      "id": "m10-s12",
+      "spanish": "Anoche comimos en casa.",
+      "english": "Last night we ate at home.",
+      "wordMeanings": {
+        "Anoche": "last night",
+        "comimos": "we ate",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m10-s13",
+      "spanish": "Ayer viví en el centro.",
+      "english": "Yesterday I lived downtown.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "viví": "I lived",
+        "en": "in / on",
+        "el": "the",
+        "centro": "downtown"
+      }
+    },
+    {
+      "id": "m10-s14",
+      "spanish": "Ayer abrí la puerta.",
+      "english": "Yesterday I opened the door.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "abrí": "I opened",
+        "la": "the / it (fem)",
+        "puerta": "door"
+      }
+    },
+    {
+      "id": "m10-s15",
+      "spanish": "Ayer escribí un mensaje.",
+      "english": "Yesterday I wrote a message.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "escribí": "I wrote",
+        "un": "a",
+        "mensaje": "message"
+      }
+    },
+    {
+      "id": "m10-s16",
+      "spanish": "Ayer recibí una carta.",
+      "english": "Yesterday I received a letter.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "recibí": "I received",
+        "una": "a (fem)",
+        "carta": "letter"
+      }
+    },
+    {
+      "id": "m10-s17",
+      "spanish": "Ayer fui al café.",
+      "english": "Yesterday I went to the café.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "fui": "I went / I was",
+        "al": "to the",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m10-s18",
+      "spanish": "Ayer fuiste a la escuela.",
+      "english": "Yesterday you went to school.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "fuiste": "you went",
+        "a": "to",
+        "la": "the / it (fem)",
+        "escuela": "school"
+      }
+    },
+    {
+      "id": "m10-s19",
+      "spanish": "Ayer fue al trabajo.",
+      "english": "Yesterday he/she went to work.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "fue": "went / was",
+        "al": "to the",
+        "trabajo": "I work / job"
+      }
+    },
+    {
+      "id": "m10-s20",
+      "spanish": "Ayer fuimos al centro.",
+      "english": "Yesterday we went downtown.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "fuimos": "we went",
+        "al": "to the",
+        "centro": "downtown"
+      }
+    },
+    {
+      "id": "m10-s21",
+      "spanish": "¿Fuiste al café ayer?",
+      "english": "Did you go to the café yesterday?",
+      "wordMeanings": {
+        "Fuiste": "you went",
+        "al": "to the",
+        "café": "coffee",
+        "ayer": "yesterday"
+      }
+    },
+    {
+      "id": "m10-s22",
+      "spanish": "Sí, fui al café ayer.",
+      "english": "Yes, I went to the café yesterday.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "fui": "I went / I was",
+        "al": "to the",
+        "café": "coffee",
+        "ayer": "yesterday"
+      }
+    },
+    {
+      "id": "m10-s23",
+      "spanish": "No, no fui al café ayer.",
+      "english": "No, I didn't go to the café yesterday.",
+      "wordMeanings": {
+        "No": "no / not",
+        "no": "no / not",
+        "fui": "I went / I was",
+        "al": "to the",
+        "café": "coffee",
+        "ayer": "yesterday"
+      }
+    },
+    {
+      "id": "m10-s24",
+      "spanish": "¿Compraste pan ayer?",
+      "english": "Did you buy bread yesterday?",
+      "wordMeanings": {
+        "Compraste": "you bought",
+        "pan": "bread",
+        "ayer": "yesterday"
+      }
+    },
+    {
+      "id": "m10-s25",
+      "spanish": "Sí, compré pan ayer.",
+      "english": "Yes, I bought bread yesterday.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "compré": "I bought",
+        "pan": "bread",
+        "ayer": "yesterday"
+      }
+    },
+    {
+      "id": "m10-s26",
+      "spanish": "No, no compré pan ayer.",
+      "english": "No, I didn't buy bread yesterday.",
+      "wordMeanings": {
+        "No": "no / not",
+        "no": "no / not",
+        "compré": "I bought",
+        "pan": "bread",
+        "ayer": "yesterday"
+      }
+    },
+    {
+      "id": "m10-s27",
+      "spanish": "Ayer tuve tiempo.",
+      "english": "Yesterday I had time.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "tuve": "I had",
+        "tiempo": "time"
+      }
+    },
+    {
+      "id": "m10-s28",
+      "spanish": "Ayer tuviste un problema.",
+      "english": "Yesterday you had a problem.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "tuviste": "you had",
+        "un": "a",
+        "problema": "problem"
+      }
+    },
+    {
+      "id": "m10-s29",
+      "spanish": "Ayer tuvo hambre.",
+      "english": "Yesterday he/she was hungry.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "tuvo": "he/she had",
+        "hambre": "hunger"
+      }
+    },
+    {
+      "id": "m10-s30",
+      "spanish": "Ayer tuvimos sed.",
+      "english": "Yesterday we were thirsty.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "tuvimos": "we had",
+        "sed": "thirst"
+      }
+    },
+    {
+      "id": "m10-s31",
+      "spanish": "Ayer me levanté temprano.",
+      "english": "Yesterday I got up early.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "me": "me / to me",
+        "levanté": "I got up",
+        "temprano": "early"
+      }
+    },
+    {
+      "id": "m10-s32",
+      "spanish": "Ayer me acosté tarde.",
+      "english": "Yesterday I went to bed late.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "me": "me / to me",
+        "acosté": "I went to bed",
+        "tarde": "late / afternoon"
+      }
+    },
+    {
+      "id": "m10-s33",
+      "spanish": "Ayer me duché en casa.",
+      "english": "Yesterday I showered at home.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "me": "me / to me",
+        "duché": "I showered",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m10-s34",
+      "spanish": "Ayer no trabajé.",
+      "english": "Yesterday I didn't work.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "no": "no / not",
+        "trabajé": "I worked"
+      }
+    },
+    {
+      "id": "m10-s35",
+      "spanish": "Ayer no estudié.",
+      "english": "Yesterday I didn't study.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "no": "no / not",
+        "estudié": "I studied"
+      }
+    },
+    {
+      "id": "m10-s36",
+      "spanish": "Ayer no compré el coche.",
+      "english": "Yesterday I didn't buy the car.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "no": "no / not",
+        "compré": "I bought",
+        "el": "the",
+        "coche": "car"
+      }
+    },
+    {
+      "id": "m10-s37",
+      "spanish": "Ayer hablamos y después comimos.",
+      "english": "Yesterday we talked and then we ate.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "hablamos": "we spoke",
+        "y": "and",
+        "después": "after",
+        "comimos": "we ate"
+      }
+    },
+    {
+      "id": "m10-s38",
+      "spanish": "Ayer busqué un café y lo encontré.",
+      "english": "Yesterday I looked for a café and found it.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "busqué": "I looked for",
+        "un": "a",
+        "café": "coffee",
+        "y": "and",
+        "lo": "it / him",
+        "encontré": "I found"
+      }
+    },
+    {
+      "id": "m10-s39",
+      "spanish": "Ayer esperé y después fui a casa.",
+      "english": "Yesterday I waited and then I went home.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "esperé": "I waited",
+        "y": "and",
+        "después": "after",
+        "fui": "I went / I was",
+        "a": "to",
+        "casa": "house"
+      }
+    },
+    {
+      "spanish": "Ayer me lo pasé pipa.",
+      "english": "Yesterday I had a blast.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "me": "to me",
+        "lo": "it",
+        "pasé": "I passed",
+        "pipa": "blast (slang)"
+      },
+      "id": "m10-s-colloq1"
+    },
+    {
+      "spanish": "Ayer no hice nada.",
+      "english": "Yesterday I did nothing.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "no": "not",
+        "hice": "I did",
+        "nada": "nothing"
+      },
+      "id": "m10-s-colloq2"
+    }
+  ],
+  "grammarExplanation": "The preterite tense describes completed actions in the past.\n\nRegular -AR endings: -é, -aste, -ó, -amos, -aron\n• hablé, hablaste, habló, hablamos, hablaron\n\nRegular -ER/-IR endings: -í, -iste, -ió, -imos, -ieron\n• comí, comiste, comió, comimos, comieron\n\nIrregular: ir/ser → fui, fuiste, fue, fuimos, fueron\ntener → tuve, tuviste, tuvo, tuvimos, tuvieron",
+  "vocabulary": {
+    "ayer": {
+      "mnemonic": "'A year ago? No, just yesterday!'",
+      "explanation": "Means 'yesterday'."
+    },
+    "hablé": {
+      "mnemonic": "'I hobbled and spoke' — I spoke.",
+      "explanation": "Preterite first person of 'hablar'."
+    },
+    "español": {
+      "mnemonic": "'Espagne/Spain' + '-ol' — the Spanish language.",
+      "explanation": "Both the language and nationality."
+    },
+    "casa": {
+      "mnemonic": "Think 'casino' — a big house of games.",
+      "explanation": "Feminine noun. 'En casa' = at home."
+    },
+    "café": {
+      "mnemonic": "Same as English 'café' — coffee!",
+      "explanation": "Means 'coffee' or 'café'."
+    },
+    "pan": {
+      "mnemonic": "Bread baked in a pan!",
+      "explanation": "Means 'bread'. Masculine noun."
+    },
+    "libro": {
+      "mnemonic": "Think 'library' — full of libros (books)!",
+      "explanation": "Means 'book'. Masculine noun."
+    },
+    "la": {
+      "mnemonic": "'La lady' — her/it (feminine).",
+      "explanation": "Also 'the' (feminine)."
+    },
+    "calle": {
+      "mnemonic": "Think 'call-ay' — you call from down the street.",
+      "explanation": "Feminine noun meaning street."
+    },
+    "música": {
+      "mnemonic": "Nearly identical to 'music' — cognate!",
+      "explanation": "Feminine noun."
+    },
+    "foto": {
+      "mnemonic": "Same as English 'photo'!",
+      "explanation": "Short for 'fotografía'. Feminine."
+    },
+    "anoche": {
+      "mnemonic": "'A + noche' = last night.",
+      "explanation": "Means 'last night'."
+    },
+    "comí": {
+      "mnemonic": "'Come eat, I did!' — I ate.",
+      "explanation": "Preterite first person of 'comer'."
+    },
+    "viví": {
+      "mnemonic": "'Vivid life I lived.'",
+      "explanation": "Preterite first person of 'vivir'."
+    },
+    "centro": {
+      "mnemonic": "Same as English 'center' — downtown!",
+      "explanation": "Also means 'center'. 'Centro' = downtown area."
+    },
+    "puerta": {
+      "mnemonic": "Think 'port/portal' — a door.",
+      "explanation": "Feminine noun meaning door/gate."
+    },
+    "carta": {
+      "mnemonic": "Think 'card/letter'.",
+      "explanation": "Means 'letter' or 'menu'."
+    },
+    "escuela": {
+      "mnemonic": "Sounds like 'school-a' — it IS school!",
+      "explanation": "Feminine noun meaning school."
+    },
+    "trabajo": {
+      "mnemonic": "Think 'travel to work'.",
+      "explanation": "Means 'work/job'. Also 'I work'."
+    },
+    "tiempo": {
+      "mnemonic": "Think 'tempo' — time and rhythm.",
+      "explanation": "Means 'time' or 'weather'."
+    },
+    "problema": {
+      "mnemonic": "Nearly identical to 'problem' — cognate!",
+      "explanation": "Masculine despite -a ending!"
+    },
+    "hambre": {
+      "mnemonic": "Think 'hamburger' — so hungry for one!",
+      "explanation": "'Tener hambre' = to be hungry."
+    },
+    "sed": {
+      "mnemonic": "Think 'said I'm thirsty!'",
+      "explanation": "'Tener sed' = to be thirsty."
+    },
+    "temprano": {
+      "mnemonic": "'Temporary morning' — early!",
+      "explanation": "Means 'early'."
+    },
+    "tarde": {
+      "mnemonic": "Think 'tardy' — late!",
+      "explanation": "Means 'late' or 'afternoon'."
+    },
+    "coche": {
+      "mnemonic": "Think 'coach' — a horse-drawn coach = car.",
+      "explanation": "Means 'car'. Mainly used in Spain."
+    },
+    "hablamos": {
+      "mnemonic": "'Hobble-amos' — we talk.",
+      "explanation": "First person plural of 'hablar'."
+    },
+    "y": {
+      "mnemonic": "The letter 'Y' connects — like 'and' connects words.",
+      "explanation": "Pronounced like 'ee'. The simplest conjunction."
+    },
+    "después": {
+      "mnemonic": "'Dispatch after' — afterwards.",
+      "explanation": "Means 'after/afterwards'."
+    },
+    "lo": {
+      "mnemonic": "'Low him' — direct object him/it.",
+      "explanation": "Masculine direct object pronoun."
+    }
+  }
+}

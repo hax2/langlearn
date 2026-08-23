@@ -1,0 +1,415 @@
+{
+  "id": "module-19",
+  "title": "Chapter 19: Subjunctive: Hope",
+  "description": "Express hope and uncertainty with 'Espero que'.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "m19-s1",
+      "spanish": "Espero que hables.",
+      "english": "I hope you speak.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "hables": "speak (subj)"
+      }
+    },
+    {
+      "id": "m19-s2",
+      "spanish": "Espero que comas bien.",
+      "english": "I hope you eat well.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "comas": "eat (subj)",
+        "bien": "well/good"
+      }
+    },
+    {
+      "id": "m19-s3",
+      "spanish": "Espero que vivas bien aquí.",
+      "english": "I hope you live well here.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "vivas": "live (subj)",
+        "bien": "well/good",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m19-s4",
+      "spanish": "Espero que estudies hoy.",
+      "english": "I hope you study today.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "estudies": "study (subj)",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "m19-s5",
+      "spanish": "Espero que trabajes mañana.",
+      "english": "I hope you work tomorrow.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "trabajes": "work (subj)",
+        "mañana": "tomorrow / morning"
+      }
+    },
+    {
+      "id": "m19-s6",
+      "spanish": "Espero que abras la puerta.",
+      "english": "I hope you open the door.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "abras": "open (subj)",
+        "la": "the / it (fem)",
+        "puerta": "door"
+      }
+    },
+    {
+      "id": "m19-s7",
+      "spanish": "Espero que cierres la ventana.",
+      "english": "I hope you close the window.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "cierres": "close (subj)",
+        "la": "the / it (fem)",
+        "ventana": "window"
+      }
+    },
+    {
+      "id": "m19-s8",
+      "spanish": "Espero que esperes aquí.",
+      "english": "I hope you wait here.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "esperes": "wait (subj)",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m19-s9",
+      "spanish": "Espero que me escuches.",
+      "english": "I hope you listen to me.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "me": "me / to me",
+        "escuches": "listen (subj)"
+      }
+    },
+    {
+      "id": "m19-s10",
+      "spanish": "Espero que me digas la verdad.",
+      "english": "I hope you tell me the truth.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "me": "me / to me",
+        "digas": "say (subj)",
+        "la": "the / it (fem)",
+        "verdad": "truth"
+      }
+    },
+    {
+      "id": "m19-s11",
+      "spanish": "Espero que me lo digas.",
+      "english": "I hope you tell it to me.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "me": "me / to me",
+        "lo": "it / him",
+        "digas": "say (subj)"
+      }
+    },
+    {
+      "id": "m19-s12",
+      "spanish": "Espero que vengas mañana.",
+      "english": "I hope you come tomorrow.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "vengas": "come (subj)",
+        "mañana": "tomorrow / morning"
+      }
+    },
+    {
+      "id": "m19-s13",
+      "spanish": "Espero que vayas conmigo.",
+      "english": "I hope you go with me.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "vayas": "go (subj)",
+        "conmigo": "with me"
+      }
+    },
+    {
+      "id": "m19-s14",
+      "spanish": "Espero que tengas tiempo.",
+      "english": "I hope you have time.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "tengas": "have (subj)",
+        "tiempo": "time"
+      }
+    },
+    {
+      "id": "m19-s15",
+      "spanish": "Espero que tengas dinero.",
+      "english": "I hope you have money.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "tengas": "have (subj)",
+        "dinero": "money"
+      }
+    },
+    {
+      "id": "m19-s16",
+      "spanish": "Espero que estés aquí.",
+      "english": "I hope you are here.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "estés": "are (subj)",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m19-s17",
+      "spanish": "Espero que estés bien.",
+      "english": "I hope you are well.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "estés": "are (subj)",
+        "bien": "well/good"
+      }
+    },
+    {
+      "id": "m19-s18",
+      "spanish": "Espero que seas feliz.",
+      "english": "I hope you are happy.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "seas": "you are (subj)",
+        "feliz": "happy"
+      }
+    },
+    {
+      "id": "m19-s19",
+      "spanish": "¿Esperas que hable?",
+      "english": "Do you hope that I speak?",
+      "wordMeanings": {
+        "Esperas": "you wait",
+        "que": "that / than",
+        "hable": "speak (subj)"
+      }
+    },
+    {
+      "id": "m19-s20",
+      "spanish": "Sí, espero que hables.",
+      "english": "Yes, I hope you speak.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "espero": "I wait / hope",
+        "que": "that / than",
+        "hables": "speak (subj)"
+      }
+    },
+    {
+      "id": "m19-s21",
+      "spanish": "No, no espero que hables.",
+      "english": "No, I don't expect you to speak.",
+      "wordMeanings": {
+        "No": "no / not",
+        "no": "no / not",
+        "espero": "I wait / hope",
+        "que": "that / than",
+        "hables": "speak (subj)"
+      }
+    },
+    {
+      "id": "m19-s22",
+      "spanish": "Espero que llegues temprano.",
+      "english": "I hope you arrive early.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "llegues": "arrive (subj)",
+        "temprano": "early"
+      }
+    },
+    {
+      "id": "m19-s23",
+      "spanish": "Espero que no llegues tarde.",
+      "english": "I hope you don't arrive late.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "no": "no / not",
+        "llegues": "arrive (subj)",
+        "tarde": "late / afternoon"
+      }
+    },
+    {
+      "id": "m19-s24",
+      "spanish": "Espero que te sientes aquí.",
+      "english": "I hope you sit here.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "te": "you / to you",
+        "sientes": "sit down (subj)",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m19-s25",
+      "spanish": "Espero que te quedes.",
+      "english": "I hope you stay.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "te": "you / to you",
+        "quedes": "stay (subj)"
+      }
+    },
+    {
+      "id": "m19-s26",
+      "spanish": "Espero que compres pan.",
+      "english": "I hope you buy bread.",
+      "wordMeanings": {
+        "Espero": "I wait / hope",
+        "que": "that / than",
+        "compres": "buy (subj)",
+        "pan": "bread"
+      }
+    },
+    {
+      "id": "m19-s27",
+      "spanish": "¡Ojalá que sí!",
+      "english": "I hope so!",
+      "wordMeanings": {
+        "Ojalá": "hopefully",
+        "que": "that / than",
+        "sí": "yes"
+      }
+    },
+    {
+      "id": "m19-s28",
+      "spanish": "¡Ojalá que no!",
+      "english": "I hope not!",
+      "wordMeanings": {
+        "Ojalá": "hopefully",
+        "que": "that / than",
+        "no": "no / not"
+      }
+    },
+    {
+      "id": "m19-s29",
+      "spanish": "Espero que todo salga bien.",
+      "english": "I hope everything goes well.",
+      "wordMeanings": {
+        "Espero": "I hope",
+        "que": "that / than",
+        "todo": "all / everything",
+        "salga": "turn out (subj)",
+        "bien": "well/good"
+      }
+    },
+    {
+      "id": "m19-s30",
+      "spanish": "Espero que estéis listos.",
+      "english": "I hope you are ready. (you plural, Spain)",
+      "wordMeanings": {
+        "Espero": "I hope",
+        "que": "that / than",
+        "estéis": "are (subj pl)",
+        "listos": "ready"
+      }
+    }
+  ],
+  "grammarExplanation": "The subjunctive is also triggered by expressions of hope and emotion:\n\n'Espero que + subjunctive'\n\n• Espero que hables = I hope you speak\n• Espero que vengas = I hope you come\n• Espero que estés bien = I hope you're well\n\nOther triggers: 'Ojalá que' (I wish that), 'Me alegra que' (I'm glad that), 'Temo que' (I fear that).\n\nRemember: same subject → infinitive. Different subjects → subjunctive.",
+  "vocabulary": {
+    "espero": {
+      "mnemonic": "Hook phrase: 'Espero que sí' (I hope so).",
+      "explanation": "First person of 'esperar'."
+    },
+    "aquí": {
+      "mnemonic": "Hook phrase: 'Ven aquí' (Come here).",
+      "explanation": "Means 'here'. More precise than 'acá'."
+    },
+    "hoy": {
+      "mnemonic": "Hook phrase: 'Hoy en día' (Nowadays / Today).",
+      "explanation": "Means 'today'."
+    },
+    "mañana": {
+      "mnemonic": "Hook phrase: 'Hasta mañana' (See you tomorrow).",
+      "explanation": "Means 'tomorrow' or 'morning'."
+    },
+    "la": {
+      "mnemonic": "Hook phrase: 'La casa' (The house).",
+      "explanation": "Also 'the' (feminine)."
+    },
+    "puerta": {
+      "mnemonic": "Etymology: From Latin 'porta'. Cognate with English 'portal' or 'port'.",
+      "explanation": "Feminine noun meaning door/gate."
+    },
+    "ventana": {
+      "mnemonic": "Etymology: From Latin 'ventus' (wind). A window acts as a 'vent' for air.",
+      "explanation": "From Latin 'ventus' (wind)."
+    },
+    "lo": {
+      "mnemonic": "Hook phrase: 'Lo veo' (I see it).",
+      "explanation": "Masculine direct object pronoun."
+    },
+    "tiempo": {
+      "mnemonic": "Etymology: From Latin 'tempus'. Cognate with 'tempo' or 'temporary'.",
+      "explanation": "Means 'time' or 'weather'."
+    },
+    "dinero": {
+      "mnemonic": "Etymology: Derived from the ancient Roman coin 'denarius' (like the dinar).",
+      "explanation": "Means 'money'."
+    },
+    "feliz": {
+      "mnemonic": "Etymology: From Latin 'felix'. Cognate with English 'felicity'.",
+      "explanation": "Same for masc/fem."
+    },
+    "esperas": {
+      "mnemonic": "Hook phrase: '¿Qué esperas?' (What are you waiting for?).",
+      "explanation": "Second person of 'esperar'."
+    },
+    "temprano": {
+      "mnemonic": "Etymology: From Latin 'temporanus'. Related to 'tiempo' (time/temporary).",
+      "explanation": "Means 'early'."
+    },
+    "tarde": {
+      "mnemonic": "Etymology: From Latin 'tardus' (slow). Cognate with English 'tardy'.",
+      "explanation": "Means 'late' or 'afternoon'."
+    },
+    "pan": {
+      "mnemonic": "Etymology: From Latin 'panis'. A 'pantry' is a place to store bread. A 'companion' is someone you share bread with.",
+      "explanation": "Means 'bread'. Masculine noun."
+    },
+    "los": {
+      "mnemonic": "Hook phrase: 'Los amigos' (The friends).",
+      "explanation": "Direct object pronoun."
+    },
+    "las": {
+      "mnemonic": "Hook phrase: 'Las cosas' (The things).",
+      "explanation": "Direct object pronoun."
+    }
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "id": "module-16",
+  "title": "Chapter 16: Affirmative Commands",
+  "description": "Give direct orders like 'Speak' or 'Eat'.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "m16-s1",
+      "spanish": "Habla.",
+      "english": "Speak.",
+      "wordMeanings": {
+        "Habla": "speaks"
+      }
+    },
+    {
+      "id": "m16-s2",
+      "spanish": "Come.",
+      "english": "Eat.",
+      "wordMeanings": {
+        "Come": "eats"
+      }
+    },
+    {
+      "id": "m16-s3",
+      "spanish": "Vive aquí.",
+      "english": "Live here.",
+      "wordMeanings": {
+        "Vive": "lives",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m16-s4",
+      "spanish": "Espera aquí.",
+      "english": "Wait here.",
+      "wordMeanings": {
+        "Espera": "waits",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m16-s5",
+      "spanish": "Hable, por favor.",
+      "english": "Speak, please. (formal)",
+      "wordMeanings": {
+        "Hable": "speak (subj)",
+        "por": "for / by",
+        "favor": "favor"
+      }
+    },
+    {
+      "id": "m16-s6",
+      "spanish": "Coma, por favor.",
+      "english": "Eat, please. (formal)",
+      "wordMeanings": {
+        "Coma": "eat (subj)",
+        "por": "for / by",
+        "favor": "favor"
+      }
+    },
+    {
+      "id": "m16-s7",
+      "spanish": "Hablad.",
+      "english": "Speak. (you plural, Spain)",
+      "wordMeanings": {
+        "Hablad": "speak (imp pl)"
+      }
+    },
+    {
+      "id": "m16-s8",
+      "spanish": "Hablen, por favor.",
+      "english": "Speak, please. (you plural)",
+      "wordMeanings": {
+        "Hablen": "speak (subj pl)",
+        "por": "for / by",
+        "favor": "favor"
+      }
+    },
+    {
+      "id": "m16-s9",
+      "spanish": "Vamos.",
+      "english": "Let’s go.",
+      "wordMeanings": {
+        "Vamos": "we go"
+      }
+    },
+    {
+      "id": "m16-s10",
+      "spanish": "Vamos a casa.",
+      "english": "Let’s go home.",
+      "wordMeanings": {
+        "Vamos": "we go",
+        "a": "to",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m16-s11",
+      "spanish": "Vamos a comer.",
+      "english": "Let’s eat.",
+      "wordMeanings": {
+        "Vamos": "we go",
+        "a": "to",
+        "comer": "to eat"
+      }
+    },
+    {
+      "id": "m16-s12",
+      "spanish": "Abre la puerta.",
+      "english": "Open the door.",
+      "wordMeanings": {
+        "Abre": "opens",
+        "la": "the / it (fem)",
+        "puerta": "door"
+      }
+    },
+    {
+      "id": "m16-s13",
+      "spanish": "Abra la puerta.",
+      "english": "Open the door. (formal)",
+      "wordMeanings": {
+        "Abra": "open (subj/form)",
+        "la": "the / it (fem)",
+        "puerta": "door"
+      }
+    },
+    {
+      "id": "m16-s14",
+      "spanish": "Abrid la puerta.",
+      "english": "Open the door. (you plural, Spain)",
+      "wordMeanings": {
+        "Abrid": "open (imp pl)",
+        "la": "the / it (fem)",
+        "puerta": "door"
+      }
+    },
+    {
+      "id": "m16-s15",
+      "spanish": "Abran la puerta.",
+      "english": "Open the door. (you plural)",
+      "wordMeanings": {
+        "Abran": "open (subj/form pl)",
+        "la": "the / it (fem)",
+        "puerta": "door"
+      }
+    },
+    {
+      "id": "m16-s16",
+      "spanish": "Mira esto.",
+      "english": "Look at this.",
+      "wordMeanings": {
+        "Mira": "looks",
+        "esto": "this"
+      }
+    },
+    {
+      "id": "m16-s17",
+      "spanish": "Mire esto.",
+      "english": "Look at this. (formal)",
+      "wordMeanings": {
+        "Mire": "look (subj)",
+        "esto": "this"
+      }
+    },
+    {
+      "id": "m16-s18",
+      "spanish": "Escucha.",
+      "english": "Listen.",
+      "wordMeanings": {
+        "Escucha": "listens"
+      }
+    },
+    {
+      "id": "m16-s19",
+      "spanish": "Escuche.",
+      "english": "Listen. (formal)",
+      "wordMeanings": {
+        "Escuche": "listen (subj)"
+      }
+    },
+    {
+      "id": "m16-s20",
+      "spanish": "Dime.",
+      "english": "Tell me.",
+      "wordMeanings": {
+        "Dime": "tell me"
+      }
+    },
+    {
+      "id": "m16-s21",
+      "spanish": "Dígame.",
+      "english": "Tell me. (formal)",
+      "wordMeanings": {
+        "Dígame": "tell me (form)"
+      }
+    },
+    {
+      "id": "m16-s22",
+      "spanish": "Dime la verdad.",
+      "english": "Tell me the truth.",
+      "wordMeanings": {
+        "Dime": "tell me",
+        "la": "the / it (fem)",
+        "verdad": "truth"
+      }
+    },
+    {
+      "id": "m16-s23",
+      "spanish": "Dáselo.",
+      "english": "Give it to him/her.",
+      "wordMeanings": {
+        "Dáselo": "give it to him/her"
+      }
+    },
+    {
+      "id": "m16-s24",
+      "spanish": "Pásamelo.",
+      "english": "Pass it to me.",
+      "wordMeanings": {
+        "Pásamelo": "pass it to me"
+      }
+    },
+    {
+      "id": "m16-s25",
+      "spanish": "Date prisa.",
+      "english": "Hurry up.",
+      "wordMeanings": {
+        "Date": "give yourself",
+        "prisa": "hurry"
+      }
+    },
+    {
+      "id": "m16-s26",
+      "spanish": "Venga, vámonos.",
+      "english": "Come on, let's go.",
+      "wordMeanings": {
+        "Venga": "come on",
+        "vámonos": "let's go"
+      }
+    },
+    {
+      "id": "m16-s27",
+      "spanish": "Explícaselo.",
+      "english": "Explain it to him/her.",
+      "wordMeanings": {
+        "Explícaselo": "explain it to him/her"
+      }
+    },
+    {
+      "id": "m16-s28",
+      "spanish": "Enséñaselo.",
+      "english": "Show it to him/her.",
+      "wordMeanings": {
+        "Enséñaselo": "show it to him/her"
+      }
+    },
+    {
+      "id": "m16-s29",
+      "spanish": "Siéntate aquí.",
+      "english": "Sit here.",
+      "wordMeanings": {
+        "Siéntate": "sit down",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m16-s30",
+      "spanish": "Siéntese aquí.",
+      "english": "Sit here. (formal)",
+      "wordMeanings": {
+        "Siéntese": "sit down (form)",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m16-s31",
+      "spanish": "Quédate en casa.",
+      "english": "Stay at home.",
+      "wordMeanings": {
+        "Quédate": "stay",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m16-s32",
+      "spanish": "Quédese en casa.",
+      "english": "Stay at home. (formal)",
+      "wordMeanings": {
+        "Quédese": "stay (form)",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m16-s33",
+      "spanish": "Ven.",
+      "english": "Come.",
+      "wordMeanings": {
+        "Ven": "come"
+      }
+    },
+    {
+      "id": "m16-s34",
+      "spanish": "Venga.",
+      "english": "Come. (formal)",
+      "wordMeanings": {
+        "Venga": "come (subj)"
+      }
+    },
+    {
+      "id": "m16-s35",
+      "spanish": "Id.",
+      "english": "Go. (you plural, Spain)",
+      "wordMeanings": {
+        "Id": "go (imp pl)"
+      }
+    },
+    {
+      "id": "m16-s36",
+      "spanish": "Vayan.",
+      "english": "Go. (you plural)",
+      "wordMeanings": {
+        "Vayan": "go (subj pl)"
+      }
+    }
+  ],
+  "grammarExplanation": "Affirmative commands tell someone TO DO something.\n\nInformal 'tú' commands (use the él/ella present form):\n• Habla (Speak), Come (Eat), Abre (Open)\n\nFormal 'usted' commands (use subjunctive):\n• Hable, Coma, Abra\n\nPlural 'ustedes' commands (subjunctive plural):\n• Hablen, Coman, Abran\n\nWith reflexive/object pronouns, ATTACH them to the end:\n• Siéntate (Sit down), Dime (Tell me), Dáselo (Give it to him/her)",
+  "vocabulary": {
+    "habla": {
+      "mnemonic": "'Ha-bla' — he/she speaks.",
+      "explanation": "Third person of 'hablar'."
+    },
+    "come": {
+      "mnemonic": "'Come eat!' — he/she eats.",
+      "explanation": "Third person of 'comer'."
+    },
+    "vive": {
+      "mnemonic": "Think 'viva!' — he/she lives.",
+      "explanation": "Third person of 'vivir'."
+    },
+    "aquí": {
+      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
+      "explanation": "Means 'here'. More precise than 'acá'."
+    },
+    "espera": {
+      "mnemonic": "'Aspire-a' — he/she waits.",
+      "explanation": "Third person of 'esperar'."
+    },
+    "favor": {
+      "mnemonic": "Same as English 'favor' — do me a favor, please!",
+      "explanation": "'Por favor' literally means 'for favor'."
+    },
+    "vamos": {
+      "mnemonic": "'¡Vamos!' — Let's go! Already English.",
+      "explanation": "First person plural of 'ir'."
+    },
+    "casa": {
+      "mnemonic": "Think 'casino' — a big house of games.",
+      "explanation": "Feminine noun. 'En casa' = at home."
+    },
+    "comer": {
+      "mnemonic": "'Consume-er' — to eat.",
+      "explanation": "Infinitive. -ER verb."
+    },
+    "abre": {
+      "mnemonic": "'Abbreviate by opening' — he/she opens.",
+      "explanation": "Third person of 'abrir'."
+    },
+    "la": {
+      "mnemonic": "'La lady' — her/it (feminine).",
+      "explanation": "Also 'the' (feminine)."
+    },
+    "puerta": {
+      "mnemonic": "Think 'port/portal' — a door.",
+      "explanation": "Feminine noun meaning door/gate."
+    },
+    "mira": {
+      "mnemonic": "Think 'mirror-a' — he/she looks.",
+      "explanation": "Third person of 'mirar'. Also used as 'Look!'."
+    },
+    "escucha": {
+      "mnemonic": "'Sketch-a sound' — he/she listens.",
+      "explanation": "Third person of 'escuchar'."
+    },
+    "ven": {
+      "mnemonic": "'Venture here!' — Come!",
+      "explanation": "Irregular tú command of 'venir'."
+    }
+  }
+}

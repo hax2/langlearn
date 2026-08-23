@@ -1,0 +1,203 @@
+.settings-panel {
+  width: 100%;
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+.settings-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2.5rem;
+  gap: 1rem;
+}
+
+.settings-title {
+  font-size: 2rem;
+  font-weight: 800;
+  background: linear-gradient(to right, #fafafa, #d8b4fe);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  flex: 1;
+}
+
+.btn-reset {
+  padding: 0.5rem 1rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  border-radius: var(--radius-full);
+  background: rgba(248, 113, 113, 0.12);
+  border: 1px solid rgba(248, 113, 113, 0.3);
+  color: #fca5a5;
+  transition: all var(--transition-fast);
+}
+
+.btn-reset:hover {
+  background: rgba(248, 113, 113, 0.22);
+  border-color: rgba(248, 113, 113, 0.5);
+  color: #fecaca;
+}
+
+/* ── Setting Cards ────────────────────────────── */
+.settings-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.setting-card {
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.billing-card {
+  border-color: rgba(168, 85, 247, 0.24);
+  background: linear-gradient(120deg, rgba(168, 85, 247, 0.1), rgba(99, 102, 241, 0.04));
+}
+
+.billing-upgrade-btn,
+.billing-manage-btn {
+  color: var(--accent-glow);
+  border-color: rgba(168, 85, 247, 0.36);
+}
+
+.billing-error {
+  color: #fca5a5;
+  font-size: 0.8rem;
+  margin-top: 0.5rem;
+}
+
+.setting-info {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.setting-icon {
+  font-size: 1.75rem;
+  flex-shrink: 0;
+  width: 2.5rem;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.setting-name {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text-main);
+  margin-bottom: 0.25rem;
+}
+
+.setting-desc {
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+
+/* ── Option Pill Buttons ──────────────────────── */
+.setting-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.setting-option-btn {
+  padding: 0.55rem 1.15rem;
+  border-radius: var(--radius-full);
+  font-size: 0.9rem;
+  font-weight: 600;
+  border: 1px solid var(--glass-border);
+  background: rgba(255, 255, 255, 0.04);
+  color: var(--text-muted);
+  transition: all var(--transition-fast);
+}
+
+.setting-option-btn:hover {
+  border-color: var(--glass-highlight);
+  color: var(--text-main);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.setting-option-btn.active {
+  background: linear-gradient(135deg, rgba(168, 85, 247, 0.9), rgba(139, 92, 246, 0.9));
+  color: #fff;
+  border-color: rgba(216, 180, 254, 0.65);
+  box-shadow: 0 4px 14px rgba(168, 85, 247, 0.3);
+}
+
+/* ── Responsive ───────────────────────────────── */
+@media (max-width: 600px) {
+  .settings-title {
+    font-size: 1.5rem;
+  }
+
+  .setting-card {
+    padding: 1.25rem 1rem;
+  }
+
+  .setting-icon {
+    font-size: 1.4rem;
+    width: 2rem;
+    height: 2rem;
+  }
+
+  .setting-name {
+    font-size: 1rem;
+  }
+
+  .setting-option-btn {
+    padding: 0.5rem 0.9rem;
+    font-size: 0.82rem;
+  }
+}
+
+/* ── Reset Progress ──────────────────────────── */
+.reset-progress-card {
+  border-color: rgba(248, 113, 113, 0.15) !important;
+}
+
+.reset-progress-btn {
+  color: #fca5a5 !important;
+  border-color: rgba(248, 113, 113, 0.3) !important;
+  background: rgba(248, 113, 113, 0.08) !important;
+}
+
+.reset-progress-btn:hover {
+  background: rgba(248, 113, 113, 0.18) !important;
+  border-color: rgba(248, 113, 113, 0.5) !important;
+  color: #fecaca !important;
+}
+
+.reset-confirm {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.reset-confirm-text {
+  font-size: 0.9rem;
+  color: #fca5a5;
+  font-weight: 500;
+}
+
+.reset-confirm-actions {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.reset-confirm-yes {
+  background: rgba(248, 113, 113, 0.2) !important;
+  border-color: rgba(248, 113, 113, 0.5) !important;
+  color: #fecaca !important;
+}
+
+.reset-confirm-yes:hover {
+  background: rgba(248, 113, 113, 0.35) !important;
+}

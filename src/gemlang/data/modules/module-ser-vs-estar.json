@@ -1,0 +1,557 @@
+{
+  "id": "module-ser-vs-estar",
+  "title": "Grammar: Ser vs. Estar I",
+  "description": "Core ser/estar practice: identity, location, origin, and conditions.",
+  "level": "Beginner",
+  "specialPractice": "ser-estar-rules",
+  "sentences": [],
+  "grammarExplanation": "This short special module builds ser vs. estar a few rules at a time. In each rule phase, choose the right form in the blank first. The audio reads the sentence up to the blank, then reads the correct continuation after you choose. Missed choices come back before the phase is over. After each set, translate five mixed-up sentences from English to Spanish.",
+  "rules": [
+    {
+      "id": "identity-definition",
+      "name": "Ser: identity and definitions",
+      "explanation": "Use ser to say what someone or something is: identity, category, role, or definition.",
+      "examples": [
+        {
+          "prompt": "Ella",
+          "correct": "es",
+          "continuation": "mi amiga.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Being someone's friend is an identity or relationship, so use ser."
+        },
+        {
+          "prompt": "Nosotros",
+          "correct": "somos",
+          "continuation": "estudiantes.",
+          "options": [
+            "somos",
+            "estamos"
+          ],
+          "reason": "Student is a role or identity, so use ser."
+        },
+        {
+          "prompt": "Este animal",
+          "correct": "es",
+          "continuation": "un gato.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "You are identifying what the animal is, so use ser."
+        },
+        {
+          "prompt": "Yo",
+          "correct": "soy",
+          "continuation": "la hermana de Ana.",
+          "options": [
+            "soy",
+            "estoy"
+          ],
+          "reason": "Family identity uses ser."
+        },
+        {
+          "prompt": "Ellos",
+          "correct": "son",
+          "continuation": "mis vecinos.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "Neighbor is an identity/relationship, so use ser."
+        },
+        {
+          "prompt": "La capital de España",
+          "correct": "es",
+          "continuation": "Madrid.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "This defines or identifies the capital, so use ser."
+        },
+        {
+          "prompt": "Tú",
+          "correct": "eres",
+          "continuation": "la persona correcta.",
+          "options": [
+            "eres",
+            "estás"
+          ],
+          "reason": "This identifies who the person is, so use ser."
+        },
+        {
+          "prompt": "Estos libros",
+          "correct": "son",
+          "continuation": "diccionarios.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "You are classifying the books, so use ser."
+        },
+        {
+          "prompt": "Mi padre",
+          "correct": "es",
+          "continuation": "el director.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Director is an identifying role here, so use ser."
+        },
+        {
+          "prompt": "La pregunta",
+          "correct": "es",
+          "continuation": "un problema de gramática.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "You are defining what kind of problem it is, so use ser."
+        }
+      ],
+      "translations": [
+        {
+          "english": "She is the correct person.",
+          "spanish": "Ella es la persona correcta.",
+          "reason": "Identity uses ser."
+        },
+        {
+          "english": "These books are dictionaries.",
+          "spanish": "Estos libros son diccionarios.",
+          "reason": "A category or definition uses ser."
+        },
+        {
+          "english": "I am Ana's sister.",
+          "spanish": "Yo soy la hermana de Ana.",
+          "reason": "Family identity uses ser."
+        },
+        {
+          "english": "The animal is a cat.",
+          "spanish": "El animal es un gato.",
+          "reason": "Identifying what something is uses ser."
+        },
+        {
+          "english": "We are students.",
+          "spanish": "Nosotros somos estudiantes.",
+          "reason": "A role or identity uses ser."
+        }
+      ]
+    },
+    {
+      "id": "location-position",
+      "name": "Estar: location and position",
+      "explanation": "Use estar to say where a person or thing is located or positioned. The main exception is event location, which uses ser.",
+      "examples": [
+        {
+          "prompt": "Yo",
+          "correct": "estoy",
+          "continuation": "en casa.",
+          "options": [
+            "soy",
+            "estoy"
+          ],
+          "reason": "Physical location uses estar."
+        },
+        {
+          "prompt": "El libro",
+          "correct": "está",
+          "continuation": "en la mesa.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Location of an object uses estar."
+        },
+        {
+          "prompt": "Mis padres",
+          "correct": "están",
+          "continuation": "en Madrid.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "Where people are uses estar."
+        },
+        {
+          "prompt": "Nosotros",
+          "correct": "estamos",
+          "continuation": "cerca del parque.",
+          "options": [
+            "somos",
+            "estamos"
+          ],
+          "reason": "Location uses estar."
+        },
+        {
+          "prompt": "La tienda",
+          "correct": "está",
+          "continuation": "al lado del banco.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "The location of a place uses estar."
+        },
+        {
+          "prompt": "Tú",
+          "correct": "estás",
+          "continuation": "delante de la puerta.",
+          "options": [
+            "eres",
+            "estás"
+          ],
+          "reason": "Position uses estar."
+        },
+        {
+          "prompt": "Las sillas",
+          "correct": "están",
+          "continuation": "en el jardín.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "Location uses estar."
+        },
+        {
+          "prompt": "El teléfono",
+          "correct": "está",
+          "continuation": "debajo del cuaderno.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Position uses estar."
+        },
+        {
+          "prompt": "La escuela",
+          "correct": "está",
+          "continuation": "en el centro.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "The physical location of a building uses estar."
+        },
+        {
+          "prompt": "Ellos",
+          "correct": "están",
+          "continuation": "aquí.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "Being here is location, so use estar."
+        }
+      ],
+      "translations": [
+        {
+          "english": "The phone is under the notebook.",
+          "spanish": "El teléfono está debajo del cuaderno.",
+          "reason": "Position uses estar."
+        },
+        {
+          "english": "We are near the park.",
+          "spanish": "Nosotros estamos cerca del parque.",
+          "reason": "Location uses estar."
+        },
+        {
+          "english": "The chairs are in the garden.",
+          "spanish": "Las sillas están en el jardín.",
+          "reason": "Object location uses estar."
+        },
+        {
+          "english": "The store is next to the bank.",
+          "spanish": "La tienda está al lado del banco.",
+          "reason": "Physical location uses estar."
+        },
+        {
+          "english": "They are here.",
+          "spanish": "Ellos están aquí.",
+          "reason": "Here is location, so use estar."
+        }
+      ]
+    },
+    {
+      "id": "origin-material",
+      "name": "Ser: origin and material",
+      "explanation": "Use ser with de for where someone is from and what something is made of.",
+      "examples": [
+        {
+          "prompt": "Yo",
+          "correct": "soy",
+          "continuation": "de México.",
+          "options": [
+            "soy",
+            "estoy"
+          ],
+          "reason": "Origin uses ser."
+        },
+        {
+          "prompt": "Ana",
+          "correct": "es",
+          "continuation": "de Chile.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Where someone is from uses ser, not estar."
+        },
+        {
+          "prompt": "Mis amigos",
+          "correct": "son",
+          "continuation": "de Perú.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "Origin uses ser."
+        },
+        {
+          "prompt": "La mesa",
+          "correct": "es",
+          "continuation": "de madera.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Material uses ser with de."
+        },
+        {
+          "prompt": "Los anillos",
+          "correct": "son",
+          "continuation": "de plata.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "What something is made of uses ser."
+        },
+        {
+          "prompt": "Este vaso",
+          "correct": "es",
+          "continuation": "de vidrio.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Material uses ser."
+        },
+        {
+          "prompt": "Nosotros",
+          "correct": "somos",
+          "continuation": "de la misma ciudad.",
+          "options": [
+            "somos",
+            "estamos"
+          ],
+          "reason": "Origin uses ser."
+        },
+        {
+          "prompt": "La chaqueta",
+          "correct": "es",
+          "continuation": "de cuero.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Material uses ser."
+        },
+        {
+          "prompt": "Ellas",
+          "correct": "son",
+          "continuation": "de Argentina.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "Origin uses ser."
+        },
+        {
+          "prompt": "El pastel",
+          "correct": "es",
+          "continuation": "de chocolate.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "What it is made/flavored with uses ser with de."
+        }
+      ],
+      "translations": [
+        {
+          "english": "The jacket is made of leather.",
+          "spanish": "La chaqueta es de cuero.",
+          "reason": "Material uses ser."
+        },
+        {
+          "english": "My friends are from Peru.",
+          "spanish": "Mis amigos son de Perú.",
+          "reason": "Origin uses ser."
+        },
+        {
+          "english": "This glass is made of glass.",
+          "spanish": "Este vaso es de vidrio.",
+          "reason": "Material uses ser."
+        },
+        {
+          "english": "We are from the same city.",
+          "spanish": "Nosotros somos de la misma ciudad.",
+          "reason": "Origin uses ser."
+        },
+        {
+          "english": "The cake is chocolate.",
+          "spanish": "El pastel es de chocolate.",
+          "reason": "Composition or flavor with de uses ser."
+        }
+      ]
+    },
+    {
+      "id": "conditions",
+      "name": "Estar: conditions and temporary states",
+      "explanation": "Use estar for conditions and states that describe how someone or something is right now.",
+      "examples": [
+        {
+          "prompt": "La puerta",
+          "correct": "está",
+          "continuation": "abierta.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Open is a current state, so use estar."
+        },
+        {
+          "prompt": "El vaso",
+          "correct": "está",
+          "continuation": "sucio.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Dirty is a condition, so use estar."
+        },
+        {
+          "prompt": "Nosotros",
+          "correct": "estamos",
+          "continuation": "cansados.",
+          "options": [
+            "somos",
+            "estamos"
+          ],
+          "reason": "Tired is a current physical state, so use estar."
+        },
+        {
+          "prompt": "La sopa",
+          "correct": "está",
+          "continuation": "fría.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Food temperature right now uses estar."
+        },
+        {
+          "prompt": "Los platos",
+          "correct": "están",
+          "continuation": "limpios.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "Clean is a current condition, so use estar."
+        },
+        {
+          "prompt": "Tú",
+          "correct": "estás",
+          "continuation": "enfermo.",
+          "options": [
+            "eres",
+            "estás"
+          ],
+          "reason": "Sick is a condition, so use estar."
+        },
+        {
+          "prompt": "La habitación",
+          "correct": "está",
+          "continuation": "oscura.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Current lighting/state uses estar."
+        },
+        {
+          "prompt": "Mis manos",
+          "correct": "están",
+          "continuation": "frías.",
+          "options": [
+            "son",
+            "están"
+          ],
+          "reason": "A temporary physical state uses estar."
+        },
+        {
+          "prompt": "El café",
+          "correct": "está",
+          "continuation": "caliente.",
+          "options": [
+            "es",
+            "está"
+          ],
+          "reason": "Current temperature uses estar."
+        },
+        {
+          "prompt": "Yo",
+          "correct": "estoy",
+          "continuation": "enfermo hoy.",
+          "options": [
+            "soy",
+            "estoy"
+          ],
+          "reason": "A health condition today uses estar."
+        }
+      ],
+      "translations": [
+        {
+          "english": "The coffee is hot.",
+          "spanish": "El café está caliente.",
+          "reason": "Current temperature uses estar."
+        },
+        {
+          "english": "The plates are clean.",
+          "spanish": "Los platos están limpios.",
+          "reason": "Clean is a condition."
+        },
+        {
+          "english": "I am sick today.",
+          "spanish": "Yo estoy enfermo hoy.",
+          "reason": "A health condition today uses estar."
+        },
+        {
+          "english": "The room is dark.",
+          "spanish": "La habitación está oscura.",
+          "reason": "Current state uses estar."
+        },
+        {
+          "english": "You are sick.",
+          "spanish": "Tú estás enfermo.",
+          "reason": "A health condition uses estar."
+        }
+      ]
+    }
+  ],
+  "vocabulary": {
+    "ser": {
+      "mnemonic": "Ser says what it is.",
+      "explanation": "Identity, origin, traits, time, relationships, ownership, and events."
+    },
+    "estar": {
+      "mnemonic": "Estar says where or how it stands now.",
+      "explanation": "Location, position, current state, emotions, and actions in progress."
+    }
+  }
+}

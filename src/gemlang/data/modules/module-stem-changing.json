@@ -1,0 +1,318 @@
+{
+  "id": "module-stem-changing",
+  "title": "Grammar: Stem-Changing Verbs",
+  "description": "Querer, poder, dormir and friends: verbs that change their vowel in most forms.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "mstem-s1",
+      "spanish": "Quiero un café con leche.",
+      "english": "I'd like a coffee with milk.",
+      "wordMeanings": {
+        "Quiero": "I want / I'd like",
+        "café": "coffee",
+        "con": "with",
+        "leche": "milk"
+      }
+    },
+    {
+      "id": "mstem-s2",
+      "spanish": "¿Quieres venir a mi casa a cenar?",
+      "english": "Do you want to come over to my place for dinner?",
+      "wordMeanings": {
+        "Quieres": "you want",
+        "venir": "to come",
+        "cenar": "to have dinner"
+      }
+    },
+    {
+      "id": "mstem-s3",
+      "spanish": "No quiero esperar más.",
+      "english": "I don't want to wait any longer.",
+      "wordMeanings": {
+        "esperar": "to wait",
+        "más": "more / any longer"
+      }
+    },
+    {
+      "id": "mstem-s4",
+      "spanish": "Ella quiere aprender francés.",
+      "english": "She wants to learn French.",
+      "wordMeanings": {
+        "quiere": "she wants",
+        "aprender": "to learn",
+        "francés": "French"
+      }
+    },
+    {
+      "id": "mstem-s5",
+      "spanish": "Queremos pedir una pizza esta noche.",
+      "english": "We want to order a pizza tonight.",
+      "wordMeanings": {
+        "Queremos": "we want",
+        "pedir": "to order",
+        "esta": "this",
+        "noche": "night"
+      }
+    },
+    {
+      "id": "mstem-s6",
+      "spanish": "¿Queréis tomar algo antes de salir?",
+      "english": "Do you all want to get something before going out?",
+      "wordMeanings": {
+        "Queréis": "you all want",
+        "tomar": "to have",
+        "antes": "before",
+        "salir": "to go out"
+      }
+    },
+    {
+      "id": "mstem-s7",
+      "spanish": "Los niños quieren jugar en el parque.",
+      "english": "The kids want to play in the park.",
+      "wordMeanings": {
+        "quieren": "they want",
+        "jugar": "to play",
+        "parque": "park"
+      }
+    },
+    {
+      "id": "mstem-s8",
+      "spanish": "Puedo ayudarte mañana.",
+      "english": "I can help you tomorrow.",
+      "wordMeanings": {
+        "Puedo": "I can",
+        "ayudarte": "to help you",
+        "mañana": "tomorrow"
+      }
+    },
+    {
+      "id": "mstem-s9",
+      "spanish": "¿Puedes abrir la ventana?",
+      "english": "Can you open the window?",
+      "wordMeanings": {
+        "Puedes": "can you",
+        "abrir": "to open",
+        "ventana": "window"
+      }
+    },
+    {
+      "id": "mstem-s10",
+      "spanish": "No puedo venir hoy, lo siento.",
+      "english": "I can't come today, I'm sorry.",
+      "wordMeanings": {
+        "lo": "it",
+        "siento": "I feel (lo siento = sorry)",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "mstem-s11",
+      "spanish": "Mi hermano ya puede conducir.",
+      "english": "My brother can drive now.",
+      "wordMeanings": {
+        "ya": "already / now",
+        "puede": "he can",
+        "conducir": "to drive"
+      }
+    },
+    {
+      "id": "mstem-s12",
+      "spanish": "Podemos quedar a las ocho.",
+      "english": "We can meet at eight.",
+      "wordMeanings": {
+        "Podemos": "we can",
+        "quedar": "to meet up",
+        "ocho": "eight"
+      }
+    },
+    {
+      "id": "mstem-s13",
+      "spanish": "¿Podéis venir también?",
+      "english": "Can you all come too?",
+      "wordMeanings": {
+        "Podéis": "you all can",
+        "también": "too"
+      }
+    },
+    {
+      "id": "mstem-s14",
+      "spanish": "Los niños no pueden dormir.",
+      "english": "The children can't sleep.",
+      "wordMeanings": {
+        "pueden": "they can",
+        "dormir": "to sleep"
+      }
+    },
+    {
+      "id": "mstem-s15",
+      "spanish": "¿Prefieres té o café?",
+      "english": "Do you prefer tea or coffee?",
+      "wordMeanings": {
+        "Prefieres": "do you prefer",
+        "té": "tea",
+        "o": "or"
+      }
+    },
+    {
+      "id": "mstem-s16",
+      "spanish": "Yo prefiero el café solo.",
+      "english": "I prefer black coffee.",
+      "wordMeanings": {
+        "prefiero": "I prefer",
+        "solo": "plain / black"
+      }
+    },
+    {
+      "id": "mstem-s17",
+      "spanish": "Empieza a llover, vamos a casa.",
+      "english": "It's starting to rain, let's go home.",
+      "wordMeanings": {
+        "Empieza": "it starts",
+        "llover": "to rain",
+        "vamos": "let's go",
+        "casa": "home"
+      }
+    },
+    {
+      "id": "mstem-s18",
+      "spanish": "No entiendo esta palabra.",
+      "english": "I don't understand this word.",
+      "wordMeanings": {
+        "entiendo": "I understand",
+        "palabra": "word"
+      }
+    },
+    {
+      "id": "mstem-s19",
+      "spanish": "¿Entiendes el acento andaluz?",
+      "english": "Do you understand the Andalusian accent?",
+      "wordMeanings": {
+        "Entiendes": "do you understand",
+        "acento": "accent",
+        "andaluz": "Andalusian"
+      }
+    },
+    {
+      "id": "mstem-s20",
+      "spanish": "Vuelvo a casa sobre las seis.",
+      "english": "I get back home around six.",
+      "wordMeanings": {
+        "Vuelvo": "I return",
+        "sobre": "around (time)",
+        "seis": "six"
+      }
+    },
+    {
+      "id": "mstem-s21",
+      "spanish": "Cuando puedo, cocino para mis amigos.",
+      "english": "When I can, I cook for my friends.",
+      "wordMeanings": {
+        "Cuando": "when",
+        "cocino": "I cook",
+        "amigos": "friends"
+      }
+    },
+    {
+      "id": "mstem-s22",
+      "spanish": "Este jersey cuesta cuarenta euros.",
+      "english": "This jumper costs forty euros.",
+      "wordMeanings": {
+        "cuarenta": "forty",
+        "euros": "euros"
+      }
+    },
+    {
+      "id": "mstem-s23",
+      "spanish": "Cuenta chistes malísimos.",
+      "english": "He tells terrible jokes.",
+      "wordMeanings": {
+        "Cuenta": "he tells / counts",
+        "chistes": "jokes",
+        "malísimos": "awful (extreme)"
+      }
+    },
+    {
+      "id": "mstem-s24",
+      "spanish": "No encuentro mis gafas de sol.",
+      "english": "I can't find my sunglasses.",
+      "wordMeanings": {
+        "encuentro": "I find",
+        "gafas": "glasses",
+        "sol": "sun"
+      }
+    },
+    {
+      "id": "mstem-s25",
+      "spanish": "Encontrar aparcamiento en el centro es imposible.",
+      "english": "Finding parking in the centre is impossible.",
+      "wordMeanings": {
+        "Encontrar": "to find",
+        "aparcamiento": "parking",
+        "es": "is",
+        "imposible": "impossible"
+      }
+    },
+    {
+      "id": "mstem-s26",
+      "spanish": "¿Juegas al pádel? Está de moda.",
+      "english": "Do you play padel? It's all the rage.",
+      "wordMeanings": {
+        "Juegas": "you play",
+        "pádel": "padel",
+        "Está": "it is",
+        "moda": "fashion"
+      }
+    },
+    {
+      "id": "mstem-s27",
+      "spanish": "Jugamos al fútbol los domingos.",
+      "english": "We play football on Sundays.",
+      "wordMeanings": {
+        "Jugamos": "we play",
+        "fútbol": "football",
+        "domingos": "Sundays"
+      }
+    },
+    {
+      "id": "mstem-s28",
+      "spanish": "No puedo más, necesito vacaciones.",
+      "english": "I can't take it any more, I need a holiday.",
+      "wordMeanings": {
+        "necesito": "I need",
+        "vacaciones": "holiday"
+      }
+    }
+  ],
+  "grammarExplanation": "Some verbs change their stem vowel when stressed — in every form EXCEPT nosotros and vosotros, which keep the original vowel:\n\n• e → ie: querer (quiero, quieres, quiere… pero queremos, queréis), empezar, entender, preferir\n• o → ue: poder (puedo, puedes, puede… pero podemos, podéis), dormir, volver, contar, encontrar, costar\n• u → ue: jugar (juego, juegas, juega, jugamos, jugáis, juegan) — the only one!\n\nKey patterns:\n• querer + infinitive = to want to do something\n• poder + infinitive = to be able to / can do something\n• quedar = to meet up\n• café solo = black coffee",
+  "vocabulary": {
+    "quedar": {
+      "mnemonic": "Stay put and we'll meet there.",
+      "explanation": "To meet up / arrange to meet (very common in Spain)."
+    },
+    "conducir": {
+      "mnemonic": "Conduct your car.",
+      "explanation": "To drive (Peninsular Spanish; not 'manejar')."
+    },
+    "llover": {
+      "mnemonic": "Llover = water pouring over.",
+      "explanation": "To rain."
+    },
+    "andaluz": {
+      "mnemonic": "Andalusia's accent.",
+      "explanation": "Andalusian — the accent of southern Spain."
+    },
+    "aparcamiento": {
+      "mnemonic": "Appar-CAr-miento: where cars park.",
+      "explanation": "Parking / car park (Peninsular Spanish)."
+    },
+    "pádel": {
+      "mnemonic": "Tennis's Spanish obsession.",
+      "explanation": "Padel, the racket sport Spain is mad about."
+    },
+    "moda": {
+      "mnemonic": "In fashion = en moda.",
+      "explanation": "Fashion. Estar de moda = to be trendy."
+    }
+  }
+}

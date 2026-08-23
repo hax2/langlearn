@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>LangLearn</title>
+    <script>
+      // GitHub Pages SPA fallback: /langlearn/<anything> lands here as a 404.
+      // Forward the real path into the app via ?p= and let the router take over.
+      (function () {
+        var l = window.location;
+        var root = l.pathname.replace(/\/404\.html$/, '/');
+        var target = l.pathname.slice(root.length - 1); // keep leading slash
+        if (l.hash) target += l.hash;
+        l.replace(
+          root +
+            '?p=' +
+            encodeURIComponent(target) +
+            (l.search && !/^&?p=/.test(l.search.substring(1)) ? '&' + l.search.substring(1) : '')
+        );
+      })();
+    </script>
+  </head>
+  <body>
+    <noscript><a href="/">LangLearn home</a></noscript>
+  </body>
+</html>

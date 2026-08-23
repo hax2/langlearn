@@ -1,0 +1,618 @@
+{
+  "id": "module-7",
+  "title": "Chapter 7: Reflexive Verbs",
+  "description": "Daily routines and actions done to oneself.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "m7-s1",
+      "spanish": "Me llamo Ana.",
+      "english": "My name is Ana.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "llamo": "I call",
+        "Ana": "Ana"
+      }
+    },
+    {
+      "id": "m7-s2",
+      "spanish": "Te llamas Luis.",
+      "english": "Your name is Luis.",
+      "wordMeanings": {
+        "Te": "you / to you",
+        "llamas": "you call",
+        "Luis": "Luis"
+      }
+    },
+    {
+      "id": "m7-s3",
+      "spanish": "Se llama Marta.",
+      "english": "Her name is Marta.",
+      "wordMeanings": {
+        "Se": "himself / herself / themselves",
+        "llama": "calls",
+        "Marta": "Marta"
+      }
+    },
+    {
+      "id": "m7-s4",
+      "spanish": "Se llama Carlos.",
+      "english": "His name is Carlos.",
+      "wordMeanings": {
+        "Se": "himself / herself / themselves",
+        "llama": "calls",
+        "Carlos": "Carlos"
+      }
+    },
+    {
+      "id": "m7-s5",
+      "spanish": "¿Cómo te llamas?",
+      "english": "What is your name?",
+      "wordMeanings": {
+        "Cómo": "how",
+        "te": "you / to you",
+        "llamas": "you call"
+      }
+    },
+    {
+      "id": "m7-s6",
+      "spanish": "Me levanto temprano.",
+      "english": "I get up early.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "levanto": "I get up",
+        "temprano": "early"
+      }
+    },
+    {
+      "id": "m7-s7",
+      "spanish": "Te levantas temprano.",
+      "english": "You get up early.",
+      "wordMeanings": {
+        "Te": "you / to you",
+        "levantas": "you get up",
+        "temprano": "early"
+      }
+    },
+    {
+      "id": "m7-s8",
+      "spanish": "Se levanta tarde.",
+      "english": "He/She gets up late.",
+      "wordMeanings": {
+        "Se": "himself / herself / themselves",
+        "levanta": "gets up",
+        "tarde": "late / afternoon"
+      }
+    },
+    {
+      "id": "m7-s9",
+      "spanish": "Nos levantamos temprano.",
+      "english": "We get up early.",
+      "wordMeanings": {
+        "Nos": "us / to us",
+        "levantamos": "we get up",
+        "temprano": "early"
+      }
+    },
+    {
+      "id": "m7-s10",
+      "spanish": "Me acuesto tarde.",
+      "english": "I go to bed late.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "acuesto": "I go to bed",
+        "tarde": "late / afternoon"
+      }
+    },
+    {
+      "id": "m7-s11",
+      "spanish": "Te acuestas tarde.",
+      "english": "You go to bed late.",
+      "wordMeanings": {
+        "Te": "you / to you",
+        "acuestas": "you go to bed",
+        "tarde": "late / afternoon"
+      }
+    },
+    {
+      "id": "m7-s12",
+      "spanish": "Se acuesta temprano.",
+      "english": "He/She goes to bed early.",
+      "wordMeanings": {
+        "Se": "himself / herself / themselves",
+        "acuesta": "goes to bed",
+        "temprano": "early"
+      }
+    },
+    {
+      "id": "m7-s13",
+      "spanish": "Nos acostamos tarde.",
+      "english": "We go to bed late.",
+      "wordMeanings": {
+        "Nos": "us / to us",
+        "acostamos": "we go to bed",
+        "tarde": "late / afternoon"
+      }
+    },
+    {
+      "id": "m7-s14",
+      "spanish": "Me ducho en casa.",
+      "english": "I shower at home.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "ducho": "I shower",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m7-s15",
+      "spanish": "Te duchas en casa.",
+      "english": "You shower at home.",
+      "wordMeanings": {
+        "Te": "you / to you",
+        "duchas": "you shower",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m7-s16",
+      "spanish": "Se ducha en casa.",
+      "english": "He/She showers at home.",
+      "wordMeanings": {
+        "Se": "himself / herself / themselves",
+        "ducha": "showers",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m7-s17",
+      "spanish": "Nos duchamos en casa.",
+      "english": "We shower at home.",
+      "wordMeanings": {
+        "Nos": "us / to us",
+        "duchamos": "we shower",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m7-s18",
+      "spanish": "Me lavo las manos.",
+      "english": "I wash my hands.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "lavo": "I wash",
+        "las": "the / them (fem)",
+        "manos": "hands"
+      }
+    },
+    {
+      "id": "m7-s19",
+      "spanish": "Te lavas las manos.",
+      "english": "You wash your hands.",
+      "wordMeanings": {
+        "Te": "you / to you",
+        "lavas": "you wash",
+        "las": "the / them (fem)",
+        "manos": "hands"
+      }
+    },
+    {
+      "id": "m7-s20",
+      "spanish": "Se lava las manos.",
+      "english": "He/She washes his/her hands.",
+      "wordMeanings": {
+        "Se": "himself / herself / themselves",
+        "lava": "washes",
+        "las": "the / them (fem)",
+        "manos": "hands"
+      }
+    },
+    {
+      "id": "m7-s21",
+      "spanish": "Nos lavamos las manos.",
+      "english": "We wash our hands.",
+      "wordMeanings": {
+        "Nos": "us / to us",
+        "lavamos": "we wash",
+        "las": "the / them (fem)",
+        "manos": "hands"
+      }
+    },
+    {
+      "id": "m7-s22",
+      "spanish": "Me visto rápido.",
+      "english": "I get dressed quickly.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "visto": "I get dressed",
+        "rápido": "fast / quickly"
+      }
+    },
+    {
+      "id": "m7-s23",
+      "spanish": "Te vistes rápido.",
+      "english": "You get dressed quickly.",
+      "wordMeanings": {
+        "Te": "you / to you",
+        "vistes": "you dress",
+        "rápido": "fast / quickly"
+      }
+    },
+    {
+      "id": "m7-s24",
+      "spanish": "Se viste despacio.",
+      "english": "He/She gets dressed slowly.",
+      "wordMeanings": {
+        "Se": "himself / herself / themselves",
+        "viste": "dresses",
+        "despacio": "slowly"
+      }
+    },
+    {
+      "id": "m7-s25",
+      "spanish": "Nos vestimos rápido.",
+      "english": "We get dressed quickly.",
+      "wordMeanings": {
+        "Nos": "us / to us",
+        "vestimos": "we dress",
+        "rápido": "fast / quickly"
+      }
+    },
+    {
+      "id": "m7-s26",
+      "spanish": "Me siento aquí.",
+      "english": "I sit here.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "siento": "I feel / sit",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m7-s27",
+      "spanish": "Te sientas allí.",
+      "english": "You sit there.",
+      "wordMeanings": {
+        "Te": "you / to you",
+        "sientas": "you sit",
+        "allí": "there"
+      }
+    },
+    {
+      "id": "m7-s28",
+      "spanish": "Se sienta aquí.",
+      "english": "He/She sits here.",
+      "wordMeanings": {
+        "Se": "himself / herself / themselves",
+        "sienta": "sits / feels",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m7-s29",
+      "spanish": "Nos sentamos aquí.",
+      "english": "We sit here.",
+      "wordMeanings": {
+        "Nos": "us / to us",
+        "sentamos": "we sit",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m7-s30",
+      "spanish": "Me quedo en casa.",
+      "english": "I stay at home.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "quedo": "I stay",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m7-s31",
+      "spanish": "Te quedas en casa.",
+      "english": "You stay at home.",
+      "wordMeanings": {
+        "Te": "you / to you",
+        "quedas": "you stay",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m7-s32",
+      "spanish": "Se queda en el trabajo.",
+      "english": "He/She stays at work.",
+      "wordMeanings": {
+        "Se": "himself / herself / themselves",
+        "queda": "stays",
+        "en": "in / on",
+        "el": "the",
+        "trabajo": "I work / job"
+      }
+    },
+    {
+      "id": "m7-s33",
+      "spanish": "Nos quedamos en casa.",
+      "english": "We stay at home.",
+      "wordMeanings": {
+        "Nos": "us / to us",
+        "quedamos": "we stay",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m7-s34",
+      "spanish": "Por la mañana me levanto y me ducho.",
+      "english": "In the morning I get up and shower.",
+      "wordMeanings": {
+        "Por": "for / by",
+        "la": "the / it (fem)",
+        "mañana": "tomorrow / morning",
+        "me": "me / to me",
+        "levanto": "I get up",
+        "y": "and",
+        "ducho": "I shower"
+      }
+    },
+    {
+      "id": "m7-s35",
+      "spanish": "Por la mañana me lavo las manos.",
+      "english": "In the morning I wash my hands.",
+      "wordMeanings": {
+        "Por": "for / by",
+        "la": "the / it (fem)",
+        "mañana": "tomorrow / morning",
+        "me": "me / to me",
+        "lavo": "I wash",
+        "las": "the / them (fem)",
+        "manos": "hands"
+      }
+    },
+    {
+      "id": "m7-s36",
+      "spanish": "Por la mañana me visto y salgo.",
+      "english": "In the morning I get dressed and leave.",
+      "wordMeanings": {
+        "Por": "for / by",
+        "la": "the / it (fem)",
+        "mañana": "tomorrow / morning",
+        "me": "me / to me",
+        "visto": "I get dressed",
+        "y": "and",
+        "salgo": "I leave"
+      }
+    },
+    {
+      "id": "m7-s37",
+      "spanish": "Hoy me levanto tarde.",
+      "english": "Today I get up late.",
+      "wordMeanings": {
+        "Hoy": "today",
+        "me": "me / to me",
+        "levanto": "I get up",
+        "tarde": "late / afternoon"
+      }
+    },
+    {
+      "id": "m7-s38",
+      "spanish": "Hoy me acuesto temprano.",
+      "english": "Today I go to bed early.",
+      "wordMeanings": {
+        "Hoy": "today",
+        "me": "me / to me",
+        "acuesto": "I go to bed",
+        "temprano": "early"
+      }
+    },
+    {
+      "id": "m7-s39",
+      "spanish": "Me llamo Ana y vivo aquí.",
+      "english": "My name is Ana and I live here.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "llamo": "I call",
+        "Ana": "Ana",
+        "y": "and",
+        "vivo": "I live",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m7-s40",
+      "spanish": "Te llamas Luis y trabajas en el centro.",
+      "english": "Your name is Luis and you work downtown.",
+      "wordMeanings": {
+        "Te": "you / to you",
+        "llamas": "you call",
+        "Luis": "Luis",
+        "y": "and",
+        "trabajas": "you work",
+        "en": "in / on",
+        "el": "the",
+        "centro": "downtown"
+      }
+    },
+    {
+      "id": "m7-s41",
+      "spanish": "Se llama Marta y estudia español.",
+      "english": "Her name is Marta and she studies Spanish.",
+      "wordMeanings": {
+        "Se": "himself / herself / themselves",
+        "llama": "calls",
+        "Marta": "Marta",
+        "y": "and",
+        "estudia": "studies",
+        "español": "Spanish"
+      }
+    },
+    {
+      "id": "m7-s42",
+      "spanish": "¿Te duchas por la mañana?",
+      "english": "Do you shower in the morning?",
+      "wordMeanings": {
+        "Te": "you / to you",
+        "duchas": "you shower",
+        "por": "for / by",
+        "la": "the / it (fem)",
+        "mañana": "tomorrow / morning"
+      }
+    },
+    {
+      "id": "m7-s43",
+      "spanish": "Sí, me ducho por la mañana.",
+      "english": "Yes, I shower in the morning.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "me": "me / to me",
+        "ducho": "I shower",
+        "por": "for / by",
+        "la": "the / it (fem)",
+        "mañana": "tomorrow / morning"
+      }
+    },
+    {
+      "id": "m7-s44",
+      "spanish": "No, no me ducho por la mañana.",
+      "english": "No, I don't shower in the morning.",
+      "wordMeanings": {
+        "No": "no / not",
+        "no": "no / not",
+        "me": "me / to me",
+        "ducho": "I shower",
+        "por": "for / by",
+        "la": "the / it (fem)",
+        "mañana": "tomorrow / morning"
+      }
+    },
+    {
+      "spanish": "Me muero de sueño.",
+      "english": "I'm dying of sleepiness.",
+      "wordMeanings": {
+        "Me": "myself",
+        "muero": "I die",
+        "de": "of",
+        "sueño": "sleep/tiredness"
+      },
+      "id": "m7-s-colloq1"
+    },
+    {
+      "spanish": "¡Vámonos ya!",
+      "english": "Let's go already!",
+      "wordMeanings": {
+        "Vámonos": "let's go (us)",
+        "ya": "already/now"
+      },
+      "id": "m7-s-colloq2"
+    }
+  ],
+  "grammarExplanation": "Reflexive verbs describe actions done to oneself. They use a reflexive pronoun BEFORE the verb:\n\n• me (myself) → me levanto = I get up\n• te (yourself) → te levantas = you get up\n• se (him/herself) → se levanta = he/she gets up\n• nos (ourselves) → nos levantamos = we get up\n• os (yourselves, Spain) → os levantáis = you all get up\n• se (themselves) → se levantan = they get up\n\nCommon reflexive verbs: llamarse, levantarse, acostarse, ducharse, lavarse, vestirse, sentarse, quedarse.",
+  "vocabulary": {
+    "se": {
+      "mnemonic": "Think 'self' — reflexive pronoun.",
+      "explanation": "Replaces le/les before lo/la/los/las."
+    },
+    "levanto": {
+      "mnemonic": "Think 'elevate' — I get up.",
+      "explanation": "From 'levantarse' (to get up)."
+    },
+    "temprano": {
+      "mnemonic": "'Temporary morning' — early!",
+      "explanation": "Means 'early'."
+    },
+    "levanta": {
+      "mnemonic": "'Elevate-a' — he/she gets up.",
+      "explanation": "Third person of 'levantarse'."
+    },
+    "tarde": {
+      "mnemonic": "Think 'tardy' — late!",
+      "explanation": "Means 'late' or 'afternoon'."
+    },
+    "casa": {
+      "mnemonic": "Think 'casino' — a big house of games.",
+      "explanation": "Feminine noun. 'En casa' = at home."
+    },
+    "ducha": {
+      "mnemonic": "Think 'douche' (French: shower).",
+      "explanation": "Third person of 'ducharse'."
+    },
+    "lavo": {
+      "mnemonic": "Think 'lavatory' — I wash.",
+      "explanation": "From 'lavarse' (to wash oneself)."
+    },
+    "las": {
+      "mnemonic": "'Las ladies' — them (feminine).",
+      "explanation": "Direct object pronoun."
+    },
+    "lava": {
+      "mnemonic": "'Lava washes over' — he/she washes.",
+      "explanation": "Third person of 'lavarse'."
+    },
+    "viste": {
+      "mnemonic": "Think 'vest' — he/she gets dressed.",
+      "explanation": "Third person of 'vestirse'."
+    },
+    "aquí": {
+      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
+      "explanation": "Means 'here'. More precise than 'acá'."
+    },
+    "allí": {
+      "mnemonic": "Sounds like 'a lee' — over there.",
+      "explanation": "Means 'there'. Points to a specific spot."
+    },
+    "trabajo": {
+      "mnemonic": "Think 'travel to work'.",
+      "explanation": "Means 'work/job'. Also 'I work'."
+    },
+    "la": {
+      "mnemonic": "'La lady' — her/it (feminine).",
+      "explanation": "Also 'the' (feminine)."
+    },
+    "mañana": {
+      "mnemonic": "'Mañana, mañana' — putting off till tomorrow.",
+      "explanation": "Means 'tomorrow' or 'morning'."
+    },
+    "y": {
+      "mnemonic": "The letter 'Y' connects — like 'and' connects words.",
+      "explanation": "Pronounced like 'ee'. The simplest conjunction."
+    },
+    "hoy": {
+      "mnemonic": "'Hoy! today!' — an exclamation for today.",
+      "explanation": "Means 'today'."
+    },
+    "vivo": {
+      "mnemonic": "Think 'vivid life' — I live vividly!",
+      "explanation": "First person of 'vivir' (to live)."
+    },
+    "trabajas": {
+      "mnemonic": "'Travel-has' — you work.",
+      "explanation": "Second person of 'trabajar'."
+    },
+    "centro": {
+      "mnemonic": "Same as English 'center' — downtown!",
+      "explanation": "Also means 'center'. 'Centro' = downtown area."
+    },
+    "estudia": {
+      "mnemonic": "'Study-a' — he/she studies.",
+      "explanation": "Third person of 'estudiar'."
+    },
+    "español": {
+      "mnemonic": "'Espagne/Spain' + '-ol' — the Spanish language.",
+      "explanation": "Both the language and nationality."
+    },
+    "compra": {
+      "mnemonic": "'Comp-ra' — he/she buys.",
+      "explanation": "Third person of 'comprar'."
+    },
+    "café": {
+      "mnemonic": "Same as English 'café' — coffee!",
+      "explanation": "Means 'coffee' or 'café'."
+    }
+  }
+}

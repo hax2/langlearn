@@ -1,0 +1,147 @@
+{
+  "id": "module-26",
+  "title": "Don Quijote de la Mancha - Excerpt",
+  "description": "A passage from the most famous work of Spanish literature.",
+  "level": "Advanced",
+  "sentences": [
+    {
+      "id": "m26-s1",
+      "spanish": "En un lugar de la Mancha, de cuyo nombre no quiero acordarme...",
+      "english": "In a place in La Mancha, whose name I do not want to remember...",
+      "wordMeanings": {
+        "lugar": "place",
+        "cuyo": "whose",
+        "nombre": "name",
+        "acordarme": "remember"
+      }
+    },
+    {
+      "id": "m26-s2",
+      "spanish": "No ha mucho tiempo que vivía un hidalgo de los de lanza en astillero.",
+      "english": "Not long ago there lived a nobleman of the sort who kept a lance in a rack.",
+      "wordMeanings": {
+        "tiempo": "time",
+        "vivía": "lived",
+        "hidalgo": "nobleman",
+        "lanza": "lance"
+      }
+    },
+    {
+      "id": "m26-s3",
+      "spanish": "Se pasaba las noches leyendo libros de caballerías.",
+      "english": "He spent his nights reading books of chivalry.",
+      "wordMeanings": {
+        "pasaba": "spent",
+        "noches": "nights",
+        "leyendo": "reading",
+        "libros": "books"
+      }
+    },
+    {
+      "id": "m26-s4",
+      "spanish": "Del poco dormir y del mucho leer, se le secó el cerebro.",
+      "english": "From little sleep and much reading, his brain dried up.",
+      "wordMeanings": {
+        "dormir": "sleep",
+        "leer": "reading",
+        "secó": "dried",
+        "cerebro": "brain"
+      }
+    },
+    {
+      "id": "m26-s5",
+      "spanish": "Decidió hacerse caballero andante para buscar aventuras.",
+      "english": "He decided to become a knight-errant to seek adventures.",
+      "wordMeanings": {
+        "decidió": "decided",
+        "caballero": "knight",
+        "andante": "errant",
+        "aventuras": "adventures"
+      }
+    },
+    {
+      "id": "m26-s6",
+      "spanish": "Limpió unas armas que habían sido de sus bisabuelos.",
+      "english": "He cleaned some weapons that had belonged to his great-grandparents.",
+      "wordMeanings": {
+        "limpió": "cleaned",
+        "armas": "weapons",
+        "bisabuelos": "great-grandparents"
+      }
+    },
+    {
+      "id": "m26-s7",
+      "spanish": "Fue a visitar a su rocín, al que puso el nombre de Rocinante.",
+      "english": "He went to visit his nag, which he named Rocinante.",
+      "wordMeanings": {
+        "visitar": "to visit",
+        "rocín": "nag",
+        "puso": "put/named"
+      }
+    },
+    {
+      "id": "m26-s8",
+      "spanish": "Necesitaba una dama de quien enamorarse, pues un caballero sin amores es como un cuerpo sin alma.",
+      "english": "He needed a lady to fall in love with, for a knight without love is like a body without a soul.",
+      "wordMeanings": {
+        "dama": "lady",
+        "enamorarse": "to fall in love",
+        "cuerpo": "body",
+        "alma": "soul"
+      }
+    },
+    {
+      "id": "m26-s9",
+      "spanish": "Eligió a una moza labradora llamada Aldonza Lorenzo.",
+      "english": "He chose a farm girl named Aldonza Lorenzo.",
+      "wordMeanings": {
+        "eligió": "chose",
+        "moza": "girl",
+        "labradora": "farm girl"
+      }
+    },
+    {
+      "id": "m26-s10",
+      "spanish": "A ella le dio el nombre de Dulcinea del Toboso.",
+      "english": "To her he gave the name Dulcinea del Toboso.",
+      "wordMeanings": {
+        "dio": "gave",
+        "nombre": "name"
+      }
+    }
+  ],
+  "vocabulary": {
+    "lugar": {
+      "mnemonic": "'Lunar location' — place.",
+      "explanation": "Means 'place'."
+    },
+    "nombre": {
+      "mnemonic": "Think 'nomenclature' — name.",
+      "explanation": "Means 'name'."
+    },
+    "tiempo": {
+      "mnemonic": "Think 'tempo' — time and rhythm.",
+      "explanation": "Means 'time' or 'weather'."
+    },
+    "vivía": {
+      "mnemonic": "'Vivid-ee-a, I used to live.'",
+      "explanation": "Imperfect first person of 'vivir'."
+    },
+    "noches": {
+      "mnemonic": "Sounds like 'notches' — notch each night off.",
+      "explanation": "Plural of 'noche' (night)."
+    },
+    "leer": {
+      "mnemonic": "'Leer at a book' — to read!",
+      "explanation": "Infinitive: 'to read'."
+    },
+    "caballero": {
+      "mnemonic": "Think 'cavalier' — a knight.",
+      "explanation": "From 'caballo' (horse)."
+    },
+    "alma": {
+      "mnemonic": "Think 'alma mater' — soul.",
+      "explanation": "Fem but uses 'el alma'."
+    }
+  }
+}

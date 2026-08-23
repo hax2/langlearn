@@ -1,0 +1,390 @@
+{
+  "id": "module-verb-tener",
+  "title": "Grammar: The Verb 'Tener'",
+  "description": "Deep practice of 'tener': age, possessions, feelings, and the 'tener que' structure.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "mtener-s1",
+      "spanish": "Tengo veinticinco años.",
+      "english": "I am twenty-five years old.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "veinticinco": "twenty-five",
+        "años": "years"
+      }
+    },
+    {
+      "id": "mtener-s2",
+      "spanish": "Mi hermana tiene diez años.",
+      "english": "My sister is ten years old.",
+      "wordMeanings": {
+        "Mi": "my",
+        "hermana": "sister",
+        "tiene": "he/she has",
+        "diez": "ten",
+        "años": "years"
+      }
+    },
+    {
+      "id": "mtener-s3",
+      "spanish": "¿Cuántos años tienes tú?",
+      "english": "How old are you?",
+      "wordMeanings": {
+        "Cuántos": "how many",
+        "años": "years",
+        "tienes": "you have",
+        "tú": "you"
+      }
+    },
+    {
+      "id": "mtener-s4",
+      "spanish": "Tengo dos hermanos y una hermana.",
+      "english": "I have two brothers and one sister.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "dos": "two",
+        "hermanos": "brothers",
+        "y": "and",
+        "hermana": "sister"
+      }
+    },
+    {
+      "id": "mtener-s5",
+      "spanish": "¿Tienes animales en casa?",
+      "english": "Do you have pets at home?",
+      "wordMeanings": {
+        "Tienes": "you have",
+        "animales": "animals / pets",
+        "en": "at",
+        "casa": "home"
+      }
+    },
+    {
+      "id": "mtener-s6",
+      "spanish": "Tenemos un piso pequeño en el centro.",
+      "english": "We have a small flat in the city centre.",
+      "wordMeanings": {
+        "Tenemos": "we have",
+        "un": "a",
+        "piso": "flat",
+        "pequeño": "small",
+        "en": "in",
+        "centro": "centre"
+      }
+    },
+    {
+      "id": "mtener-s7",
+      "spanish": "Vosotros tenéis mucha suerte.",
+      "english": "You all are very lucky.",
+      "wordMeanings": {
+        "Vosotros": "you all",
+        "tenéis": "you have (plural)",
+        "mucha": "a lot of (fem)",
+        "suerte": "luck"
+      }
+    },
+    {
+      "id": "mtener-s8",
+      "spanish": "Mis padres tienen una casa en la costa.",
+      "english": "My parents have a house on the coast.",
+      "wordMeanings": {
+        "Mis": "my (plural)",
+        "padres": "parents",
+        "tienen": "they have",
+        "una": "a (fem)",
+        "casa": "house",
+        "costa": "coast"
+      }
+    },
+    {
+      "id": "mtener-s9",
+      "spanish": "Ella tiene mucho talento para la música.",
+      "english": "She has a great talent for music.",
+      "wordMeanings": {
+        "Ella": "she",
+        "tiene": "has",
+        "mucho": "a lot of",
+        "talento": "talent",
+        "para": "for",
+        "música": "music"
+      }
+    },
+    {
+      "id": "mtener-s10",
+      "spanish": "Tengo hambre, ¿comemos algo?",
+      "english": "I'm hungry, shall we eat something?",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "hambre": "hunger",
+        "comemos": "shall we eat",
+        "algo": "something"
+      }
+    },
+    {
+      "id": "mtener-s11",
+      "spanish": "¿Tienes sed? Hay zumo en la nevera.",
+      "english": "Are you thirsty? There's juice in the fridge.",
+      "wordMeanings": {
+        "Tienes": "you have",
+        "sed": "thirst",
+        "Hay": "there is",
+        "zumo": "juice",
+        "nevera": "fridge"
+      }
+    },
+    {
+      "id": "mtener-s12",
+      "spanish": "El bebé tiene sueño.",
+      "english": "The baby is sleepy.",
+      "wordMeanings": {
+        "El": "the (masc)",
+        "bebé": "baby",
+        "tiene": "has",
+        "sueño": "sleepiness"
+      }
+    },
+    {
+      "id": "mtener-s13",
+      "spanish": "Tengo frío, voy a ponerme un jersey.",
+      "english": "I'm cold, I'm going to put on a jumper.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "frío": "cold",
+        "voy": "I go / I'm going",
+        "ponerme": "to put on myself",
+        "jersey": "jumper"
+      }
+    },
+    {
+      "id": "mtener-s14",
+      "spanish": "En verano tenemos mucho calor aquí.",
+      "english": "In summer we're really hot here.",
+      "wordMeanings": {
+        "En": "in",
+        "verano": "summer",
+        "tenemos": "we have",
+        "mucho": "a lot of",
+        "calor": "heat",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "mtener-s15",
+      "spanish": "Tengo miedo de las arañas.",
+      "english": "I'm afraid of spiders.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "miedo": "fear",
+        "de": "of",
+        "arañas": "spiders"
+      }
+    },
+    {
+      "id": "mtener-s16",
+      "spanish": "Creo que tienes razón.",
+      "english": "I think you're right.",
+      "wordMeanings": {
+        "Creo": "I think",
+        "que": "that",
+        "tienes": "you have",
+        "razón": "reason / right"
+      }
+    },
+    {
+      "id": "mtener-s17",
+      "spanish": "Perdona, tengo prisa, ¿lo dejamos para mañana?",
+      "english": "Sorry, I'm in a hurry, shall we leave it for tomorrow?",
+      "wordMeanings": {
+        "Perdona": "sorry",
+        "prisa": "hurry",
+        "dejamos": "shall we leave",
+        "lo": "it",
+        "para": "for",
+        "mañana": "tomorrow"
+      }
+    },
+    {
+      "id": "mtener-s18",
+      "spanish": "Tengo muchas ganas de ir a la playa.",
+      "english": "I really feel like going to the beach.",
+      "wordMeanings": {
+        "muchas": "a lot of (fem)",
+        "ganas": "urge / desire",
+        "de": "to",
+        "ir": "to go",
+        "playa": "beach"
+      }
+    },
+    {
+      "id": "mtener-s19",
+      "spanish": "¿Tienes ganas de probar mi tortilla de patatas?",
+      "english": "Do you fancy trying my Spanish omelette?",
+      "wordMeanings": {
+        "Tienes": "you have",
+        "ganas": "do you fancy",
+        "probar": "to try",
+        "tortilla": "Spanish omelette",
+        "patatas": "potatoes"
+      }
+    },
+    {
+      "id": "mtener-s20",
+      "spanish": "Tengo que estudiar para el examen.",
+      "english": "I have to study for the exam.",
+      "wordMeanings": {
+        "Tengo": "I have",
+        "que": "(tener) que = have to",
+        "estudiar": "to study",
+        "examen": "exam"
+      }
+    },
+    {
+      "id": "mtener-s21",
+      "spanish": "Mañana tengo que madrugar.",
+      "english": "Tomorrow I have to get up early.",
+      "wordMeanings": {
+        "Mañana": "tomorrow",
+        "madrugar": "to get up early"
+      }
+    },
+    {
+      "id": "mtener-s22",
+      "spanish": "¿Tienes que trabajar este sábado?",
+      "english": "Do you have to work this Saturday?",
+      "wordMeanings": {
+        "trabajar": "to work",
+        "este": "this",
+        "sábado": "Saturday"
+      }
+    },
+    {
+      "id": "mtener-s23",
+      "spanish": "Tenemos que hablar.",
+      "english": "We need to talk.",
+      "wordMeanings": {
+        "Tenemos": "we have",
+        "que": "(tener) que = have to",
+        "hablar": "to talk"
+      }
+    },
+    {
+      "id": "mtener-s24",
+      "spanish": "Los niños tienen que recoger la habitación.",
+      "english": "The children have to tidy their room.",
+      "wordMeanings": {
+        "Los": "the (masc pl)",
+        "niños": "children",
+        "recoger": "to tidy up",
+        "habitación": "room"
+      }
+    },
+    {
+      "id": "mtener-s25",
+      "spanish": "Tengo que ir al médico porque me duele la cabeza.",
+      "english": "I have to go to the doctor because my head hurts.",
+      "wordMeanings": {
+        "ir": "to go",
+        "al": "to the",
+        "médico": "doctor",
+        "porque": "because",
+        "me": "me",
+        "duele": "it hurts",
+        "cabeza": "head"
+      }
+    },
+    {
+      "id": "mtener-s26",
+      "spanish": "No tengo ni idea.",
+      "english": "I haven't got a clue.",
+      "wordMeanings": {
+        "No": "not",
+        "ni": "not even",
+        "idea": "idea"
+      }
+    },
+    {
+      "id": "mtener-s27",
+      "spanish": "Tengo tu móvil en mi bolsillo.",
+      "english": "I've got your mobile in my pocket.",
+      "wordMeanings": {
+        "tu": "your",
+        "móvil": "mobile phone",
+        "en": "in",
+        "bolsillo": "pocket"
+      }
+    },
+    {
+      "id": "mtener-s28",
+      "spanish": "¿Tenéis planes para el fin de semana?",
+      "english": "Have you all got plans for the weekend?",
+      "wordMeanings": {
+        "Tenéis": "you all have",
+        "planes": "plans",
+        "fin": "end",
+        "semana": "week"
+      }
+    },
+    {
+      "id": "mtener-s29",
+      "spanish": "Mis abuelos tienen ochenta y dos años.",
+      "english": "My grandparents are eighty-two years old.",
+      "wordMeanings": {
+        "Mis": "my (plural)",
+        "abuelos": "grandparents",
+        "tienen": "they have",
+        "ochenta": "eighty",
+        "dos": "two",
+        "años": "years"
+      }
+    },
+    {
+      "id": "mtener-s30",
+      "spanish": "Tenemos tiempo de tomar algo antes del cine.",
+      "english": "We have time for a quick drink before the cinema.",
+      "wordMeanings": {
+        "Tenemos": "we have",
+        "tiempo": "time",
+        "tomar": "to have (a drink)",
+        "antes": "before",
+        "del": "of the",
+        "cine": "cinema"
+      }
+    }
+  ],
+  "grammarExplanation": "'Tener' means 'to have', but Spanish uses it where English uses 'to be':\n\n• Age → Tengo veinticinco años = I AM twenty-five\n• Feelings → tener hambre (hungry), sed (thirsty), frío (cold), calor (hot), sueño (sleepy), miedo (afraid), prisa (in a hurry)\n• Opinion → tener razón = to be right\n• Desire → tener ganas de + infinitive = to feel like doing something\n• Obligation → tener que + infinitive = to have to do something\n\nConjugation:\n• Tengo = I have\n• Tienes = you have\n• Tiene = he/she has\n• Tenemos = we have\n• Tenéis = you all have (Spain)\n• Tienen = they have",
+  "vocabulary": {
+    "suerte": {
+      "mnemonic": "Lucky things taste sweet — suerte.",
+      "explanation": "Luck. Tener suerte = to be lucky."
+    },
+    "razón": {
+      "mnemonic": "Reason is rational — tener razón.",
+      "explanation": "Reason. Tener razón = to be right."
+    },
+    "ganas": {
+      "mnemonic": "You gotta have ganas.",
+      "explanation": "Urge / desire. Tener ganas de + infinitive = to feel like doing something."
+    },
+    "prisa": {
+      "mnemonic": "In a prisa? Press on!",
+      "explanation": "Hurry. Tener prisa = to be in a hurry."
+    },
+    "madrugar": {
+      "mnemonic": "Mad rush at dawn.",
+      "explanation": "To get up very early."
+    },
+    "tortilla": {
+      "mnemonic": "Not the wrap — the omelette!",
+      "explanation": "Spanish potato omelette (tortilla de patatas)."
+    },
+    "jersey": {
+      "mnemonic": "A jersey keeps you warm.",
+      "explanation": "Jumper / sweater (Peninsular Spanish)."
+    },
+    "móvil": {
+      "mnemonic": "Mobile on the move.",
+      "explanation": "Mobile phone (Peninsular Spanish)."
+    }
+  }
+}

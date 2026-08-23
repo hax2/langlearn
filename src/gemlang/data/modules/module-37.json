@@ -1,0 +1,517 @@
+{
+  "id": "module-37",
+  "title": "Theme: Technology and Internet",
+  "description": "Vocabulary for computers, internet, and modern technology.",
+  "level": "Intermediate",
+  "sentences": [
+    {
+      "id": "37-s1",
+      "spanish": "El usuario instala el antivirus en su teléfono.",
+      "english": "The user installs the antivirus on their phone.",
+      "wordMeanings": {
+        "usuario": "user",
+        "instala": "installs",
+        "antivirus": "antivirus",
+        "teléfono": "phone"
+      }
+    },
+    {
+      "id": "37-s2",
+      "spanish": "El técnico instala el software en su teléfono.",
+      "english": "The technician installs the software on their phone.",
+      "wordMeanings": {
+        "técnico": "technician",
+        "instala": "installs",
+        "software": "software",
+        "teléfono": "phone"
+      }
+    },
+    {
+      "id": "37-s3",
+      "spanish": "El programador instala la aplicación en el ordenador.",
+      "english": "The programmer installs the application on the computer.",
+      "wordMeanings": {
+        "programador": "programmer",
+        "instala": "installs",
+        "aplicación": "application",
+        "ordenador": "computer"
+      }
+    },
+    {
+      "id": "37-s4",
+      "spanish": "El usuario instala el antivirus por internet.",
+      "english": "The user installs the antivirus over the internet.",
+      "wordMeanings": {
+        "usuario": "user",
+        "instala": "installs",
+        "antivirus": "antivirus",
+        "internet": "internet"
+      }
+    },
+    {
+      "id": "37-s5",
+      "spanish": "El programador instala el antivirus en el ordenador.",
+      "english": "The programmer installs the antivirus on the computer.",
+      "wordMeanings": {
+        "programador": "programmer",
+        "instala": "installs",
+        "antivirus": "antivirus",
+        "ordenador": "computer"
+      }
+    },
+    {
+      "id": "37-s6",
+      "spanish": "El técnico instala el antivirus por internet.",
+      "english": "The technician installs the antivirus over the internet.",
+      "wordMeanings": {
+        "técnico": "technician",
+        "instala": "installs",
+        "antivirus": "antivirus",
+        "internet": "internet"
+      }
+    },
+    {
+      "id": "37-s7",
+      "spanish": "El programador instala el antivirus con wifi.",
+      "english": "The programmer installs the antivirus with wifi.",
+      "wordMeanings": {
+        "programador": "programmer",
+        "instala": "installs",
+        "antivirus": "antivirus",
+        "wifi": "wifi"
+      }
+    },
+    {
+      "id": "37-s8",
+      "spanish": "El usuario actualiza el programa muy rápido.",
+      "english": "The user updates the program very fast.",
+      "wordMeanings": {
+        "usuario": "user",
+        "actualiza": "updates",
+        "programa": "program",
+        "rápido": "fast"
+      }
+    },
+    {
+      "id": "37-s9",
+      "spanish": "El técnico actualiza el programa en su teléfono.",
+      "english": "The technician updates the program on their phone.",
+      "wordMeanings": {
+        "técnico": "technician",
+        "actualiza": "updates",
+        "programa": "program",
+        "teléfono": "phone"
+      }
+    },
+    {
+      "id": "37-s10",
+      "spanish": "El usuario actualiza el software muy rápido.",
+      "english": "The user updates the software very fast.",
+      "wordMeanings": {
+        "usuario": "user",
+        "actualiza": "updates",
+        "software": "software",
+        "rápido": "fast"
+      }
+    },
+    {
+      "id": "37-s11",
+      "spanish": "El técnico actualiza el antivirus por internet.",
+      "english": "The technician updates the antivirus over the internet.",
+      "wordMeanings": {
+        "técnico": "technician",
+        "actualiza": "updates",
+        "antivirus": "antivirus",
+        "internet": "internet"
+      }
+    },
+    {
+      "id": "37-s12",
+      "spanish": "Mi amigo actualiza el archivo con wifi.",
+      "english": "My friend updates the file with wifi.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "actualiza": "updates",
+        "archivo": "file",
+        "wifi": "wifi"
+      }
+    },
+    {
+      "id": "37-s13",
+      "spanish": "La chica actualiza el software muy rápido.",
+      "english": "The girl updates the software very fast.",
+      "wordMeanings": {
+        "chica": "girl",
+        "actualiza": "updates",
+        "software": "software",
+        "rápido": "fast"
+      }
+    },
+    {
+      "id": "37-s14",
+      "spanish": "Mi amigo actualiza el programa en el ordenador.",
+      "english": "My friend updates the program on the computer.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "actualiza": "updates",
+        "programa": "program",
+        "ordenador": "computer"
+      }
+    },
+    {
+      "id": "37-s15",
+      "spanish": "El técnico actualiza el software muy rápido.",
+      "english": "The technician updates the software very fast.",
+      "wordMeanings": {
+        "técnico": "technician",
+        "actualiza": "updates",
+        "software": "software",
+        "rápido": "fast"
+      }
+    },
+    {
+      "id": "37-s16",
+      "spanish": "Mi amigo actualiza el antivirus en el ordenador.",
+      "english": "My friend updates the antivirus on the computer.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "actualiza": "updates",
+        "antivirus": "antivirus",
+        "ordenador": "computer"
+      }
+    },
+    {
+      "id": "37-s17",
+      "spanish": "El técnico actualiza el antivirus con wifi.",
+      "english": "The technician updates the antivirus with wifi.",
+      "wordMeanings": {
+        "técnico": "technician",
+        "actualiza": "updates",
+        "antivirus": "antivirus",
+        "wifi": "wifi"
+      }
+    },
+    {
+      "id": "37-s18",
+      "spanish": "El usuario actualiza la aplicación muy rápido.",
+      "english": "The user updates the application very fast.",
+      "wordMeanings": {
+        "usuario": "user",
+        "actualiza": "updates",
+        "aplicación": "application",
+        "rápido": "fast"
+      }
+    },
+    {
+      "id": "37-s19",
+      "spanish": "El usuario actualiza el software en el ordenador.",
+      "english": "The user updates the software on the computer.",
+      "wordMeanings": {
+        "usuario": "user",
+        "actualiza": "updates",
+        "software": "software",
+        "ordenador": "computer"
+      }
+    },
+    {
+      "id": "37-s20",
+      "spanish": "La chica descarga el antivirus muy rápido.",
+      "english": "The girl downloads the antivirus very fast.",
+      "wordMeanings": {
+        "chica": "girl",
+        "descarga": "downloads",
+        "antivirus": "antivirus",
+        "rápido": "fast"
+      }
+    },
+    {
+      "id": "37-s21",
+      "spanish": "El usuario descarga el archivo muy rápido.",
+      "english": "The user downloads the file very fast.",
+      "wordMeanings": {
+        "usuario": "user",
+        "descarga": "downloads",
+        "archivo": "file",
+        "rápido": "fast"
+      }
+    },
+    {
+      "id": "37-s22",
+      "spanish": "El programador descarga el antivirus con wifi.",
+      "english": "The programmer downloads the antivirus with wifi.",
+      "wordMeanings": {
+        "programador": "programmer",
+        "descarga": "downloads",
+        "antivirus": "antivirus",
+        "wifi": "wifi"
+      }
+    },
+    {
+      "id": "37-s23",
+      "spanish": "La chica descarga el archivo por internet.",
+      "english": "The girl downloads the file over the internet.",
+      "wordMeanings": {
+        "chica": "girl",
+        "descarga": "downloads",
+        "archivo": "file",
+        "internet": "internet"
+      }
+    },
+    {
+      "id": "37-s24",
+      "spanish": "El técnico descarga el antivirus muy rápido.",
+      "english": "The technician downloads the antivirus very fast.",
+      "wordMeanings": {
+        "técnico": "technician",
+        "descarga": "downloads",
+        "antivirus": "antivirus",
+        "rápido": "fast"
+      }
+    },
+    {
+      "id": "37-s25",
+      "spanish": "El programador descarga el archivo en el ordenador.",
+      "english": "The programmer downloads the file on the computer.",
+      "wordMeanings": {
+        "programador": "programmer",
+        "descarga": "downloads",
+        "archivo": "file",
+        "ordenador": "computer"
+      }
+    },
+    {
+      "id": "37-s26",
+      "spanish": "La chica descarga la aplicación muy rápido.",
+      "english": "The girl downloads the application very fast.",
+      "wordMeanings": {
+        "chica": "girl",
+        "descarga": "downloads",
+        "aplicación": "application",
+        "rápido": "fast"
+      }
+    },
+    {
+      "id": "37-s27",
+      "spanish": "El técnico descarga el software por internet.",
+      "english": "The technician downloads the software over the internet.",
+      "wordMeanings": {
+        "técnico": "technician",
+        "descarga": "downloads",
+        "software": "software",
+        "internet": "internet"
+      }
+    },
+    {
+      "id": "37-s28",
+      "spanish": "El usuario compra el software en su teléfono.",
+      "english": "The user buys the software on their phone.",
+      "wordMeanings": {
+        "usuario": "user",
+        "compra": "buys",
+        "software": "software",
+        "teléfono": "phone"
+      }
+    },
+    {
+      "id": "37-s29",
+      "spanish": "El programador compra el antivirus por internet.",
+      "english": "The programmer buys the antivirus over the internet.",
+      "wordMeanings": {
+        "programador": "programmer",
+        "compra": "buys",
+        "antivirus": "antivirus",
+        "internet": "internet"
+      }
+    },
+    {
+      "id": "37-s30",
+      "spanish": "Mi amigo compra la aplicación muy rápido.",
+      "english": "My friend buys the application very fast.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "compra": "buys",
+        "aplicación": "application",
+        "rápido": "fast"
+      }
+    },
+    {
+      "id": "37-s31",
+      "spanish": "El técnico compra el software en el ordenador.",
+      "english": "The technician buys the software on the computer.",
+      "wordMeanings": {
+        "técnico": "technician",
+        "compra": "buys",
+        "software": "software",
+        "ordenador": "computer"
+      }
+    },
+    {
+      "id": "37-s32",
+      "spanish": "Mi amigo compra el software por internet.",
+      "english": "My friend buys the software over the internet.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "compra": "buys",
+        "software": "software",
+        "internet": "internet"
+      }
+    },
+    {
+      "id": "37-s33",
+      "spanish": "El programador compra la aplicación en el ordenador.",
+      "english": "The programmer buys the application on the computer.",
+      "wordMeanings": {
+        "programador": "programmer",
+        "compra": "buys",
+        "aplicación": "application",
+        "ordenador": "computer"
+      }
+    },
+    {
+      "id": "37-s34",
+      "spanish": "Mi amigo compra el software muy rápido.",
+      "english": "My friend buys the software very fast.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "compra": "buys",
+        "software": "software",
+        "rápido": "fast"
+      }
+    },
+    {
+      "id": "37-s35",
+      "spanish": "El usuario compra el software por internet.",
+      "english": "The user buys the software over the internet.",
+      "wordMeanings": {
+        "usuario": "user",
+        "compra": "buys",
+        "software": "software",
+        "internet": "internet"
+      }
+    },
+    {
+      "id": "37-s36",
+      "spanish": "La chica borra la aplicación con wifi.",
+      "english": "The girl deletes the application with wifi.",
+      "wordMeanings": {
+        "chica": "girl",
+        "borra": "deletes",
+        "aplicación": "application",
+        "wifi": "wifi"
+      }
+    },
+    {
+      "id": "37-s37",
+      "spanish": "El programador borra el programa en su teléfono.",
+      "english": "The programmer deletes the program on their phone.",
+      "wordMeanings": {
+        "programador": "programmer",
+        "borra": "deletes",
+        "programa": "program",
+        "teléfono": "phone"
+      }
+    },
+    {
+      "id": "37-s38",
+      "spanish": "El usuario borra el software por internet.",
+      "english": "The user deletes the software over the internet.",
+      "wordMeanings": {
+        "usuario": "user",
+        "borra": "deletes",
+        "software": "software",
+        "internet": "internet"
+      }
+    },
+    {
+      "id": "37-s39",
+      "spanish": "El programador borra el antivirus con wifi.",
+      "english": "The programmer deletes the antivirus with wifi.",
+      "wordMeanings": {
+        "programador": "programmer",
+        "borra": "deletes",
+        "antivirus": "antivirus",
+        "wifi": "wifi"
+      }
+    },
+    {
+      "id": "37-s40",
+      "spanish": "Mi amigo borra el software en su teléfono.",
+      "english": "My friend deletes the software on their phone.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "borra": "deletes",
+        "software": "software",
+        "teléfono": "phone"
+      }
+    },
+    {
+      "id": "37-s41",
+      "spanish": "El técnico borra el programa por internet.",
+      "english": "The technician deletes the program over the internet.",
+      "wordMeanings": {
+        "técnico": "technician",
+        "borra": "deletes",
+        "programa": "program",
+        "internet": "internet"
+      }
+    },
+    {
+      "id": "37-s42",
+      "spanish": "La chica borra el software muy rápido.",
+      "english": "The girl deletes the software very fast.",
+      "wordMeanings": {
+        "chica": "girl",
+        "borra": "deletes",
+        "software": "software",
+        "rápido": "fast"
+      }
+    },
+    {
+      "id": "37-s43",
+      "spanish": "Mi amigo borra el archivo en el ordenador.",
+      "english": "My friend deletes the file on the computer.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "borra": "deletes",
+        "archivo": "file",
+        "ordenador": "computer"
+      }
+    },
+    {
+      "id": "37-s44",
+      "spanish": "El programador borra la aplicación por internet.",
+      "english": "The programmer deletes the application over the internet.",
+      "wordMeanings": {
+        "programador": "programmer",
+        "borra": "deletes",
+        "aplicación": "application",
+        "internet": "internet"
+      }
+    },
+    {
+      "id": "37-s45",
+      "spanish": "Mi amigo borra el antivirus con wifi.",
+      "english": "My friend deletes the antivirus with wifi.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "borra": "deletes",
+        "antivirus": "antivirus",
+        "wifi": "wifi"
+      }
+    }
+  ],
+  "vocabulary": {
+    "descargar": {
+      "mnemonic": "De-charge (discharge) the internet into your phone to 'download'.",
+      "explanation": "Means 'to download'."
+    },
+    "contraseña": {
+      "mnemonic": "Contra (against) + seña (sign). A sign against hacking = 'password'.",
+      "explanation": "Means 'password'."
+    },
+    "pantalla": {
+      "mnemonic": "Pan (bread) + talla (size). The size of bread fits on the 'screen'.",
+      "explanation": "Means 'screen'."
+    }
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "review-1-2-3",
+  "title": "🔄 Review: Chapters 1, 2, 3",
+  "description": "Mixed practice from Greetings & Basics, Locations, Descriptions.",
+  "level": "Beginner",
+  "type": "review",
+  "reviewsModules": [
+    "module-1",
+    "module-2",
+    "module-3"
+  ],
+  "sentences": [
+    {
+      "id": "review-1-2-3-from-m1-s1",
+      "spanish": "Soy Ana.",
+      "english": "I am Ana.",
+      "wordMeanings": {
+        "Soy": "I am",
+        "Ana": "Ana"
+      }
+    },
+    {
+      "id": "review-1-2-3-from-m3-s5",
+      "spanish": "¿Es un buen coche?",
+      "english": "Is it a good car?",
+      "wordMeanings": {
+        "Es": "is",
+        "un": "a",
+        "buen": "good",
+        "coche": "car"
+      }
+    },
+    {
+      "id": "review-1-2-3-from-m2-s4",
+      "spanish": "Estoy en la escuela.",
+      "english": "I am at school.",
+      "wordMeanings": {
+        "Estoy": "I am",
+        "en": "in / on",
+        "la": "the / it (fem)",
+        "escuela": "school"
+      }
+    },
+    {
+      "id": "review-1-2-3-from-m3-s1",
+      "spanish": "La escuela es grande.",
+      "english": "The school is big.",
+      "wordMeanings": {
+        "La": "the / it (fem)",
+        "escuela": "school",
+        "es": "is",
+        "grande": "big"
+      }
+    },
+    {
+      "id": "review-1-2-3-from-m2-s5",
+      "spanish": "¿Estás en el trabajo hoy?",
+      "english": "Are you at work today?",
+      "wordMeanings": {
+        "Estás": "you are",
+        "en": "in / on",
+        "el": "the",
+        "trabajo": "I work / job",
+        "hoy": "today"
+      }
+    },
+    {
+      "id": "review-1-2-3-from-m3-s4",
+      "spanish": "Es un lugar muy bonito.",
+      "english": "It is a very pretty place.",
+      "wordMeanings": {
+        "Es": "is",
+        "un": "a",
+        "lugar": "place",
+        "muy": "very",
+        "bonito": "pretty"
+      }
+    },
+    {
+      "id": "review-1-2-3-from-m1-s5",
+      "spanish": "Hasta luego.",
+      "english": "See you later.",
+      "wordMeanings": {
+        "Hasta": "until",
+        "luego": "later"
+      }
+    },
+    {
+      "id": "review-1-2-3-from-m1-s4",
+      "spanish": "Buenos días.",
+      "english": "Good morning.",
+      "wordMeanings": {
+        "Buenos": "good (masc pl)",
+        "días": "days"
+      }
+    },
+    {
+      "id": "review-1-2-3-from-m2-s1",
+      "spanish": "¿Dónde está Carlos?",
+      "english": "Where is Carlos?",
+      "wordMeanings": {
+        "Dónde": "where",
+        "está": "is",
+        "Carlos": "Carlos"
+      }
+    },
+    {
+      "id": "review-1-2-3-from-m2-s2",
+      "spanish": "No, no estoy en casa ahora.",
+      "english": "No, I am not at home now.",
+      "wordMeanings": {
+        "No": "no / not",
+        "no": "no / not",
+        "estoy": "I am",
+        "en": "in / on",
+        "casa": "house",
+        "ahora": "now"
+      }
+    },
+    {
+      "id": "review-1-2-3-from-m1-s3",
+      "spanish": "Soy estudiante.",
+      "english": "I am a student.",
+      "wordMeanings": {
+        "Soy": "I am",
+        "estudiante": "student"
+      }
+    },
+    {
+      "id": "review-1-2-3-from-m3-s2",
+      "spanish": "¿Dónde está la casa?",
+      "english": "Where is the house?",
+      "wordMeanings": {
+        "Dónde": "where",
+        "está": "is",
+        "la": "the / it (fem)",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "review-1-2-3-from-m2-s3",
+      "spanish": "¿Dónde está Luis?",
+      "english": "Where is Luis?",
+      "wordMeanings": {
+        "Dónde": "where",
+        "está": "is",
+        "Luis": "Luis"
+      }
+    },
+    {
+      "id": "review-1-2-3-from-m3-s3",
+      "spanish": "Una casa es grande.",
+      "english": "A house is big.",
+      "wordMeanings": {
+        "Una": "a (fem)",
+        "casa": "house",
+        "es": "is",
+        "grande": "big"
+      }
+    },
+    {
+      "id": "review-1-2-3-from-m1-s2",
+      "spanish": "Sí, soy Luis.",
+      "english": "Yes, I am Luis.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "soy": "I am",
+        "Luis": "Luis"
+      }
+    }
+  ],
+  "grammarExplanation": "Time to review! This module mixes sentences from the last 3 chapters you studied:\n\n• Chapter 1: Greetings & Basics\n• Chapter 2: Locations\n• Chapter 3: Descriptions\n\nThe sentences are shuffled so you can't rely on context — you'll need to recall the vocabulary and grammar from each chapter on your own. Take your time and listen carefully!"
+}

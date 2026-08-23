@@ -1,0 +1,451 @@
+{
+  "id": "module-20",
+  "title": "Chapter 20: Subjunctive: Importance",
+  "description": "Use impersonal expressions like 'Es importante que'.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "m20-s1",
+      "spanish": "Es importante que hables con ella.",
+      "english": "It's important that you speak with her.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "hables": "speak (subj)",
+        "con": "with",
+        "ella": "her / she"
+      }
+    },
+    {
+      "id": "m20-s2",
+      "spanish": "Es importante que escuches bien.",
+      "english": "It's important that you listen carefully.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "escuches": "listen (subj)",
+        "bien": "well / carefully"
+      }
+    },
+    {
+      "id": "m20-s3",
+      "spanish": "Es importante que estudies.",
+      "english": "It's important that you study.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "estudies": "study (subj)"
+      }
+    },
+    {
+      "id": "m20-s4",
+      "spanish": "Es importante que trabajes con calma.",
+      "english": "It's important that you work calmly.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "trabajes": "work (subj)",
+        "con": "with",
+        "calma": "calm"
+      }
+    },
+    {
+      "id": "m20-s5",
+      "spanish": "Es importante que comas bien.",
+      "english": "It's important that you eat well.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "comas": "eat (subj)",
+        "bien": "well/good"
+      }
+    },
+    {
+      "id": "m20-s6",
+      "spanish": "Es importante que bebas más agua.",
+      "english": "It's important that you drink more water.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "bebas": "drink (subj)",
+        "más": "more",
+        "agua": "water"
+      }
+    },
+    {
+      "id": "m20-s7",
+      "spanish": "Es importante que duermas bien.",
+      "english": "It's important that you sleep well.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "duermas": "sleep (subj)",
+        "bien": "well/good"
+      }
+    },
+    {
+      "id": "m20-s8",
+      "spanish": "Es importante que descanses un poco.",
+      "english": "It's important that you rest a bit.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "descanses": "rest (subj)",
+        "un": "a",
+        "poco": "little / bit"
+      }
+    },
+    {
+      "id": "m20-s9",
+      "spanish": "Es importante que llegues pronto.",
+      "english": "It's important that you arrive soon.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "llegues": "arrive (subj)",
+        "pronto": "soon / early"
+      }
+    },
+    {
+      "id": "m20-s10",
+      "spanish": "Es importante que no llegues tarde.",
+      "english": "It's important that you don't arrive late.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "no": "no / not",
+        "llegues": "arrive (subj)",
+        "tarde": "late / afternoon"
+      }
+    },
+    {
+      "id": "m20-s11",
+      "spanish": "Es importante que vengas mañana.",
+      "english": "It's important that you come tomorrow.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "vengas": "come (subj)",
+        "mañana": "tomorrow / morning"
+      }
+    },
+    {
+      "id": "m20-s12",
+      "spanish": "Es importante que vayas hoy al médico.",
+      "english": "It's important that you go to the doctor today.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "vayas": "go (subj)",
+        "hoy": "today",
+        "al": "to the",
+        "médico": "doctor"
+      }
+    },
+    {
+      "id": "m20-s13",
+      "spanish": "Es importante que abras la puerta.",
+      "english": "It's important that you open the door.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "abras": "open (subj)",
+        "la": "the / it (fem)",
+        "puerta": "door"
+      }
+    },
+    {
+      "id": "m20-s14",
+      "spanish": "Es importante que cierres bien la ventana.",
+      "english": "It's important that you close the window properly.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "cierres": "close (subj)",
+        "bien": "well / properly",
+        "la": "the / it (fem)",
+        "ventana": "window"
+      }
+    },
+    {
+      "id": "m20-s15",
+      "spanish": "Es importante que me escuches.",
+      "english": "It's important that you listen to me.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "me": "me / to me",
+        "escuches": "listen (subj)"
+      }
+    },
+    {
+      "id": "m20-s16",
+      "spanish": "Es importante que me digas la verdad.",
+      "english": "It's important that you tell me the truth.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "me": "me / to me",
+        "digas": "say (subj)",
+        "la": "the / it (fem)",
+        "verdad": "truth"
+      }
+    },
+    {
+      "id": "m20-s17",
+      "spanish": "Es importante que me lo digas.",
+      "english": "It's important that you tell it to me.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "me": "me / to me",
+        "lo": "it / him",
+        "digas": "say (subj)"
+      }
+    },
+    {
+      "id": "m20-s18",
+      "spanish": "Es importante que se lo des a Ana.",
+      "english": "It's important that you give it to Ana.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "se": "to him/her",
+        "lo": "it / him",
+        "des": "give (subj)",
+        "a": "to",
+        "Ana": "Ana"
+      }
+    },
+    {
+      "id": "m20-s19",
+      "spanish": "Es importante que se la des a Luis.",
+      "english": "It's important that you give it to Luis.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "se": "to him/her",
+        "la": "the / it (fem)",
+        "des": "give (subj)",
+        "a": "to",
+        "Luis": "Luis"
+      }
+    },
+    {
+      "id": "m20-s20",
+      "spanish": "Es importante que tengas algo de tiempo.",
+      "english": "It's important that you have some time.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "tengas": "have (subj)",
+        "algo": "some / something",
+        "de": "of",
+        "tiempo": "time"
+      }
+    },
+    {
+      "id": "m20-s21",
+      "spanish": "Es importante que lleves algo de dinero.",
+      "english": "It's important that you bring some money.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "lleves": "bring / carry (subj)",
+        "algo": "some / something",
+        "de": "of",
+        "dinero": "money"
+      }
+    },
+    {
+      "id": "m20-s22",
+      "spanish": "Es importante que estés aquí a tiempo.",
+      "english": "It's important that you are here on time.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "estés": "are (subj)",
+        "aquí": "here",
+        "a": "at / to",
+        "tiempo": "time"
+      }
+    },
+    {
+      "id": "m20-s23",
+      "spanish": "Es importante que estés bien.",
+      "english": "It's important that you are well.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "estés": "are (subj)",
+        "bien": "well/good"
+      }
+    },
+    {
+      "id": "m20-s24",
+      "spanish": "Es importante que tengas paciencia.",
+      "english": "It's important that you have patience.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "tengas": "have (subj)",
+        "paciencia": "patience"
+      }
+    },
+    {
+      "id": "m20-s25",
+      "spanish": "Es importante que seas amable.",
+      "english": "It's important that you are kind.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "seas": "you are (subj)",
+        "amable": "kind"
+      }
+    },
+    {
+      "id": "m20-s26",
+      "spanish": "Lo importante es que estés bien.",
+      "english": "The important thing is that you're okay.",
+      "wordMeanings": {
+        "Lo": "the (neutral)",
+        "importante": "important",
+        "es": "is",
+        "que": "that / than",
+        "estés": "are (subj)",
+        "bien": "well/good"
+      }
+    },
+    {
+      "id": "m20-s27",
+      "spanish": "Es importante que te cuides.",
+      "english": "It's important that you take care of yourself.",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "te": "yourself",
+        "cuides": "take care (subj)"
+      }
+    },
+    {
+      "id": "m20-s28",
+      "spanish": "Es necesario que lo sepas.",
+      "english": "It's necessary that you know it.",
+      "wordMeanings": {
+        "Es": "is",
+        "necesario": "necessary",
+        "que": "that / than",
+        "lo": "it",
+        "sepas": "know (subj)"
+      }
+    },
+    {
+      "id": "m20-s29",
+      "spanish": "Es importante que estudiéis.",
+      "english": "It's important that you study. (you plural, Spain)",
+      "wordMeanings": {
+        "Es": "is",
+        "importante": "important",
+        "que": "that / than",
+        "estudiéis": "study (subj pl)"
+      }
+    }
+  ],
+  "grammarExplanation": "Impersonal expressions of judgment or importance also trigger the subjunctive:\n\n'Es importante que + subjunctive'\n'Es necesario que + subjunctive'\n\n• Es importante que estudies = It's important that you study\n• Es importante que seas paciente = It's important that you be patient\n\nOther triggers: 'Es bueno que', 'Es malo que', 'Es mejor que', 'Es necesario que.'",
+  "vocabulary": {
+    "es": {
+      "mnemonic": "Sounds like letter 'S' — 'He/She is S-uper.'",
+      "explanation": "Third person singular of 'ser'."
+    },
+    "importante": {
+      "mnemonic": "Nearly identical to 'important' — cognate!",
+      "explanation": "Same for masc/fem."
+    },
+    "agua": {
+      "mnemonic": "Think 'aqua' — water!",
+      "explanation": "Fem but uses 'el agua'."
+    },
+    "temprano": {
+      "mnemonic": "'Temporary morning' — early!",
+      "explanation": "Means 'early'."
+    },
+    "tarde": {
+      "mnemonic": "Think 'tardy' — late!",
+      "explanation": "Means 'late' or 'afternoon'."
+    },
+    "mañana": {
+      "mnemonic": "'Mañana, mañana' — putting off till tomorrow.",
+      "explanation": "Means 'tomorrow' or 'morning'."
+    },
+    "hoy": {
+      "mnemonic": "'Hoy! today!' — an exclamation for today.",
+      "explanation": "Means 'today'."
+    },
+    "la": {
+      "mnemonic": "'La lady' — her/it (feminine).",
+      "explanation": "Also 'the' (feminine)."
+    },
+    "puerta": {
+      "mnemonic": "Think 'port/portal' — a door.",
+      "explanation": "Feminine noun meaning door/gate."
+    },
+    "ventana": {
+      "mnemonic": "'Vent-ana' — air vents in a window.",
+      "explanation": "From Latin 'ventus' (wind)."
+    },
+    "lo": {
+      "mnemonic": "'Low him' — direct object him/it.",
+      "explanation": "Masculine direct object pronoun."
+    },
+    "se": {
+      "mnemonic": "Think 'self' — reflexive pronoun.",
+      "explanation": "Replaces le/les before lo/la/los/las."
+    },
+    "tiempo": {
+      "mnemonic": "Think 'tempo' — time and rhythm.",
+      "explanation": "Means 'time' or 'weather'."
+    },
+    "dinero": {
+      "mnemonic": "'Diner-o' — you need dinero at the diner.",
+      "explanation": "Means 'money'."
+    },
+    "aquí": {
+      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
+      "explanation": "Means 'here'. More precise than 'acá'."
+    },
+    "los": {
+      "mnemonic": "'Los' = them (masculine plural).",
+      "explanation": "Direct object pronoun."
+    },
+    "las": {
+      "mnemonic": "'Las ladies' — them (feminine).",
+      "explanation": "Direct object pronoun."
+    }
+  }
+}

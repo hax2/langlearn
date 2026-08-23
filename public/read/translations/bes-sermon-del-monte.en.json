@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "trackId": "bes-sermon-del-monte",
+  "sourceHash": "55ca8639d44d5f7ceebcb32387db7df4bd7e4821428a74025259b446eb7427f4",
+  "provider": "ollama/translategemma:4b",
+  "sourceLanguage": "es",
+  "targetLanguage": "en",
+  "translatedAt": "2026-08-15T08:28:46.780841+00:00",
+  "characters": 11980,
+  "blocks": [
+    {
+      "source": "el sermón del monte capítulo 5. Al ver las multitudes, Jesús subió al monte. Cuando se sentó, sus discípulos se acercaron a él. Entonces comenzó a enseñarles, diciendo, dichosos los pobres en espíritu, porque de ellos es el reino de los cielos, dichosos los que lloran, porque ellos serán consolados, dichosos los mansos, porque ellos recibirán la tierra como herencia, dichosos los que tienen hambre y sed de justicia, porque ellos serán saciados, dichosos los misericordiosos, porque ellos recibirán misericordia, dichosos los de corazón limpio, porque ellos verán a Dios, dichosos los que hacen la paz, porque ellos serán llamados hijos de Dios, dichosos los perseguidos por causa de la justicia, porque de ellos es el reino de los cielos, dichosos ustedes cuando por causa de mí los insulten, los persigan y digan toda clase de mal contra ustedes, mintiendo.",
+      "translation": "The Sermon on the Mount, Chapter 5. Seeing the crowds, Jesus went up on the mountain. When he sat down, his disciples came to him. Then he began to teach them, saying, \"Blessed are those who are poor in spirit, for theirs is the kingdom of heaven; blessed are those who mourn, for they will be comforted; blessed are the meek, for they will inherit the earth; blessed are those who hunger and thirst for righteousness, for they will be satisfied; blessed are the merciful, for they will receive mercy; blessed are the pure in heart, for they will see God; blessed are the peacemakers, for they will be called children of God; blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven. And blessed are you when people revile you, persecute you, and utter all kinds of evil against you falsely, for you will be blessed in the one who is seated on the throne of heaven.\""
+    },
+    {
+      "source": "Alégrense y llénense de gozo, porque grande es su recompensa en los cielos. Así también persiguieron a los profetas que vivieron antes de ustedes. Ustedes son la sal de la tierra. Pero si la sal pierde su sabor, ¿con qué se le devolverá?",
+      "translation": "Be joyful and rejoice, for your reward is great in the heavens. Similarly, you should pursue those prophets who lived before you. You are the salt of the earth. But if the salt loses its flavor, what will be used to restore it?"
+    },
+    {
+      "source": "Ya no sirve para nada, sino para ser tirada fuera y pisada por la gente. Ustedes son la luz del mundo. Una ciudad puesta sobre un monte no se puede esconder. Nadie enciende una lámpara para ponerla debajo de una canasta, sino sobre un candelero, y así alumbra a todos los que están en la casa.",
+      "translation": "It's completely useless; it's only good for being thrown away and stepped on by people. You are the light of the world. A city built on a hill cannot be hidden. No one puts a lamp under a bowl; they put it on a stand, so that it lights up the entire house."
+    },
+    {
+      "source": "Así brille la luz de ustedes delante de la gente, para que vean sus buenas obras y den gloria a su padre que está en los cielos. No piensen que he venido a destruir la ley o los profetas. No he venido a destruirlos, sino a cumplirlos, porque de cierto les digo que, hasta que pasen el cielo y la tierra, ni la letra más pequeña ni un solo trazo de la ley pasará, hasta que todo se cumpla. Por eso, cualquiera que quebrante uno de estos mandamientos más pequeños y enseñe a otros a hacer lo mismo, será llamado el más pequeño en el reino de los cielos.",
+      "translation": "This is how their light will shine before others, so that they may see their good deeds and give glory to their Father in heaven. They must not think that I have come to abolish the law or the prophets. I have not come to abolish them, but to fulfill them. For I tell you truly, until heaven and earth pass away, not one letter or one stroke of the law will pass away until all is accomplished. Therefore, anyone who breaks even the smallest of these commandments and teaches others to do the same will be called the least in the kingdom of heaven."
+    },
+    {
+      "source": "Pero cualquiera que los cumpla y los enseñe, será llamado grande en el reino de los cielos. Porque les digo que, si la justicia de ustedes no es mayor que la de los escribas y fariseos, de ninguna manera entrarán en el reino de los cielos. Ustedes han oído que se dijo a los antiguos, no matarás, y cualquiera que mate será culpable ante el juicio. Pero yo les digo que cualquiera que se enoje contra su hermano, será culpable ante el juicio.",
+      "translation": "However, anyone who fulfills these requirements and teaches them will be called great in the kingdom of heaven. For I tell you that if your righteousness does not exceed that of the scribes and Pharisees, you will not enter the kingdom of heaven. You have heard that it was said to the ancients, 'Do not murder,' and whoever murders shall be liable to judgment. But I say to you, whoever is angry with his brother will be liable to judgment."
+    },
+    {
+      "source": "El que diga a su hermano, Raka, será culpable ante el tribunal. Y el que le diga, Necio, estará en peligro del infierno de fuego. Por eso, si traes tu ofrenda al altar, y allí recuerdas que tu hermano tiene algo contra ti, deja tu ofrenda allí, delante del altar. Primero ve y reconciliate con tu hermano.",
+      "translation": "Anyone who tells his brother, Raka, will be considered guilty by the court. And anyone who tells Necio will be in danger of eternal fire. Therefore, if you bring your offering to the altar, and while there, you remember that your brother has something against you, leave your offering there, in front of the altar. First, go and reconcile with your brother."
+    },
+    {
+      "source": "Luego vuelve y presenta tu ofrenda. Ponte de acuerdo pronto con tu adversario, mientras vas con él por el camino. No sea que tu adversario te entregue al juez, el juez al guardia, y seas echado en la cárcel. De cierto te digo que no saldrás de allí hasta que hayas pagado la última moneda.",
+      "translation": "Then, return and present your offering. Try to reach an agreement with your opponent as soon as possible, while you are walking with him. Don't let your opponent hand you over to the judge, and the judge to the guard, so that you end up in jail. I assure you that you won't leave there until you have paid the last coin."
+    },
+    {
+      "source": "Ustedes han oído que se dijo, no cometerás adulterio. Pero yo les digo que cualquiera que mira a una mujer para desearla, ya cometió adulterio con ella en su corazón. Si tu ojo derecho te hace caer en pecado, sácalo y échalo lejos de ti. Es mejor que pierdas una parte de tu cuerpo, y no que todo tu cuerpo sea echado al infierno.",
+      "translation": "You've heard that you shouldn't look at a woman with lustful intent. But I tell you that anyone who looks at a woman with the desire to possess her has already committed adultery with her in their heart. If your right eye leads you into sin, pluck it out and throw it away. It is better to lose a part of your body than to have your entire body cast into hell."
+    },
+    {
+      "source": "Y si tu mano derecha te hace caer en pecado, córtala y échala lejos de ti. Es mejor que pierdas una parte de tu cuerpo, y no que todo tu cuerpo sea echado al infierno. También se dijo, cualquiera que se divorcie de su esposa, dele carta de divorcio. Pero yo les digo que cualquiera que se divorcia de su esposa, excepto por causa de inmoralidad sexual, hace que ella cometa adulterio, y el que se casa con una mujer divorciada comete adulterio.",
+      "translation": "And if your right hand causes you to sin, cut it off and throw it away. It is better to lose a part of your body than to have your entire body thrown into hell. It was also said that anyone who divorces their wife should obtain a divorce decree. However, I say to you that anyone who divorces their wife, except for reasons of sexual immorality, is causing her to commit adultery, and anyone who marries a divorced woman is also committing adultery."
+    },
+    {
+      "source": "También han oído que se dijo a los antiguos, no jurarás en falso, sino que cumplirás tus juramentos al Señor. Pero yo les digo, no yuren de ninguna manera, ni por el cielo, porque es el trono de Dios, ni por la tierra, porque es el estrado de sus pies, ni por Jerusalén, porque es la ciudad del Gran Rey. Tampoco jures por tu cabeza, porque no puedes hacer blanco o negro ni un solo cabello. Que sus palabras sean, sí, sí, no, no.",
+      "translation": "They have also heard that it was said to the ancients, \"You will not swear falsely, but you will fulfill your oaths to the Lord.\" But I tell you, do not swear in any way, not by heaven, for it is God's throne, nor by the earth, for it is his footstool, nor by Jerusalem, for it is the city of the Great King. Also, do not swear by your own head, for you cannot turn your hair white or black. Let your words be, \"Yes, yes, no, no.\""
+    },
+    {
+      "source": "Lo que pasa de esto viene del mal. Ustedes han oído que se dijo, ojo por ojo y diente por diente. Pero yo les digo, no resistan con venganza al que les hace mal. Más bien, si alguien te golpea en la mejilla derecha, vuélvele también la otra.",
+      "translation": "What follows from this is revenge. You've all heard the saying, \"an eye for an eye, a tooth for a tooth.\" But I'm telling you, don't respond to someone who has wronged you with revenge. Instead, if someone hits you on the right cheek, return the blow to the other."
+    },
+    {
+      "source": "Si alguien quiere demandarte y quitarte la túnica, déjale también el manto. Si alguien te obliga a llevar carga por una milla, ve con el dos, dale al que te pida y no le des la espalda al que quiera pedirte prestado. Ustedes han oído que se dijo, amarás a tu prójimo y odiarás a tu enemigo. Pero yo les digo, amen a sus enemigos, bendigan a los que los maldicen, hagan bien a los que los odian y oren por los que los maltratan y los persiguen.",
+      "translation": "If someone wants to sue you and take away your cloak, give them the cloak as well. If someone forces you to carry a load for a mile, go with two, give to the one who asks, and don't turn away from the one who wants to borrow from you. You have heard that it is said, \"You shall love your neighbor and hate your enemy.\" But I tell you, love your enemies, bless those who curse you, do good to those who hate you, and pray for those who persecute you."
+    },
+    {
+      "source": "Así serán hijos de su Padre que está en los cielos. Porque él hace salir su sol sobre malos y buenos y envía lluvias sobre justos e injustos. Si aman solo a los que los aman, ¿qué recompensa tendrán? ¿No hacen lo mismo los cobradores de impuestos?",
+      "translation": "They will be the children of their Father in heaven. For he makes the rain fall on the righteous and the unrighteous, and sends the wind in its strength. If they only love those who love them, what reward will they have? Don't tax collectors do the same?"
+    },
+    {
+      "source": "¿Y si saludan solo a sus hermanos, ¿qué hacen de más? ¿No hacen también eso los gentiles? Sean pues perfectos como su Padre celestial es perfecto. Capítulo 6.",
+      "translation": "And what if they only greet their siblings? What else do they do? Don't gentle people do the same? Therefore, strive to be perfect, just as your heavenly Father is perfect. Chapter 6."
+    },
+    {
+      "source": "Tengan cuidado de no hacer sus actos de justicia delante de la gente para ser vistos por ellos. Si lo hacen, no tendrán recompensa de su Padre que está en los cielos. Por eso, cuando ayudes a los pobres, no lo anuncies con trompeta como hacen los hipócritas en las sinagogas y en las calles, para recibir honra de la gente. De cierto les digo que ellos ya tienen su recompensa.",
+      "translation": "Be careful not to perform your acts of righteousness in public, so that people will see you and praise you. If you do, you will not receive the reward from your Father in heaven. Therefore, when you help the poor, do not announce it publicly like hypocrites do in synagogues and on the streets, in order to receive praise from people. I assure you that they already have their reward."
+    },
+    {
+      "source": "Pero cuando tú ayudes a los pobres, no dejes que tu mano izquierda sepa lo que hace tu mano derecha para que tu ayuda sea en secreto, y tu Padre que ve en secreto te recompensará. Cuando oren, no sean como los hipócritas, porque a ellos les gusta orar de pie en las sinagogas y en las esquinas de las calles para que la gente los vea. De cierto les digo que ellos ya tienen su recompensa. Pero tú, cuando ores, entra en tu cuarto, cierra la puerta y ora a tu Padre en secreto, y tu Padre que ve en secreto te recompensará.",
+      "translation": "But when you help the poor, don't let your left hand know what your right hand is doing, so that your help remains a secret, and your Father, who sees in secret, will reward you. When they pray, don't be like the hypocrites, because they like to pray standing in the synagogues and on the streets so that people can see them. I tell you for certain that they already have their reward. But you, when you pray, go into your room, close the door, and pray to your Father in secret, and your Father, who sees in secret, will reward you."
+    },
+    {
+      "source": "Al orar, no repitan palabras sin sentido, como hacen los gentiles, porque ellos piensan que por hablar muchos serán escuchados. No sean como ellos, porque su Padre sabe lo que ustedes necesitan antes de que se lo pidan. Ustedes, pues oren así. Padre nuestro que estás en los cielos, santificado sea tu nombre.",
+      "translation": "When praying, do not repeat meaningless words, as non-Jews do, because they believe that saying many words will make them heard. Do not be like them, because your Father knows what you need before you ask. Therefore, pray in this way: Our Father who art in heaven, hallowed be your name."
+    },
+    {
+      "source": "Venga tu reino. Hágase tu voluntad, como en el cielo, así también en la tierra. Danos hoy nuestro pan de cada día. Perdona nuestras deudas, como también nosotros perdonamos a nuestros deudores.",
+      "translation": "Your kingdom come. Let your will be done, on earth as it is in heaven. Give us today our daily bread. Forgive us our debts, as we forgive those who are in debt to us."
+    },
+    {
+      "source": "No nos dejes caer en tentación, sino líbranos del mal, porque tuyo es el reino, el poder y la gloria, por todos los siglos. Amén. Porque si ustedes perdonan a otros sus ofensas, también su Padre Celestial los perdonará. Pero si ustedes no perdonan a otros sus ofensas, tampoco su Padre perdonará las ofensas de ustedes.",
+      "translation": "Don't tempt us with temptation, but deliver us from evil, for your kingdom, your power, and your glory are for all eternity. Amen. Because if you forgive others for their offenses, then your Father in Heaven will forgive you as well. But if you do not forgive others for their offenses, then your Father will not forgive your offenses either."
+    },
+    {
+      "source": "Cuando ayunen, no pongan cara triste como los hipócritas, porque ellos cambian su rostro para que la gente vea que están ayunando. De cierto les digo que ellos ya tienen su recompensa. Pero tú, cuando ayunes, lava tu rostro y arregla tu cabeza, para que no parezca a la gente que estás ayunando, sino a tu padre que está en secreto. Y tu padre, que ve en secreto, te recompensará.",
+      "translation": "When you fast, don't make a sad face like hypocrites do, because they change their expressions so that people can see they are fasting. But I tell you, they already have their reward. However, when you fast, wash your face and tidy your hair, so that people don't think you're fasting, but that you're simply your father, who is fasting in secret. And your father, who is fasting in secret, will reward you."
+    },
+    {
+      "source": "No acumulen tesoros en la tierra, donde la polilla y el óxido destruyen, y donde los ladrones entran y roban. Más bien, acumulen tesoros en el cielo, donde ni la polilla ni el óxido destruyen, y donde los ladrones no entran ni roban. Porque donde esté tu tesoro, allí estará también tu corazón. El ojo es la lámpara del cuerpo.",
+      "translation": "Do not hoard your treasures on earth, where moths and rust destroy, and where thieves can enter and steal. Instead, store your treasures in heaven, where moths and rust cannot reach, and where thieves cannot enter or steal. For where your treasure is, there your heart will be also. The eye is the lamp of the body."
+    },
+    {
+      "source": "Si tu ojo está sano, todo tu cuerpo estará lleno de luz. Pero si tu ojo está enfermo, todo tu cuerpo estará en oscuridad. Así que, si la luz que hay en ti es oscuridad, qué grande será esa oscuridad. Nadie puede servir a dos señores porque odiará a uno y amará al otro, o será fiel a uno y despreciará al otro.",
+      "translation": "If your eye is healthy, your entire body will be filled with light. But if your eye is sick, your entire body will be in darkness. So, if the light within you is darkness, how vast will that darkness be? No one can serve two masters because they will hate one and love the other, or they will be loyal to one and despise the other."
+    },
+    {
+      "source": "Ustedes no pueden servir a Dios y al dinero. Por eso les digo, no se preocupen por su vida, qué comerán o qué beberán, ni por su cuerpo, qué vestirán. ¿No vale la vida más que la comida y el cuerpo más que la ropa? Miren las aves del cielo.",
+      "translation": "You cannot serve both God and money. That's why I'm telling you, don't worry about your life, what you will eat or drink, or about your body, what you will wear. Doesn't the value of life outweigh the value of food, and does the value of a person's body outweigh the value of clothing? Look at the birds in the sky."
+    },
+    {
+      "source": "No siembran, no cosechan ni guardan en graneros, y sin embargo su Padre Celestial las alimenta. ¿No valen ustedes mucho más que ellas? ¿Y quién de ustedes, por mucho que se preocupe, puede añadir una sola hora a su vida? ¿Y por qué se preocupan por la ropa?",
+      "translation": "They don't plant, they don't harvest, and they don't store their crops in barns, yet their heavenly Father provides for them. Don't they deserve more than these? And who among you, no matter how much you worry, can add even one hour to your life? And why do you worry about clothing?"
+    },
+    {
+      "source": "Miren cómo crecen los lirios del campo. No trabajan ni hilan, pero les digo que ni Salomón, con toda su gloria, se vistió como uno de ellos. Si Dios viste así la hierba del campo, que hoy está viva y mañana se echa al horno, ¿no hará mucho más por ustedes, hombres de poca fe? Por eso, no se preocupen diciendo, ¿qué comeremos, qué beberemos, con qué nos vestiremos?",
+      "translation": "Look at how the wildflowers grow. They don't work or spin, but I tell you that even Solomon, with all his glory, couldn't dress like one of them. If God provides for the wildflowers, which are alive today and will be burned tomorrow, shouldn't he provide much more for you, people of little faith? Therefore, don't worry about saying, \"What will we eat, what will we drink, what will we wear?\""
+    },
+    {
+      "source": "Porque los gentiles buscan todas estas cosas. Pero su Padre Celestial sabe que ustedes necesitan todo esto. Busquen primero el reino de Dios y su justicia, y todas estas cosas les serán añadidas. Así que no se preocupen por el día de mañana, porque el día de mañana traerá sus propias preocupaciones.",
+      "translation": "Because the Gentiles seek all these things. But their Heavenly Father knows that you need all of this. First seek the kingdom of God and its righteousness, and all these things will be added to you. So do not worry about tomorrow, for tomorrow will bring its own worries."
+    },
+    {
+      "source": "A cada día le basta su propio mal. Capítulo 7 No juzguen para que no sean juzgados, porque con el juicio con que juzguen serán juzgados, y con la medida con que midan se les medirá. ¿Por qué miras la paja que está en el ojo de tu hermano y no notas la viga que está en tu propio ojo? ¿Cómo puedes decir a tu hermano, déjame sacar la paja de tu ojo cuando tienes una viga en el tuyo?",
+      "translation": "Each person has their own problems every day. Chapter 7: \"Do not judge, so that you may not be judged. For with the judgment you use, you will be judged, and with the measure you use, it will be measured to you. Why do you look at the straw in your brother's eye, but not the beam in your own? How can you tell your brother, 'Let me take the straw out of your eye,' when you have a beam in your own?\""
+    },
+    {
+      "source": "Hipócrita, saca primero la viga de tu propio ojo, entonces verás bien para sacar la paja del ojo de tu hermano. No den lo santo a los perros, ni echen sus perlas delante de los cerdos. No sea que las pisoteen, y luego se vuelvan contra ustedes y los despedacen. Pidan y se les dará.",
+      "translation": "Hypocrite, first remove the beam from your own eye, then you will see clearly enough to remove the speck from your brother's eye. Don't give holy things to dogs, nor pearls to pigs. Otherwise, they will trample them, and then turn against you and destroy you. Ask, and you will receive."
+    },
+    {
+      "source": "Busquen y encontrarán. Llamen y se les abrirá. Porque todo el que pide recibe, el que busca encuentra y al que llama se le abrirá. ¿Quién de ustedes, si su hijo le pide pan, le dará una piedra?",
+      "translation": "Look and you will find. Call and you will be given. Because whoever asks receives, whoever searches finds, and whoever calls will be given. If your son asks you for bread, will you give him a stone?"
+    },
+    {
+      "source": "¿O si le pide un pescado, le dará una serpiente? Pues si ustedes, siendo malos, saben dar buenas cosas a sus hijos. Cuánto más su padre que está en los cielos Traten a los demás como ustedes quieren que ellos los traten, porque esto resume la ley y los profetas. Entren por la puerta estrecha, porque ancha es la puerta y amplio el camino que lleva a la destrucción, y muchos entran por ella.",
+      "translation": "Or, if you ask him for a fish, will he give you a snake? Well, if you, as bad people, know how to give good things to your children, then how much more should their father in heaven treat others the way he wants them to treat him? This summarizes the law and the prophets. Enter through the narrow gate, because the gate is wide and the way is broad, leading to destruction, and many enter through it."
+    },
+    {
+      "source": "Pero estrecha es la puerta y angosto el camino que lleva a la vida, y pocos lo encuentran. Cuídense de los falsos profetas. Ellos vienen a ustedes vestidos como ovejas, pero por dentro son lobos feroces, por sus frutos los conocerán. ¿Acaso se recogen uvas de los espinos o higos de los cardos?",
+      "translation": "However, the door is narrow and the path to life is narrow, and few find it. Be wary of false prophets. They come to you disguised as sheep, but inwardly they are fierce wolves. You will know them by their fruits. Can grapes grow on thorns, or figs on thistles?"
+    },
+    {
+      "source": "Así, todo buen árbol da buen fruto, pero el árbol malo da fruto malo, ni un árbol malo puede dar fruto bueno. Todo árbol que no da buen fruto es cortado y echado al fuego, así que por sus frutos los conocerán. No todo el que me dice, Señor, Señor, entrará en el reino de los cielos, sino el que hace la voluntad de mi Padre que está en los cielos. Muchos me dirán en aquel día, Señor, Señor, ¿no profetizamos en tu nombre, echamos fuera demonios en tu nombre, e hicimos muchos milagros en tu nombre?",
+      "translation": "Therefore, a good tree produces good fruit, but a bad tree produces bad fruit; no bad tree can produce good fruit. Any tree that does not produce good fruit is cut down and burned, so they will be known by their fruit. Not everyone who says, \"Lord, Lord\" will enter the kingdom of heaven, but only the one who does the will of my Father in heaven. Many will say to me on that day, \"Lord, Lord, did we not prophesy in your name, and did we not cast out demons in your name, and did we not perform many miracles in your name?\""
+    },
+    {
+      "source": "Entonces les diré claramente, nunca los conocí, apartense de mí, ustedes que hacen maldad. Por tanto, todo el que oye estas palabras mías y las pone en práctica, será como un hombre sabio que construyó su casa sobre la roca. Cayó la lluvia, crecieron los ríos, soplaron los vientos y golpearon contra aquella casa. Pero no cayó, porque estaba fundada sobre la roca.",
+      "translation": "Therefore, I will say clearly, I never knew them, stay away from me, you evil people. So, anyone who hears these words and puts them into practice will be like a wise man who built his house on the rock. The rain fell, the rivers flowed, the winds blew, and they struck that house. But it didn't fall, because it was built on the rock."
+    },
+    {
+      "source": "Pero todo el que oye estas palabras mías y no las pone en práctica será como un hombre necio que construyó su casa sobre la arena. Cayó la lluvia, crecieron los ríos, soplaron los vientos y golpearon contra aquella casa. Y cayó, y fue grande su caída. Cuando Jesús terminó estas palabras, la gente quedó asombrada de su enseñanza, porque les enseñaba como quien tiene autoridad y no como los escribas.",
+      "translation": "However, anyone who hears these words and does not put them into practice will be like a foolish man who built his house on the sand. The rain fell, the rivers swelled, the winds blew, and they struck against that house. And it collapsed, and its collapse was great. When Jesus finished speaking, the people were amazed by his teaching, because he taught them as one who has authority, not like the scribes."
+    }
+  ]
+}

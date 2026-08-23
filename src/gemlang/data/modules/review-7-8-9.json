@@ -1,0 +1,186 @@
+{
+  "id": "review-7-8-9",
+  "title": "🔄 Review: Chapters 7, 8, 9",
+  "description": "Mixed practice from Reflexive Verbs, Expressing Likes, The Near Future.",
+  "level": "Beginner",
+  "type": "review",
+  "reviewsModules": [
+    "module-7",
+    "module-8",
+    "module-9"
+  ],
+  "sentences": [
+    {
+      "id": "review-7-8-9-from-m8-s4",
+      "spanish": "Sí, me gusta el té.",
+      "english": "Yes, I like tea.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "me": "me / to me",
+        "gusta": "likes",
+        "el": "the",
+        "té": "tea"
+      }
+    },
+    {
+      "id": "review-7-8-9-from-m7-s5",
+      "spanish": "Sí, me ducho por la mañana.",
+      "english": "Yes, I shower in the morning.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "me": "me / to me",
+        "ducho": "I shower",
+        "por": "for / by",
+        "la": "the / it (fem)",
+        "mañana": "tomorrow / morning"
+      }
+    },
+    {
+      "id": "review-7-8-9-from-m8-s2",
+      "spanish": "Sí, me gusta trabajar en el centro.",
+      "english": "Yes, I like working downtown.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "me": "me / to me",
+        "gusta": "likes",
+        "trabajar": "to work",
+        "en": "in / on",
+        "el": "the",
+        "centro": "downtown"
+      }
+    },
+    {
+      "id": "review-7-8-9-from-m9-s5",
+      "spanish": "Va a ir al trabajo.",
+      "english": "He/She is going to go to work.",
+      "wordMeanings": {
+        "Va": "goes",
+        "a": "to",
+        "ir": "to go",
+        "al": "to the",
+        "trabajo": "I work / job"
+      }
+    },
+    {
+      "id": "review-7-8-9-from-m9-s4",
+      "spanish": "Va a comprar pan.",
+      "english": "He/She is going to buy bread.",
+      "wordMeanings": {
+        "Va": "goes",
+        "a": "to",
+        "comprar": "to buy",
+        "pan": "bread"
+      }
+    },
+    {
+      "id": "review-7-8-9-from-m8-s1",
+      "spanish": "¿Qué te gusta?",
+      "english": "What do you like?",
+      "wordMeanings": {
+        "Qué": "what",
+        "te": "you / to you",
+        "gusta": "likes"
+      }
+    },
+    {
+      "id": "review-7-8-9-from-m9-s3",
+      "spanish": "Voy a ir al café.",
+      "english": "I am going to go to the café.",
+      "wordMeanings": {
+        "Voy": "I go",
+        "a": "to",
+        "ir": "to go",
+        "al": "to the",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "review-7-8-9-from-m9-s1",
+      "spanish": "Vas a esperar aquí.",
+      "english": "You are going to wait here.",
+      "wordMeanings": {
+        "Vas": "you go",
+        "a": "to",
+        "esperar": "to wait",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "review-7-8-9-from-m9-s2",
+      "spanish": "Va a escuchar música.",
+      "english": "He/She is going to listen to music.",
+      "wordMeanings": {
+        "Va": "goes",
+        "a": "to",
+        "escuchar": "to listen",
+        "música": "music"
+      }
+    },
+    {
+      "id": "review-7-8-9-from-m7-s1",
+      "spanish": "Me acuesto tarde.",
+      "english": "I go to bed late.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "acuesto": "I go to bed",
+        "tarde": "late / afternoon"
+      }
+    },
+    {
+      "id": "review-7-8-9-from-m7-s2",
+      "spanish": "Me levanto temprano.",
+      "english": "I get up early.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "levanto": "I get up",
+        "temprano": "early"
+      }
+    },
+    {
+      "id": "review-7-8-9-from-m7-s3",
+      "spanish": "Nos quedamos en casa.",
+      "english": "We stay at home.",
+      "wordMeanings": {
+        "Nos": "us / to us",
+        "quedamos": "we stay",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "spanish": "A mí me da igual.",
+      "english": "I don't mind / I don't care.",
+      "wordMeanings": {
+        "A": "to",
+        "mí": "me",
+        "me": "to me",
+        "da": "gives",
+        "igual": "equal/same"
+      },
+      "id": "review-7-8-9-from-m8-s5"
+    },
+    {
+      "id": "review-7-8-9-from-m8-s3",
+      "spanish": "Me gusta estar en casa.",
+      "english": "I like being at home.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "gusta": "likes",
+        "estar": "to be",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "review-7-8-9-from-m7-s4",
+      "spanish": "Se sienta aquí.",
+      "english": "He/She sits here.",
+      "wordMeanings": {
+        "Se": "himself / herself / themselves",
+        "sienta": "sits / feels",
+        "aquí": "here"
+      }
+    }
+  ],
+  "grammarExplanation": "Time to review! This module mixes sentences from the last 3 chapters you studied:\n\n• Chapter 7: Reflexive Verbs\n• Chapter 8: Expressing Likes\n• Chapter 9: The Near Future\n\nThe sentences are shuffled so you can't rely on context — you'll need to recall the vocabulary and grammar from each chapter on your own. Take your time and listen carefully!"
+}

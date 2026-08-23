@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "trackId": "samaniego-cigarra-hormiga",
+  "sourceHash": "6a2486a21e6382975fc37b980b73c5112b1e674a2725b368147c9b8ca3be9c46",
+  "provider": "ollama/translategemma:4b",
+  "sourceLanguage": "es",
+  "targetLanguage": "en",
+  "translatedAt": "2026-08-15T08:09:40.778085+00:00",
+  "characters": 1114,
+  "blocks": [
+    {
+      "source": "La cigarra y la hormiga Félix María Samanego, cantando la cigarra, pasó el verano entero, sin hacer provisiones allá para el invierno. Los fríos la obligaron, a guardar el silencio y a acogerse al abrigo, de su estrecho aposento. Vio se desproveida, del preciso sustento, sin mosca, sin gusano, sin trigo, sin centeno. Habitaba la hormiga allí tabique en medio, y con mil expresiones, de atención y respeto, la dijo doña hormiga, pues que en vuestros graneros sobran las provisiones.",
+      "translation": "The grasshopper and the ant, Félix María Samanego, singing of the grasshopper, spent the entire summer without making preparations for the winter. The cold forced her to remain silent and seek shelter in her small room. She saw that she was completely without food, without flies, without worms, without wheat, without oats. The ant lived in the adjacent room, and with a thousand expressions of attention and respect, the ant said, \"In your granaries, there is plenty of food.\""
+    },
+    {
+      "source": "Para vuestro alimento, prestad alguna cosa con que viva este invierno. Esta triste cigarra, que alegre en otro tiempo, nunca conoció el daño, nunca supo temerlo. No dudéis en prestarme, que fielmente prometo pagaros con ganancias, por el nombre que tengo. La codiciosa hormiga, respondió con denuedo, ocultando a la espalda las llaves del granero.",
+      "translation": "For your sustenance, please lend me something to survive the winter. This sad grasshopper, who was once cheerful, never knew hardship, never knew fear. Please, don't hesitate to lend me something, as I promise to repay you handsomely, in accordance with my reputation. The greedy ant responded vehemently, hiding the keys to the granary behind her back."
+    },
+    {
+      "source": "Yo prestar lo que gano, con un trabajo inmenso. Dime pues, holgazana, qué has hecho en el buen tiempo. Yo, dijo la cigarra, a todo pasajero cantaba alegremente, sin cesar ni un momento. Hola, con que cantabas, cuando yo andaba al remo, pues ahora que yo como, baila, pese a tu cuerpo.",
+      "translation": "I lend out everything I earn, with a huge workload. So, tell me, lazy one, what have you done during the good weather? I, said the grasshopper, would cheerfully sing to every passenger, without stopping for even a moment. Hello, with your singing, while I was rowing, now that I'm eating, dance, despite your body."
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "id": "module-17",
+  "title": "Chapter 17: Negative Commands",
+  "description": "Learn to say 'Don't do' something.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "m17-s1",
+      "spanish": "No hables.",
+      "english": "Don't speak.",
+      "wordMeanings": {
+        "No": "no / not",
+        "hables": "speak (subj)"
+      }
+    },
+    {
+      "id": "m17-s2",
+      "spanish": "No coma.",
+      "english": "Don't eat. (formal)",
+      "wordMeanings": {
+        "No": "no / not",
+        "coma": "eat (subj)"
+      }
+    },
+    {
+      "id": "m17-s3",
+      "spanish": "No vivas aquí.",
+      "english": "Don't live here.",
+      "wordMeanings": {
+        "No": "no / not",
+        "vivas": "live (subj)",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m17-s4",
+      "spanish": "No espere aquí.",
+      "english": "Don't wait here. (formal)",
+      "wordMeanings": {
+        "No": "no / not",
+        "espere": "wait (subj)",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m17-s5",
+      "spanish": "No abras la puerta.",
+      "english": "Don't open the door.",
+      "wordMeanings": {
+        "No": "no / not",
+        "abras": "open (subj/inf)",
+        "la": "the / it (fem)",
+        "puerta": "door"
+      }
+    },
+    {
+      "id": "m17-s6",
+      "spanish": "No abra la puerta.",
+      "english": "Don't open the door. (formal)",
+      "wordMeanings": {
+        "No": "no / not",
+        "abra": "open (subj/form)",
+        "la": "the / it (fem)",
+        "puerta": "door"
+      }
+    },
+    {
+      "id": "m17-s7",
+      "spanish": "No abran la puerta.",
+      "english": "Don't open the door. (plural)",
+      "wordMeanings": {
+        "No": "no / not",
+        "abran": "open (subj/form pl)",
+        "la": "the / it (fem)",
+        "puerta": "door"
+      }
+    },
+    {
+      "id": "m17-s8",
+      "spanish": "No mires eso.",
+      "english": "Don't look at that.",
+      "wordMeanings": {
+        "No": "no / not",
+        "mires": "look (subj)",
+        "eso": "that"
+      }
+    },
+    {
+      "id": "m17-s9",
+      "spanish": "No mire eso.",
+      "english": "Don't look at that. (formal)",
+      "wordMeanings": {
+        "No": "no / not",
+        "mire": "look (subj)",
+        "eso": "that"
+      }
+    },
+    {
+      "id": "m17-s10",
+      "spanish": "No escuchen.",
+      "english": "Don't listen. (plural)",
+      "wordMeanings": {
+        "No": "no / not",
+        "escuchen": "listen (subj pl)"
+      }
+    },
+    {
+      "id": "m17-s11",
+      "spanish": "No digas eso.",
+      "english": "Don't say that.",
+      "wordMeanings": {
+        "No": "no / not",
+        "digas": "say (subj)",
+        "eso": "that"
+      }
+    },
+    {
+      "id": "m17-s12",
+      "spanish": "No diga eso.",
+      "english": "Don't say that. (formal)",
+      "wordMeanings": {
+        "No": "no / not",
+        "diga": "say (subj)",
+        "eso": "that"
+      }
+    },
+    {
+      "id": "m17-s13",
+      "spanish": "No me digas eso.",
+      "english": "Don't tell me that.",
+      "wordMeanings": {
+        "No": "no / not",
+        "me": "me / to me",
+        "digas": "say (subj)",
+        "eso": "that"
+      }
+    },
+    {
+      "id": "m17-s14",
+      "spanish": "No me lo digas.",
+      "english": "Don't tell it to me.",
+      "wordMeanings": {
+        "No": "no / not",
+        "me": "me / to me",
+        "lo": "it / him",
+        "digas": "say (subj)"
+      }
+    },
+    {
+      "id": "m17-s15",
+      "spanish": "No se lo des.",
+      "english": "Don't give it to him/her.",
+      "wordMeanings": {
+        "No": "no / not",
+        "se": "himself / herself / themselves",
+        "lo": "it / him",
+        "des": "give (subj)"
+      }
+    },
+    {
+      "id": "m17-s16",
+      "spanish": "No se la des.",
+      "english": "Don't give it to him/her.",
+      "wordMeanings": {
+        "No": "no / not",
+        "se": "himself / herself / themselves",
+        "la": "the / it (fem)",
+        "des": "give (subj)"
+      }
+    },
+    {
+      "id": "m17-s17",
+      "spanish": "No me lo des.",
+      "english": "Don't give it to me.",
+      "wordMeanings": {
+        "No": "no / not",
+        "me": "me / to me",
+        "lo": "it / him",
+        "des": "give (subj)"
+      }
+    },
+    {
+      "id": "m17-s18",
+      "spanish": "No te sientes aquí.",
+      "english": "Don't sit here.",
+      "wordMeanings": {
+        "No": "no / not",
+        "te": "you / to you",
+        "sientes": "you feel",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m17-s19",
+      "spanish": "No se siente aquí.",
+      "english": "Don't sit here. (formal)",
+      "wordMeanings": {
+        "No": "no / not",
+        "se": "himself / herself / themselves",
+        "siente": "feels",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m17-s20",
+      "spanish": "No te quedes en casa.",
+      "english": "Don't stay at home.",
+      "wordMeanings": {
+        "No": "no / not",
+        "te": "you / to you",
+        "quedes": "stay (subj)",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m17-s21",
+      "spanish": "No vayas ahora.",
+      "english": "Don't go now.",
+      "wordMeanings": {
+        "No": "no / not",
+        "vayas": "go (subj)",
+        "ahora": "now"
+      }
+    },
+    {
+      "id": "m17-s22",
+      "spanish": "No venga ahora.",
+      "english": "Don't come now. (formal)",
+      "wordMeanings": {
+        "No": "no / not",
+        "venga": "come (subj)",
+        "ahora": "now"
+      }
+    },
+    {
+      "id": "m17-s23",
+      "spanish": "No vayan ahora.",
+      "english": "Don't go now. (plural)",
+      "wordMeanings": {
+        "No": "no / not",
+        "vayan": "go (subj pl)",
+        "ahora": "now"
+      }
+    },
+    {
+      "id": "m17-s24",
+      "spanish": "No lo compres.",
+      "english": "Don't buy it.",
+      "wordMeanings": {
+        "No": "no / not",
+        "lo": "it / him",
+        "compres": "buy (subj)"
+      }
+    },
+    {
+      "id": "m17-s25",
+      "spanish": "No habléis todos a la vez.",
+      "english": "Don't all speak at once. (you plural, Spain)",
+      "wordMeanings": {
+        "No": "no / not",
+        "habléis": "speak (subj pl)",
+        "todos": "all",
+        "a": "to / at",
+        "la": "the / it (fem)",
+        "vez": "time"
+      }
+    },
+    {
+      "id": "m17-s26",
+      "spanish": "¡No me digas!",
+      "english": "You don't say! / No way!",
+      "wordMeanings": {
+        "No": "no / not",
+        "me": "me / to me",
+        "digas": "say (subj)"
+      }
+    },
+    {
+      "id": "m17-s27",
+      "spanish": "No te preocupes.",
+      "english": "Don't worry.",
+      "wordMeanings": {
+        "No": "no / not",
+        "te": "you / to you",
+        "preocupes": "worry (subj)"
+      }
+    },
+    {
+      "id": "m17-s28",
+      "spanish": "No hables tan rápido.",
+      "english": "Don't speak so fast.",
+      "wordMeanings": {
+        "No": "no / not",
+        "hables": "speak (subj)",
+        "tan": "so / as",
+        "rápido": "fast / quickly"
+      }
+    },
+    {
+      "id": "m17-s29",
+      "spanish": "No coma tan rápido.",
+      "english": "Don't eat so fast. (formal)",
+      "wordMeanings": {
+        "No": "no / not",
+        "coma": "eat (subj)",
+        "tan": "so / as",
+        "rápido": "fast / quickly"
+      }
+    },
+    {
+      "id": "m17-s30",
+      "spanish": "No llegues tarde.",
+      "english": "Don't arrive late.",
+      "wordMeanings": {
+        "No": "no / not",
+        "llegues": "arrive (subj)",
+        "tarde": "late / afternoon"
+      }
+    }
+  ],
+  "grammarExplanation": "Negative commands tell someone NOT TO DO something. ALL negative commands use the subjunctive form:\n\n• Tú: No + subjunctive → No hables (Don't speak)\n• Usted: No + subjunctive → No hable\n• Ustedes: No + subjunctive plural → No hablen\n\nWith pronouns, place them BEFORE the verb (not attached):\n• No lo compres (Don't buy it)\n• No me lo digas (Don't tell it to me)\n• No se lo des (Don't give it to him/her)",
+  "vocabulary": {
+    "aquí": {
+      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
+      "explanation": "Means 'here'. More precise than 'acá'."
+    },
+    "la": {
+      "mnemonic": "'La lady' — her/it (feminine).",
+      "explanation": "Also 'the' (feminine)."
+    },
+    "puerta": {
+      "mnemonic": "Think 'port/portal' — a door.",
+      "explanation": "Feminine noun meaning door/gate."
+    },
+    "lo": {
+      "mnemonic": "'Low him' — direct object him/it.",
+      "explanation": "Masculine direct object pronoun."
+    },
+    "se": {
+      "mnemonic": "Think 'self' — reflexive pronoun.",
+      "explanation": "Replaces le/les before lo/la/los/las."
+    },
+    "casa": {
+      "mnemonic": "Think 'casino' — a big house of games.",
+      "explanation": "Feminine noun. 'En casa' = at home."
+    },
+    "los": {
+      "mnemonic": "'Los' = them (masculine plural).",
+      "explanation": "Direct object pronoun."
+    },
+    "las": {
+      "mnemonic": "'Las ladies' — them (feminine).",
+      "explanation": "Direct object pronoun."
+    },
+    "tarde": {
+      "mnemonic": "Think 'tardy' — late!",
+      "explanation": "Means 'late' or 'afternoon'."
+    }
+  }
+}

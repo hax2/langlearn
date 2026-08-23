@@ -1,0 +1,138 @@
+{
+  "id": "module-32",
+  "title": "Theme: Health and Medicine",
+  "description": "Vocabulary for doctor visits, symptoms, and pharmacy.",
+  "level": "Intermediate",
+  "sentences": [
+    {
+      "id": "m32-s1",
+      "spanish": "Tengo una cita con el doctor a las tres de la tarde.",
+      "english": "I have an appointment with the doctor at three in the afternoon.",
+      "wordMeanings": {
+        "cita": "appointment",
+        "doctor": "doctor",
+        "tarde": "afternoon"
+      }
+    },
+    {
+      "id": "m32-s2",
+      "spanish": "Me duele la cabeza y tengo fiebre alta.",
+      "english": "My head hurts and I have a high fever.",
+      "wordMeanings": {
+        "duele": "hurts",
+        "cabeza": "head",
+        "fiebre": "fever"
+      }
+    },
+    {
+      "id": "m32-s3",
+      "spanish": "Necesito comprar jarabe para la tos en la farmacia.",
+      "english": "I need to buy cough syrup at the pharmacy.",
+      "wordMeanings": {
+        "jarabe": "syrup",
+        "tos": "cough",
+        "farmacia": "pharmacy"
+      }
+    },
+    {
+      "id": "m32-s4",
+      "spanish": "El médico me recetó antibióticos para la infección.",
+      "english": "The doctor prescribed antibiotics for the infection.",
+      "wordMeanings": {
+        "médico": "physician/doctor",
+        "recetó": "prescribed",
+        "infección": "infection"
+      }
+    },
+    {
+      "id": "m32-s5",
+      "spanish": "Es importante descansar y beber mucha agua.",
+      "english": "It is important to rest and drink plenty of water.",
+      "wordMeanings": {
+        "importante": "important",
+        "descansar": "to rest",
+        "beber": "to drink"
+      }
+    },
+    {
+      "id": "m32-s6",
+      "spanish": "Me torcí el tobillo jugando al fútbol ayer.",
+      "english": "I twisted my ankle playing football yesterday.",
+      "wordMeanings": {
+        "torcí": "twisted",
+        "tobillo": "ankle",
+        "ayer": "yesterday"
+      }
+    },
+    {
+      "id": "m32-s7",
+      "spanish": "¿Es usted alérgico a algún medicamento?",
+      "english": "Are you allergic to any medication?",
+      "wordMeanings": {
+        "usted": "you (formal)",
+        "algún": "any",
+        "medicamento": "medication"
+      }
+    },
+    {
+      "id": "m32-s8",
+      "spanish": "La enfermera le tomará la presión arterial ahora.",
+      "english": "The nurse will take your blood pressure now.",
+      "wordMeanings": {
+        "enfermera": "nurse",
+        "presión arterial": "blood pressure",
+        "ahora": "now"
+      }
+    },
+    {
+      "id": "m32-s9",
+      "spanish": "Siento náuseas y mareos desde esta mañana.",
+      "english": "I feel nausea and dizziness since this morning.",
+      "wordMeanings": {
+        "siento": "feel",
+        "náuseas": "nausea",
+        "mareos": "dizziness"
+      }
+    },
+    {
+      "id": "m32-s10",
+      "spanish": "Cuídese mucho y mejórese pronto.",
+      "english": "Take good care of yourself and get better soon.",
+      "wordMeanings": {
+        "cuídese": "take care (formal)",
+        "mejórese": "get better (formal)",
+        "pronto": "soon"
+      }
+    }
+  ],
+  "vocabulary": {
+    "tarde": {
+      "mnemonic": "Think 'tardy' — late!",
+      "explanation": "Means 'late' or 'afternoon'."
+    },
+    "cabeza": {
+      "mnemonic": "'Head of the table' — head.",
+      "explanation": "Means 'head'."
+    },
+    "fiebre": {
+      "mnemonic": "Think 'fever' — fiebre!",
+      "explanation": "Cognate."
+    },
+    "farmacia": {
+      "mnemonic": "Think 'pharmacy' — cognate!",
+      "explanation": "Means 'pharmacy'."
+    },
+    "médico": {
+      "mnemonic": "Think 'medic' — doctor!",
+      "explanation": "Cognate."
+    },
+    "importante": {
+      "mnemonic": "Nearly identical to 'important' — cognate!",
+      "explanation": "Same for masc/fem."
+    },
+    "ayer": {
+      "mnemonic": "'A year ago? No, just yesterday!'",
+      "explanation": "Means 'yesterday'."
+    }
+  }
+}

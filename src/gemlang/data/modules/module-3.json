@@ -1,0 +1,708 @@
+{
+  "id": "module-3",
+  "title": "Chapter 3: Descriptions",
+  "description": "Describe objects and people using 'ser' and adjectives.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "m3-s1",
+      "spanish": "El libro es nuevo.",
+      "english": "The book is new.",
+      "wordMeanings": {
+        "El": "the",
+        "libro": "book",
+        "es": "is",
+        "nuevo": "new (masc)"
+      }
+    },
+    {
+      "id": "m3-s2",
+      "spanish": "La casa es nueva.",
+      "english": "The house is new.",
+      "wordMeanings": {
+        "La": "the / it (fem)",
+        "casa": "house",
+        "es": "is",
+        "nueva": "new (fem)"
+      }
+    },
+    {
+      "id": "m3-s3",
+      "spanish": "Los libros son nuevos.",
+      "english": "The books are new.",
+      "wordMeanings": {
+        "Los": "the / them",
+        "libros": "books",
+        "son": "are",
+        "nuevos": "new (masc pl)"
+      }
+    },
+    {
+      "id": "m3-s4",
+      "spanish": "Las casas son nuevas.",
+      "english": "The houses are new.",
+      "wordMeanings": {
+        "Las": "the / them (fem)",
+        "casas": "houses",
+        "son": "are",
+        "nuevas": "new (fem pl)"
+      }
+    },
+    {
+      "id": "m3-s5",
+      "spanish": "Un libro es pequeño.",
+      "english": "A book is small.",
+      "wordMeanings": {
+        "Un": "a",
+        "libro": "book",
+        "es": "is",
+        "pequeño": "small (masc)"
+      }
+    },
+    {
+      "id": "m3-s6",
+      "spanish": "Una casa es grande.",
+      "english": "A house is big.",
+      "wordMeanings": {
+        "Una": "a (fem)",
+        "casa": "house",
+        "es": "is",
+        "grande": "big"
+      }
+    },
+    {
+      "id": "m3-s7",
+      "spanish": "El café es pequeño.",
+      "english": "The café is small.",
+      "wordMeanings": {
+        "El": "the",
+        "café": "coffee",
+        "es": "is",
+        "pequeño": "small (masc)"
+      }
+    },
+    {
+      "id": "m3-s8",
+      "spanish": "La escuela es grande.",
+      "english": "The school is big.",
+      "wordMeanings": {
+        "La": "the / it (fem)",
+        "escuela": "school",
+        "es": "is",
+        "grande": "big"
+      }
+    },
+    {
+      "id": "m3-s9",
+      "spanish": "El coche es nuevo.",
+      "english": "The car is new.",
+      "wordMeanings": {
+        "El": "the",
+        "coche": "car",
+        "es": "is",
+        "nuevo": "new (masc)"
+      }
+    },
+    {
+      "id": "m3-s10",
+      "spanish": "El coche es viejo.",
+      "english": "The car is old.",
+      "wordMeanings": {
+        "El": "the",
+        "coche": "car",
+        "es": "is",
+        "viejo": "old"
+      }
+    },
+    {
+      "id": "m3-s11",
+      "spanish": "La mesa es pequeña.",
+      "english": "The table is small.",
+      "wordMeanings": {
+        "La": "the / it (fem)",
+        "mesa": "table",
+        "es": "is",
+        "pequeña": "small (fem)"
+      }
+    },
+    {
+      "id": "m3-s12",
+      "spanish": "La mesa es grande.",
+      "english": "The table is big.",
+      "wordMeanings": {
+        "La": "the / it (fem)",
+        "mesa": "table",
+        "es": "is",
+        "grande": "big"
+      }
+    },
+    {
+      "id": "m3-s13",
+      "spanish": "Un problema es grande.",
+      "english": "A problem is big.",
+      "wordMeanings": {
+        "Un": "a",
+        "problema": "problem",
+        "es": "is",
+        "grande": "big"
+      }
+    },
+    {
+      "id": "m3-s14",
+      "spanish": "Una idea es buena.",
+      "english": "An idea is good.",
+      "wordMeanings": {
+        "Una": "a (fem)",
+        "idea": "idea",
+        "es": "is",
+        "buena": "good (fem)"
+      }
+    },
+    {
+      "id": "m3-s15",
+      "spanish": "El libro está aquí.",
+      "english": "The book is here.",
+      "wordMeanings": {
+        "El": "the",
+        "libro": "book",
+        "está": "is",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m3-s16",
+      "spanish": "La mesa está allí.",
+      "english": "The table is there.",
+      "wordMeanings": {
+        "La": "the / it (fem)",
+        "mesa": "table",
+        "está": "is",
+        "allí": "there"
+      }
+    },
+    {
+      "id": "m3-s17",
+      "spanish": "Los libros están aquí.",
+      "english": "The books are here.",
+      "wordMeanings": {
+        "Los": "the / them",
+        "libros": "books",
+        "están": "are",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m3-s18",
+      "spanish": "Las mesas están allí.",
+      "english": "The tables are there.",
+      "wordMeanings": {
+        "Las": "the / them (fem)",
+        "mesas": "tables",
+        "están": "are",
+        "allí": "there"
+      }
+    },
+    {
+      "id": "m3-s19",
+      "spanish": "Estoy en el café.",
+      "english": "I am in the café.",
+      "wordMeanings": {
+        "Estoy": "I am",
+        "en": "in / on",
+        "el": "the",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m3-s20",
+      "spanish": "Estoy en la escuela.",
+      "english": "I am at the school.",
+      "wordMeanings": {
+        "Estoy": "I am",
+        "en": "in / on",
+        "la": "the / it (fem)",
+        "escuela": "school"
+      }
+    },
+    {
+      "id": "m3-s21",
+      "spanish": "Estamos en el centro.",
+      "english": "We are downtown.",
+      "wordMeanings": {
+        "Estamos": "we are",
+        "en": "in / on",
+        "el": "the",
+        "centro": "downtown"
+      }
+    },
+    {
+      "id": "m3-s22",
+      "spanish": "¿Dónde está el libro?",
+      "english": "Where is the book?",
+      "wordMeanings": {
+        "Dónde": "where",
+        "está": "is",
+        "el": "the",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "m3-s23",
+      "spanish": "El libro está en casa.",
+      "english": "The book is at home.",
+      "wordMeanings": {
+        "El": "the",
+        "libro": "book",
+        "está": "is",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m3-s24",
+      "spanish": "¿Dónde está la casa?",
+      "english": "Where is the house?",
+      "wordMeanings": {
+        "Dónde": "where",
+        "está": "is",
+        "la": "the / it (fem)",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m3-s25",
+      "spanish": "La casa está cerca.",
+      "english": "The house is near.",
+      "wordMeanings": {
+        "La": "the / it (fem)",
+        "casa": "house",
+        "está": "is",
+        "cerca": "near"
+      }
+    },
+    {
+      "id": "m3-s26",
+      "spanish": "Ana es estudiante.",
+      "english": "Ana is a student.",
+      "wordMeanings": {
+        "Ana": "Ana",
+        "es": "is",
+        "estudiante": "student"
+      }
+    },
+    {
+      "id": "m3-s27",
+      "spanish": "Luis es estudiante.",
+      "english": "Luis is a student.",
+      "wordMeanings": {
+        "Luis": "Luis",
+        "es": "is",
+        "estudiante": "student"
+      }
+    },
+    {
+      "id": "m3-s28",
+      "spanish": "Ana y Luis son amigos.",
+      "english": "Ana and Luis are friends.",
+      "wordMeanings": {
+        "Ana": "Ana",
+        "y": "and",
+        "Luis": "Luis",
+        "son": "are",
+        "amigos": "friends"
+      }
+    },
+    {
+      "id": "m3-s29",
+      "spanish": "Un café está en el centro.",
+      "english": "A café is downtown.",
+      "wordMeanings": {
+        "Un": "a",
+        "café": "coffee",
+        "está": "is",
+        "en": "in / on",
+        "el": "the",
+        "centro": "downtown"
+      }
+    },
+    {
+      "id": "m3-s30",
+      "spanish": "Una escuela está lejos.",
+      "english": "A school is far away.",
+      "wordMeanings": {
+        "Una": "a (fem)",
+        "escuela": "school",
+        "está": "is",
+        "lejos": "far"
+      }
+    },
+    {
+      "id": "m3-s31",
+      "spanish": "El problema es difícil.",
+      "english": "The problem is difficult.",
+      "wordMeanings": {
+        "El": "the",
+        "problema": "problem",
+        "es": "is",
+        "difícil": "difficult"
+      }
+    },
+    {
+      "id": "m3-s32",
+      "spanish": "La idea es importante.",
+      "english": "The idea is important.",
+      "wordMeanings": {
+        "La": "the / it (fem)",
+        "idea": "idea",
+        "es": "is",
+        "importante": "important"
+      }
+    },
+    {
+      "id": "m3-s33",
+      "spanish": "Los problemas son difíciles.",
+      "english": "The problems are difficult.",
+      "wordMeanings": {
+        "Los": "the / them",
+        "problemas": "problems",
+        "son": "are",
+        "difíciles": "difficult (pl)"
+      }
+    },
+    {
+      "id": "m3-s34",
+      "spanish": "Las ideas son importantes.",
+      "english": "The ideas are important.",
+      "wordMeanings": {
+        "Las": "the / them (fem)",
+        "ideas": "ideas",
+        "son": "are",
+        "importantes": "important (pl)"
+      }
+    },
+    {
+      "id": "m3-s35",
+      "spanish": "El café está frío.",
+      "english": "The coffee is cold.",
+      "wordMeanings": {
+        "El": "the",
+        "café": "coffee",
+        "está": "is",
+        "frío": "cold"
+      }
+    },
+    {
+      "id": "m3-s36",
+      "spanish": "La sopa está caliente.",
+      "english": "The soup is hot.",
+      "wordMeanings": {
+        "La": "the / it (fem)",
+        "sopa": "soup",
+        "está": "is",
+        "caliente": "hot"
+      }
+    },
+    {
+      "id": "m3-s37",
+      "spanish": "Los cafés están fríos.",
+      "english": "The coffees are cold.",
+      "wordMeanings": {
+        "Los": "the / them",
+        "cafés": "coffees",
+        "están": "are",
+        "fríos": "cold (pl)"
+      }
+    },
+    {
+      "id": "m3-s38",
+      "spanish": "Las sopas están calientes.",
+      "english": "The soups are hot.",
+      "wordMeanings": {
+        "Las": "the / them (fem)",
+        "sopas": "soups",
+        "están": "are",
+        "calientes": "hot (pl)"
+      }
+    },
+    {
+      "id": "m3-s39",
+      "spanish": "¿Es grande o es pequeño?",
+      "english": "Is it big or is it small?",
+      "wordMeanings": {
+        "Es": "is",
+        "grande": "big",
+        "o": "or",
+        "pequeño": "small"
+      }
+    },
+    {
+      "id": "m3-s40",
+      "spanish": "Es un lugar muy bonito.",
+      "english": "It is a very pretty place.",
+      "wordMeanings": {
+        "Es": "is",
+        "un": "a",
+        "lugar": "place",
+        "muy": "very",
+        "bonito": "pretty"
+      }
+    },
+    {
+      "id": "m3-s41",
+      "spanish": "¿Es un buen coche?",
+      "english": "Is it a good car?",
+      "wordMeanings": {
+        "Es": "is",
+        "un": "a",
+        "buen": "good",
+        "coche": "car"
+      }
+    },
+    {
+      "id": "m3-s42",
+      "spanish": "Sí, ¡está genial!",
+      "english": "Yes, it's great!",
+      "wordMeanings": {
+        "Sí": "yes",
+        "está": "is",
+        "genial": "great"
+      }
+    },
+    {
+      "id": "m3-s43",
+      "spanish": "¡Qué casa tan chula!",
+      "english": "What a cool house!",
+      "wordMeanings": {
+        "Qué": "what",
+        "casa": "house",
+        "tan": "so",
+        "chula": "cool"
+      }
+    },
+    {
+      "id": "m3-s44",
+      "spanish": "Es verdad, es preciosa.",
+      "english": "It's true, it's beautiful.",
+      "wordMeanings": {
+        "Es": "is",
+        "verdad": "true",
+        "preciosa": "beautiful"
+      }
+    },
+    {
+      "id": "m3-s45",
+      "spanish": "¿Son nuevos estos libros?",
+      "english": "Are these books new?",
+      "wordMeanings": {
+        "Son": "are",
+        "nuevos": "new",
+        "estos": "these",
+        "libros": "books"
+      }
+    },
+    {
+      "id": "m3-s46",
+      "spanish": "No, son muy viejos.",
+      "english": "No, they are very old.",
+      "wordMeanings": {
+        "No": "no",
+        "son": "are",
+        "muy": "very",
+        "viejos": "old"
+      }
+    },
+    {
+      "id": "m3-s47",
+      "spanish": "El libro es grande.",
+      "english": "The book is big.",
+      "wordMeanings": {
+        "El": "the",
+        "libro": "book",
+        "es": "is",
+        "grande": "big"
+      }
+    },
+    {
+      "id": "m3-s48",
+      "spanish": "La casa es pequeña.",
+      "english": "The house is small.",
+      "wordMeanings": {
+        "La": "the / it (fem)",
+        "casa": "house",
+        "es": "is",
+        "pequeña": "small (fem)"
+      }
+    },
+    {
+      "id": "m3-s49",
+      "spanish": "Los libros son pequeños.",
+      "english": "The books are small.",
+      "wordMeanings": {
+        "Los": "the / them",
+        "libros": "books",
+        "son": "are",
+        "pequeños": "small (masc pl)"
+      }
+    },
+    {
+      "id": "m3-s50",
+      "spanish": "Las casas son grandes.",
+      "english": "The houses are big.",
+      "wordMeanings": {
+        "Las": "the / them (fem)",
+        "casas": "houses",
+        "son": "are",
+        "grandes": "big (pl)"
+      }
+    },
+    {
+      "id": "m3-s51",
+      "spanish": "Estoy en un café.",
+      "english": "I am in a café.",
+      "wordMeanings": {
+        "Estoy": "I am",
+        "en": "in / on",
+        "un": "a",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m3-s52",
+      "spanish": "Estoy en una casa.",
+      "english": "I am in a house.",
+      "wordMeanings": {
+        "Estoy": "I am",
+        "en": "in / on",
+        "una": "a (fem)",
+        "casa": "house"
+      }
+    }
+  ],
+  "grammarExplanation": "Spanish has TWO verbs for 'to be': 'ser' and 'estar'.\n\n• SER describes characteristics (identity, traits, origin, material): 'El libro es nuevo' (The book is new), 'Soy de México' (I am from Mexico).\n• ESTAR describes states and locations: 'El café está frío' (The coffee is cold), 'Estoy cansado' (I am tired).\n\nDon't worry too much about memorizing the rules strictly—you'll naturally figure this out over time and internalize the difference as you pay attention to how they are used.\n\nAdjectives must match the noun in gender and number:\n• Masculine singular: nuevo, pequeño\n• Feminine singular: nueva, pequeña\n• Masculine plural: nuevos, pequeños\n• Feminine plural: nuevas, pequeñas",
+  "vocabulary": {
+    "libro": {
+      "mnemonic": "Think 'library' — full of libros (books)!",
+      "explanation": "Means 'book'. Masculine noun."
+    },
+    "es": {
+      "mnemonic": "Sounds like letter 'S' — 'He/She is S-uper.'",
+      "explanation": "Third person singular of 'ser'."
+    },
+    "nuevo": {
+      "mnemonic": "Think 'new-vo' — brand new!",
+      "explanation": "Means 'new'. Fem: nueva."
+    },
+    "la": {
+      "mnemonic": "'La lady' — her/it (feminine).",
+      "explanation": "Also 'the' (feminine)."
+    },
+    "casa": {
+      "mnemonic": "Think 'casino' — a big house of games.",
+      "explanation": "Feminine noun. 'En casa' = at home."
+    },
+    "los": {
+      "mnemonic": "'Los' = them (masculine plural).",
+      "explanation": "Direct object pronoun."
+    },
+    "son": {
+      "mnemonic": "Like English 'son' — 'They are my sons.'",
+      "explanation": "Third person plural of 'ser'."
+    },
+    "las": {
+      "mnemonic": "'Las ladies' — them (feminine).",
+      "explanation": "Direct object pronoun."
+    },
+    "pequeño": {
+      "mnemonic": "'Peek-en-yo' — peek at the tiny thing.",
+      "explanation": "Means 'small'. Fem: pequeña."
+    },
+    "grande": {
+      "mnemonic": "Think 'grand' — something grand is big!",
+      "explanation": "Means 'big/large'. Same for masc/fem."
+    },
+    "café": {
+      "mnemonic": "Same as English 'café' — coffee!",
+      "explanation": "Means 'coffee' or 'café'."
+    },
+    "escuela": {
+      "mnemonic": "Sounds like 'school-a' — it IS school!",
+      "explanation": "Feminine noun meaning school."
+    },
+    "coche": {
+      "mnemonic": "Think 'coach' — a horse-drawn coach = car.",
+      "explanation": "Means 'car'. Mainly used in Spain."
+    },
+    "viejo": {
+      "mnemonic": "'Vee-ay-ho' — an old sage saying 'hey ho'.",
+      "explanation": "Means 'old'. Fem: vieja."
+    },
+    "mesa": {
+      "mnemonic": "A 'mesa' (flat-topped hill) — flat like a table.",
+      "explanation": "Means 'table'. Feminine noun."
+    },
+    "problema": {
+      "mnemonic": "Nearly identical to 'problem' — cognate!",
+      "explanation": "Masculine despite -a ending!"
+    },
+    "está": {
+      "mnemonic": "Think 'establish' where something is.",
+      "explanation": "Third person of 'estar' (to be, location/state)."
+    },
+    "aquí": {
+      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
+      "explanation": "Means 'here'. More precise than 'acá'."
+    },
+    "allí": {
+      "mnemonic": "Sounds like 'a lee' — over there.",
+      "explanation": "Means 'there'. Points to a specific spot."
+    },
+    "están": {
+      "mnemonic": "'They establish their locations.'",
+      "explanation": "Third person plural of 'estar'."
+    },
+    "estoy": {
+      "mnemonic": "'I estoy here!' — I am (located/feeling).",
+      "explanation": "First person of 'estar'. For location and feelings."
+    },
+    "estamos": {
+      "mnemonic": "'We establish ourselves' — we are.",
+      "explanation": "First person plural of 'estar'."
+    },
+    "centro": {
+      "mnemonic": "Same as English 'center' — downtown!",
+      "explanation": "Also means 'center'. 'Centro' = downtown area."
+    },
+    "dónde": {
+      "mnemonic": "Think 'done-day' — where?",
+      "explanation": "Question word for location."
+    },
+    "cerca": {
+      "mnemonic": "Think 'circa' — approximately near.",
+      "explanation": "'Cerca de' = near/close to."
+    },
+    "estudiante": {
+      "mnemonic": "Nearly identical to 'student' — easy cognate!",
+      "explanation": "Works for both male and female students."
+    },
+    "y": {
+      "mnemonic": "The letter 'Y' connects — like 'and' connects words.",
+      "explanation": "Pronounced like 'ee'. The simplest conjunction."
+    },
+    "lejos": {
+      "mnemonic": "Think 'legs' — you need legs to walk far away.",
+      "explanation": "'Lejos de' = far from."
+    },
+    "difícil": {
+      "mnemonic": "Think 'difficult' — nearly the same word!",
+      "explanation": "Means 'difficult'. Same for masc/fem."
+    },
+    "importante": {
+      "mnemonic": "Nearly identical to 'important' — cognate!",
+      "explanation": "Same for masc/fem."
+    },
+    "frío": {
+      "mnemonic": "'Free-oh, it's freezing!'",
+      "explanation": "'Tener frío' = to be cold."
+    }
+  }
+}

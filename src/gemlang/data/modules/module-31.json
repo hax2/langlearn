@@ -1,0 +1,154 @@
+{
+  "id": "module-31",
+  "title": "Theme: Food and Dining",
+  "description": "Vocabulary for restaurants, cooking, and food.",
+  "level": "Intermediate",
+  "sentences": [
+    {
+      "id": "m31-s1",
+      "spanish": "Quisiera reservar una mesa para dos personas para esta noche.",
+      "english": "I would like to reserve a table for two people for tonight.",
+      "wordMeanings": {
+        "quisiera": "I would like",
+        "reservar": "to reserve",
+        "mesa": "table",
+        "noche": "night"
+      }
+    },
+    {
+      "id": "m31-s2",
+      "spanish": "¿Podría ver la carta de vinos, por favor?",
+      "english": "Could I see the wine list, please?",
+      "wordMeanings": {
+        "podría": "could I",
+        "ver": "see",
+        "vinos": "wines",
+        "carta": "list / menu"
+      }
+    },
+    {
+      "id": "m31-s3",
+      "spanish": "El plato del día es pescado fresco con verduras al vapor.",
+      "english": "The dish of the day is fresh fish with steamed vegetables.",
+      "wordMeanings": {
+        "plato": "dish",
+        "pescado": "fish",
+        "fresco": "fresh",
+        "verduras": "vegetables"
+      }
+    },
+    {
+      "id": "m31-s4",
+      "spanish": "Soy alérgico a las nueces, ¿este postre lleva frutos secos?",
+      "english": "I am allergic to nuts, does this dessert contain nuts?",
+      "wordMeanings": {
+        "alérgico": "allergic",
+        "nueces": "walnuts/nuts",
+        "postre": "dessert",
+        "lleva": "contains/carries"
+      }
+    },
+    {
+      "id": "m31-s5",
+      "spanish": "Para empezar, vamos a compartir una ensalada mixta.",
+      "english": "To start, we are going to share a mixed salad.",
+      "wordMeanings": {
+        "empezar": "to start",
+        "compartir": "to share",
+        "ensalada": "salad",
+        "mixta": "mixed"
+      }
+    },
+    {
+      "id": "m31-s6",
+      "spanish": "La sopa está un poco salada para mi gusto.",
+      "english": "The soup is a little salty for my taste.",
+      "wordMeanings": {
+        "sopa": "soup",
+        "salada": "salty",
+        "gusto": "taste"
+      }
+    },
+    {
+      "id": "m31-s7",
+      "spanish": "¿Nos puede traer la cuenta cuando pueda?",
+      "english": "Can you bring us the bill when you can?",
+      "wordMeanings": {
+        "traer": "to bring",
+        "cuenta": "bill/check",
+        "pueda": "can (subjunctive)"
+      }
+    },
+    {
+      "id": "m31-s8",
+      "spanish": "Me encanta cocinar comida italiana los fines de semana.",
+      "english": "I love cooking Italian food on the weekends.",
+      "wordMeanings": {
+        "encanta": "love/enchant",
+        "cocinar": "to cook",
+        "fines de semana": "weekends"
+      }
+    },
+    {
+      "id": "m31-s9",
+      "spanish": "Necesitamos comprar más aceite de oliva y ajo.",
+      "english": "We need to buy more olive oil and garlic.",
+      "wordMeanings": {
+        "comprar": "to buy",
+        "aceite": "oil",
+        "ajo": "garlic"
+      }
+    },
+    {
+      "id": "m31-s10",
+      "spanish": "¡Que aproveche!",
+      "english": "Enjoy your meal!",
+      "wordMeanings": {
+        "Que": "may it...",
+        "aproveche": "be useful/benefit (subjunctive)"
+      }
+    }
+  ],
+  "vocabulary": {
+    "mesa": {
+      "mnemonic": "A 'mesa' (flat-topped hill) — flat like a table.",
+      "explanation": "Means 'table'. Feminine noun."
+    },
+    "noche": {
+      "mnemonic": "Think 'nocturnal' — night.",
+      "explanation": "Feminine noun."
+    },
+    "podría": {
+      "mnemonic": "'Pod of possibility' — I could.",
+      "explanation": "Conditional of 'poder'."
+    },
+    "plato": {
+      "mnemonic": "'Plate-o' — a plate/dish.",
+      "explanation": "Means 'plate/dish/course'."
+    },
+    "postre": {
+      "mnemonic": "'Post-re' = after meal = dessert.",
+      "explanation": "From Latin 'post' (after)."
+    },
+    "lleva": {
+      "mnemonic": "'Lever-a' — he/she has been...",
+      "explanation": "Third person of 'llevar'."
+    },
+    "cuenta": {
+      "mnemonic": "Think 'count' — bill/account.",
+      "explanation": "From 'contar' (to count)."
+    },
+    "encanta": {
+      "mnemonic": "Think 'enchant' — it enchants me!",
+      "explanation": "'Me encanta' = I love it."
+    },
+    "cocinar": {
+      "mnemonic": "Think 'cuisine' — to cook!",
+      "explanation": "Infinitive: 'to cook'."
+    },
+    "comprar": {
+      "mnemonic": "'Compare & purchase' — to buy.",
+      "explanation": "Infinitive. -AR verb."
+    }
+  }
+}

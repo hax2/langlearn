@@ -1,0 +1,9670 @@
+{
+  "source": "bes_salmos_escogidos.m4a",
+  "title": "",
+  "language": "es",
+  "language_probability": 1.0,
+  "model": "medium",
+  "timingMethod": "faster-whisper-word-timestamps",
+  "words": [
+    {
+      "word": "Salmos",
+      "start": 1.98,
+      "end": 2.42
+    },
+    {
+      "word": "escogidos.",
+      "start": 2.42,
+      "end": 2.86
+    },
+    {
+      "word": "Capítulo",
+      "start": 3.16,
+      "end": 3.54
+    },
+    {
+      "word": "1.",
+      "start": 3.54,
+      "end": 4.16
+    },
+    {
+      "word": "Feliz",
+      "start": 4.76,
+      "end": 5.2
+    },
+    {
+      "word": "es",
+      "start": 5.2,
+      "end": 5.42
+    },
+    {
+      "word": "el",
+      "start": 5.42,
+      "end": 5.52
+    },
+    {
+      "word": "hombre",
+      "start": 5.52,
+      "end": 5.72
+    },
+    {
+      "word": "que",
+      "start": 5.72,
+      "end": 5.92
+    },
+    {
+      "word": "no",
+      "start": 5.92,
+      "end": 6.1
+    },
+    {
+      "word": "sigue",
+      "start": 6.1,
+      "end": 6.32
+    },
+    {
+      "word": "el",
+      "start": 6.32,
+      "end": 6.56
+    },
+    {
+      "word": "consejo",
+      "start": 6.56,
+      "end": 7.0
+    },
+    {
+      "word": "de",
+      "start": 7.0,
+      "end": 7.12
+    },
+    {
+      "word": "los",
+      "start": 7.12,
+      "end": 7.3
+    },
+    {
+      "word": "pecadores,",
+      "start": 7.3,
+      "end": 7.94
+    },
+    {
+      "word": "ni",
+      "start": 8.38,
+      "end": 8.5
+    },
+    {
+      "word": "va",
+      "start": 8.5,
+      "end": 8.64
+    },
+    {
+      "word": "en",
+      "start": 8.64,
+      "end": 8.84
+    },
+    {
+      "word": "el",
+      "start": 8.84,
+      "end": 9.0
+    },
+    {
+      "word": "camino",
+      "start": 9.0,
+      "end": 9.28
+    },
+    {
+      "word": "de",
+      "start": 9.28,
+      "end": 9.46
+    },
+    {
+      "word": "los",
+      "start": 9.46,
+      "end": 9.64
+    },
+    {
+      "word": "malvados,",
+      "start": 9.64,
+      "end": 10.14
+    },
+    {
+      "word": "o",
+      "start": 10.52,
+      "end": 10.6
+    },
+    {
+      "word": "se",
+      "start": 10.6,
+      "end": 10.82
+    },
+    {
+      "word": "sienta",
+      "start": 10.82,
+      "end": 11.12
+    },
+    {
+      "word": "con",
+      "start": 11.12,
+      "end": 11.32
+    },
+    {
+      "word": "los",
+      "start": 11.32,
+      "end": 11.54
+    },
+    {
+      "word": "que",
+      "start": 11.54,
+      "end": 11.68
+    },
+    {
+      "word": "no",
+      "start": 11.68,
+      "end": 11.86
+    },
+    {
+      "word": "le",
+      "start": 11.86,
+      "end": 12.02
+    },
+    {
+      "word": "dan",
+      "start": 12.02,
+      "end": 12.1
+    },
+    {
+      "word": "honor",
+      "start": 12.1,
+      "end": 12.38
+    },
+    {
+      "word": "al",
+      "start": 12.38,
+      "end": 12.58
+    },
+    {
+      "word": "Señor.",
+      "start": 12.58,
+      "end": 12.94
+    },
+    {
+      "word": "Pero",
+      "start": 13.54,
+      "end": 13.78
+    },
+    {
+      "word": "se",
+      "start": 13.78,
+      "end": 14.02
+    },
+    {
+      "word": "deleita",
+      "start": 14.02,
+      "end": 14.4
+    },
+    {
+      "word": "en",
+      "start": 14.4,
+      "end": 14.6
+    },
+    {
+      "word": "la",
+      "start": 14.6,
+      "end": 14.74
+    },
+    {
+      "word": "ley",
+      "start": 14.74,
+      "end": 14.86
+    },
+    {
+      "word": "del",
+      "start": 14.86,
+      "end": 15.14
+    },
+    {
+      "word": "Señor,",
+      "start": 15.14,
+      "end": 15.5
+    },
+    {
+      "word": "y",
+      "start": 15.98,
+      "end": 16.1
+    },
+    {
+      "word": "cuya",
+      "start": 16.1,
+      "end": 16.34
+    },
+    {
+      "word": "mente",
+      "start": 16.34,
+      "end": 16.66
+    },
+    {
+      "word": "está",
+      "start": 16.66,
+      "end": 16.94
+    },
+    {
+      "word": "en",
+      "start": 16.94,
+      "end": 17.08
+    },
+    {
+      "word": "su",
+      "start": 17.08,
+      "end": 17.26
+    },
+    {
+      "word": "ley",
+      "start": 17.26,
+      "end": 17.48
+    },
+    {
+      "word": "de",
+      "start": 17.48,
+      "end": 17.68
+    },
+    {
+      "word": "día",
+      "start": 17.68,
+      "end": 17.86
+    },
+    {
+      "word": "y",
+      "start": 17.86,
+      "end": 18.02
+    },
+    {
+      "word": "de",
+      "start": 18.02,
+      "end": 18.14
+    },
+    {
+      "word": "noche.",
+      "start": 18.14,
+      "end": 18.44
+    },
+    {
+      "word": "Será",
+      "start": 19.04,
+      "end": 19.2
+    },
+    {
+      "word": "como",
+      "start": 19.2,
+      "end": 19.46
+    },
+    {
+      "word": "un",
+      "start": 19.46,
+      "end": 19.62
+    },
+    {
+      "word": "árbol",
+      "start": 19.62,
+      "end": 19.96
+    },
+    {
+      "word": "plantado",
+      "start": 19.96,
+      "end": 20.5
+    },
+    {
+      "word": "junto",
+      "start": 20.5,
+      "end": 20.84
+    },
+    {
+      "word": "a",
+      "start": 20.84,
+      "end": 21.04
+    },
+    {
+      "word": "arroyos",
+      "start": 21.04,
+      "end": 21.32
+    },
+    {
+      "word": "de",
+      "start": 21.32,
+      "end": 21.58
+    },
+    {
+      "word": "agua,",
+      "start": 21.58,
+      "end": 21.86
+    },
+    {
+      "word": "que",
+      "start": 22.08,
+      "end": 22.2
+    },
+    {
+      "word": "da",
+      "start": 22.2,
+      "end": 22.32
+    },
+    {
+      "word": "su",
+      "start": 22.32,
+      "end": 22.54
+    },
+    {
+      "word": "fruto",
+      "start": 22.54,
+      "end": 22.76
+    },
+    {
+      "word": "a",
+      "start": 22.76,
+      "end": 22.88
+    },
+    {
+      "word": "su",
+      "start": 22.88,
+      "end": 23.0
+    },
+    {
+      "word": "tiempo,",
+      "start": 23.0,
+      "end": 23.44
+    },
+    {
+      "word": "cuyas",
+      "start": 23.8,
+      "end": 24.0
+    },
+    {
+      "word": "hojas",
+      "start": 24.0,
+      "end": 24.32
+    },
+    {
+      "word": "siempre",
+      "start": 24.32,
+      "end": 24.66
+    },
+    {
+      "word": "serán",
+      "start": 24.66,
+      "end": 25.0
+    },
+    {
+      "word": "verdes,",
+      "start": 25.0,
+      "end": 25.7
+    },
+    {
+      "word": "y",
+      "start": 25.84,
+      "end": 26.04
+    },
+    {
+      "word": "todo",
+      "start": 26.04,
+      "end": 26.26
+    },
+    {
+      "word": "lo",
+      "start": 26.26,
+      "end": 26.44
+    },
+    {
+      "word": "que",
+      "start": 26.44,
+      "end": 26.6
+    },
+    {
+      "word": "hace",
+      "start": 26.6,
+      "end": 26.76
+    },
+    {
+      "word": "prosperará.",
+      "start": 26.76,
+      "end": 27.44
+    },
+    {
+      "word": "Los",
+      "start": 28.08,
+      "end": 28.34
+    },
+    {
+      "word": "malvados",
+      "start": 28.34,
+      "end": 28.82
+    },
+    {
+      "word": "no",
+      "start": 28.82,
+      "end": 29.04
+    },
+    {
+      "word": "son",
+      "start": 29.04,
+      "end": 29.24
+    },
+    {
+      "word": "así,",
+      "start": 29.24,
+      "end": 29.58
+    },
+    {
+      "word": "pero",
+      "start": 29.58,
+      "end": 30.02
+    },
+    {
+      "word": "son",
+      "start": 30.02,
+      "end": 30.3
+    },
+    {
+      "word": "como",
+      "start": 30.3,
+      "end": 30.54
+    },
+    {
+      "word": "el",
+      "start": 30.54,
+      "end": 30.72
+    },
+    {
+      "word": "polvo",
+      "start": 30.72,
+      "end": 30.98
+    },
+    {
+      "word": "del",
+      "start": 30.98,
+      "end": 31.2
+    },
+    {
+      "word": "grano",
+      "start": 31.2,
+      "end": 31.6
+    },
+    {
+      "word": "que",
+      "start": 31.6,
+      "end": 31.92
+    },
+    {
+      "word": "el",
+      "start": 31.92,
+      "end": 32.08
+    },
+    {
+      "word": "viento",
+      "start": 32.08,
+      "end": 32.32
+    },
+    {
+      "word": "se",
+      "start": 32.32,
+      "end": 32.54
+    },
+    {
+      "word": "lleva.",
+      "start": 32.54,
+      "end": 32.88
+    },
+    {
+      "word": "Por",
+      "start": 34.06,
+      "end": 34.22
+    },
+    {
+      "word": "esta",
+      "start": 34.22,
+      "end": 34.46
+    },
+    {
+      "word": "causa",
+      "start": 34.46,
+      "end": 34.84
+    },
+    {
+      "word": "no",
+      "start": 34.84,
+      "end": 35.02
+    },
+    {
+      "word": "habrá",
+      "start": 35.02,
+      "end": 35.34
+    },
+    {
+      "word": "misericordia",
+      "start": 35.34,
+      "end": 36.04
+    },
+    {
+      "word": "para",
+      "start": 36.04,
+      "end": 36.24
+    },
+    {
+      "word": "los",
+      "start": 36.24,
+      "end": 36.44
+    },
+    {
+      "word": "pecadores",
+      "start": 36.44,
+      "end": 36.92
+    },
+    {
+      "word": "cuando",
+      "start": 36.92,
+      "end": 37.22
+    },
+    {
+      "word": "sean",
+      "start": 37.22,
+      "end": 37.5
+    },
+    {
+      "word": "juzgados,",
+      "start": 37.5,
+      "end": 38.18
+    },
+    {
+      "word": "y",
+      "start": 38.6,
+      "end": 38.7
+    },
+    {
+      "word": "los",
+      "start": 38.7,
+      "end": 38.92
+    },
+    {
+      "word": "malhechores",
+      "start": 38.92,
+      "end": 39.56
+    },
+    {
+      "word": "no",
+      "start": 39.56,
+      "end": 39.96
+    },
+    {
+      "word": "tendrán",
+      "start": 39.96,
+      "end": 40.34
+    },
+    {
+      "word": "lugar",
+      "start": 40.34,
+      "end": 40.64
+    },
+    {
+      "word": "entre",
+      "start": 40.64,
+      "end": 40.9
+    },
+    {
+      "word": "los",
+      "start": 40.9,
+      "end": 41.16
+    },
+    {
+      "word": "rectos,",
+      "start": 41.16,
+      "end": 41.74
+    },
+    {
+      "word": "porque",
+      "start": 42.0,
+      "end": 42.22
+    },
+    {
+      "word": "el",
+      "start": 42.22,
+      "end": 42.44
+    },
+    {
+      "word": "Señor",
+      "start": 42.44,
+      "end": 42.74
+    },
+    {
+      "word": "ve",
+      "start": 42.74,
+      "end": 43.04
+    },
+    {
+      "word": "el",
+      "start": 43.04,
+      "end": 43.3
+    },
+    {
+      "word": "camino",
+      "start": 43.3,
+      "end": 43.62
+    },
+    {
+      "word": "de",
+      "start": 43.62,
+      "end": 43.8
+    },
+    {
+      "word": "los",
+      "start": 43.8,
+      "end": 43.98
+    },
+    {
+      "word": "rectos,",
+      "start": 43.98,
+      "end": 44.44
+    },
+    {
+      "word": "pero",
+      "start": 44.66,
+      "end": 44.82
+    },
+    {
+      "word": "el",
+      "start": 44.82,
+      "end": 45.0
+    },
+    {
+      "word": "camino",
+      "start": 45.0,
+      "end": 45.3
+    },
+    {
+      "word": "del",
+      "start": 45.3,
+      "end": 45.52
+    },
+    {
+      "word": "pecador",
+      "start": 45.52,
+      "end": 45.96
+    },
+    {
+      "word": "es",
+      "start": 45.96,
+      "end": 46.3
+    },
+    {
+      "word": "la",
+      "start": 46.3,
+      "end": 46.62
+    },
+    {
+      "word": "destrucción.",
+      "start": 46.62,
+      "end": 47.28
+    },
+    {
+      "word": "Capítulo",
+      "start": 48.04,
+      "end": 48.6
+    },
+    {
+      "word": "23.",
+      "start": 48.6,
+      "end": 49.16
+    },
+    {
+      "word": "El",
+      "start": 50.08,
+      "end": 50.1
+    },
+    {
+      "word": "Señor",
+      "start": 50.1,
+      "end": 50.4
+    },
+    {
+      "word": "es",
+      "start": 50.4,
+      "end": 50.64
+    },
+    {
+      "word": "mi",
+      "start": 50.64,
+      "end": 50.8
+    },
+    {
+      "word": "pastor.",
+      "start": 50.8,
+      "end": 51.28
+    },
+    {
+      "word": "Nada",
+      "start": 51.96,
+      "end": 52.18
+    },
+    {
+      "word": "me",
+      "start": 52.18,
+      "end": 52.4
+    },
+    {
+      "word": "faltará.",
+      "start": 52.4,
+      "end": 52.92
+    },
+    {
+      "word": "Él",
+      "start": 53.42,
+      "end": 53.6
+    },
+    {
+      "word": "me",
+      "start": 53.6,
+      "end": 53.88
+    },
+    {
+      "word": "hace",
+      "start": 53.88,
+      "end": 53.98
+    },
+    {
+      "word": "un",
+      "start": 53.98,
+      "end": 54.2
+    },
+    {
+      "word": "lugar",
+      "start": 54.2,
+      "end": 54.42
+    },
+    {
+      "word": "de",
+      "start": 54.42,
+      "end": 54.66
+    },
+    {
+      "word": "descanso",
+      "start": 54.66,
+      "end": 55.02
+    },
+    {
+      "word": "en",
+      "start": 55.02,
+      "end": 55.16
+    },
+    {
+      "word": "los",
+      "start": 55.16,
+      "end": 55.34
+    },
+    {
+      "word": "campos",
+      "start": 55.34,
+      "end": 55.7
+    },
+    {
+      "word": "verdes.",
+      "start": 55.7,
+      "end": 56.38
+    },
+    {
+      "word": "Él",
+      "start": 56.6,
+      "end": 56.76
+    },
+    {
+      "word": "es",
+      "start": 56.76,
+      "end": 56.98
+    },
+    {
+      "word": "mi",
+      "start": 56.98,
+      "end": 57.12
+    },
+    {
+      "word": "guía",
+      "start": 57.12,
+      "end": 57.4
+    },
+    {
+      "word": "junto",
+      "start": 57.4,
+      "end": 57.7
+    },
+    {
+      "word": "a",
+      "start": 57.7,
+      "end": 57.84
+    },
+    {
+      "word": "las",
+      "start": 57.84,
+      "end": 58.0
+    },
+    {
+      "word": "aguas",
+      "start": 58.0,
+      "end": 58.28
+    },
+    {
+      "word": "tranquilas.",
+      "start": 58.28,
+      "end": 58.9
+    },
+    {
+      "word": "Él",
+      "start": 58.9,
+      "end": 59.5
+    },
+    {
+      "word": "me",
+      "start": 59.5,
+      "end": 59.68
+    },
+    {
+      "word": "da",
+      "start": 59.68,
+      "end": 59.8
+    },
+    {
+      "word": "nuevas",
+      "start": 59.8,
+      "end": 60.12
+    },
+    {
+      "word": "fuerzas.",
+      "start": 60.12,
+      "end": 60.82
+    },
+    {
+      "word": "Él",
+      "start": 61.08,
+      "end": 61.26
+    },
+    {
+      "word": "es",
+      "start": 61.26,
+      "end": 61.46
+    },
+    {
+      "word": "mi",
+      "start": 61.46,
+      "end": 61.6
+    },
+    {
+      "word": "guía",
+      "start": 61.6,
+      "end": 61.8
+    },
+    {
+      "word": "en",
+      "start": 61.8,
+      "end": 61.96
+    },
+    {
+      "word": "los",
+      "start": 61.96,
+      "end": 62.16
+    },
+    {
+      "word": "caminos",
+      "start": 62.16,
+      "end": 62.48
+    },
+    {
+      "word": "de",
+      "start": 62.48,
+      "end": 62.62
+    },
+    {
+      "word": "la",
+      "start": 62.62,
+      "end": 62.76
+    },
+    {
+      "word": "justicia,",
+      "start": 62.76,
+      "end": 63.36
+    },
+    {
+      "word": "haciendo",
+      "start": 63.7,
+      "end": 63.92
+    },
+    {
+      "word": "honor",
+      "start": 63.92,
+      "end": 64.18
+    },
+    {
+      "word": "de",
+      "start": 64.18,
+      "end": 64.36
+    },
+    {
+      "word": "su",
+      "start": 64.36,
+      "end": 64.48
+    },
+    {
+      "word": "nombre.",
+      "start": 64.48,
+      "end": 64.86
+    },
+    {
+      "word": "Sí,",
+      "start": 65.5,
+      "end": 65.82
+    },
+    {
+      "word": "aunque",
+      "start": 66.18,
+      "end": 66.4
+    },
+    {
+      "word": "atraviese",
+      "start": 66.4,
+      "end": 66.86
+    },
+    {
+      "word": "el",
+      "start": 66.86,
+      "end": 67.08
+    },
+    {
+      "word": "valle",
+      "start": 67.08,
+      "end": 67.22
+    },
+    {
+      "word": "de",
+      "start": 67.22,
+      "end": 67.42
+    },
+    {
+      "word": "la",
+      "start": 67.42,
+      "end": 67.56
+    },
+    {
+      "word": "sombra",
+      "start": 67.56,
+      "end": 67.8
+    },
+    {
+      "word": "de",
+      "start": 67.8,
+      "end": 67.96
+    },
+    {
+      "word": "muerte.",
+      "start": 67.96,
+      "end": 68.32
+    },
+    {
+      "word": "No",
+      "start": 69.02,
+      "end": 69.16
+    },
+    {
+      "word": "temeré",
+      "start": 69.16,
+      "end": 69.5
+    },
+    {
+      "word": "el",
+      "start": 69.5,
+      "end": 69.66
+    },
+    {
+      "word": "mal,",
+      "start": 69.66,
+      "end": 70.0
+    },
+    {
+      "word": "porque",
+      "start": 70.36,
+      "end": 70.58
+    },
+    {
+      "word": "tú",
+      "start": 70.58,
+      "end": 70.8
+    },
+    {
+      "word": "estás",
+      "start": 70.8,
+      "end": 70.96
+    },
+    {
+      "word": "conmigo.",
+      "start": 70.96,
+      "end": 71.64
+    },
+    {
+      "word": "Tu",
+      "start": 71.9,
+      "end": 72.06
+    },
+    {
+      "word": "vara",
+      "start": 72.06,
+      "end": 72.32
+    },
+    {
+      "word": "y",
+      "start": 72.32,
+      "end": 72.5
+    },
+    {
+      "word": "tu",
+      "start": 72.5,
+      "end": 72.68
+    },
+    {
+      "word": "callado",
+      "start": 72.68,
+      "end": 73.1
+    },
+    {
+      "word": "me",
+      "start": 73.1,
+      "end": 73.52
+    },
+    {
+      "word": "infundirán",
+      "start": 73.52,
+      "end": 74.06
+    },
+    {
+      "word": "confianza.",
+      "start": 74.06,
+      "end": 74.88
+    },
+    {
+      "word": "Tú",
+      "start": 75.44,
+      "end": 75.64
+    },
+    {
+      "word": "preparas",
+      "start": 75.64,
+      "end": 76.0
+    },
+    {
+      "word": "un",
+      "start": 76.0,
+      "end": 76.18
+    },
+    {
+      "word": "banquete",
+      "start": 76.18,
+      "end": 76.52
+    },
+    {
+      "word": "para",
+      "start": 76.52,
+      "end": 76.7
+    },
+    {
+      "word": "mí",
+      "start": 76.7,
+      "end": 76.92
+    },
+    {
+      "word": "frente",
+      "start": 76.92,
+      "end": 77.2
+    },
+    {
+      "word": "a",
+      "start": 77.2,
+      "end": 77.36
+    },
+    {
+      "word": "mis",
+      "start": 77.36,
+      "end": 77.48
+    },
+    {
+      "word": "enemigos.",
+      "start": 77.48,
+      "end": 77.9
+    },
+    {
+      "word": "Unges",
+      "start": 78.64,
+      "end": 79.02
+    },
+    {
+      "word": "con",
+      "start": 79.02,
+      "end": 79.24
+    },
+    {
+      "word": "aceite",
+      "start": 79.24,
+      "end": 79.5
+    },
+    {
+      "word": "mi",
+      "start": 79.5,
+      "end": 79.7
+    },
+    {
+      "word": "cabeza.",
+      "start": 79.7,
+      "end": 80.04
+    },
+    {
+      "word": "Mi",
+      "start": 80.64,
+      "end": 80.84
+    },
+    {
+      "word": "taza",
+      "start": 80.84,
+      "end": 81.06
+    },
+    {
+      "word": "se",
+      "start": 81.06,
+      "end": 81.3
+    },
+    {
+      "word": "está",
+      "start": 81.3,
+      "end": 81.44
+    },
+    {
+      "word": "desbordando.",
+      "start": 81.44,
+      "end": 82.26
+    },
+    {
+      "word": "Verdaderamente,",
+      "start": 83.46,
+      "end": 83.94
+    },
+    {
+      "word": "la",
+      "start": 84.4,
+      "end": 84.5
+    },
+    {
+      "word": "bendición",
+      "start": 84.5,
+      "end": 85.0
+    },
+    {
+      "word": "y",
+      "start": 85.0,
+      "end": 85.12
+    },
+    {
+      "word": "la",
+      "start": 85.12,
+      "end": 85.34
+    },
+    {
+      "word": "misericordia",
+      "start": 85.34,
+      "end": 86.0
+    },
+    {
+      "word": "estarán",
+      "start": 86.0,
+      "end": 86.36
+    },
+    {
+      "word": "conmigo",
+      "start": 86.36,
+      "end": 86.9
+    },
+    {
+      "word": "todos",
+      "start": 86.9,
+      "end": 87.28
+    },
+    {
+      "word": "los",
+      "start": 87.28,
+      "end": 87.48
+    },
+    {
+      "word": "días",
+      "start": 87.48,
+      "end": 87.7
+    },
+    {
+      "word": "de",
+      "start": 87.7,
+      "end": 87.9
+    },
+    {
+      "word": "mi",
+      "start": 87.9,
+      "end": 88.02
+    },
+    {
+      "word": "vida,",
+      "start": 88.02,
+      "end": 88.32
+    },
+    {
+      "word": "y",
+      "start": 88.32,
+      "end": 88.9
+    },
+    {
+      "word": "moraré",
+      "start": 88.9,
+      "end": 89.3
+    },
+    {
+      "word": "en",
+      "start": 89.3,
+      "end": 89.4
+    },
+    {
+      "word": "la",
+      "start": 89.4,
+      "end": 89.6
+    },
+    {
+      "word": "casa",
+      "start": 89.6,
+      "end": 89.8
+    },
+    {
+      "word": "del",
+      "start": 89.8,
+      "end": 90.04
+    },
+    {
+      "word": "Señor",
+      "start": 90.04,
+      "end": 90.44
+    },
+    {
+      "word": "todos",
+      "start": 90.44,
+      "end": 90.92
+    },
+    {
+      "word": "mis",
+      "start": 90.92,
+      "end": 91.16
+    },
+    {
+      "word": "días.",
+      "start": 91.16,
+      "end": 91.66
+    },
+    {
+      "word": "Capítulo",
+      "start": 92.28,
+      "end": 92.6
+    },
+    {
+      "word": "27.",
+      "start": 92.6,
+      "end": 93.3
+    },
+    {
+      "word": "El",
+      "start": 94.22,
+      "end": 94.32
+    },
+    {
+      "word": "Señor",
+      "start": 94.32,
+      "end": 94.6
+    },
+    {
+      "word": "es",
+      "start": 94.6,
+      "end": 94.86
+    },
+    {
+      "word": "mi",
+      "start": 94.86,
+      "end": 95.02
+    },
+    {
+      "word": "luz",
+      "start": 95.02,
+      "end": 95.24
+    },
+    {
+      "word": "y",
+      "start": 95.24,
+      "end": 95.38
+    },
+    {
+      "word": "mi",
+      "start": 95.38,
+      "end": 95.54
+    },
+    {
+      "word": "salvación.",
+      "start": 95.54,
+      "end": 96.1
+    },
+    {
+      "word": "¿De",
+      "start": 96.46,
+      "end": 96.72
+    },
+    {
+      "word": "quién",
+      "start": 96.72,
+      "end": 96.94
+    },
+    {
+      "word": "temeré?",
+      "start": 96.94,
+      "end": 97.36
+    },
+    {
+      "word": "El",
+      "start": 97.7,
+      "end": 97.98
+    },
+    {
+      "word": "Señor",
+      "start": 97.98,
+      "end": 98.18
+    },
+    {
+      "word": "es",
+      "start": 98.18,
+      "end": 98.36
+    },
+    {
+      "word": "la",
+      "start": 98.36,
+      "end": 98.52
+    },
+    {
+      "word": "fuerza",
+      "start": 98.52,
+      "end": 98.76
+    },
+    {
+      "word": "de",
+      "start": 98.76,
+      "end": 98.96
+    },
+    {
+      "word": "mi",
+      "start": 98.96,
+      "end": 99.08
+    },
+    {
+      "word": "vida.",
+      "start": 99.08,
+      "end": 99.34
+    },
+    {
+      "word": "¿A",
+      "start": 99.72,
+      "end": 99.92
+    },
+    {
+      "word": "quién",
+      "start": 99.92,
+      "end": 100.1
+    },
+    {
+      "word": "habré",
+      "start": 100.1,
+      "end": 100.38
+    },
+    {
+      "word": "de",
+      "start": 100.38,
+      "end": 100.5
+    },
+    {
+      "word": "temer?",
+      "start": 100.5,
+      "end": 100.86
+    },
+    {
+      "word": "Cuando",
+      "start": 101.9,
+      "end": 102.28
+    },
+    {
+      "word": "los",
+      "start": 102.28,
+      "end": 102.5
+    },
+    {
+      "word": "malvados,",
+      "start": 102.5,
+      "end": 103.06
+    },
+    {
+      "word": "incluso",
+      "start": 103.42,
+      "end": 103.8
+    },
+    {
+      "word": "mis",
+      "start": 103.8,
+      "end": 104.04
+    },
+    {
+      "word": "enemigos,",
+      "start": 104.04,
+      "end": 104.68
+    },
+    {
+      "word": "vinieron",
+      "start": 105.02,
+      "end": 105.24
+    },
+    {
+      "word": "a",
+      "start": 105.24,
+      "end": 105.42
+    },
+    {
+      "word": "mí",
+      "start": 105.42,
+      "end": 105.52
+    },
+    {
+      "word": "para",
+      "start": 105.52,
+      "end": 105.74
+    },
+    {
+      "word": "poner",
+      "start": 105.74,
+      "end": 106.06
+    },
+    {
+      "word": "fin",
+      "start": 106.06,
+      "end": 106.24
+    },
+    {
+      "word": "a",
+      "start": 106.24,
+      "end": 106.4
+    },
+    {
+      "word": "mí,",
+      "start": 106.4,
+      "end": 106.7
+    },
+    {
+      "word": "fueron",
+      "start": 106.92,
+      "end": 107.18
+    },
+    {
+      "word": "quebrantados",
+      "start": 107.18,
+      "end": 107.92
+    },
+    {
+      "word": "y",
+      "start": 107.92,
+      "end": 108.06
+    },
+    {
+      "word": "avergonzados.",
+      "start": 108.06,
+      "end": 108.34
+    },
+    {
+      "word": "Incluso",
+      "start": 109.38,
+      "end": 109.86
+    },
+    {
+      "word": "si",
+      "start": 109.86,
+      "end": 110.0
+    },
+    {
+      "word": "un",
+      "start": 110.0,
+      "end": 110.16
+    },
+    {
+      "word": "ejército",
+      "start": 110.16,
+      "end": 110.58
+    },
+    {
+      "word": "viniera",
+      "start": 110.58,
+      "end": 110.98
+    },
+    {
+      "word": "y",
+      "start": 110.98,
+      "end": 111.16
+    },
+    {
+      "word": "acampe",
+      "start": 111.16,
+      "end": 111.46
+    },
+    {
+      "word": "contra",
+      "start": 111.46,
+      "end": 111.74
+    },
+    {
+      "word": "mí,",
+      "start": 111.74,
+      "end": 112.06
+    },
+    {
+      "word": "mi",
+      "start": 112.4,
+      "end": 112.58
+    },
+    {
+      "word": "corazón",
+      "start": 112.58,
+      "end": 112.92
+    },
+    {
+      "word": "no",
+      "start": 112.92,
+      "end": 113.14
+    },
+    {
+      "word": "tendría",
+      "start": 113.14,
+      "end": 113.48
+    },
+    {
+      "word": "miedo.",
+      "start": 113.48,
+      "end": 113.84
+    },
+    {
+      "word": "Aunque",
+      "start": 114.4,
+      "end": 114.62
+    },
+    {
+      "word": "la",
+      "start": 114.62,
+      "end": 114.84
+    },
+    {
+      "word": "guerra",
+      "start": 114.84,
+      "end": 115.04
+    },
+    {
+      "word": "fuera",
+      "start": 115.04,
+      "end": 115.3
+    },
+    {
+      "word": "contra",
+      "start": 115.3,
+      "end": 115.6
+    },
+    {
+      "word": "mí,",
+      "start": 115.6,
+      "end": 115.86
+    },
+    {
+      "word": "yo",
+      "start": 116.24,
+      "end": 116.56
+    },
+    {
+      "word": "permaneceré",
+      "start": 116.56,
+      "end": 117.16
+    },
+    {
+      "word": "tranquilo.",
+      "start": 117.16,
+      "end": 117.72
+    },
+    {
+      "word": "Una",
+      "start": 118.68,
+      "end": 119.12
+    },
+    {
+      "word": "oración",
+      "start": 119.12,
+      "end": 119.56
+    },
+    {
+      "word": "he",
+      "start": 119.56,
+      "end": 119.94
+    },
+    {
+      "word": "hecho",
+      "start": 119.94,
+      "end": 120.16
+    },
+    {
+      "word": "al",
+      "start": 120.16,
+      "end": 120.36
+    },
+    {
+      "word": "Señor,",
+      "start": 120.36,
+      "end": 120.66
+    },
+    {
+      "word": "y",
+      "start": 121.1,
+      "end": 121.28
+    },
+    {
+      "word": "este",
+      "start": 121.28,
+      "end": 121.48
+    },
+    {
+      "word": "es",
+      "start": 121.48,
+      "end": 121.72
+    },
+    {
+      "word": "el",
+      "start": 121.72,
+      "end": 121.84
+    },
+    {
+      "word": "deseo",
+      "start": 121.84,
+      "end": 122.22
+    },
+    {
+      "word": "de",
+      "start": 122.22,
+      "end": 122.34
+    },
+    {
+      "word": "mi",
+      "start": 122.34,
+      "end": 122.44
+    },
+    {
+      "word": "corazón,",
+      "start": 122.44,
+      "end": 122.92
+    },
+    {
+      "word": "para",
+      "start": 123.56,
+      "end": 123.74
+    },
+    {
+      "word": "que",
+      "start": 123.74,
+      "end": 123.96
+    },
+    {
+      "word": "tenga",
+      "start": 123.96,
+      "end": 124.16
+    },
+    {
+      "word": "un",
+      "start": 124.16,
+      "end": 124.36
+    },
+    {
+      "word": "lugar",
+      "start": 124.36,
+      "end": 124.58
+    },
+    {
+      "word": "en",
+      "start": 124.58,
+      "end": 124.76
+    },
+    {
+      "word": "la",
+      "start": 124.76,
+      "end": 124.9
+    },
+    {
+      "word": "casa",
+      "start": 124.9,
+      "end": 125.06
+    },
+    {
+      "word": "del",
+      "start": 125.06,
+      "end": 125.32
+    },
+    {
+      "word": "Señor",
+      "start": 125.32,
+      "end": 125.8
+    },
+    {
+      "word": "todos",
+      "start": 125.8,
+      "end": 126.36
+    },
+    {
+      "word": "los",
+      "start": 126.36,
+      "end": 126.58
+    },
+    {
+      "word": "días",
+      "start": 126.58,
+      "end": 126.8
+    },
+    {
+      "word": "de",
+      "start": 126.8,
+      "end": 127.0
+    },
+    {
+      "word": "mi",
+      "start": 127.0,
+      "end": 127.14
+    },
+    {
+      "word": "vida,",
+      "start": 127.14,
+      "end": 127.4
+    },
+    {
+      "word": "y",
+      "start": 127.86,
+      "end": 128.08
+    },
+    {
+      "word": "contemplar",
+      "start": 128.08,
+      "end": 128.6
+    },
+    {
+      "word": "la",
+      "start": 128.6,
+      "end": 128.76
+    },
+    {
+      "word": "hermosura",
+      "start": 128.76,
+      "end": 129.28
+    },
+    {
+      "word": "de",
+      "start": 129.28,
+      "end": 129.46
+    },
+    {
+      "word": "su",
+      "start": 129.46,
+      "end": 129.64
+    },
+    {
+      "word": "gloria",
+      "start": 129.64,
+      "end": 129.98
+    },
+    {
+      "word": "y",
+      "start": 129.98,
+      "end": 130.16
+    },
+    {
+      "word": "adorarlo",
+      "start": 130.16,
+      "end": 130.62
+    },
+    {
+      "word": "en",
+      "start": 130.62,
+      "end": 130.8
+    },
+    {
+      "word": "su",
+      "start": 130.8,
+      "end": 130.96
+    },
+    {
+      "word": "templo.",
+      "start": 130.96,
+      "end": 132.04
+    },
+    {
+      "word": "Porque",
+      "start": 132.18,
+      "end": 132.5
+    },
+    {
+      "word": "en",
+      "start": 132.5,
+      "end": 132.74
+    },
+    {
+      "word": "tiempo",
+      "start": 132.74,
+      "end": 133.0
+    },
+    {
+      "word": "de",
+      "start": 133.0,
+      "end": 133.22
+    },
+    {
+      "word": "angustia",
+      "start": 133.22,
+      "end": 133.72
+    },
+    {
+      "word": "me",
+      "start": 133.72,
+      "end": 133.88
+    },
+    {
+      "word": "guardará",
+      "start": 133.88,
+      "end": 134.3
+    },
+    {
+      "word": "en",
+      "start": 134.3,
+      "end": 134.46
+    },
+    {
+      "word": "su",
+      "start": 134.46,
+      "end": 134.58
+    },
+    {
+      "word": "tabernáculo.",
+      "start": 134.58,
+      "end": 134.8
+    },
+    {
+      "word": "En",
+      "start": 135.84,
+      "end": 135.98
+    },
+    {
+      "word": "el",
+      "start": 135.98,
+      "end": 136.16
+    },
+    {
+      "word": "lugar",
+      "start": 136.16,
+      "end": 136.46
+    },
+    {
+      "word": "secreto",
+      "start": 136.46,
+      "end": 136.94
+    },
+    {
+      "word": "de",
+      "start": 136.94,
+      "end": 137.08
+    },
+    {
+      "word": "su",
+      "start": 137.08,
+      "end": 137.18
+    },
+    {
+      "word": "tabernáculo",
+      "start": 137.18,
+      "end": 137.98
+    },
+    {
+      "word": "me",
+      "start": 137.98,
+      "end": 138.36
+    },
+    {
+      "word": "guardará",
+      "start": 138.36,
+      "end": 138.74
+    },
+    {
+      "word": "de",
+      "start": 138.74,
+      "end": 138.94
+    },
+    {
+      "word": "los",
+      "start": 138.94,
+      "end": 139.12
+    },
+    {
+      "word": "ojos",
+      "start": 139.12,
+      "end": 139.4
+    },
+    {
+      "word": "de",
+      "start": 139.4,
+      "end": 139.58
+    },
+    {
+      "word": "los",
+      "start": 139.58,
+      "end": 139.76
+    },
+    {
+      "word": "hombres.",
+      "start": 139.76,
+      "end": 140.08
+    },
+    {
+      "word": "En",
+      "start": 140.56,
+      "end": 140.72
+    },
+    {
+      "word": "lo",
+      "start": 140.72,
+      "end": 140.96
+    },
+    {
+      "word": "alto",
+      "start": 140.96,
+      "end": 141.18
+    },
+    {
+      "word": "de",
+      "start": 141.18,
+      "end": 141.36
+    },
+    {
+      "word": "una",
+      "start": 141.36,
+      "end": 141.56
+    },
+    {
+      "word": "roca",
+      "start": 141.56,
+      "end": 142.02
+    },
+    {
+      "word": "Él",
+      "start": 142.02,
+      "end": 142.3
+    },
+    {
+      "word": "me",
+      "start": 142.3,
+      "end": 142.52
+    },
+    {
+      "word": "pondrá.",
+      "start": 142.52,
+      "end": 142.96
+    },
+    {
+      "word": "Y",
+      "start": 143.88,
+      "end": 144.16
+    },
+    {
+      "word": "ahora",
+      "start": 144.16,
+      "end": 144.38
+    },
+    {
+      "word": "mi",
+      "start": 144.38,
+      "end": 144.56
+    },
+    {
+      "word": "cabeza",
+      "start": 144.56,
+      "end": 144.9
+    },
+    {
+      "word": "se",
+      "start": 144.9,
+      "end": 145.26
+    },
+    {
+      "word": "elevará",
+      "start": 145.26,
+      "end": 145.66
+    },
+    {
+      "word": "más",
+      "start": 145.66,
+      "end": 145.94
+    },
+    {
+      "word": "que",
+      "start": 145.94,
+      "end": 146.06
+    },
+    {
+      "word": "mis",
+      "start": 146.06,
+      "end": 146.24
+    },
+    {
+      "word": "enemigos,",
+      "start": 146.24,
+      "end": 146.8
+    },
+    {
+      "word": "que",
+      "start": 146.8,
+      "end": 147.08
+    },
+    {
+      "word": "están",
+      "start": 147.08,
+      "end": 147.36
+    },
+    {
+      "word": "a",
+      "start": 147.36,
+      "end": 147.5
+    },
+    {
+      "word": "mi",
+      "start": 147.5,
+      "end": 147.66
+    },
+    {
+      "word": "alrededor.",
+      "start": 147.66,
+      "end": 148.18
+    },
+    {
+      "word": "Por",
+      "start": 148.78,
+      "end": 148.96
+    },
+    {
+      "word": "eso",
+      "start": 148.96,
+      "end": 149.1
+    },
+    {
+      "word": "haré",
+      "start": 149.1,
+      "end": 149.38
+    },
+    {
+      "word": "ofrendas",
+      "start": 149.38,
+      "end": 149.88
+    },
+    {
+      "word": "de",
+      "start": 149.88,
+      "end": 150.08
+    },
+    {
+      "word": "alegría",
+      "start": 150.08,
+      "end": 150.38
+    },
+    {
+      "word": "en",
+      "start": 150.38,
+      "end": 150.5
+    },
+    {
+      "word": "su",
+      "start": 150.5,
+      "end": 150.62
+    },
+    {
+      "word": "tabernáculo.",
+      "start": 150.62,
+      "end": 151.46
+    },
+    {
+      "word": "Haré",
+      "start": 151.84,
+      "end": 152.0
+    },
+    {
+      "word": "una",
+      "start": 152.0,
+      "end": 152.18
+    },
+    {
+      "word": "canción,",
+      "start": 152.18,
+      "end": 152.82
+    },
+    {
+      "word": "gritaré",
+      "start": 153.2,
+      "end": 153.46
+    },
+    {
+      "word": "de",
+      "start": 153.46,
+      "end": 153.66
+    },
+    {
+      "word": "alegría,",
+      "start": 153.66,
+      "end": 154.18
+    },
+    {
+      "word": "haré",
+      "start": 154.5,
+      "end": 154.66
+    },
+    {
+      "word": "una",
+      "start": 154.66,
+      "end": 154.84
+    },
+    {
+      "word": "canción",
+      "start": 154.84,
+      "end": 155.24
+    },
+    {
+      "word": "de",
+      "start": 155.24,
+      "end": 155.4
+    },
+    {
+      "word": "alabanza",
+      "start": 155.4,
+      "end": 155.8
+    },
+    {
+      "word": "al",
+      "start": 155.8,
+      "end": 156.0
+    },
+    {
+      "word": "Señor.",
+      "start": 156.0,
+      "end": 156.32
+    },
+    {
+      "word": "¡Oh",
+      "start": 157.04,
+      "end": 157.26
+    },
+    {
+      "word": "Señor,",
+      "start": 157.26,
+      "end": 157.66
+    },
+    {
+      "word": "que",
+      "start": 157.92,
+      "end": 158.06
+    },
+    {
+      "word": "la",
+      "start": 158.06,
+      "end": 158.22
+    },
+    {
+      "word": "voz",
+      "start": 158.22,
+      "end": 158.4
+    },
+    {
+      "word": "de",
+      "start": 158.4,
+      "end": 158.54
+    },
+    {
+      "word": "mi",
+      "start": 158.54,
+      "end": 158.66
+    },
+    {
+      "word": "clamor",
+      "start": 158.66,
+      "end": 159.02
+    },
+    {
+      "word": "llegue",
+      "start": 159.02,
+      "end": 159.34
+    },
+    {
+      "word": "a",
+      "start": 159.34,
+      "end": 159.48
+    },
+    {
+      "word": "tus",
+      "start": 159.48,
+      "end": 159.62
+    },
+    {
+      "word": "oídos!",
+      "start": 159.62,
+      "end": 160.26
+    },
+    {
+      "word": "Ten",
+      "start": 160.68,
+      "end": 160.88
+    },
+    {
+      "word": "misericordia",
+      "start": 160.88,
+      "end": 161.58
+    },
+    {
+      "word": "de",
+      "start": 161.58,
+      "end": 161.76
+    },
+    {
+      "word": "mí",
+      "start": 161.76,
+      "end": 161.94
+    },
+    {
+      "word": "y",
+      "start": 161.94,
+      "end": 162.44
+    },
+    {
+      "word": "dame",
+      "start": 162.44,
+      "end": 162.66
+    },
+    {
+      "word": "una",
+      "start": 162.66,
+      "end": 162.92
+    },
+    {
+      "word": "respuesta.",
+      "start": 162.92,
+      "end": 163.36
+    },
+    {
+      "word": "Mi",
+      "start": 163.96,
+      "end": 164.22
+    },
+    {
+      "word": "corazón",
+      "start": 164.22,
+      "end": 164.56
+    },
+    {
+      "word": "me",
+      "start": 164.56,
+      "end": 164.78
+    },
+    {
+      "word": "dijo,",
+      "start": 164.78,
+      "end": 165.1
+    },
+    {
+      "word": "busca",
+      "start": 165.84,
+      "end": 166.1
+    },
+    {
+      "word": "el",
+      "start": 166.1,
+      "end": 166.34
+    },
+    {
+      "word": "rostro",
+      "start": 166.34,
+      "end": 166.66
+    },
+    {
+      "word": "del",
+      "start": 166.66,
+      "end": 166.88
+    },
+    {
+      "word": "Señor,",
+      "start": 166.88,
+      "end": 167.18
+    },
+    {
+      "word": "tu",
+      "start": 167.62,
+      "end": 167.8
+    },
+    {
+      "word": "rostro",
+      "start": 167.8,
+      "end": 168.16
+    },
+    {
+      "word": "buscaré,",
+      "start": 168.16,
+      "end": 168.84
+    },
+    {
+      "word": "oh",
+      "start": 169.0,
+      "end": 169.16
+    },
+    {
+      "word": "Jehová.",
+      "start": 169.16,
+      "end": 170.04
+    },
+    {
+      "word": "No",
+      "start": 170.42,
+      "end": 170.62
+    },
+    {
+      "word": "escondas",
+      "start": 170.62,
+      "end": 171.2
+    },
+    {
+      "word": "tu",
+      "start": 171.2,
+      "end": 171.38
+    },
+    {
+      "word": "rostro",
+      "start": 171.38,
+      "end": 171.74
+    },
+    {
+      "word": "de",
+      "start": 171.74,
+      "end": 171.94
+    },
+    {
+      "word": "mí,",
+      "start": 171.94,
+      "end": 172.18
+    },
+    {
+      "word": "no",
+      "start": 172.56,
+      "end": 172.82
+    },
+    {
+      "word": "abandones",
+      "start": 172.82,
+      "end": 173.26
+    },
+    {
+      "word": "a",
+      "start": 173.26,
+      "end": 173.44
+    },
+    {
+      "word": "tu",
+      "start": 173.44,
+      "end": 173.56
+    },
+    {
+      "word": "siervo",
+      "start": 173.56,
+      "end": 173.9
+    },
+    {
+      "word": "en",
+      "start": 173.9,
+      "end": 174.08
+    },
+    {
+      "word": "ira.",
+      "start": 174.08,
+      "end": 174.46
+    },
+    {
+      "word": "Has",
+      "start": 174.46,
+      "end": 175.1
+    },
+    {
+      "word": "sido",
+      "start": 175.1,
+      "end": 175.36
+    },
+    {
+      "word": "mi",
+      "start": 175.36,
+      "end": 175.54
+    },
+    {
+      "word": "ayuda,",
+      "start": 175.54,
+      "end": 175.9
+    },
+    {
+      "word": "no",
+      "start": 176.26,
+      "end": 176.42
+    },
+    {
+      "word": "me",
+      "start": 176.42,
+      "end": 176.62
+    },
+    {
+      "word": "dejes",
+      "start": 176.62,
+      "end": 176.98
+    },
+    {
+      "word": "ni",
+      "start": 176.98,
+      "end": 177.16
+    },
+    {
+      "word": "me",
+      "start": 177.16,
+      "end": 177.32
+    },
+    {
+      "word": "desampares,",
+      "start": 177.32,
+      "end": 177.92
+    },
+    {
+      "word": "oh",
+      "start": 178.36,
+      "end": 178.5
+    },
+    {
+      "word": "Dios",
+      "start": 178.5,
+      "end": 178.72
+    },
+    {
+      "word": "de",
+      "start": 178.72,
+      "end": 178.9
+    },
+    {
+      "word": "mi",
+      "start": 178.9,
+      "end": 179.04
+    },
+    {
+      "word": "salvación.",
+      "start": 179.04,
+      "end": 179.68
+    },
+    {
+      "word": "Aunque",
+      "start": 180.28,
+      "end": 180.48
+    },
+    {
+      "word": "mi",
+      "start": 180.48,
+      "end": 180.7
+    },
+    {
+      "word": "padre",
+      "start": 180.7,
+      "end": 180.96
+    },
+    {
+      "word": "y",
+      "start": 180.96,
+      "end": 181.12
+    },
+    {
+      "word": "mi",
+      "start": 181.12,
+      "end": 181.3
+    },
+    {
+      "word": "madre",
+      "start": 181.3,
+      "end": 181.5
+    },
+    {
+      "word": "se",
+      "start": 181.5,
+      "end": 181.74
+    },
+    {
+      "word": "alejan",
+      "start": 181.74,
+      "end": 182.02
+    },
+    {
+      "word": "de",
+      "start": 182.02,
+      "end": 182.24
+    },
+    {
+      "word": "mí,",
+      "start": 182.24,
+      "end": 182.44
+    },
+    {
+      "word": "tu",
+      "start": 182.9,
+      "end": 183.04
+    },
+    {
+      "word": "Señor",
+      "start": 183.04,
+      "end": 183.36
+    },
+    {
+      "word": "serás",
+      "start": 183.36,
+      "end": 183.78
+    },
+    {
+      "word": "mi",
+      "start": 183.78,
+      "end": 183.96
+    },
+    {
+      "word": "apoyo.",
+      "start": 183.96,
+      "end": 184.34
+    },
+    {
+      "word": "Enséñame",
+      "start": 185.12,
+      "end": 185.5
+    },
+    {
+      "word": "tu",
+      "start": 185.5,
+      "end": 185.66
+    },
+    {
+      "word": "camino,",
+      "start": 185.66,
+      "end": 186.06
+    },
+    {
+      "word": "oh",
+      "start": 186.4,
+      "end": 186.52
+    },
+    {
+      "word": "Señor,",
+      "start": 186.52,
+      "end": 187.04
+    },
+    {
+      "word": "guíame",
+      "start": 187.46,
+      "end": 187.74
+    },
+    {
+      "word": "por",
+      "start": 187.74,
+      "end": 187.94
+    },
+    {
+      "word": "el",
+      "start": 187.94,
+      "end": 188.12
+    },
+    {
+      "word": "camino",
+      "start": 188.12,
+      "end": 188.38
+    },
+    {
+      "word": "correcto",
+      "start": 188.38,
+      "end": 189.08
+    },
+    {
+      "word": "a",
+      "start": 189.08,
+      "end": 189.38
+    },
+    {
+      "word": "causa",
+      "start": 189.38,
+      "end": 189.7
+    },
+    {
+      "word": "de",
+      "start": 189.7,
+      "end": 189.9
+    },
+    {
+      "word": "mis",
+      "start": 189.9,
+      "end": 190.02
+    },
+    {
+      "word": "enemigos.",
+      "start": 190.02,
+      "end": 190.56
+    },
+    {
+      "word": "No",
+      "start": 191.28,
+      "end": 191.44
+    },
+    {
+      "word": "me",
+      "start": 191.44,
+      "end": 191.76
+    },
+    {
+      "word": "entregues",
+      "start": 191.76,
+      "end": 192.06
+    },
+    {
+      "word": "en",
+      "start": 192.06,
+      "end": 192.22
+    },
+    {
+      "word": "sus",
+      "start": 192.22,
+      "end": 192.38
+    },
+    {
+      "word": "manos,",
+      "start": 192.38,
+      "end": 192.84
+    },
+    {
+      "word": "porque",
+      "start": 193.14,
+      "end": 193.44
+    },
+    {
+      "word": "salieron",
+      "start": 193.44,
+      "end": 193.88
+    },
+    {
+      "word": "testigos",
+      "start": 193.88,
+      "end": 194.4
+    },
+    {
+      "word": "falsos",
+      "start": 194.4,
+      "end": 194.86
+    },
+    {
+      "word": "contra",
+      "start": 194.86,
+      "end": 195.16
+    },
+    {
+      "word": "mí",
+      "start": 195.16,
+      "end": 195.42
+    },
+    {
+      "word": "y",
+      "start": 195.42,
+      "end": 195.9
+    },
+    {
+      "word": "hombres",
+      "start": 195.9,
+      "end": 196.26
+    },
+    {
+      "word": "que",
+      "start": 196.26,
+      "end": 196.54
+    },
+    {
+      "word": "exhalaban",
+      "start": 196.54,
+      "end": 196.98
+    },
+    {
+      "word": "destrucción.",
+      "start": 196.98,
+      "end": 197.72
+    },
+    {
+      "word": "Casi",
+      "start": 198.5,
+      "end": 198.84
+    },
+    {
+      "word": "había",
+      "start": 198.84,
+      "end": 199.14
+    },
+    {
+      "word": "renunciado",
+      "start": 199.14,
+      "end": 199.74
+    },
+    {
+      "word": "a",
+      "start": 199.74,
+      "end": 199.84
+    },
+    {
+      "word": "mi",
+      "start": 199.84,
+      "end": 199.98
+    },
+    {
+      "word": "esperanza",
+      "start": 199.98,
+      "end": 200.48
+    },
+    {
+      "word": "de",
+      "start": 200.48,
+      "end": 200.68
+    },
+    {
+      "word": "ver",
+      "start": 200.68,
+      "end": 200.84
+    },
+    {
+      "word": "la",
+      "start": 200.84,
+      "end": 200.96
+    },
+    {
+      "word": "bendición",
+      "start": 200.96,
+      "end": 201.46
+    },
+    {
+      "word": "del",
+      "start": 201.46,
+      "end": 201.68
+    },
+    {
+      "word": "Señor",
+      "start": 201.68,
+      "end": 202.02
+    },
+    {
+      "word": "en",
+      "start": 202.02,
+      "end": 202.48
+    },
+    {
+      "word": "la",
+      "start": 202.48,
+      "end": 202.74
+    },
+    {
+      "word": "tierra",
+      "start": 202.74,
+      "end": 203.02
+    },
+    {
+      "word": "de",
+      "start": 203.02,
+      "end": 203.18
+    },
+    {
+      "word": "los",
+      "start": 203.18,
+      "end": 203.38
+    },
+    {
+      "word": "vivos.",
+      "start": 203.38,
+      "end": 204.32
+    },
+    {
+      "word": "Que",
+      "start": 204.78,
+      "end": 204.9
+    },
+    {
+      "word": "tu",
+      "start": 204.9,
+      "end": 205.1
+    },
+    {
+      "word": "esperanza",
+      "start": 205.1,
+      "end": 205.6
+    },
+    {
+      "word": "esté",
+      "start": 205.6,
+      "end": 205.82
+    },
+    {
+      "word": "en",
+      "start": 205.82,
+      "end": 206.0
+    },
+    {
+      "word": "el",
+      "start": 206.0,
+      "end": 206.18
+    },
+    {
+      "word": "Señor.",
+      "start": 206.18,
+      "end": 206.52
+    },
+    {
+      "word": "Toma",
+      "start": 207.24,
+      "end": 207.54
+    },
+    {
+      "word": "ánimo",
+      "start": 207.54,
+      "end": 207.96
+    },
+    {
+      "word": "y",
+      "start": 207.96,
+      "end": 208.12
+    },
+    {
+      "word": "sé",
+      "start": 208.12,
+      "end": 208.28
+    },
+    {
+      "word": "fuerte.",
+      "start": 208.28,
+      "end": 208.72
+    },
+    {
+      "word": "Sí,",
+      "start": 209.18,
+      "end": 209.34
+    },
+    {
+      "word": "que",
+      "start": 209.82,
+      "end": 209.96
+    },
+    {
+      "word": "tu",
+      "start": 209.96,
+      "end": 210.1
+    },
+    {
+      "word": "esperanza",
+      "start": 210.1,
+      "end": 210.56
+    },
+    {
+      "word": "esté",
+      "start": 210.56,
+      "end": 210.78
+    },
+    {
+      "word": "en",
+      "start": 210.78,
+      "end": 210.98
+    },
+    {
+      "word": "el",
+      "start": 210.98,
+      "end": 211.24
+    },
+    {
+      "word": "Señor.",
+      "start": 211.24,
+      "end": 211.66
+    },
+    {
+      "word": "Capítulo",
+      "start": 212.08,
+      "end": 212.48
+    },
+    {
+      "word": "46.",
+      "start": 212.48,
+      "end": 213.44
+    },
+    {
+      "word": "Dios",
+      "start": 214.32,
+      "end": 214.6
+    },
+    {
+      "word": "es",
+      "start": 214.6,
+      "end": 214.88
+    },
+    {
+      "word": "nuestro",
+      "start": 214.88,
+      "end": 215.26
+    },
+    {
+      "word": "refugio",
+      "start": 215.26,
+      "end": 215.86
+    },
+    {
+      "word": "y",
+      "start": 215.86,
+      "end": 216.08
+    },
+    {
+      "word": "nuestra",
+      "start": 216.08,
+      "end": 216.32
+    },
+    {
+      "word": "fuerza,",
+      "start": 216.32,
+      "end": 216.8
+    },
+    {
+      "word": "una",
+      "start": 217.22,
+      "end": 217.42
+    },
+    {
+      "word": "ayuda",
+      "start": 217.42,
+      "end": 217.72
+    },
+    {
+      "word": "muy",
+      "start": 217.72,
+      "end": 218.16
+    },
+    {
+      "word": "presente",
+      "start": 218.16,
+      "end": 218.48
+    },
+    {
+      "word": "en",
+      "start": 218.48,
+      "end": 218.78
+    },
+    {
+      "word": "problemas.",
+      "start": 218.78,
+      "end": 219.2
+    },
+    {
+      "word": "Por",
+      "start": 219.88,
+      "end": 220.12
+    },
+    {
+      "word": "esta",
+      "start": 220.12,
+      "end": 220.34
+    },
+    {
+      "word": "causa",
+      "start": 220.34,
+      "end": 220.7
+    },
+    {
+      "word": "no",
+      "start": 220.7,
+      "end": 220.9
+    },
+    {
+      "word": "tendremos",
+      "start": 220.9,
+      "end": 221.4
+    },
+    {
+      "word": "temor,",
+      "start": 221.4,
+      "end": 222.04
+    },
+    {
+      "word": "aunque",
+      "start": 222.3,
+      "end": 222.52
+    },
+    {
+      "word": "la",
+      "start": 222.52,
+      "end": 222.78
+    },
+    {
+      "word": "tierra",
+      "start": 222.78,
+      "end": 223.08
+    },
+    {
+      "word": "sea",
+      "start": 223.08,
+      "end": 223.38
+    },
+    {
+      "word": "removida",
+      "start": 223.38,
+      "end": 224.0
+    },
+    {
+      "word": "y",
+      "start": 224.0,
+      "end": 224.58
+    },
+    {
+      "word": "aunque",
+      "start": 224.58,
+      "end": 224.82
+    },
+    {
+      "word": "las",
+      "start": 224.82,
+      "end": 225.06
+    },
+    {
+      "word": "montañas",
+      "start": 225.06,
+      "end": 225.48
+    },
+    {
+      "word": "se",
+      "start": 225.48,
+      "end": 225.76
+    },
+    {
+      "word": "hundan",
+      "start": 225.76,
+      "end": 226.06
+    },
+    {
+      "word": "en",
+      "start": 226.06,
+      "end": 226.24
+    },
+    {
+      "word": "el",
+      "start": 226.24,
+      "end": 226.44
+    },
+    {
+      "word": "corazón",
+      "start": 226.44,
+      "end": 226.8
+    },
+    {
+      "word": "del",
+      "start": 226.8,
+      "end": 227.0
+    },
+    {
+      "word": "mar.",
+      "start": 227.0,
+      "end": 227.32
+    },
+    {
+      "word": "Aunque",
+      "start": 227.9,
+      "end": 228.18
+    },
+    {
+      "word": "sus",
+      "start": 228.18,
+      "end": 228.46
+    },
+    {
+      "word": "aguas",
+      "start": 228.46,
+      "end": 228.76
+    },
+    {
+      "word": "rujan",
+      "start": 228.76,
+      "end": 229.12
+    },
+    {
+      "word": "y",
+      "start": 229.12,
+      "end": 229.28
+    },
+    {
+      "word": "sean",
+      "start": 229.28,
+      "end": 229.48
+    },
+    {
+      "word": "turbadas,",
+      "start": 229.48,
+      "end": 230.1
+    },
+    {
+      "word": "y",
+      "start": 230.46,
+      "end": 230.6
+    },
+    {
+      "word": "aunque",
+      "start": 230.6,
+      "end": 230.78
+    },
+    {
+      "word": "las",
+      "start": 230.78,
+      "end": 231.0
+    },
+    {
+      "word": "montañas",
+      "start": 231.0,
+      "end": 231.5
+    },
+    {
+      "word": "tiemblan",
+      "start": 231.5,
+      "end": 231.94
+    },
+    {
+      "word": "por",
+      "start": 231.94,
+      "end": 231.94
+    },
+    {
+      "word": "la",
+      "start": 231.94,
+      "end": 232.02
+    },
+    {
+      "word": "causa",
+      "start": 232.02,
+      "end": 232.34
+    },
+    {
+      "word": "de",
+      "start": 232.34,
+      "end": 232.54
+    },
+    {
+      "word": "su",
+      "start": 232.54,
+      "end": 232.64
+    },
+    {
+      "word": "braveza.",
+      "start": 232.64,
+      "end": 233.32
+    },
+    {
+      "word": "Sela,",
+      "start": 233.9,
+      "end": 234.26
+    },
+    {
+      "word": "hay",
+      "start": 234.72,
+      "end": 234.92
+    },
+    {
+      "word": "un",
+      "start": 234.92,
+      "end": 235.1
+    },
+    {
+      "word": "río",
+      "start": 235.1,
+      "end": 235.38
+    },
+    {
+      "word": "cuyas",
+      "start": 235.38,
+      "end": 235.72
+    },
+    {
+      "word": "corrientes",
+      "start": 235.72,
+      "end": 236.32
+    },
+    {
+      "word": "alegran",
+      "start": 236.32,
+      "end": 236.7
+    },
+    {
+      "word": "el",
+      "start": 236.7,
+      "end": 236.92
+    },
+    {
+      "word": "lugar",
+      "start": 236.92,
+      "end": 237.14
+    },
+    {
+      "word": "de",
+      "start": 237.14,
+      "end": 237.36
+    },
+    {
+      "word": "descanso",
+      "start": 237.36,
+      "end": 237.78
+    },
+    {
+      "word": "de",
+      "start": 237.78,
+      "end": 237.98
+    },
+    {
+      "word": "Dios,",
+      "start": 237.98,
+      "end": 238.2
+    },
+    {
+      "word": "el",
+      "start": 238.68,
+      "end": 238.8
+    },
+    {
+      "word": "lugar",
+      "start": 238.8,
+      "end": 239.06
+    },
+    {
+      "word": "sagrado",
+      "start": 239.06,
+      "end": 239.48
+    },
+    {
+      "word": "del",
+      "start": 239.48,
+      "end": 239.7
+    },
+    {
+      "word": "santuario",
+      "start": 239.7,
+      "end": 240.34
+    },
+    {
+      "word": "del",
+      "start": 240.34,
+      "end": 240.54
+    },
+    {
+      "word": "Altísimo.",
+      "start": 240.54,
+      "end": 241.2
+    },
+    {
+      "word": "Dios",
+      "start": 242.16,
+      "end": 242.5
+    },
+    {
+      "word": "ha",
+      "start": 242.5,
+      "end": 242.8
+    },
+    {
+      "word": "tomado",
+      "start": 242.8,
+      "end": 243.14
+    },
+    {
+      "word": "su",
+      "start": 243.14,
+      "end": 243.32
+    },
+    {
+      "word": "lugar",
+      "start": 243.32,
+      "end": 243.56
+    },
+    {
+      "word": "en",
+      "start": 243.56,
+      "end": 243.8
+    },
+    {
+      "word": "ella.",
+      "start": 243.8,
+      "end": 244.04
+    },
+    {
+      "word": "Ella",
+      "start": 244.46,
+      "end": 244.76
+    },
+    {
+      "word": "no",
+      "start": 244.76,
+      "end": 244.96
+    },
+    {
+      "word": "se",
+      "start": 244.96,
+      "end": 245.16
+    },
+    {
+      "word": "conmoverá.",
+      "start": 245.16,
+      "end": 245.92
+    },
+    {
+      "word": "Vendrá",
+      "start": 246.14,
+      "end": 246.58
+    },
+    {
+      "word": "a",
+      "start": 246.58,
+      "end": 246.72
+    },
+    {
+      "word": "ayudarla",
+      "start": 246.72,
+      "end": 247.1
+    },
+    {
+      "word": "al",
+      "start": 247.1,
+      "end": 247.28
+    },
+    {
+      "word": "amanecer",
+      "start": 247.28,
+      "end": 247.72
+    },
+    {
+      "word": "de",
+      "start": 247.72,
+      "end": 247.86
+    },
+    {
+      "word": "la",
+      "start": 247.86,
+      "end": 248.06
+    },
+    {
+      "word": "mañana.",
+      "start": 248.06,
+      "end": 248.34
+    },
+    {
+      "word": "Las",
+      "start": 248.78,
+      "end": 249.0
+    },
+    {
+      "word": "naciones",
+      "start": 249.0,
+      "end": 249.38
+    },
+    {
+      "word": "se",
+      "start": 249.38,
+      "end": 249.6
+    },
+    {
+      "word": "enojaron,",
+      "start": 249.6,
+      "end": 250.1
+    },
+    {
+      "word": "los",
+      "start": 250.36,
+      "end": 250.56
+    },
+    {
+      "word": "reinos",
+      "start": 250.56,
+      "end": 250.88
+    },
+    {
+      "word": "se",
+      "start": 250.88,
+      "end": 251.16
+    },
+    {
+      "word": "conmovieron.",
+      "start": 251.16,
+      "end": 251.7
+    },
+    {
+      "word": "Al",
+      "start": 252.08,
+      "end": 252.24
+    },
+    {
+      "word": "sonido",
+      "start": 252.24,
+      "end": 252.56
+    },
+    {
+      "word": "de",
+      "start": 252.56,
+      "end": 252.74
+    },
+    {
+      "word": "su",
+      "start": 252.74,
+      "end": 252.84
+    },
+    {
+      "word": "voz,",
+      "start": 252.84,
+      "end": 253.16
+    },
+    {
+      "word": "la",
+      "start": 253.5,
+      "end": 253.62
+    },
+    {
+      "word": "tierra",
+      "start": 253.62,
+      "end": 253.82
+    },
+    {
+      "word": "se",
+      "start": 253.82,
+      "end": 254.08
+    },
+    {
+      "word": "volvió",
+      "start": 254.08,
+      "end": 254.42
+    },
+    {
+      "word": "como",
+      "start": 254.42,
+      "end": 254.68
+    },
+    {
+      "word": "lacera.",
+      "start": 254.68,
+      "end": 255.14
+    },
+    {
+      "word": "El",
+      "start": 255.72,
+      "end": 255.88
+    },
+    {
+      "word": "Señor",
+      "start": 255.88,
+      "end": 256.12
+    },
+    {
+      "word": "de",
+      "start": 256.12,
+      "end": 256.28
+    },
+    {
+      "word": "los",
+      "start": 256.28,
+      "end": 256.46
+    },
+    {
+      "word": "ejércitos",
+      "start": 256.46,
+      "end": 256.94
+    },
+    {
+      "word": "está",
+      "start": 256.94,
+      "end": 257.14
+    },
+    {
+      "word": "con",
+      "start": 257.14,
+      "end": 257.34
+    },
+    {
+      "word": "nosotros.",
+      "start": 257.34,
+      "end": 257.8
+    },
+    {
+      "word": "El",
+      "start": 258.18,
+      "end": 258.36
+    },
+    {
+      "word": "Dios",
+      "start": 258.36,
+      "end": 258.52
+    },
+    {
+      "word": "de",
+      "start": 258.52,
+      "end": 258.76
+    },
+    {
+      "word": "Jacob",
+      "start": 258.76,
+      "end": 259.02
+    },
+    {
+      "word": "es",
+      "start": 259.02,
+      "end": 259.34
+    },
+    {
+      "word": "nuestra",
+      "start": 259.34,
+      "end": 259.66
+    },
+    {
+      "word": "torre",
+      "start": 259.66,
+      "end": 260.0
+    },
+    {
+      "word": "fuerte.",
+      "start": 260.0,
+      "end": 260.34
+    },
+    {
+      "word": "Sela,",
+      "start": 260.34,
+      "end": 261.24
+    },
+    {
+      "word": "ven,",
+      "start": 261.72,
+      "end": 262.02
+    },
+    {
+      "word": "mira",
+      "start": 262.52,
+      "end": 262.56
+    },
+    {
+      "word": "las",
+      "start": 262.56,
+      "end": 262.78
+    },
+    {
+      "word": "obras",
+      "start": 262.78,
+      "end": 263.0
+    },
+    {
+      "word": "del",
+      "start": 263.0,
+      "end": 263.22
+    },
+    {
+      "word": "Señor,",
+      "start": 263.22,
+      "end": 263.56
+    },
+    {
+      "word": "la",
+      "start": 263.9,
+      "end": 264.12
+    },
+    {
+      "word": "destrucción",
+      "start": 264.12,
+      "end": 264.68
+    },
+    {
+      "word": "que",
+      "start": 264.68,
+      "end": 264.9
+    },
+    {
+      "word": "Él",
+      "start": 264.9,
+      "end": 265.06
+    },
+    {
+      "word": "ha",
+      "start": 265.06,
+      "end": 265.22
+    },
+    {
+      "word": "hecho",
+      "start": 265.22,
+      "end": 265.4
+    },
+    {
+      "word": "en",
+      "start": 265.4,
+      "end": 265.58
+    },
+    {
+      "word": "la",
+      "start": 265.58,
+      "end": 265.74
+    },
+    {
+      "word": "tierra.",
+      "start": 265.74,
+      "end": 266.02
+    },
+    {
+      "word": "Él",
+      "start": 266.94,
+      "end": 267.1
+    },
+    {
+      "word": "pone",
+      "start": 267.1,
+      "end": 267.34
+    },
+    {
+      "word": "fin",
+      "start": 267.34,
+      "end": 267.56
+    },
+    {
+      "word": "a",
+      "start": 267.56,
+      "end": 267.7
+    },
+    {
+      "word": "las",
+      "start": 267.7,
+      "end": 267.84
+    },
+    {
+      "word": "guerras",
+      "start": 267.84,
+      "end": 268.14
+    },
+    {
+      "word": "sobre",
+      "start": 268.14,
+      "end": 268.44
+    },
+    {
+      "word": "toda",
+      "start": 268.44,
+      "end": 268.62
+    },
+    {
+      "word": "la",
+      "start": 268.62,
+      "end": 268.84
+    },
+    {
+      "word": "tierra.",
+      "start": 268.84,
+      "end": 269.16
+    },
+    {
+      "word": "Por",
+      "start": 269.5,
+      "end": 269.68
+    },
+    {
+      "word": "Él",
+      "start": 269.68,
+      "end": 269.78
+    },
+    {
+      "word": "se",
+      "start": 269.78,
+      "end": 270.04
+    },
+    {
+      "word": "rompe",
+      "start": 270.04,
+      "end": 270.36
+    },
+    {
+      "word": "el",
+      "start": 270.36,
+      "end": 270.56
+    },
+    {
+      "word": "arco",
+      "start": 270.56,
+      "end": 270.9
+    },
+    {
+      "word": "y",
+      "start": 270.9,
+      "end": 271.22
+    },
+    {
+      "word": "la",
+      "start": 271.22,
+      "end": 271.38
+    },
+    {
+      "word": "lanza",
+      "start": 271.38,
+      "end": 271.7
+    },
+    {
+      "word": "se",
+      "start": 271.7,
+      "end": 271.94
+    },
+    {
+      "word": "corta",
+      "start": 271.94,
+      "end": 272.24
+    },
+    {
+      "word": "en",
+      "start": 272.24,
+      "end": 272.44
+    },
+    {
+      "word": "dos",
+      "start": 272.44,
+      "end": 272.62
+    },
+    {
+      "word": "y",
+      "start": 272.62,
+      "end": 272.94
+    },
+    {
+      "word": "el",
+      "start": 272.94,
+      "end": 273.16
+    },
+    {
+      "word": "carruaje",
+      "start": 273.16,
+      "end": 273.56
+    },
+    {
+      "word": "se",
+      "start": 273.56,
+      "end": 273.8
+    },
+    {
+      "word": "quema",
+      "start": 273.8,
+      "end": 273.98
+    },
+    {
+      "word": "en",
+      "start": 273.98,
+      "end": 274.14
+    },
+    {
+      "word": "el",
+      "start": 274.14,
+      "end": 274.32
+    },
+    {
+      "word": "fuego.",
+      "start": 274.32,
+      "end": 274.58
+    },
+    {
+      "word": "Ríndanse,",
+      "start": 275.14,
+      "end": 275.64
+    },
+    {
+      "word": "reconozcan",
+      "start": 275.84,
+      "end": 276.26
+    },
+    {
+      "word": "que",
+      "start": 276.26,
+      "end": 276.46
+    },
+    {
+      "word": "yo",
+      "start": 276.46,
+      "end": 276.68
+    },
+    {
+      "word": "soy",
+      "start": 276.68,
+      "end": 276.88
+    },
+    {
+      "word": "Dios.",
+      "start": 276.88,
+      "end": 277.3
+    },
+    {
+      "word": "Seré",
+      "start": 277.84,
+      "end": 278.04
+    },
+    {
+      "word": "exaltado",
+      "start": 278.04,
+      "end": 278.56
+    },
+    {
+      "word": "entre",
+      "start": 278.56,
+      "end": 278.8
+    },
+    {
+      "word": "las",
+      "start": 278.8,
+      "end": 279.04
+    },
+    {
+      "word": "naciones,",
+      "start": 279.04,
+      "end": 279.5
+    },
+    {
+      "word": "seré",
+      "start": 279.76,
+      "end": 279.92
+    },
+    {
+      "word": "honrado",
+      "start": 279.92,
+      "end": 280.3
+    },
+    {
+      "word": "por",
+      "start": 280.3,
+      "end": 280.68
+    },
+    {
+      "word": "toda",
+      "start": 280.68,
+      "end": 280.84
+    },
+    {
+      "word": "la",
+      "start": 280.84,
+      "end": 281.04
+    },
+    {
+      "word": "tierra.",
+      "start": 281.04,
+      "end": 281.34
+    },
+    {
+      "word": "El",
+      "start": 281.76,
+      "end": 281.94
+    },
+    {
+      "word": "Señor",
+      "start": 281.94,
+      "end": 282.2
+    },
+    {
+      "word": "de",
+      "start": 282.2,
+      "end": 282.36
+    },
+    {
+      "word": "los",
+      "start": 282.36,
+      "end": 282.54
+    },
+    {
+      "word": "ejércitos",
+      "start": 282.54,
+      "end": 283.06
+    },
+    {
+      "word": "está",
+      "start": 283.06,
+      "end": 283.3
+    },
+    {
+      "word": "con",
+      "start": 283.3,
+      "end": 283.5
+    },
+    {
+      "word": "nosotros.",
+      "start": 283.5,
+      "end": 283.96
+    },
+    {
+      "word": "El",
+      "start": 284.28,
+      "end": 284.42
+    },
+    {
+      "word": "Dios",
+      "start": 284.42,
+      "end": 284.6
+    },
+    {
+      "word": "de",
+      "start": 284.6,
+      "end": 284.84
+    },
+    {
+      "word": "Jacob",
+      "start": 284.84,
+      "end": 285.1
+    },
+    {
+      "word": "es",
+      "start": 285.1,
+      "end": 285.54
+    },
+    {
+      "word": "nuestra",
+      "start": 285.54,
+      "end": 285.86
+    },
+    {
+      "word": "torre",
+      "start": 285.86,
+      "end": 286.18
+    },
+    {
+      "word": "fuerte.",
+      "start": 286.18,
+      "end": 286.5
+    },
+    {
+      "word": "Sela.",
+      "start": 287.28,
+      "end": 287.78
+    },
+    {
+      "word": "Capítulo",
+      "start": 288.12,
+      "end": 288.54
+    },
+    {
+      "word": "91",
+      "start": 288.54,
+      "end": 289.24
+    },
+    {
+      "word": "Felices",
+      "start": 289.94,
+      "end": 290.42
+    },
+    {
+      "word": "aquel",
+      "start": 290.42,
+      "end": 290.68
+    },
+    {
+      "word": "cuyo",
+      "start": 290.68,
+      "end": 291.0
+    },
+    {
+      "word": "lugar",
+      "start": 291.0,
+      "end": 291.26
+    },
+    {
+      "word": "de",
+      "start": 291.26,
+      "end": 291.48
+    },
+    {
+      "word": "descanso",
+      "start": 291.48,
+      "end": 291.98
+    },
+    {
+      "word": "está",
+      "start": 291.98,
+      "end": 292.2
+    },
+    {
+      "word": "en",
+      "start": 292.2,
+      "end": 292.38
+    },
+    {
+      "word": "el",
+      "start": 292.38,
+      "end": 292.58
+    },
+    {
+      "word": "secreto",
+      "start": 292.58,
+      "end": 292.88
+    },
+    {
+      "word": "del",
+      "start": 292.88,
+      "end": 293.08
+    },
+    {
+      "word": "Señor",
+      "start": 293.08,
+      "end": 293.38
+    },
+    {
+      "word": "y",
+      "start": 293.38,
+      "end": 293.86
+    },
+    {
+      "word": "bajo",
+      "start": 293.86,
+      "end": 294.06
+    },
+    {
+      "word": "la",
+      "start": 294.06,
+      "end": 294.24
+    },
+    {
+      "word": "sombra",
+      "start": 294.24,
+      "end": 294.52
+    },
+    {
+      "word": "de",
+      "start": 294.52,
+      "end": 294.64
+    },
+    {
+      "word": "las",
+      "start": 294.64,
+      "end": 294.84
+    },
+    {
+      "word": "alas",
+      "start": 294.84,
+      "end": 295.04
+    },
+    {
+      "word": "del",
+      "start": 295.04,
+      "end": 295.2
+    },
+    {
+      "word": "Altísimo,",
+      "start": 295.2,
+      "end": 295.44
+    },
+    {
+      "word": "quien",
+      "start": 296.3,
+      "end": 296.44
+    },
+    {
+      "word": "dice",
+      "start": 296.44,
+      "end": 296.68
+    },
+    {
+      "word": "del",
+      "start": 296.68,
+      "end": 296.92
+    },
+    {
+      "word": "Señor",
+      "start": 296.92,
+      "end": 297.32
+    },
+    {
+      "word": "Él",
+      "start": 297.32,
+      "end": 297.82
+    },
+    {
+      "word": "es",
+      "start": 297.82,
+      "end": 297.98
+    },
+    {
+      "word": "mi",
+      "start": 297.98,
+      "end": 298.1
+    },
+    {
+      "word": "lugar",
+      "start": 298.1,
+      "end": 298.38
+    },
+    {
+      "word": "seguro",
+      "start": 298.38,
+      "end": 298.66
+    },
+    {
+      "word": "y",
+      "start": 298.66,
+      "end": 298.82
+    },
+    {
+      "word": "mi",
+      "start": 298.82,
+      "end": 299.0
+    },
+    {
+      "word": "torre",
+      "start": 299.0,
+      "end": 299.24
+    },
+    {
+      "word": "de",
+      "start": 299.24,
+      "end": 299.44
+    },
+    {
+      "word": "fortaleza.",
+      "start": 299.44,
+      "end": 300.12
+    },
+    {
+      "word": "Él",
+      "start": 300.56,
+      "end": 300.58
+    },
+    {
+      "word": "es",
+      "start": 300.58,
+      "end": 300.82
+    },
+    {
+      "word": "mi",
+      "start": 300.82,
+      "end": 300.98
+    },
+    {
+      "word": "Dios,",
+      "start": 300.98,
+      "end": 301.3
+    },
+    {
+      "word": "en",
+      "start": 301.66,
+      "end": 301.8
+    },
+    {
+      "word": "quien",
+      "start": 301.8,
+      "end": 302.02
+    },
+    {
+      "word": "está",
+      "start": 302.02,
+      "end": 302.2
+    },
+    {
+      "word": "mi",
+      "start": 302.2,
+      "end": 302.4
+    },
+    {
+      "word": "esperanza.",
+      "start": 302.4,
+      "end": 303.08
+    },
+    {
+      "word": "Él",
+      "start": 303.74,
+      "end": 303.92
+    },
+    {
+      "word": "te",
+      "start": 303.92,
+      "end": 304.1
+    },
+    {
+      "word": "librará",
+      "start": 304.1,
+      "end": 304.48
+    },
+    {
+      "word": "del",
+      "start": 304.48,
+      "end": 304.76
+    },
+    {
+      "word": "lazo",
+      "start": 304.76,
+      "end": 305.0
+    },
+    {
+      "word": "del",
+      "start": 305.0,
+      "end": 305.18
+    },
+    {
+      "word": "Cazador",
+      "start": 305.18,
+      "end": 305.66
+    },
+    {
+      "word": "y",
+      "start": 305.66,
+      "end": 306.02
+    },
+    {
+      "word": "te",
+      "start": 306.02,
+      "end": 306.22
+    },
+    {
+      "word": "mantendrá",
+      "start": 306.22,
+      "end": 306.74
+    },
+    {
+      "word": "a",
+      "start": 306.74,
+      "end": 306.88
+    },
+    {
+      "word": "salvo",
+      "start": 306.88,
+      "end": 307.12
+    },
+    {
+      "word": "de",
+      "start": 307.12,
+      "end": 307.24
+    },
+    {
+      "word": "la",
+      "start": 307.24,
+      "end": 307.4
+    },
+    {
+      "word": "enfermedad.",
+      "start": 307.4,
+      "end": 308.3
+    },
+    {
+      "word": "Estarás",
+      "start": 308.66,
+      "end": 308.88
+    },
+    {
+      "word": "cubierto",
+      "start": 308.88,
+      "end": 309.3
+    },
+    {
+      "word": "por",
+      "start": 309.3,
+      "end": 309.5
+    },
+    {
+      "word": "sus",
+      "start": 309.5,
+      "end": 309.74
+    },
+    {
+      "word": "plumas,",
+      "start": 309.74,
+      "end": 310.3
+    },
+    {
+      "word": "bajo",
+      "start": 310.48,
+      "end": 310.72
+    },
+    {
+      "word": "sus",
+      "start": 310.72,
+      "end": 310.98
+    },
+    {
+      "word": "alas",
+      "start": 310.98,
+      "end": 311.36
+    },
+    {
+      "word": "estarás",
+      "start": 311.36,
+      "end": 311.78
+    },
+    {
+      "word": "seguro.",
+      "start": 311.78,
+      "end": 312.14
+    },
+    {
+      "word": "Su",
+      "start": 312.54,
+      "end": 312.72
+    },
+    {
+      "word": "fidelidad",
+      "start": 312.72,
+      "end": 313.28
+    },
+    {
+      "word": "será",
+      "start": 313.28,
+      "end": 313.5
+    },
+    {
+      "word": "tu",
+      "start": 313.5,
+      "end": 313.7
+    },
+    {
+      "word": "salvación.",
+      "start": 313.7,
+      "end": 314.28
+    },
+    {
+      "word": "No",
+      "start": 315.12,
+      "end": 315.38
+    },
+    {
+      "word": "tendrás",
+      "start": 315.38,
+      "end": 315.76
+    },
+    {
+      "word": "miedo",
+      "start": 315.76,
+      "end": 316.04
+    },
+    {
+      "word": "de",
+      "start": 316.04,
+      "end": 316.2
+    },
+    {
+      "word": "las",
+      "start": 316.2,
+      "end": 316.4
+    },
+    {
+      "word": "cosas",
+      "start": 316.4,
+      "end": 316.7
+    },
+    {
+      "word": "malvadas",
+      "start": 316.7,
+      "end": 317.22
+    },
+    {
+      "word": "de",
+      "start": 317.22,
+      "end": 317.38
+    },
+    {
+      "word": "la",
+      "start": 317.38,
+      "end": 317.52
+    },
+    {
+      "word": "noche",
+      "start": 317.52,
+      "end": 317.8
+    },
+    {
+      "word": "o",
+      "start": 317.8,
+      "end": 318.22
+    },
+    {
+      "word": "de",
+      "start": 318.22,
+      "end": 318.38
+    },
+    {
+      "word": "la",
+      "start": 318.38,
+      "end": 318.54
+    },
+    {
+      "word": "flecha",
+      "start": 318.54,
+      "end": 318.86
+    },
+    {
+      "word": "que",
+      "start": 318.86,
+      "end": 319.06
+    },
+    {
+      "word": "vuela",
+      "start": 319.06,
+      "end": 319.26
+    },
+    {
+      "word": "durante",
+      "start": 319.26,
+      "end": 319.66
+    },
+    {
+      "word": "el",
+      "start": 319.66,
+      "end": 319.9
+    },
+    {
+      "word": "día",
+      "start": 319.9,
+      "end": 320.14
+    },
+    {
+      "word": "o",
+      "start": 320.14,
+      "end": 320.78
+    },
+    {
+      "word": "de",
+      "start": 320.78,
+      "end": 320.96
+    },
+    {
+      "word": "la",
+      "start": 320.96,
+      "end": 321.14
+    },
+    {
+      "word": "enfermedad",
+      "start": 321.14,
+      "end": 321.58
+    },
+    {
+      "word": "que",
+      "start": 321.58,
+      "end": 321.76
+    },
+    {
+      "word": "toma",
+      "start": 321.76,
+      "end": 321.96
+    },
+    {
+      "word": "a",
+      "start": 321.96,
+      "end": 322.16
+    },
+    {
+      "word": "los",
+      "start": 322.16,
+      "end": 322.3
+    },
+    {
+      "word": "hombres",
+      "start": 322.3,
+      "end": 322.56
+    },
+    {
+      "word": "en",
+      "start": 322.56,
+      "end": 322.76
+    },
+    {
+      "word": "la",
+      "start": 322.76,
+      "end": 322.9
+    },
+    {
+      "word": "oscuridad",
+      "start": 322.9,
+      "end": 323.42
+    },
+    {
+      "word": "o",
+      "start": 323.42,
+      "end": 324.08
+    },
+    {
+      "word": "de",
+      "start": 324.08,
+      "end": 324.24
+    },
+    {
+      "word": "la",
+      "start": 324.24,
+      "end": 324.46
+    },
+    {
+      "word": "destrucción",
+      "start": 324.46,
+      "end": 324.86
+    },
+    {
+      "word": "que",
+      "start": 324.86,
+      "end": 325.1
+    },
+    {
+      "word": "hacen",
+      "start": 325.1,
+      "end": 325.26
+    },
+    {
+      "word": "cuando",
+      "start": 325.26,
+      "end": 325.54
+    },
+    {
+      "word": "el",
+      "start": 325.54,
+      "end": 325.76
+    },
+    {
+      "word": "sol",
+      "start": 325.76,
+      "end": 325.92
+    },
+    {
+      "word": "está",
+      "start": 325.92,
+      "end": 326.18
+    },
+    {
+      "word": "alto.",
+      "start": 326.18,
+      "end": 326.62
+    },
+    {
+      "word": "Verás",
+      "start": 327.5,
+      "end": 327.72
+    },
+    {
+      "word": "mil",
+      "start": 327.72,
+      "end": 327.88
+    },
+    {
+      "word": "caer",
+      "start": 327.88,
+      "end": 328.2
+    },
+    {
+      "word": "a",
+      "start": 328.2,
+      "end": 328.32
+    },
+    {
+      "word": "tu",
+      "start": 328.32,
+      "end": 328.42
+    },
+    {
+      "word": "lado",
+      "start": 328.42,
+      "end": 328.7
+    },
+    {
+      "word": "y",
+      "start": 328.7,
+      "end": 328.96
+    },
+    {
+      "word": "diez",
+      "start": 328.96,
+      "end": 329.2
+    },
+    {
+      "word": "mil",
+      "start": 329.2,
+      "end": 329.36
+    },
+    {
+      "word": "a",
+      "start": 329.36,
+      "end": 329.48
+    },
+    {
+      "word": "tu",
+      "start": 329.48,
+      "end": 329.6
+    },
+    {
+      "word": "derecha,",
+      "start": 329.6,
+      "end": 330.24
+    },
+    {
+      "word": "pero",
+      "start": 330.4,
+      "end": 330.58
+    },
+    {
+      "word": "no",
+      "start": 330.58,
+      "end": 330.76
+    },
+    {
+      "word": "se",
+      "start": 330.76,
+      "end": 330.96
+    },
+    {
+      "word": "acercará",
+      "start": 330.96,
+      "end": 331.32
+    },
+    {
+      "word": "a",
+      "start": 331.32,
+      "end": 331.48
+    },
+    {
+      "word": "ti.",
+      "start": 331.48,
+      "end": 331.86
+    },
+    {
+      "word": "Sólo",
+      "start": 332.24,
+      "end": 332.52
+    },
+    {
+      "word": "con",
+      "start": 332.52,
+      "end": 332.7
+    },
+    {
+      "word": "tus",
+      "start": 332.7,
+      "end": 332.86
+    },
+    {
+      "word": "ojos",
+      "start": 332.86,
+      "end": 333.12
+    },
+    {
+      "word": "verás",
+      "start": 333.12,
+      "end": 333.5
+    },
+    {
+      "word": "la",
+      "start": 333.5,
+      "end": 333.72
+    },
+    {
+      "word": "recompensa",
+      "start": 333.72,
+      "end": 334.26
+    },
+    {
+      "word": "de",
+      "start": 334.26,
+      "end": 334.42
+    },
+    {
+      "word": "los",
+      "start": 334.42,
+      "end": 334.58
+    },
+    {
+      "word": "malhechores.",
+      "start": 334.58,
+      "end": 335.28
+    },
+    {
+      "word": "Porque",
+      "start": 335.82,
+      "end": 336.08
+    },
+    {
+      "word": "has",
+      "start": 336.08,
+      "end": 336.26
+    },
+    {
+      "word": "dicho,",
+      "start": 336.26,
+      "end": 336.7
+    },
+    {
+      "word": "estoy",
+      "start": 337.06,
+      "end": 337.24
+    },
+    {
+      "word": "en",
+      "start": 337.24,
+      "end": 337.46
+    },
+    {
+      "word": "manos",
+      "start": 337.46,
+      "end": 337.66
+    },
+    {
+      "word": "del",
+      "start": 337.66,
+      "end": 337.94
+    },
+    {
+      "word": "Señor,",
+      "start": 337.94,
+      "end": 338.24
+    },
+    {
+      "word": "el",
+      "start": 338.66,
+      "end": 338.84
+    },
+    {
+      "word": "Altísimo",
+      "start": 338.84,
+      "end": 339.28
+    },
+    {
+      "word": "es",
+      "start": 339.28,
+      "end": 339.46
+    },
+    {
+      "word": "mi",
+      "start": 339.46,
+      "end": 339.58
+    },
+    {
+      "word": "lugar",
+      "start": 339.58,
+      "end": 339.82
+    },
+    {
+      "word": "de",
+      "start": 339.82,
+      "end": 340.1
+    },
+    {
+      "word": "descanso",
+      "start": 340.1,
+      "end": 340.5
+    },
+    {
+      "word": "seguro.",
+      "start": 340.5,
+      "end": 340.88
+    },
+    {
+      "word": "No",
+      "start": 341.44,
+      "end": 341.64
+    },
+    {
+      "word": "vendrá",
+      "start": 341.64,
+      "end": 342.0
+    },
+    {
+      "word": "sobre",
+      "start": 342.0,
+      "end": 342.26
+    },
+    {
+      "word": "ti",
+      "start": 342.26,
+      "end": 342.42
+    },
+    {
+      "word": "mal",
+      "start": 342.42,
+      "end": 342.68
+    },
+    {
+      "word": "y",
+      "start": 342.68,
+      "end": 343.16
+    },
+    {
+      "word": "ninguna",
+      "start": 343.16,
+      "end": 343.44
+    },
+    {
+      "word": "enfermedad",
+      "start": 343.44,
+      "end": 344.02
+    },
+    {
+      "word": "se",
+      "start": 344.02,
+      "end": 344.26
+    },
+    {
+      "word": "acercará",
+      "start": 344.26,
+      "end": 344.64
+    },
+    {
+      "word": "a",
+      "start": 344.64,
+      "end": 344.72
+    },
+    {
+      "word": "tu",
+      "start": 344.72,
+      "end": 344.86
+    },
+    {
+      "word": "morada.",
+      "start": 344.86,
+      "end": 345.36
+    },
+    {
+      "word": "Porque",
+      "start": 345.86,
+      "end": 346.3
+    },
+    {
+      "word": "él",
+      "start": 346.3,
+      "end": 346.48
+    },
+    {
+      "word": "te",
+      "start": 346.48,
+      "end": 346.74
+    },
+    {
+      "word": "entregará",
+      "start": 346.74,
+      "end": 347.16
+    },
+    {
+      "word": "al",
+      "start": 347.16,
+      "end": 347.32
+    },
+    {
+      "word": "cuidado",
+      "start": 347.32,
+      "end": 347.62
+    },
+    {
+      "word": "de",
+      "start": 347.62,
+      "end": 347.84
+    },
+    {
+      "word": "sus",
+      "start": 347.84,
+      "end": 348.02
+    },
+    {
+      "word": "ángeles",
+      "start": 348.02,
+      "end": 348.42
+    },
+    {
+      "word": "para",
+      "start": 348.42,
+      "end": 348.7
+    },
+    {
+      "word": "mantenerte",
+      "start": 348.7,
+      "end": 349.2
+    },
+    {
+      "word": "donde",
+      "start": 349.2,
+      "end": 349.46
+    },
+    {
+      "word": "quiera",
+      "start": 349.46,
+      "end": 349.74
+    },
+    {
+      "word": "que",
+      "start": 349.74,
+      "end": 349.94
+    },
+    {
+      "word": "vayas.",
+      "start": 349.94,
+      "end": 350.56
+    },
+    {
+      "word": "En",
+      "start": 350.76,
+      "end": 350.94
+    },
+    {
+      "word": "sus",
+      "start": 350.94,
+      "end": 351.14
+    },
+    {
+      "word": "manos",
+      "start": 351.14,
+      "end": 351.38
+    },
+    {
+      "word": "te",
+      "start": 351.38,
+      "end": 351.56
+    },
+    {
+      "word": "mantendrán",
+      "start": 351.56,
+      "end": 352.12
+    },
+    {
+      "word": "arriba,",
+      "start": 352.12,
+      "end": 352.5
+    },
+    {
+      "word": "para",
+      "start": 352.84,
+      "end": 353.0
+    },
+    {
+      "word": "que",
+      "start": 353.0,
+      "end": 353.12
+    },
+    {
+      "word": "tu",
+      "start": 353.12,
+      "end": 353.28
+    },
+    {
+      "word": "pie",
+      "start": 353.28,
+      "end": 353.42
+    },
+    {
+      "word": "no",
+      "start": 353.42,
+      "end": 353.68
+    },
+    {
+      "word": "tropiece",
+      "start": 353.68,
+      "end": 354.08
+    },
+    {
+      "word": "contra",
+      "start": 354.08,
+      "end": 354.4
+    },
+    {
+      "word": "una",
+      "start": 354.4,
+      "end": 354.64
+    },
+    {
+      "word": "piedra.",
+      "start": 354.64,
+      "end": 355.36
+    },
+    {
+      "word": "Pondrás",
+      "start": 355.6,
+      "end": 355.9
+    },
+    {
+      "word": "tu",
+      "start": 355.9,
+      "end": 356.1
+    },
+    {
+      "word": "pie",
+      "start": 356.1,
+      "end": 356.22
+    },
+    {
+      "word": "sobre",
+      "start": 356.22,
+      "end": 356.48
+    },
+    {
+      "word": "el",
+      "start": 356.48,
+      "end": 356.68
+    },
+    {
+      "word": "león",
+      "start": 356.68,
+      "end": 356.88
+    },
+    {
+      "word": "y",
+      "start": 356.88,
+      "end": 357.0
+    },
+    {
+      "word": "la",
+      "start": 357.0,
+      "end": 357.16
+    },
+    {
+      "word": "serpiente,",
+      "start": 357.16,
+      "end": 357.7
+    },
+    {
+      "word": "entre",
+      "start": 358.12,
+      "end": 358.34
+    },
+    {
+      "word": "monstruos",
+      "start": 358.34,
+      "end": 358.92
+    },
+    {
+      "word": "y",
+      "start": 358.92,
+      "end": 359.08
+    },
+    {
+      "word": "serpientes.",
+      "start": 359.08,
+      "end": 359.68
+    },
+    {
+      "word": "Porque",
+      "start": 360.34,
+      "end": 360.58
+    },
+    {
+      "word": "él",
+      "start": 360.58,
+      "end": 360.74
+    },
+    {
+      "word": "me",
+      "start": 360.74,
+      "end": 360.92
+    },
+    {
+      "word": "ha",
+      "start": 360.92,
+      "end": 361.02
+    },
+    {
+      "word": "dado",
+      "start": 361.02,
+      "end": 361.16
+    },
+    {
+      "word": "su",
+      "start": 361.16,
+      "end": 361.38
+    },
+    {
+      "word": "amor,",
+      "start": 361.38,
+      "end": 361.7
+    },
+    {
+      "word": "lo",
+      "start": 362.04,
+      "end": 362.16
+    },
+    {
+      "word": "sacaré",
+      "start": 362.16,
+      "end": 362.44
+    },
+    {
+      "word": "del",
+      "start": 362.44,
+      "end": 362.64
+    },
+    {
+      "word": "peligro.",
+      "start": 362.64,
+      "end": 363.2
+    },
+    {
+      "word": "Lo",
+      "start": 363.46,
+      "end": 363.62
+    },
+    {
+      "word": "pondré",
+      "start": 363.62,
+      "end": 363.94
+    },
+    {
+      "word": "en",
+      "start": 363.94,
+      "end": 364.1
+    },
+    {
+      "word": "un",
+      "start": 364.1,
+      "end": 364.2
+    },
+    {
+      "word": "lugar",
+      "start": 364.2,
+      "end": 364.44
+    },
+    {
+      "word": "de",
+      "start": 364.44,
+      "end": 364.64
+    },
+    {
+      "word": "honor,",
+      "start": 364.64,
+      "end": 364.94
+    },
+    {
+      "word": "porque",
+      "start": 365.2,
+      "end": 365.42
+    },
+    {
+      "word": "él",
+      "start": 365.42,
+      "end": 365.58
+    },
+    {
+      "word": "ha",
+      "start": 365.58,
+      "end": 365.7
+    },
+    {
+      "word": "guardado",
+      "start": 365.7,
+      "end": 366.04
+    },
+    {
+      "word": "mi",
+      "start": 366.04,
+      "end": 366.2
+    },
+    {
+      "word": "nombre",
+      "start": 366.2,
+      "end": 366.4
+    },
+    {
+      "word": "en",
+      "start": 366.4,
+      "end": 366.56
+    },
+    {
+      "word": "su",
+      "start": 366.56,
+      "end": 366.7
+    },
+    {
+      "word": "corazón.",
+      "start": 366.7,
+      "end": 367.1
+    },
+    {
+      "word": "Cuando",
+      "start": 367.96,
+      "end": 368.18
+    },
+    {
+      "word": "su",
+      "start": 368.18,
+      "end": 368.34
+    },
+    {
+      "word": "clamor",
+      "start": 368.34,
+      "end": 368.62
+    },
+    {
+      "word": "se",
+      "start": 368.62,
+      "end": 368.84
+    },
+    {
+      "word": "acerque",
+      "start": 368.84,
+      "end": 369.04
+    },
+    {
+      "word": "a",
+      "start": 369.04,
+      "end": 369.18
+    },
+    {
+      "word": "mí,",
+      "start": 369.18,
+      "end": 369.34
+    },
+    {
+      "word": "le",
+      "start": 369.66,
+      "end": 369.86
+    },
+    {
+      "word": "responderé,",
+      "start": 369.86,
+      "end": 370.4
+    },
+    {
+      "word": "estaré",
+      "start": 370.82,
+      "end": 370.98
+    },
+    {
+      "word": "con",
+      "start": 370.98,
+      "end": 371.1
+    },
+    {
+      "word": "él",
+      "start": 371.1,
+      "end": 371.2
+    },
+    {
+      "word": "en",
+      "start": 371.2,
+      "end": 371.48
+    },
+    {
+      "word": "problemas,",
+      "start": 371.48,
+      "end": 371.82
+    },
+    {
+      "word": "lo",
+      "start": 372.26,
+      "end": 372.42
+    },
+    {
+      "word": "liberaré",
+      "start": 372.42,
+      "end": 372.74
+    },
+    {
+      "word": "del",
+      "start": 372.74,
+      "end": 372.94
+    },
+    {
+      "word": "peligro",
+      "start": 372.94,
+      "end": 373.46
+    },
+    {
+      "word": "y",
+      "start": 373.46,
+      "end": 373.58
+    },
+    {
+      "word": "le",
+      "start": 373.58,
+      "end": 373.74
+    },
+    {
+      "word": "daré",
+      "start": 373.74,
+      "end": 373.96
+    },
+    {
+      "word": "honor.",
+      "start": 373.96,
+      "end": 374.34
+    },
+    {
+      "word": "Con",
+      "start": 375.2,
+      "end": 375.42
+    },
+    {
+      "word": "larga",
+      "start": 375.42,
+      "end": 375.74
+    },
+    {
+      "word": "vida",
+      "start": 375.74,
+      "end": 375.98
+    },
+    {
+      "word": "será",
+      "start": 375.98,
+      "end": 376.28
+    },
+    {
+      "word": "recompensado",
+      "start": 376.28,
+      "end": 377.28
+    },
+    {
+      "word": "y",
+      "start": 377.28,
+      "end": 377.6
+    },
+    {
+      "word": "le",
+      "start": 377.6,
+      "end": 377.84
+    },
+    {
+      "word": "dejaré",
+      "start": 377.84,
+      "end": 378.08
+    },
+    {
+      "word": "ver",
+      "start": 378.08,
+      "end": 378.32
+    },
+    {
+      "word": "mi",
+      "start": 378.32,
+      "end": 378.56
+    },
+    {
+      "word": "salvación.",
+      "start": 378.56,
+      "end": 379.32
+    },
+    {
+      "word": "Capítulo",
+      "start": 379.74,
+      "end": 380.18
+    },
+    {
+      "word": "103",
+      "start": 380.18,
+      "end": 380.92
+    },
+    {
+      "word": "Alaba",
+      "start": 381.54,
+      "end": 382.14
+    },
+    {
+      "word": "al",
+      "start": 382.14,
+      "end": 382.36
+    },
+    {
+      "word": "Señor,",
+      "start": 382.36,
+      "end": 382.74
+    },
+    {
+      "word": "alma",
+      "start": 383.16,
+      "end": 383.36
+    },
+    {
+      "word": "mía.",
+      "start": 383.36,
+      "end": 384.14
+    },
+    {
+      "word": "Deja",
+      "start": 384.36,
+      "end": 384.66
+    },
+    {
+      "word": "que",
+      "start": 384.66,
+      "end": 384.82
+    },
+    {
+      "word": "todo",
+      "start": 384.82,
+      "end": 385.06
+    },
+    {
+      "word": "en",
+      "start": 385.06,
+      "end": 385.3
+    },
+    {
+      "word": "mí",
+      "start": 385.3,
+      "end": 385.4
+    },
+    {
+      "word": "alabe",
+      "start": 385.4,
+      "end": 385.76
+    },
+    {
+      "word": "su",
+      "start": 385.76,
+      "end": 385.96
+    },
+    {
+      "word": "santo",
+      "start": 385.96,
+      "end": 386.32
+    },
+    {
+      "word": "nombre.",
+      "start": 386.32,
+      "end": 386.66
+    },
+    {
+      "word": "Alaba",
+      "start": 387.02,
+      "end": 387.26
+    },
+    {
+      "word": "al",
+      "start": 387.26,
+      "end": 387.5
+    },
+    {
+      "word": "Señor,",
+      "start": 387.5,
+      "end": 387.8
+    },
+    {
+      "word": "alma",
+      "start": 388.12,
+      "end": 388.28
+    },
+    {
+      "word": "mía.",
+      "start": 388.28,
+      "end": 388.84
+    },
+    {
+      "word": "No",
+      "start": 389.08,
+      "end": 389.28
+    },
+    {
+      "word": "olvides",
+      "start": 389.28,
+      "end": 389.66
+    },
+    {
+      "word": "ninguna",
+      "start": 389.66,
+      "end": 390.12
+    },
+    {
+      "word": "de",
+      "start": 390.12,
+      "end": 390.3
+    },
+    {
+      "word": "sus",
+      "start": 390.3,
+      "end": 390.46
+    },
+    {
+      "word": "bendiciones.",
+      "start": 390.46,
+      "end": 391.1
+    },
+    {
+      "word": "Él",
+      "start": 391.68,
+      "end": 392.0
+    },
+    {
+      "word": "perdona",
+      "start": 392.0,
+      "end": 392.34
+    },
+    {
+      "word": "todos",
+      "start": 392.34,
+      "end": 392.74
+    },
+    {
+      "word": "tus",
+      "start": 392.74,
+      "end": 392.96
+    },
+    {
+      "word": "pecados.",
+      "start": 392.96,
+      "end": 393.52
+    },
+    {
+      "word": "Él",
+      "start": 393.8,
+      "end": 394.12
+    },
+    {
+      "word": "sana",
+      "start": 394.12,
+      "end": 394.28
+    },
+    {
+      "word": "todas",
+      "start": 394.28,
+      "end": 394.7
+    },
+    {
+      "word": "tus",
+      "start": 394.7,
+      "end": 394.96
+    },
+    {
+      "word": "enfermedades.",
+      "start": 394.96,
+      "end": 395.68
+    },
+    {
+      "word": "Él",
+      "start": 396.08,
+      "end": 396.34
+    },
+    {
+      "word": "retiene",
+      "start": 396.34,
+      "end": 396.68
+    },
+    {
+      "word": "tu",
+      "start": 396.68,
+      "end": 396.9
+    },
+    {
+      "word": "vida",
+      "start": 396.9,
+      "end": 397.1
+    },
+    {
+      "word": "de",
+      "start": 397.1,
+      "end": 397.28
+    },
+    {
+      "word": "la",
+      "start": 397.28,
+      "end": 397.56
+    },
+    {
+      "word": "destrucción,",
+      "start": 397.56,
+      "end": 398.28
+    },
+    {
+      "word": "coronándote",
+      "start": 398.56,
+      "end": 399.1
+    },
+    {
+      "word": "con",
+      "start": 399.1,
+      "end": 399.32
+    },
+    {
+      "word": "misericordia",
+      "start": 399.32,
+      "end": 399.62
+    },
+    {
+      "word": "y",
+      "start": 400.0,
+      "end": 400.18
+    },
+    {
+      "word": "gracia.",
+      "start": 400.18,
+      "end": 400.64
+    },
+    {
+      "word": "Él",
+      "start": 400.64,
+      "end": 401.1
+    },
+    {
+      "word": "te",
+      "start": 401.1,
+      "end": 401.32
+    },
+    {
+      "word": "llena",
+      "start": 401.32,
+      "end": 401.54
+    },
+    {
+      "word": "la",
+      "start": 401.54,
+      "end": 401.72
+    },
+    {
+      "word": "boca",
+      "start": 401.72,
+      "end": 401.92
+    },
+    {
+      "word": "de",
+      "start": 401.92,
+      "end": 402.1
+    },
+    {
+      "word": "cosas",
+      "start": 402.1,
+      "end": 402.4
+    },
+    {
+      "word": "buenas,",
+      "start": 402.4,
+      "end": 402.8
+    },
+    {
+      "word": "para",
+      "start": 403.24,
+      "end": 403.36
+    },
+    {
+      "word": "que",
+      "start": 403.36,
+      "end": 403.48
+    },
+    {
+      "word": "tu",
+      "start": 403.48,
+      "end": 403.64
+    },
+    {
+      "word": "fuerza",
+      "start": 403.64,
+      "end": 403.96
+    },
+    {
+      "word": "se",
+      "start": 403.96,
+      "end": 404.24
+    },
+    {
+      "word": "vuelva",
+      "start": 404.24,
+      "end": 404.52
+    },
+    {
+      "word": "nueva",
+      "start": 404.52,
+      "end": 404.78
+    },
+    {
+      "word": "como",
+      "start": 404.78,
+      "end": 405.02
+    },
+    {
+      "word": "la",
+      "start": 405.02,
+      "end": 405.16
+    },
+    {
+      "word": "del",
+      "start": 405.16,
+      "end": 405.34
+    },
+    {
+      "word": "águila.",
+      "start": 405.34,
+      "end": 405.74
+    },
+    {
+      "word": "El",
+      "start": 406.26,
+      "end": 406.48
+    },
+    {
+      "word": "Señor",
+      "start": 406.48,
+      "end": 406.72
+    },
+    {
+      "word": "juzga",
+      "start": 406.72,
+      "end": 407.12
+    },
+    {
+      "word": "en",
+      "start": 407.12,
+      "end": 407.32
+    },
+    {
+      "word": "justicia",
+      "start": 407.32,
+      "end": 407.78
+    },
+    {
+      "word": "para",
+      "start": 407.78,
+      "end": 408.08
+    },
+    {
+      "word": "todos",
+      "start": 408.08,
+      "end": 408.38
+    },
+    {
+      "word": "los",
+      "start": 408.38,
+      "end": 408.62
+    },
+    {
+      "word": "que",
+      "start": 408.62,
+      "end": 408.78
+    },
+    {
+      "word": "están",
+      "start": 408.78,
+      "end": 408.92
+    },
+    {
+      "word": "en",
+      "start": 408.92,
+      "end": 409.2
+    },
+    {
+      "word": "problemas.",
+      "start": 409.2,
+      "end": 409.6
+    },
+    {
+      "word": "Él",
+      "start": 410.58,
+      "end": 410.72
+    },
+    {
+      "word": "le",
+      "start": 410.72,
+      "end": 410.96
+    },
+    {
+      "word": "dio",
+      "start": 410.96,
+      "end": 411.06
+    },
+    {
+      "word": "a",
+      "start": 411.06,
+      "end": 411.28
+    },
+    {
+      "word": "conocer",
+      "start": 411.28,
+      "end": 411.48
+    },
+    {
+      "word": "su",
+      "start": 411.48,
+      "end": 411.7
+    },
+    {
+      "word": "camino",
+      "start": 411.7,
+      "end": 412.06
+    },
+    {
+      "word": "a",
+      "start": 412.06,
+      "end": 412.26
+    },
+    {
+      "word": "Moisés",
+      "start": 412.26,
+      "end": 412.66
+    },
+    {
+      "word": "e",
+      "start": 412.66,
+      "end": 413.08
+    },
+    {
+      "word": "hizo",
+      "start": 413.08,
+      "end": 413.38
+    },
+    {
+      "word": "claro",
+      "start": 413.38,
+      "end": 413.66
+    },
+    {
+      "word": "sus",
+      "start": 413.66,
+      "end": 413.92
+    },
+    {
+      "word": "actos",
+      "start": 413.92,
+      "end": 414.28
+    },
+    {
+      "word": "a",
+      "start": 414.28,
+      "end": 414.4
+    },
+    {
+      "word": "los",
+      "start": 414.4,
+      "end": 414.58
+    },
+    {
+      "word": "hijos",
+      "start": 414.58,
+      "end": 414.78
+    },
+    {
+      "word": "de",
+      "start": 414.78,
+      "end": 415.04
+    },
+    {
+      "word": "Israel.",
+      "start": 415.04,
+      "end": 415.36
+    },
+    {
+      "word": "El",
+      "start": 415.88,
+      "end": 416.12
+    },
+    {
+      "word": "Señor",
+      "start": 416.12,
+      "end": 416.4
+    },
+    {
+      "word": "es",
+      "start": 416.4,
+      "end": 416.64
+    },
+    {
+      "word": "amable",
+      "start": 416.64,
+      "end": 417.0
+    },
+    {
+      "word": "y",
+      "start": 417.0,
+      "end": 417.16
+    },
+    {
+      "word": "lleno",
+      "start": 417.16,
+      "end": 417.36
+    },
+    {
+      "word": "de",
+      "start": 417.36,
+      "end": 417.68
+    },
+    {
+      "word": "compasión,",
+      "start": 417.68,
+      "end": 418.2
+    },
+    {
+      "word": "no",
+      "start": 418.42,
+      "end": 418.52
+    },
+    {
+      "word": "se",
+      "start": 418.52,
+      "end": 418.74
+    },
+    {
+      "word": "enoja",
+      "start": 418.74,
+      "end": 419.04
+    },
+    {
+      "word": "rápidamente,",
+      "start": 419.04,
+      "end": 419.76
+    },
+    {
+      "word": "pero",
+      "start": 420.2,
+      "end": 420.4
+    },
+    {
+      "word": "siempre",
+      "start": 420.4,
+      "end": 420.78
+    },
+    {
+      "word": "está",
+      "start": 420.78,
+      "end": 421.0
+    },
+    {
+      "word": "listo",
+      "start": 421.0,
+      "end": 421.36
+    },
+    {
+      "word": "para",
+      "start": 421.36,
+      "end": 421.5
+    },
+    {
+      "word": "tener",
+      "start": 421.5,
+      "end": 421.82
+    },
+    {
+      "word": "misericordia.",
+      "start": 421.82,
+      "end": 422.64
+    },
+    {
+      "word": "Su",
+      "start": 423.08,
+      "end": 423.24
+    },
+    {
+      "word": "sentimiento",
+      "start": 423.24,
+      "end": 423.78
+    },
+    {
+      "word": "ya",
+      "start": 423.78,
+      "end": 423.98
+    },
+    {
+      "word": "no",
+      "start": 423.98,
+      "end": 424.12
+    },
+    {
+      "word": "será",
+      "start": 424.12,
+      "end": 424.28
+    },
+    {
+      "word": "amargo.",
+      "start": 424.28,
+      "end": 424.96
+    },
+    {
+      "word": "Él",
+      "start": 425.14,
+      "end": 425.32
+    },
+    {
+      "word": "no",
+      "start": 425.32,
+      "end": 425.54
+    },
+    {
+      "word": "guardará",
+      "start": 425.54,
+      "end": 425.94
+    },
+    {
+      "word": "su",
+      "start": 425.94,
+      "end": 426.1
+    },
+    {
+      "word": "ira",
+      "start": 426.1,
+      "end": 426.32
+    },
+    {
+      "word": "para",
+      "start": 426.32,
+      "end": 426.54
+    },
+    {
+      "word": "siempre.",
+      "start": 426.54,
+      "end": 426.88
+    },
+    {
+      "word": "Él",
+      "start": 427.38,
+      "end": 427.58
+    },
+    {
+      "word": "no",
+      "start": 427.58,
+      "end": 427.74
+    },
+    {
+      "word": "nos",
+      "start": 427.74,
+      "end": 427.92
+    },
+    {
+      "word": "ha",
+      "start": 427.92,
+      "end": 428.04
+    },
+    {
+      "word": "dado",
+      "start": 428.04,
+      "end": 428.18
+    },
+    {
+      "word": "el",
+      "start": 428.18,
+      "end": 428.38
+    },
+    {
+      "word": "castigo",
+      "start": 428.38,
+      "end": 428.74
+    },
+    {
+      "word": "por",
+      "start": 428.74,
+      "end": 428.88
+    },
+    {
+      "word": "nuestros",
+      "start": 428.88,
+      "end": 429.26
+    },
+    {
+      "word": "pecados",
+      "start": 429.26,
+      "end": 429.82
+    },
+    {
+      "word": "o",
+      "start": 429.82,
+      "end": 430.14
+    },
+    {
+      "word": "la",
+      "start": 430.14,
+      "end": 430.36
+    },
+    {
+      "word": "recompensa",
+      "start": 430.36,
+      "end": 430.86
+    },
+    {
+      "word": "de",
+      "start": 430.86,
+      "end": 431.06
+    },
+    {
+      "word": "nuestra",
+      "start": 431.06,
+      "end": 431.3
+    },
+    {
+      "word": "mala",
+      "start": 431.3,
+      "end": 431.54
+    },
+    {
+      "word": "acción.",
+      "start": 431.54,
+      "end": 432.1
+    },
+    {
+      "word": "Porque",
+      "start": 432.48,
+      "end": 432.7
+    },
+    {
+      "word": "como",
+      "start": 432.7,
+      "end": 432.96
+    },
+    {
+      "word": "el",
+      "start": 432.96,
+      "end": 433.18
+    },
+    {
+      "word": "cielo",
+      "start": 433.18,
+      "end": 433.34
+    },
+    {
+      "word": "es",
+      "start": 433.34,
+      "end": 433.64
+    },
+    {
+      "word": "alto",
+      "start": 433.64,
+      "end": 433.82
+    },
+    {
+      "word": "sobre",
+      "start": 433.82,
+      "end": 434.08
+    },
+    {
+      "word": "la",
+      "start": 434.08,
+      "end": 434.28
+    },
+    {
+      "word": "tierra,",
+      "start": 434.28,
+      "end": 434.68
+    },
+    {
+      "word": "grande",
+      "start": 435.18,
+      "end": 435.3
+    },
+    {
+      "word": "es",
+      "start": 435.3,
+      "end": 435.52
+    },
+    {
+      "word": "su",
+      "start": 435.52,
+      "end": 435.66
+    },
+    {
+      "word": "misericordia",
+      "start": 435.66,
+      "end": 436.32
+    },
+    {
+      "word": "para",
+      "start": 436.32,
+      "end": 436.52
+    },
+    {
+      "word": "sus",
+      "start": 436.52,
+      "end": 436.76
+    },
+    {
+      "word": "fieles.",
+      "start": 436.76,
+      "end": 437.28
+    },
+    {
+      "word": "En",
+      "start": 438.12,
+      "end": 438.34
+    },
+    {
+      "word": "cuanto",
+      "start": 438.34,
+      "end": 438.54
+    },
+    {
+      "word": "al",
+      "start": 438.54,
+      "end": 438.72
+    },
+    {
+      "word": "oriente",
+      "start": 438.72,
+      "end": 439.06
+    },
+    {
+      "word": "es",
+      "start": 439.06,
+      "end": 439.26
+    },
+    {
+      "word": "del",
+      "start": 439.26,
+      "end": 439.42
+    },
+    {
+      "word": "oeste,",
+      "start": 439.42,
+      "end": 439.84
+    },
+    {
+      "word": "hasta",
+      "start": 440.26,
+      "end": 440.42
+    },
+    {
+      "word": "ahora",
+      "start": 440.42,
+      "end": 440.62
+    },
+    {
+      "word": "nos",
+      "start": 440.62,
+      "end": 440.8
+    },
+    {
+      "word": "ha",
+      "start": 440.8,
+      "end": 441.0
+    },
+    {
+      "word": "quitado",
+      "start": 441.0,
+      "end": 441.34
+    },
+    {
+      "word": "nuestros",
+      "start": 441.34,
+      "end": 441.72
+    },
+    {
+      "word": "pecados.",
+      "start": 441.72,
+      "end": 442.58
+    },
+    {
+      "word": "Como",
+      "start": 442.78,
+      "end": 442.96
+    },
+    {
+      "word": "un",
+      "start": 442.96,
+      "end": 443.2
+    },
+    {
+      "word": "padre",
+      "start": 443.2,
+      "end": 443.44
+    },
+    {
+      "word": "tiene",
+      "start": 443.44,
+      "end": 443.7
+    },
+    {
+      "word": "misericordia",
+      "start": 443.7,
+      "end": 444.34
+    },
+    {
+      "word": "de",
+      "start": 444.34,
+      "end": 444.52
+    },
+    {
+      "word": "sus",
+      "start": 444.52,
+      "end": 444.7
+    },
+    {
+      "word": "hijos,",
+      "start": 444.7,
+      "end": 445.02
+    },
+    {
+      "word": "así",
+      "start": 445.48,
+      "end": 445.64
+    },
+    {
+      "word": "el",
+      "start": 445.64,
+      "end": 445.88
+    },
+    {
+      "word": "Señor",
+      "start": 445.88,
+      "end": 446.14
+    },
+    {
+      "word": "tiene",
+      "start": 446.14,
+      "end": 446.42
+    },
+    {
+      "word": "misericordia",
+      "start": 446.42,
+      "end": 447.16
+    },
+    {
+      "word": "de",
+      "start": 447.16,
+      "end": 447.32
+    },
+    {
+      "word": "sus",
+      "start": 447.32,
+      "end": 447.48
+    },
+    {
+      "word": "adoradores.",
+      "start": 447.48,
+      "end": 448.1
+    },
+    {
+      "word": "Porque",
+      "start": 448.64,
+      "end": 448.92
+    },
+    {
+      "word": "Él",
+      "start": 448.92,
+      "end": 449.12
+    },
+    {
+      "word": "tiene",
+      "start": 449.12,
+      "end": 449.44
+    },
+    {
+      "word": "conocimiento",
+      "start": 449.44,
+      "end": 450.04
+    },
+    {
+      "word": "de",
+      "start": 450.04,
+      "end": 450.24
+    },
+    {
+      "word": "nuestro",
+      "start": 450.24,
+      "end": 450.54
+    },
+    {
+      "word": "cuerpo",
+      "start": 450.54,
+      "end": 450.9
+    },
+    {
+      "word": "débil,",
+      "start": 450.9,
+      "end": 451.34
+    },
+    {
+      "word": "Él",
+      "start": 451.72,
+      "end": 451.88
+    },
+    {
+      "word": "ve",
+      "start": 451.88,
+      "end": 452.04
+    },
+    {
+      "word": "que",
+      "start": 452.04,
+      "end": 452.32
+    },
+    {
+      "word": "solo",
+      "start": 452.32,
+      "end": 452.52
+    },
+    {
+      "word": "somos",
+      "start": 452.52,
+      "end": 452.88
+    },
+    {
+      "word": "polvo.",
+      "start": 452.88,
+      "end": 453.34
+    },
+    {
+      "word": "En",
+      "start": 453.88,
+      "end": 454.12
+    },
+    {
+      "word": "cuanto",
+      "start": 454.12,
+      "end": 454.34
+    },
+    {
+      "word": "al",
+      "start": 454.34,
+      "end": 454.5
+    },
+    {
+      "word": "hombre,",
+      "start": 454.5,
+      "end": 454.8
+    },
+    {
+      "word": "sus",
+      "start": 455.08,
+      "end": 455.3
+    },
+    {
+      "word": "días",
+      "start": 455.3,
+      "end": 455.58
+    },
+    {
+      "word": "son",
+      "start": 455.58,
+      "end": 455.84
+    },
+    {
+      "word": "como",
+      "start": 455.84,
+      "end": 456.06
+    },
+    {
+      "word": "la",
+      "start": 456.06,
+      "end": 456.26
+    },
+    {
+      "word": "hierba.",
+      "start": 456.26,
+      "end": 456.62
+    },
+    {
+      "word": "Su",
+      "start": 456.62,
+      "end": 457.06
+    },
+    {
+      "word": "hermoso",
+      "start": 457.06,
+      "end": 457.58
+    },
+    {
+      "word": "crecimiento",
+      "start": 457.58,
+      "end": 458.14
+    },
+    {
+      "word": "es",
+      "start": 458.14,
+      "end": 458.34
+    },
+    {
+      "word": "como",
+      "start": 458.34,
+      "end": 458.5
+    },
+    {
+      "word": "la",
+      "start": 458.5,
+      "end": 458.74
+    },
+    {
+      "word": "flor",
+      "start": 458.74,
+      "end": 458.86
+    },
+    {
+      "word": "del",
+      "start": 458.86,
+      "end": 459.08
+    },
+    {
+      "word": "campo.",
+      "start": 459.08,
+      "end": 459.5
+    },
+    {
+      "word": "El",
+      "start": 459.98,
+      "end": 460.14
+    },
+    {
+      "word": "viento",
+      "start": 460.14,
+      "end": 460.42
+    },
+    {
+      "word": "lo",
+      "start": 460.42,
+      "end": 460.64
+    },
+    {
+      "word": "sobrepasa",
+      "start": 460.64,
+      "end": 461.1
+    },
+    {
+      "word": "y",
+      "start": 461.1,
+      "end": 461.24
+    },
+    {
+      "word": "se",
+      "start": 461.24,
+      "end": 461.38
+    },
+    {
+      "word": "va,",
+      "start": 461.38,
+      "end": 461.58
+    },
+    {
+      "word": "y",
+      "start": 461.9,
+      "end": 462.06
+    },
+    {
+      "word": "deja",
+      "start": 462.06,
+      "end": 462.22
+    },
+    {
+      "word": "de",
+      "start": 462.22,
+      "end": 462.48
+    },
+    {
+      "word": "existir",
+      "start": 462.48,
+      "end": 463.08
+    },
+    {
+      "word": "y",
+      "start": 463.08,
+      "end": 463.28
+    },
+    {
+      "word": "nadie",
+      "start": 463.28,
+      "end": 463.54
+    },
+    {
+      "word": "vuelve",
+      "start": 463.54,
+      "end": 463.9
+    },
+    {
+      "word": "a",
+      "start": 463.9,
+      "end": 464.0
+    },
+    {
+      "word": "saber",
+      "start": 464.0,
+      "end": 464.2
+    },
+    {
+      "word": "de",
+      "start": 464.2,
+      "end": 464.44
+    },
+    {
+      "word": "ella.",
+      "start": 464.44,
+      "end": 464.7
+    },
+    {
+      "word": "Pero",
+      "start": 465.72,
+      "end": 465.9
+    },
+    {
+      "word": "la",
+      "start": 465.9,
+      "end": 466.08
+    },
+    {
+      "word": "misericordia",
+      "start": 466.08,
+      "end": 466.7
+    },
+    {
+      "word": "del",
+      "start": 466.7,
+      "end": 466.94
+    },
+    {
+      "word": "Señor",
+      "start": 466.94,
+      "end": 467.2
+    },
+    {
+      "word": "es",
+      "start": 467.2,
+      "end": 467.54
+    },
+    {
+      "word": "eterna",
+      "start": 467.54,
+      "end": 467.96
+    },
+    {
+      "word": "para",
+      "start": 467.96,
+      "end": 468.22
+    },
+    {
+      "word": "sus",
+      "start": 468.22,
+      "end": 468.44
+    },
+    {
+      "word": "adoradores",
+      "start": 468.44,
+      "end": 469.04
+    },
+    {
+      "word": "y",
+      "start": 469.04,
+      "end": 469.52
+    },
+    {
+      "word": "los",
+      "start": 469.52,
+      "end": 469.78
+    },
+    {
+      "word": "hijos",
+      "start": 469.78,
+      "end": 469.98
+    },
+    {
+      "word": "de",
+      "start": 469.98,
+      "end": 470.16
+    },
+    {
+      "word": "sus",
+      "start": 470.16,
+      "end": 470.36
+    },
+    {
+      "word": "hijos",
+      "start": 470.36,
+      "end": 470.62
+    },
+    {
+      "word": "verán",
+      "start": 470.62,
+      "end": 471.0
+    },
+    {
+      "word": "su",
+      "start": 471.0,
+      "end": 471.18
+    },
+    {
+      "word": "justicia,",
+      "start": 471.18,
+      "end": 471.78
+    },
+    {
+      "word": "si",
+      "start": 472.32,
+      "end": 472.48
+    },
+    {
+      "word": "mantienen",
+      "start": 472.48,
+      "end": 472.88
+    },
+    {
+      "word": "su",
+      "start": 472.88,
+      "end": 473.08
+    },
+    {
+      "word": "acuerdo",
+      "start": 473.08,
+      "end": 473.44
+    },
+    {
+      "word": "y",
+      "start": 473.44,
+      "end": 473.88
+    },
+    {
+      "word": "tienen",
+      "start": 473.88,
+      "end": 474.16
+    },
+    {
+      "word": "sus",
+      "start": 474.16,
+      "end": 474.4
+    },
+    {
+      "word": "leyes",
+      "start": 474.4,
+      "end": 474.72
+    },
+    {
+      "word": "en",
+      "start": 474.72,
+      "end": 474.98
+    },
+    {
+      "word": "mente",
+      "start": 474.98,
+      "end": 475.24
+    },
+    {
+      "word": "para",
+      "start": 475.24,
+      "end": 475.56
+    },
+    {
+      "word": "hacerlas.",
+      "start": 475.56,
+      "end": 476.1
+    },
+    {
+      "word": "El",
+      "start": 476.66,
+      "end": 476.9
+    },
+    {
+      "word": "Señor",
+      "start": 476.9,
+      "end": 477.2
+    },
+    {
+      "word": "preparó",
+      "start": 477.2,
+      "end": 477.62
+    },
+    {
+      "word": "su",
+      "start": 477.62,
+      "end": 477.8
+    },
+    {
+      "word": "trono",
+      "start": 477.8,
+      "end": 478.04
+    },
+    {
+      "word": "en",
+      "start": 478.04,
+      "end": 478.2
+    },
+    {
+      "word": "los",
+      "start": 478.2,
+      "end": 478.38
+    },
+    {
+      "word": "cielos,",
+      "start": 478.38,
+      "end": 478.88
+    },
+    {
+      "word": "su",
+      "start": 479.14,
+      "end": 479.28
+    },
+    {
+      "word": "reino",
+      "start": 479.28,
+      "end": 479.62
+    },
+    {
+      "word": "está",
+      "start": 479.62,
+      "end": 479.82
+    },
+    {
+      "word": "gobernando",
+      "start": 479.82,
+      "end": 480.42
+    },
+    {
+      "word": "sobre",
+      "start": 480.42,
+      "end": 480.7
+    },
+    {
+      "word": "todo.",
+      "start": 480.7,
+      "end": 481.0
+    },
+    {
+      "word": "Alaben",
+      "start": 481.58,
+      "end": 481.88
+    },
+    {
+      "word": "al",
+      "start": 481.88,
+      "end": 482.08
+    },
+    {
+      "word": "Señor,",
+      "start": 482.08,
+      "end": 482.48
+    },
+    {
+      "word": "ustedes",
+      "start": 482.9,
+      "end": 483.18
+    },
+    {
+      "word": "sus",
+      "start": 483.18,
+      "end": 483.42
+    },
+    {
+      "word": "ángeles,",
+      "start": 483.42,
+      "end": 483.98
+    },
+    {
+      "word": "que",
+      "start": 484.12,
+      "end": 484.28
+    },
+    {
+      "word": "son",
+      "start": 484.28,
+      "end": 484.48
+    },
+    {
+      "word": "grandes",
+      "start": 484.48,
+      "end": 484.8
+    },
+    {
+      "word": "en",
+      "start": 484.8,
+      "end": 485.04
+    },
+    {
+      "word": "fortaleza,",
+      "start": 485.04,
+      "end": 485.62
+    },
+    {
+      "word": "que",
+      "start": 485.62,
+      "end": 486.06
+    },
+    {
+      "word": "cumplen",
+      "start": 486.06,
+      "end": 486.5
+    },
+    {
+      "word": "sus",
+      "start": 486.5,
+      "end": 486.7
+    },
+    {
+      "word": "órdenes",
+      "start": 486.7,
+      "end": 487.24
+    },
+    {
+      "word": "y",
+      "start": 487.24,
+      "end": 487.56
+    },
+    {
+      "word": "esperan",
+      "start": 487.56,
+      "end": 487.88
+    },
+    {
+      "word": "su",
+      "start": 487.88,
+      "end": 488.08
+    },
+    {
+      "word": "voz.",
+      "start": 488.08,
+      "end": 488.42
+    },
+    {
+      "word": "Alaben",
+      "start": 488.98,
+      "end": 489.22
+    },
+    {
+      "word": "al",
+      "start": 489.22,
+      "end": 489.48
+    },
+    {
+      "word": "Señor,",
+      "start": 489.48,
+      "end": 489.8
+    },
+    {
+      "word": "todos",
+      "start": 490.2,
+      "end": 490.42
+    },
+    {
+      "word": "ustedes",
+      "start": 490.42,
+      "end": 490.8
+    },
+    {
+      "word": "sus",
+      "start": 490.8,
+      "end": 491.02
+    },
+    {
+      "word": "ejércitos",
+      "start": 491.02,
+      "end": 491.66
+    },
+    {
+      "word": "y",
+      "start": 491.66,
+      "end": 492.14
+    },
+    {
+      "word": "ustedes",
+      "start": 492.14,
+      "end": 492.46
+    },
+    {
+      "word": "sus",
+      "start": 492.46,
+      "end": 492.66
+    },
+    {
+      "word": "siervos",
+      "start": 492.66,
+      "end": 493.1
+    },
+    {
+      "word": "que",
+      "start": 493.1,
+      "end": 493.52
+    },
+    {
+      "word": "hacen",
+      "start": 493.52,
+      "end": 493.7
+    },
+    {
+      "word": "su",
+      "start": 493.7,
+      "end": 493.92
+    },
+    {
+      "word": "placer.",
+      "start": 493.92,
+      "end": 494.54
+    },
+    {
+      "word": "Alaben",
+      "start": 495.16,
+      "end": 495.44
+    },
+    {
+      "word": "al",
+      "start": 495.44,
+      "end": 495.68
+    },
+    {
+      "word": "Señor,",
+      "start": 495.68,
+      "end": 496.08
+    },
+    {
+      "word": "todas",
+      "start": 496.78,
+      "end": 496.88
+    },
+    {
+      "word": "sus",
+      "start": 496.88,
+      "end": 497.12
+    },
+    {
+      "word": "obras",
+      "start": 497.12,
+      "end": 497.48
+    },
+    {
+      "word": "en",
+      "start": 497.48,
+      "end": 498.02
+    },
+    {
+      "word": "todos",
+      "start": 498.02,
+      "end": 498.34
+    },
+    {
+      "word": "los",
+      "start": 498.34,
+      "end": 498.56
+    },
+    {
+      "word": "lugares",
+      "start": 498.56,
+      "end": 498.92
+    },
+    {
+      "word": "bajo",
+      "start": 498.92,
+      "end": 499.22
+    },
+    {
+      "word": "su",
+      "start": 499.22,
+      "end": 499.42
+    },
+    {
+      "word": "gobierno.",
+      "start": 499.42,
+      "end": 499.88
+    },
+    {
+      "word": "Alaba",
+      "start": 500.62,
+      "end": 500.88
+    },
+    {
+      "word": "al",
+      "start": 500.88,
+      "end": 501.1
+    },
+    {
+      "word": "Señor,",
+      "start": 501.1,
+      "end": 501.82
+    },
+    {
+      "word": "alma",
+      "start": 502.12,
+      "end": 502.38
+    },
+    {
+      "word": "mía.",
+      "start": 502.38,
+      "end": 503.3
+    },
+    {
+      "word": "Capítulo",
+      "start": 503.6,
+      "end": 504.08
+    },
+    {
+      "word": "121",
+      "start": 504.08,
+      "end": 505.94
+    },
+    {
+      "word": "Mis",
+      "start": 505.94,
+      "end": 506.52
+    },
+    {
+      "word": "ojos",
+      "start": 506.52,
+      "end": 506.78
+    },
+    {
+      "word": "se",
+      "start": 506.78,
+      "end": 507.06
+    },
+    {
+      "word": "elevan",
+      "start": 507.06,
+      "end": 507.32
+    },
+    {
+      "word": "a",
+      "start": 507.32,
+      "end": 507.42
+    },
+    {
+      "word": "las",
+      "start": 507.42,
+      "end": 507.62
+    },
+    {
+      "word": "colinas,",
+      "start": 507.62,
+      "end": 508.08
+    },
+    {
+      "word": "¿de",
+      "start": 508.68,
+      "end": 509.0
+    },
+    {
+      "word": "dónde",
+      "start": 509.0,
+      "end": 509.24
+    },
+    {
+      "word": "vendrá",
+      "start": 509.24,
+      "end": 509.6
+    },
+    {
+      "word": "mi",
+      "start": 509.6,
+      "end": 509.78
+    },
+    {
+      "word": "ayuda?",
+      "start": 509.78,
+      "end": 510.06
+    },
+    {
+      "word": "Tu",
+      "start": 510.92,
+      "end": 511.14
+    },
+    {
+      "word": "ayuda",
+      "start": 511.14,
+      "end": 511.42
+    },
+    {
+      "word": "viene",
+      "start": 511.42,
+      "end": 511.66
+    },
+    {
+      "word": "del",
+      "start": 511.66,
+      "end": 511.92
+    },
+    {
+      "word": "Señor",
+      "start": 511.92,
+      "end": 512.38
+    },
+    {
+      "word": "que",
+      "start": 512.38,
+      "end": 512.68
+    },
+    {
+      "word": "hizo",
+      "start": 512.68,
+      "end": 512.9
+    },
+    {
+      "word": "los",
+      "start": 512.9,
+      "end": 513.2
+    },
+    {
+      "word": "cielos",
+      "start": 513.2,
+      "end": 513.44
+    },
+    {
+      "word": "y",
+      "start": 513.44,
+      "end": 513.58
+    },
+    {
+      "word": "la",
+      "start": 513.58,
+      "end": 513.76
+    },
+    {
+      "word": "tierra,",
+      "start": 513.76,
+      "end": 514.12
+    },
+    {
+      "word": "que",
+      "start": 514.12,
+      "end": 514.82
+    },
+    {
+      "word": "no",
+      "start": 514.82,
+      "end": 515.0
+    },
+    {
+      "word": "deja",
+      "start": 515.0,
+      "end": 515.22
+    },
+    {
+      "word": "que",
+      "start": 515.22,
+      "end": 515.44
+    },
+    {
+      "word": "resbale",
+      "start": 515.44,
+      "end": 515.78
+    },
+    {
+      "word": "tu",
+      "start": 515.78,
+      "end": 515.96
+    },
+    {
+      "word": "pie,",
+      "start": 515.96,
+      "end": 516.22
+    },
+    {
+      "word": "no",
+      "start": 516.8,
+      "end": 516.96
+    },
+    {
+      "word": "tiene",
+      "start": 516.96,
+      "end": 517.16
+    },
+    {
+      "word": "necesidad",
+      "start": 517.16,
+      "end": 517.74
+    },
+    {
+      "word": "de",
+      "start": 517.74,
+      "end": 517.9
+    },
+    {
+      "word": "dormir",
+      "start": 517.9,
+      "end": 518.18
+    },
+    {
+      "word": "el",
+      "start": 518.18,
+      "end": 518.4
+    },
+    {
+      "word": "que",
+      "start": 518.4,
+      "end": 518.48
+    },
+    {
+      "word": "te",
+      "start": 518.48,
+      "end": 518.64
+    },
+    {
+      "word": "guarda.",
+      "start": 518.64,
+      "end": 519.4
+    },
+    {
+      "word": "Mira,",
+      "start": 519.7,
+      "end": 519.96
+    },
+    {
+      "word": "los",
+      "start": 520.34,
+      "end": 520.58
+    },
+    {
+      "word": "ojos",
+      "start": 520.58,
+      "end": 520.8
+    },
+    {
+      "word": "del",
+      "start": 520.8,
+      "end": 521.02
+    },
+    {
+      "word": "guardián",
+      "start": 521.02,
+      "end": 521.38
+    },
+    {
+      "word": "de",
+      "start": 521.38,
+      "end": 521.62
+    },
+    {
+      "word": "Israel",
+      "start": 521.62,
+      "end": 522.0
+    },
+    {
+      "word": "no",
+      "start": 522.0,
+      "end": 522.56
+    },
+    {
+      "word": "se",
+      "start": 522.56,
+      "end": 522.8
+    },
+    {
+      "word": "cerrarán",
+      "start": 522.8,
+      "end": 523.2
+    },
+    {
+      "word": "en",
+      "start": 523.2,
+      "end": 523.36
+    },
+    {
+      "word": "el",
+      "start": 523.36,
+      "end": 523.52
+    },
+    {
+      "word": "sueño.",
+      "start": 523.52,
+      "end": 523.92
+    },
+    {
+      "word": "El",
+      "start": 524.58,
+      "end": 524.82
+    },
+    {
+      "word": "Señor",
+      "start": 524.82,
+      "end": 525.04
+    },
+    {
+      "word": "es",
+      "start": 525.04,
+      "end": 525.24
+    },
+    {
+      "word": "tu",
+      "start": 525.24,
+      "end": 525.36
+    },
+    {
+      "word": "guardián,",
+      "start": 525.36,
+      "end": 526.08
+    },
+    {
+      "word": "el",
+      "start": 526.36,
+      "end": 526.54
+    },
+    {
+      "word": "Señor",
+      "start": 526.54,
+      "end": 526.74
+    },
+    {
+      "word": "es",
+      "start": 526.74,
+      "end": 526.92
+    },
+    {
+      "word": "tu",
+      "start": 526.92,
+      "end": 527.04
+    },
+    {
+      "word": "sombra",
+      "start": 527.04,
+      "end": 527.34
+    },
+    {
+      "word": "en",
+      "start": 527.34,
+      "end": 527.5
+    },
+    {
+      "word": "tu",
+      "start": 527.5,
+      "end": 527.6
+    },
+    {
+      "word": "mano",
+      "start": 527.6,
+      "end": 527.82
+    },
+    {
+      "word": "derecha,",
+      "start": 527.82,
+      "end": 528.46
+    },
+    {
+      "word": "no",
+      "start": 528.84,
+      "end": 528.96
+    },
+    {
+      "word": "te",
+      "start": 528.96,
+      "end": 529.16
+    },
+    {
+      "word": "tocará",
+      "start": 529.16,
+      "end": 529.44
+    },
+    {
+      "word": "el",
+      "start": 529.44,
+      "end": 529.64
+    },
+    {
+      "word": "sol",
+      "start": 529.64,
+      "end": 529.74
+    },
+    {
+      "word": "en",
+      "start": 529.74,
+      "end": 529.94
+    },
+    {
+      "word": "el",
+      "start": 529.94,
+      "end": 530.08
+    },
+    {
+      "word": "día",
+      "start": 530.08,
+      "end": 530.34
+    },
+    {
+      "word": "ni",
+      "start": 530.34,
+      "end": 530.74
+    },
+    {
+      "word": "la",
+      "start": 530.74,
+      "end": 530.94
+    },
+    {
+      "word": "luna",
+      "start": 530.94,
+      "end": 531.1
+    },
+    {
+      "word": "en",
+      "start": 531.1,
+      "end": 531.24
+    },
+    {
+      "word": "la",
+      "start": 531.24,
+      "end": 531.38
+    },
+    {
+      "word": "noche.",
+      "start": 531.38,
+      "end": 531.68
+    },
+    {
+      "word": "El",
+      "start": 532.24,
+      "end": 532.5
+    },
+    {
+      "word": "Señor",
+      "start": 532.5,
+      "end": 532.74
+    },
+    {
+      "word": "te",
+      "start": 532.74,
+      "end": 532.94
+    },
+    {
+      "word": "mantendrá",
+      "start": 532.94,
+      "end": 533.44
+    },
+    {
+      "word": "salvo",
+      "start": 533.44,
+      "end": 533.8
+    },
+    {
+      "word": "de",
+      "start": 533.8,
+      "end": 534.0
+    },
+    {
+      "word": "todo",
+      "start": 534.0,
+      "end": 534.14
+    },
+    {
+      "word": "mal,",
+      "start": 534.14,
+      "end": 534.46
+    },
+    {
+      "word": "Él",
+      "start": 534.84,
+      "end": 535.08
+    },
+    {
+      "word": "cuidará",
+      "start": 535.08,
+      "end": 535.46
+    },
+    {
+      "word": "tu",
+      "start": 535.46,
+      "end": 535.64
+    },
+    {
+      "word": "alma.",
+      "start": 535.64,
+      "end": 536.02
+    },
+    {
+      "word": "El",
+      "start": 536.96,
+      "end": 537.28
+    },
+    {
+      "word": "Señor",
+      "start": 537.28,
+      "end": 537.5
+    },
+    {
+      "word": "cuidará",
+      "start": 537.5,
+      "end": 537.92
+    },
+    {
+      "word": "de",
+      "start": 537.92,
+      "end": 538.1
+    },
+    {
+      "word": "tu",
+      "start": 538.1,
+      "end": 538.22
+    },
+    {
+      "word": "salida",
+      "start": 538.22,
+      "end": 538.56
+    },
+    {
+      "word": "y",
+      "start": 538.56,
+      "end": 538.72
+    },
+    {
+      "word": "de",
+      "start": 538.72,
+      "end": 538.84
+    },
+    {
+      "word": "tu",
+      "start": 538.84,
+      "end": 539.0
+    },
+    {
+      "word": "entrada,",
+      "start": 539.0,
+      "end": 539.36
+    },
+    {
+      "word": "desde",
+      "start": 539.74,
+      "end": 540.0
+    },
+    {
+      "word": "este",
+      "start": 540.0,
+      "end": 540.26
+    },
+    {
+      "word": "momento",
+      "start": 540.26,
+      "end": 540.72
+    },
+    {
+      "word": "y",
+      "start": 540.72,
+      "end": 541.14
+    },
+    {
+      "word": "para",
+      "start": 541.14,
+      "end": 541.44
+    },
+    {
+      "word": "siempre.",
+      "start": 541.44,
+      "end": 541.9
+    },
+    {
+      "word": "Capítulo",
+      "start": 543.3,
+      "end": 543.86
+    },
+    {
+      "word": "139",
+      "start": 543.86,
+      "end": 544.14
+    },
+    {
+      "word": "Oh",
+      "start": 544.66,
+      "end": 545.22
+    },
+    {
+      "word": "Señor,",
+      "start": 545.22,
+      "end": 545.64
+    },
+    {
+      "word": "tú",
+      "start": 546.06,
+      "end": 546.24
+    },
+    {
+      "word": "me",
+      "start": 546.24,
+      "end": 546.38
+    },
+    {
+      "word": "has",
+      "start": 546.38,
+      "end": 546.64
+    },
+    {
+      "word": "examinado",
+      "start": 546.64,
+      "end": 547.14
+    },
+    {
+      "word": "y",
+      "start": 547.14,
+      "end": 547.24
+    },
+    {
+      "word": "me",
+      "start": 547.24,
+      "end": 547.46
+    },
+    {
+      "word": "conoces,",
+      "start": 547.46,
+      "end": 548.1
+    },
+    {
+      "word": "usted",
+      "start": 548.4,
+      "end": 548.64
+    },
+    {
+      "word": "tiene",
+      "start": 548.64,
+      "end": 548.94
+    },
+    {
+      "word": "conocimiento",
+      "start": 548.94,
+      "end": 549.64
+    },
+    {
+      "word": "cuando",
+      "start": 549.64,
+      "end": 549.92
+    },
+    {
+      "word": "estoy",
+      "start": 549.92,
+      "end": 550.16
+    },
+    {
+      "word": "sentado",
+      "start": 550.16,
+      "end": 550.68
+    },
+    {
+      "word": "y",
+      "start": 550.68,
+      "end": 550.78
+    },
+    {
+      "word": "cuando",
+      "start": 550.78,
+      "end": 551.02
+    },
+    {
+      "word": "me",
+      "start": 551.02,
+      "end": 551.24
+    },
+    {
+      "word": "levanto,",
+      "start": 551.24,
+      "end": 551.94
+    },
+    {
+      "word": "ve",
+      "start": 552.08,
+      "end": 552.14
+    },
+    {
+      "word": "mis",
+      "start": 552.14,
+      "end": 552.36
+    },
+    {
+      "word": "pensamientos",
+      "start": 552.36,
+      "end": 553.02
+    },
+    {
+      "word": "desde",
+      "start": 553.02,
+      "end": 553.34
+    },
+    {
+      "word": "lejos,",
+      "start": 553.34,
+      "end": 553.78
+    },
+    {
+      "word": "tú",
+      "start": 554.28,
+      "end": 554.44
+    },
+    {
+      "word": "vigilas",
+      "start": 554.44,
+      "end": 554.88
+    },
+    {
+      "word": "mis",
+      "start": 554.88,
+      "end": 555.08
+    },
+    {
+      "word": "pasos",
+      "start": 555.08,
+      "end": 555.42
+    },
+    {
+      "word": "y",
+      "start": 555.42,
+      "end": 555.54
+    },
+    {
+      "word": "mi",
+      "start": 555.54,
+      "end": 555.7
+    },
+    {
+      "word": "sueño",
+      "start": 555.7,
+      "end": 556.14
+    },
+    {
+      "word": "y",
+      "start": 556.14,
+      "end": 556.62
+    },
+    {
+      "word": "conoces",
+      "start": 556.62,
+      "end": 556.98
+    },
+    {
+      "word": "todos",
+      "start": 556.98,
+      "end": 557.22
+    },
+    {
+      "word": "mis",
+      "start": 557.22,
+      "end": 557.46
+    },
+    {
+      "word": "caminos.",
+      "start": 557.46,
+      "end": 558.08
+    },
+    {
+      "word": "Porque",
+      "start": 558.54,
+      "end": 558.86
+    },
+    {
+      "word": "no",
+      "start": 558.86,
+      "end": 559.06
+    },
+    {
+      "word": "hay",
+      "start": 559.06,
+      "end": 559.18
+    },
+    {
+      "word": "palabra",
+      "start": 559.18,
+      "end": 559.54
+    },
+    {
+      "word": "en",
+      "start": 559.54,
+      "end": 559.72
+    },
+    {
+      "word": "mi",
+      "start": 559.72,
+      "end": 559.84
+    },
+    {
+      "word": "lengua",
+      "start": 559.84,
+      "end": 560.18
+    },
+    {
+      "word": "aún",
+      "start": 560.18,
+      "end": 560.46
+    },
+    {
+      "word": "y",
+      "start": 560.46,
+      "end": 560.9
+    },
+    {
+      "word": "tú,",
+      "start": 560.9,
+      "end": 561.38
+    },
+    {
+      "word": "Señor,",
+      "start": 561.7,
+      "end": 561.96
+    },
+    {
+      "word": "ya",
+      "start": 561.96,
+      "end": 562.12
+    },
+    {
+      "word": "la",
+      "start": 562.12,
+      "end": 562.36
+    },
+    {
+      "word": "conoces.",
+      "start": 562.36,
+      "end": 562.92
+    },
+    {
+      "word": "Me",
+      "start": 563.38,
+      "end": 563.54
+    },
+    {
+      "word": "has",
+      "start": 563.54,
+      "end": 563.72
+    },
+    {
+      "word": "rodeado",
+      "start": 563.72,
+      "end": 564.16
+    },
+    {
+      "word": "por",
+      "start": 564.16,
+      "end": 564.44
+    },
+    {
+      "word": "todos",
+      "start": 564.44,
+      "end": 564.68
+    },
+    {
+      "word": "lados",
+      "start": 564.68,
+      "end": 565.04
+    },
+    {
+      "word": "y",
+      "start": 565.04,
+      "end": 565.58
+    },
+    {
+      "word": "me",
+      "start": 565.58,
+      "end": 565.72
+    },
+    {
+      "word": "has",
+      "start": 565.72,
+      "end": 565.9
+    },
+    {
+      "word": "puesto",
+      "start": 565.9,
+      "end": 566.16
+    },
+    {
+      "word": "la",
+      "start": 566.16,
+      "end": 566.34
+    },
+    {
+      "word": "mano",
+      "start": 566.34,
+      "end": 566.5
+    },
+    {
+      "word": "encima.",
+      "start": 566.5,
+      "end": 566.9
+    },
+    {
+      "word": "Tal",
+      "start": 567.58,
+      "end": 567.82
+    },
+    {
+      "word": "conocimiento",
+      "start": 567.82,
+      "end": 568.1
+    },
+    {
+      "word": "es",
+      "start": 568.52,
+      "end": 568.74
+    },
+    {
+      "word": "una",
+      "start": 568.74,
+      "end": 568.94
+    },
+    {
+      "word": "maravilla",
+      "start": 568.94,
+      "end": 569.3
+    },
+    {
+      "word": "mayor",
+      "start": 569.3,
+      "end": 569.58
+    },
+    {
+      "word": "que",
+      "start": 569.58,
+      "end": 569.74
+    },
+    {
+      "word": "mis",
+      "start": 569.74,
+      "end": 569.92
+    },
+    {
+      "word": "poderes,",
+      "start": 569.92,
+      "end": 570.6
+    },
+    {
+      "word": "es",
+      "start": 570.6,
+      "end": 571.0
+    },
+    {
+      "word": "tan",
+      "start": 571.0,
+      "end": 571.24
+    },
+    {
+      "word": "alto",
+      "start": 571.24,
+      "end": 571.48
+    },
+    {
+      "word": "que",
+      "start": 571.48,
+      "end": 571.64
+    },
+    {
+      "word": "no",
+      "start": 571.64,
+      "end": 571.86
+    },
+    {
+      "word": "puedo",
+      "start": 571.86,
+      "end": 572.1
+    },
+    {
+      "word": "comprenderlo.",
+      "start": 572.1,
+      "end": 572.9
+    },
+    {
+      "word": "¿A",
+      "start": 573.42,
+      "end": 573.62
+    },
+    {
+      "word": "dónde",
+      "start": 573.62,
+      "end": 573.82
+    },
+    {
+      "word": "puedo",
+      "start": 573.82,
+      "end": 574.1
+    },
+    {
+      "word": "iré",
+      "start": 574.1,
+      "end": 574.38
+    },
+    {
+      "word": "de",
+      "start": 574.38,
+      "end": 574.48
+    },
+    {
+      "word": "tu",
+      "start": 574.48,
+      "end": 574.6
+    },
+    {
+      "word": "espíritu?",
+      "start": 574.6,
+      "end": 574.87
+    },
+    {
+      "word": "¿Cómo",
+      "start": 576.12,
+      "end": 576.4
+    },
+    {
+      "word": "puedo",
+      "start": 576.4,
+      "end": 576.74
+    },
+    {
+      "word": "huir",
+      "start": 576.74,
+      "end": 577.08
+    },
+    {
+      "word": "en",
+      "start": 577.08,
+      "end": 577.32
+    },
+    {
+      "word": "vuelo",
+      "start": 577.32,
+      "end": 577.54
+    },
+    {
+      "word": "de",
+      "start": 577.54,
+      "end": 577.66
+    },
+    {
+      "word": "tu",
+      "start": 577.66,
+      "end": 577.78
+    },
+    {
+      "word": "presencia?",
+      "start": 577.78,
+      "end": 578.44
+    },
+    {
+      "word": "Si",
+      "start": 579.06,
+      "end": 579.24
+    },
+    {
+      "word": "voy",
+      "start": 579.24,
+      "end": 579.42
+    },
+    {
+      "word": "al",
+      "start": 579.42,
+      "end": 579.64
+    },
+    {
+      "word": "cielo,",
+      "start": 579.64,
+      "end": 580.04
+    },
+    {
+      "word": "estás",
+      "start": 580.66,
+      "end": 580.78
+    },
+    {
+      "word": "allí.",
+      "start": 580.78,
+      "end": 581.24
+    },
+    {
+      "word": "O",
+      "start": 581.8,
+      "end": 582.1
+    },
+    {
+      "word": "si",
+      "start": 582.1,
+      "end": 582.24
+    },
+    {
+      "word": "hago",
+      "start": 582.24,
+      "end": 582.42
+    },
+    {
+      "word": "mi",
+      "start": 582.42,
+      "end": 582.66
+    },
+    {
+      "word": "cama",
+      "start": 582.66,
+      "end": 582.84
+    },
+    {
+      "word": "en",
+      "start": 582.84,
+      "end": 583.0
+    },
+    {
+      "word": "el",
+      "start": 583.0,
+      "end": 583.16
+    },
+    {
+      "word": "inframundo,",
+      "start": 583.16,
+      "end": 583.74
+    },
+    {
+      "word": "estás",
+      "start": 584.4,
+      "end": 584.54
+    },
+    {
+      "word": "allí.",
+      "start": 584.54,
+      "end": 584.96
+    },
+    {
+      "word": "Si",
+      "start": 585.5,
+      "end": 585.72
+    },
+    {
+      "word": "tomo",
+      "start": 585.72,
+      "end": 586.02
+    },
+    {
+      "word": "las",
+      "start": 586.02,
+      "end": 586.26
+    },
+    {
+      "word": "alas",
+      "start": 586.26,
+      "end": 586.46
+    },
+    {
+      "word": "de",
+      "start": 586.46,
+      "end": 586.6
+    },
+    {
+      "word": "la",
+      "start": 586.6,
+      "end": 586.78
+    },
+    {
+      "word": "mañana",
+      "start": 586.78,
+      "end": 587.1
+    },
+    {
+      "word": "y",
+      "start": 587.1,
+      "end": 587.54
+    },
+    {
+      "word": "voy",
+      "start": 587.54,
+      "end": 587.76
+    },
+    {
+      "word": "a",
+      "start": 587.76,
+      "end": 587.88
+    },
+    {
+      "word": "las",
+      "start": 587.88,
+      "end": 588.04
+    },
+    {
+      "word": "partes",
+      "start": 588.04,
+      "end": 588.36
+    },
+    {
+      "word": "más",
+      "start": 588.36,
+      "end": 588.72
+    },
+    {
+      "word": "lejanas",
+      "start": 588.72,
+      "end": 589.16
+    },
+    {
+      "word": "del",
+      "start": 589.16,
+      "end": 589.32
+    },
+    {
+      "word": "mar,",
+      "start": 589.32,
+      "end": 589.74
+    },
+    {
+      "word": "aún",
+      "start": 590.32,
+      "end": 590.52
+    },
+    {
+      "word": "allí",
+      "start": 590.52,
+      "end": 590.76
+    },
+    {
+      "word": "seré",
+      "start": 590.76,
+      "end": 591.06
+    },
+    {
+      "word": "guiado",
+      "start": 591.06,
+      "end": 591.4
+    },
+    {
+      "word": "por",
+      "start": 591.4,
+      "end": 591.6
+    },
+    {
+      "word": "tu",
+      "start": 591.6,
+      "end": 591.76
+    },
+    {
+      "word": "mano",
+      "start": 591.76,
+      "end": 592.04
+    },
+    {
+      "word": "y",
+      "start": 592.04,
+      "end": 592.48
+    },
+    {
+      "word": "tu",
+      "start": 592.48,
+      "end": 592.66
+    },
+    {
+      "word": "diestra",
+      "start": 592.66,
+      "end": 593.0
+    },
+    {
+      "word": "me",
+      "start": 593.0,
+      "end": 593.2
+    },
+    {
+      "word": "guardará.",
+      "start": 593.2,
+      "end": 593.68
+    },
+    {
+      "word": "Si",
+      "start": 594.22,
+      "end": 594.48
+    },
+    {
+      "word": "dijera,",
+      "start": 594.48,
+      "end": 595.12
+    },
+    {
+      "word": "sólo",
+      "start": 595.56,
+      "end": 595.72
+    },
+    {
+      "word": "déjame",
+      "start": 595.72,
+      "end": 596.16
+    },
+    {
+      "word": "estar",
+      "start": 596.16,
+      "end": 596.44
+    },
+    {
+      "word": "cubierto",
+      "start": 596.44,
+      "end": 596.88
+    },
+    {
+      "word": "por",
+      "start": 596.88,
+      "end": 597.1
+    },
+    {
+      "word": "la",
+      "start": 597.1,
+      "end": 597.28
+    },
+    {
+      "word": "oscuridad,",
+      "start": 597.28,
+      "end": 597.82
+    },
+    {
+      "word": "aún",
+      "start": 597.82,
+      "end": 598.3
+    },
+    {
+      "word": "la",
+      "start": 598.3,
+      "end": 598.54
+    },
+    {
+      "word": "noche",
+      "start": 598.54,
+      "end": 598.76
+    },
+    {
+      "word": "resplandecerá",
+      "start": 598.76,
+      "end": 599.6
+    },
+    {
+      "word": "alrededor",
+      "start": 599.6,
+      "end": 600.02
+    },
+    {
+      "word": "de",
+      "start": 600.02,
+      "end": 600.24
+    },
+    {
+      "word": "mí.",
+      "start": 600.24,
+      "end": 600.58
+    },
+    {
+      "word": "Incluso",
+      "start": 601.38,
+      "end": 601.88
+    },
+    {
+      "word": "la",
+      "start": 601.88,
+      "end": 602.0
+    },
+    {
+      "word": "oscuridad",
+      "start": 602.0,
+      "end": 602.54
+    },
+    {
+      "word": "no",
+      "start": 602.54,
+      "end": 602.76
+    },
+    {
+      "word": "es",
+      "start": 602.76,
+      "end": 602.96
+    },
+    {
+      "word": "oscura",
+      "start": 602.96,
+      "end": 603.24
+    },
+    {
+      "word": "para",
+      "start": 603.24,
+      "end": 603.44
+    },
+    {
+      "word": "ti.",
+      "start": 603.44,
+      "end": 603.78
+    },
+    {
+      "word": "La",
+      "start": 604.3,
+      "end": 604.54
+    },
+    {
+      "word": "noche",
+      "start": 604.54,
+      "end": 604.78
+    },
+    {
+      "word": "es",
+      "start": 604.78,
+      "end": 605.0
+    },
+    {
+      "word": "tan",
+      "start": 605.0,
+      "end": 605.16
+    },
+    {
+      "word": "brillante",
+      "start": 605.16,
+      "end": 605.58
+    },
+    {
+      "word": "como",
+      "start": 605.58,
+      "end": 605.76
+    },
+    {
+      "word": "el",
+      "start": 605.76,
+      "end": 605.9
+    },
+    {
+      "word": "día.",
+      "start": 605.9,
+      "end": 606.24
+    },
+    {
+      "word": "Porque",
+      "start": 606.84,
+      "end": 607.06
+    },
+    {
+      "word": "la",
+      "start": 607.06,
+      "end": 607.3
+    },
+    {
+      "word": "oscuridad",
+      "start": 607.3,
+      "end": 607.66
+    },
+    {
+      "word": "y",
+      "start": 607.66,
+      "end": 607.78
+    },
+    {
+      "word": "la",
+      "start": 607.78,
+      "end": 607.92
+    },
+    {
+      "word": "luz",
+      "start": 607.92,
+      "end": 608.22
+    },
+    {
+      "word": "son",
+      "start": 608.22,
+      "end": 608.76
+    },
+    {
+      "word": "lo",
+      "start": 608.76,
+      "end": 608.98
+    },
+    {
+      "word": "mismo",
+      "start": 608.98,
+      "end": 609.18
+    },
+    {
+      "word": "para",
+      "start": 609.18,
+      "end": 609.4
+    },
+    {
+      "word": "ti.",
+      "start": 609.4,
+      "end": 609.72
+    },
+    {
+      "word": "Mi",
+      "start": 610.66,
+      "end": 610.9
+    },
+    {
+      "word": "carne",
+      "start": 610.9,
+      "end": 611.28
+    },
+    {
+      "word": "fue",
+      "start": 611.28,
+      "end": 611.56
+    },
+    {
+      "word": "hecha",
+      "start": 611.56,
+      "end": 611.82
+    },
+    {
+      "word": "por",
+      "start": 611.82,
+      "end": 612.02
+    },
+    {
+      "word": "ti",
+      "start": 612.02,
+      "end": 612.34
+    },
+    {
+      "word": "y",
+      "start": 612.34,
+      "end": 612.78
+    },
+    {
+      "word": "mis",
+      "start": 612.78,
+      "end": 613.04
+    },
+    {
+      "word": "partes",
+      "start": 613.04,
+      "end": 613.34
+    },
+    {
+      "word": "se",
+      "start": 613.34,
+      "end": 613.64
+    },
+    {
+      "word": "unieron",
+      "start": 613.64,
+      "end": 613.94
+    },
+    {
+      "word": "en",
+      "start": 613.94,
+      "end": 614.16
+    },
+    {
+      "word": "el",
+      "start": 614.16,
+      "end": 614.34
+    },
+    {
+      "word": "cuerpo",
+      "start": 614.34,
+      "end": 614.58
+    },
+    {
+      "word": "de",
+      "start": 614.58,
+      "end": 614.76
+    },
+    {
+      "word": "mi",
+      "start": 614.76,
+      "end": 614.86
+    },
+    {
+      "word": "madre.",
+      "start": 614.86,
+      "end": 615.14
+    },
+    {
+      "word": "Te",
+      "start": 615.62,
+      "end": 615.82
+    },
+    {
+      "word": "alabaré",
+      "start": 615.82,
+      "end": 616.32
+    },
+    {
+      "word": "porque",
+      "start": 616.32,
+      "end": 616.78
+    },
+    {
+      "word": "estoy",
+      "start": 616.78,
+      "end": 617.08
+    },
+    {
+      "word": "extraña",
+      "start": 617.08,
+      "end": 617.64
+    },
+    {
+      "word": "y",
+      "start": 617.64,
+      "end": 617.84
+    },
+    {
+      "word": "delicadamente",
+      "start": 617.84,
+      "end": 618.48
+    },
+    {
+      "word": "formado.",
+      "start": 618.48,
+      "end": 619.12
+    },
+    {
+      "word": "Tus",
+      "start": 619.52,
+      "end": 619.7
+    },
+    {
+      "word": "obras",
+      "start": 619.7,
+      "end": 619.96
+    },
+    {
+      "word": "son",
+      "start": 619.96,
+      "end": 620.32
+    },
+    {
+      "word": "grandes",
+      "start": 620.32,
+      "end": 620.68
+    },
+    {
+      "word": "maravillas",
+      "start": 620.68,
+      "end": 621.28
+    },
+    {
+      "word": "y",
+      "start": 621.28,
+      "end": 621.62
+    },
+    {
+      "word": "de",
+      "start": 621.62,
+      "end": 621.88
+    },
+    {
+      "word": "esto",
+      "start": 621.88,
+      "end": 622.08
+    },
+    {
+      "word": "mi",
+      "start": 622.08,
+      "end": 622.28
+    },
+    {
+      "word": "alma",
+      "start": 622.28,
+      "end": 622.6
+    },
+    {
+      "word": "está",
+      "start": 622.6,
+      "end": 622.9
+    },
+    {
+      "word": "completamente",
+      "start": 622.9,
+      "end": 623.7
+    },
+    {
+      "word": "consciente.",
+      "start": 623.7,
+      "end": 624.42
+    },
+    {
+      "word": "Mi",
+      "start": 624.82,
+      "end": 625.02
+    },
+    {
+      "word": "cuerpo",
+      "start": 625.02,
+      "end": 625.38
+    },
+    {
+      "word": "no",
+      "start": 625.38,
+      "end": 625.66
+    },
+    {
+      "word": "fue",
+      "start": 625.66,
+      "end": 625.78
+    },
+    {
+      "word": "visto",
+      "start": 625.78,
+      "end": 626.08
+    },
+    {
+      "word": "por",
+      "start": 626.08,
+      "end": 626.26
+    },
+    {
+      "word": "ti",
+      "start": 626.26,
+      "end": 626.44
+    },
+    {
+      "word": "cuando",
+      "start": 626.44,
+      "end": 626.72
+    },
+    {
+      "word": "fui",
+      "start": 626.72,
+      "end": 626.92
+    },
+    {
+      "word": "hecho",
+      "start": 626.92,
+      "end": 627.16
+    },
+    {
+      "word": "en",
+      "start": 627.16,
+      "end": 627.42
+    },
+    {
+      "word": "secreto",
+      "start": 627.42,
+      "end": 628.0
+    },
+    {
+      "word": "y",
+      "start": 628.0,
+      "end": 628.46
+    },
+    {
+      "word": "extrañamente",
+      "start": 628.46,
+      "end": 629.04
+    },
+    {
+      "word": "formado",
+      "start": 629.04,
+      "end": 629.46
+    },
+    {
+      "word": "en",
+      "start": 629.46,
+      "end": 629.62
+    },
+    {
+      "word": "las",
+      "start": 629.62,
+      "end": 629.8
+    },
+    {
+      "word": "partes",
+      "start": 629.8,
+      "end": 630.12
+    },
+    {
+      "word": "más",
+      "start": 630.12,
+      "end": 630.44
+    },
+    {
+      "word": "bajas",
+      "start": 630.44,
+      "end": 630.78
+    },
+    {
+      "word": "de",
+      "start": 630.78,
+      "end": 630.9
+    },
+    {
+      "word": "la",
+      "start": 630.9,
+      "end": 631.04
+    },
+    {
+      "word": "tierra.",
+      "start": 631.04,
+      "end": 631.4
+    },
+    {
+      "word": "Tus",
+      "start": 631.82,
+      "end": 632.0
+    },
+    {
+      "word": "ojos",
+      "start": 632.0,
+      "end": 632.32
+    },
+    {
+      "word": "vieron",
+      "start": 632.32,
+      "end": 632.64
+    },
+    {
+      "word": "mi",
+      "start": 632.64,
+      "end": 632.82
+    },
+    {
+      "word": "sustancia",
+      "start": 632.82,
+      "end": 633.28
+    },
+    {
+      "word": "sin",
+      "start": 633.28,
+      "end": 633.54
+    },
+    {
+      "word": "forma.",
+      "start": 633.54,
+      "end": 633.88
+    },
+    {
+      "word": "En",
+      "start": 634.18,
+      "end": 634.36
+    },
+    {
+      "word": "tu",
+      "start": 634.36,
+      "end": 634.48
+    },
+    {
+      "word": "libro",
+      "start": 634.48,
+      "end": 634.72
+    },
+    {
+      "word": "se",
+      "start": 634.72,
+      "end": 634.98
+    },
+    {
+      "word": "registraron",
+      "start": 634.98,
+      "end": 635.56
+    },
+    {
+      "word": "todos",
+      "start": 635.56,
+      "end": 635.82
+    },
+    {
+      "word": "mis",
+      "start": 635.82,
+      "end": 636.02
+    },
+    {
+      "word": "días,",
+      "start": 636.02,
+      "end": 636.38
+    },
+    {
+      "word": "incluso",
+      "start": 636.76,
+      "end": 637.06
+    },
+    {
+      "word": "aquellos",
+      "start": 637.06,
+      "end": 637.44
+    },
+    {
+      "word": "que",
+      "start": 637.44,
+      "end": 637.62
+    },
+    {
+      "word": "fueron",
+      "start": 637.62,
+      "end": 637.92
+    },
+    {
+      "word": "propuestos",
+      "start": 637.92,
+      "end": 638.48
+    },
+    {
+      "word": "antes",
+      "start": 638.48,
+      "end": 638.92
+    },
+    {
+      "word": "de",
+      "start": 638.92,
+      "end": 639.06
+    },
+    {
+      "word": "que",
+      "start": 639.06,
+      "end": 639.18
+    },
+    {
+      "word": "hubieran",
+      "start": 639.18,
+      "end": 639.48
+    },
+    {
+      "word": "surgido.",
+      "start": 639.48,
+      "end": 640.14
+    },
+    {
+      "word": "Cuán",
+      "start": 641.36,
+      "end": 641.68
+    },
+    {
+      "word": "queridos",
+      "start": 641.68,
+      "end": 642.12
+    },
+    {
+      "word": "son",
+      "start": 642.12,
+      "end": 642.34
+    },
+    {
+      "word": "tus",
+      "start": 642.34,
+      "end": 642.54
+    },
+    {
+      "word": "pensamientos",
+      "start": 642.54,
+      "end": 643.22
+    },
+    {
+      "word": "para",
+      "start": 643.22,
+      "end": 643.46
+    },
+    {
+      "word": "mí,",
+      "start": 643.46,
+      "end": 643.68
+    },
+    {
+      "word": "oh",
+      "start": 643.72,
+      "end": 643.9
+    },
+    {
+      "word": "Dios.",
+      "start": 643.9,
+      "end": 644.22
+    },
+    {
+      "word": "Cuán",
+      "start": 644.82,
+      "end": 645.22
+    },
+    {
+      "word": "grande",
+      "start": 645.22,
+      "end": 645.5
+    },
+    {
+      "word": "es",
+      "start": 645.5,
+      "end": 645.72
+    },
+    {
+      "word": "el",
+      "start": 645.72,
+      "end": 645.88
+    },
+    {
+      "word": "número",
+      "start": 645.88,
+      "end": 646.12
+    },
+    {
+      "word": "de",
+      "start": 646.12,
+      "end": 646.4
+    },
+    {
+      "word": "ellos.",
+      "start": 646.4,
+      "end": 646.72
+    },
+    {
+      "word": "Si",
+      "start": 647.36,
+      "end": 647.58
+    },
+    {
+      "word": "los",
+      "start": 647.58,
+      "end": 647.74
+    },
+    {
+      "word": "número",
+      "start": 647.74,
+      "end": 648.12
+    },
+    {
+      "word": "serían",
+      "start": 648.12,
+      "end": 648.84
+    },
+    {
+      "word": "más",
+      "start": 648.84,
+      "end": 649.14
+    },
+    {
+      "word": "que",
+      "start": 649.14,
+      "end": 649.28
+    },
+    {
+      "word": "granos",
+      "start": 649.28,
+      "end": 649.58
+    },
+    {
+      "word": "de",
+      "start": 649.58,
+      "end": 649.74
+    },
+    {
+      "word": "arena.",
+      "start": 649.74,
+      "end": 650.0
+    },
+    {
+      "word": "Cuando",
+      "start": 650.62,
+      "end": 650.88
+    },
+    {
+      "word": "estoy",
+      "start": 650.88,
+      "end": 651.12
+    },
+    {
+      "word": "despierto,",
+      "start": 651.12,
+      "end": 652.0
+    },
+    {
+      "word": "todavía",
+      "start": 652.32,
+      "end": 652.62
+    },
+    {
+      "word": "estoy",
+      "start": 652.62,
+      "end": 652.94
+    },
+    {
+      "word": "contigo.",
+      "start": 652.94,
+      "end": 653.64
+    },
+    {
+      "word": "Si",
+      "start": 653.64,
+      "end": 654.16
+    },
+    {
+      "word": "tan",
+      "start": 654.16,
+      "end": 654.46
+    },
+    {
+      "word": "solo",
+      "start": 654.46,
+      "end": 654.64
+    },
+    {
+      "word": "pusieras",
+      "start": 654.64,
+      "end": 655.12
+    },
+    {
+      "word": "a",
+      "start": 655.12,
+      "end": 655.22
+    },
+    {
+      "word": "los",
+      "start": 655.22,
+      "end": 655.34
+    },
+    {
+      "word": "pecadores",
+      "start": 655.34,
+      "end": 655.78
+    },
+    {
+      "word": "a",
+      "start": 655.78,
+      "end": 655.94
+    },
+    {
+      "word": "la",
+      "start": 655.94,
+      "end": 656.06
+    },
+    {
+      "word": "muerte,",
+      "start": 656.06,
+      "end": 656.46
+    },
+    {
+      "word": "oh",
+      "start": 657.06,
+      "end": 657.18
+    },
+    {
+      "word": "Dios.",
+      "start": 657.18,
+      "end": 657.48
+    },
+    {
+      "word": "Lejos",
+      "start": 657.94,
+      "end": 658.24
+    },
+    {
+      "word": "de",
+      "start": 658.24,
+      "end": 658.44
+    },
+    {
+      "word": "mí,",
+      "start": 658.44,
+      "end": 658.62
+    },
+    {
+      "word": "hombres",
+      "start": 659.14,
+      "end": 659.42
+    },
+    {
+      "word": "sanguinarios.",
+      "start": 659.42,
+      "end": 659.7
+    },
+    {
+      "word": "Porque",
+      "start": 660.92,
+      "end": 661.14
+    },
+    {
+      "word": "van",
+      "start": 661.14,
+      "end": 661.3
+    },
+    {
+      "word": "contra",
+      "start": 661.3,
+      "end": 661.7
+    },
+    {
+      "word": "ti",
+      "start": 661.7,
+      "end": 661.88
+    },
+    {
+      "word": "con",
+      "start": 661.88,
+      "end": 662.12
+    },
+    {
+      "word": "malos",
+      "start": 662.12,
+      "end": 662.46
+    },
+    {
+      "word": "designios",
+      "start": 662.46,
+      "end": 663.12
+    },
+    {
+      "word": "y",
+      "start": 663.12,
+      "end": 663.54
+    },
+    {
+      "word": "tus",
+      "start": 663.54,
+      "end": 663.74
+    },
+    {
+      "word": "enemigos",
+      "start": 663.74,
+      "end": 664.16
+    },
+    {
+      "word": "se",
+      "start": 664.16,
+      "end": 664.4
+    },
+    {
+      "word": "burlan",
+      "start": 664.4,
+      "end": 664.7
+    },
+    {
+      "word": "de",
+      "start": 664.7,
+      "end": 664.88
+    },
+    {
+      "word": "tu",
+      "start": 664.88,
+      "end": 665.0
+    },
+    {
+      "word": "nombre.",
+      "start": 665.0,
+      "end": 665.34
+    },
+    {
+      "word": "No",
+      "start": 666.04,
+      "end": 666.22
+    },
+    {
+      "word": "aborrezco",
+      "start": 666.22,
+      "end": 666.7
+    },
+    {
+      "word": "a",
+      "start": 666.7,
+      "end": 666.82
+    },
+    {
+      "word": "tus",
+      "start": 666.82,
+      "end": 666.96
+    },
+    {
+      "word": "enemigos,",
+      "start": 666.96,
+      "end": 667.4
+    },
+    {
+      "word": "oh",
+      "start": 667.5,
+      "end": 667.64
+    },
+    {
+      "word": "Señor.",
+      "start": 667.64,
+      "end": 667.94
+    },
+    {
+      "word": "No",
+      "start": 668.68,
+      "end": 668.88
+    },
+    {
+      "word": "son",
+      "start": 668.88,
+      "end": 669.1
+    },
+    {
+      "word": "los",
+      "start": 669.1,
+      "end": 669.28
+    },
+    {
+      "word": "que",
+      "start": 669.28,
+      "end": 669.36
+    },
+    {
+      "word": "se",
+      "start": 669.36,
+      "end": 669.56
+    },
+    {
+      "word": "levantan",
+      "start": 669.56,
+      "end": 669.94
+    },
+    {
+      "word": "contra",
+      "start": 669.94,
+      "end": 670.24
+    },
+    {
+      "word": "ti",
+      "start": 670.24,
+      "end": 670.46
+    },
+    {
+      "word": "una",
+      "start": 670.46,
+      "end": 670.66
+    },
+    {
+      "word": "causa",
+      "start": 670.66,
+      "end": 670.92
+    },
+    {
+      "word": "de",
+      "start": 670.92,
+      "end": 671.1
+    },
+    {
+      "word": "aflicción",
+      "start": 671.1,
+      "end": 671.46
+    },
+    {
+      "word": "para",
+      "start": 671.46,
+      "end": 671.7
+    },
+    {
+      "word": "mí.",
+      "start": 671.7,
+      "end": 671.9
+    },
+    {
+      "word": "Mi",
+      "start": 672.74,
+      "end": 672.96
+    },
+    {
+      "word": "odio",
+      "start": 672.96,
+      "end": 673.22
+    },
+    {
+      "word": "por",
+      "start": 673.22,
+      "end": 673.44
+    },
+    {
+      "word": "ellos",
+      "start": 673.44,
+      "end": 673.66
+    },
+    {
+      "word": "está",
+      "start": 673.66,
+      "end": 673.94
+    },
+    {
+      "word": "completo.",
+      "start": 673.94,
+      "end": 674.52
+    },
+    {
+      "word": "Mis",
+      "start": 675.08,
+      "end": 675.26
+    },
+    {
+      "word": "pensamientos",
+      "start": 675.26,
+      "end": 675.88
+    },
+    {
+      "word": "sobre",
+      "start": 675.88,
+      "end": 676.16
+    },
+    {
+      "word": "ellos",
+      "start": 676.16,
+      "end": 676.58
+    },
+    {
+      "word": "son",
+      "start": 676.58,
+      "end": 677.04
+    },
+    {
+      "word": "como",
+      "start": 677.04,
+      "end": 677.24
+    },
+    {
+      "word": "si",
+      "start": 677.24,
+      "end": 677.46
+    },
+    {
+      "word": "estuvieran",
+      "start": 677.46,
+      "end": 677.82
+    },
+    {
+      "word": "haciendo",
+      "start": 677.82,
+      "end": 678.18
+    },
+    {
+      "word": "guerra",
+      "start": 678.18,
+      "end": 678.5
+    },
+    {
+      "word": "contra",
+      "start": 678.5,
+      "end": 678.82
+    },
+    {
+      "word": "mí.",
+      "start": 678.82,
+      "end": 679.14
+    },
+    {
+      "word": "Oh",
+      "start": 680.08,
+      "end": 680.3
+    },
+    {
+      "word": "Dios,",
+      "start": 680.3,
+      "end": 680.7
+    },
+    {
+      "word": "que",
+      "start": 680.96,
+      "end": 681.06
+    },
+    {
+      "word": "los",
+      "start": 681.06,
+      "end": 681.3
+    },
+    {
+      "word": "secretos",
+      "start": 681.3,
+      "end": 681.66
+    },
+    {
+      "word": "de",
+      "start": 681.66,
+      "end": 681.78
+    },
+    {
+      "word": "mi",
+      "start": 681.78,
+      "end": 681.92
+    },
+    {
+      "word": "corazón",
+      "start": 681.92,
+      "end": 682.34
+    },
+    {
+      "word": "sean",
+      "start": 682.34,
+      "end": 682.6
+    },
+    {
+      "word": "descubiertos",
+      "start": 682.6,
+      "end": 683.52
+    },
+    {
+      "word": "y",
+      "start": 683.52,
+      "end": 683.9
+    },
+    {
+      "word": "que",
+      "start": 683.9,
+      "end": 684.0
+    },
+    {
+      "word": "mis",
+      "start": 684.0,
+      "end": 684.16
+    },
+    {
+      "word": "pensamientos",
+      "start": 684.16,
+      "end": 684.76
+    },
+    {
+      "word": "sean",
+      "start": 684.76,
+      "end": 685.04
+    },
+    {
+      "word": "puestos",
+      "start": 685.04,
+      "end": 685.56
+    },
+    {
+      "word": "a",
+      "start": 685.56,
+      "end": 685.68
+    },
+    {
+      "word": "prueba.",
+      "start": 685.68,
+      "end": 685.96
+    },
+    {
+      "word": "Mira",
+      "start": 686.76,
+      "end": 686.9
+    },
+    {
+      "word": "si",
+      "start": 686.9,
+      "end": 687.08
+    },
+    {
+      "word": "hay",
+      "start": 687.08,
+      "end": 687.2
+    },
+    {
+      "word": "camino",
+      "start": 687.2,
+      "end": 687.5
+    },
+    {
+      "word": "de",
+      "start": 687.5,
+      "end": 687.72
+    },
+    {
+      "word": "perversidad",
+      "start": 687.72,
+      "end": 688.22
+    },
+    {
+      "word": "en",
+      "start": 688.22,
+      "end": 688.42
+    },
+    {
+      "word": "mí",
+      "start": 688.42,
+      "end": 688.6
+    },
+    {
+      "word": "y",
+      "start": 688.6,
+      "end": 689.16
+    },
+    {
+      "word": "sé",
+      "start": 689.16,
+      "end": 689.28
+    },
+    {
+      "word": "mi",
+      "start": 689.28,
+      "end": 689.46
+    },
+    {
+      "word": "guía",
+      "start": 689.46,
+      "end": 689.7
+    },
+    {
+      "word": "en",
+      "start": 689.7,
+      "end": 689.86
+    },
+    {
+      "word": "el",
+      "start": 689.86,
+      "end": 690.0
+    },
+    {
+      "word": "camino",
+      "start": 690.0,
+      "end": 690.22
+    },
+    {
+      "word": "eterno.",
+      "start": 690.22,
+      "end": 690.76
+    }
+  ]
+}

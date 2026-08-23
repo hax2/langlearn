@@ -1,0 +1,639 @@
+{
+  "id": "module-8",
+  "title": "Chapter 8: Expressing Likes",
+  "description": "Use 'gustar' to express what you like.",
+  "level": "Beginner",
+  "sentences": [
+    {
+      "id": "m8-s1",
+      "spanish": "Me gusta el café.",
+      "english": "I like coffee.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "gusta": "likes",
+        "el": "the",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m8-s2",
+      "spanish": "Te gusta el café.",
+      "english": "You like coffee.",
+      "wordMeanings": {
+        "Te": "you / to you",
+        "gusta": "likes",
+        "el": "the",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m8-s3",
+      "spanish": "Le gusta el café.",
+      "english": "He/She likes coffee.",
+      "wordMeanings": {
+        "Le": "to him / her",
+        "gusta": "likes",
+        "el": "the",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m8-s4",
+      "spanish": "Nos gusta el café.",
+      "english": "We like coffee.",
+      "wordMeanings": {
+        "Nos": "us / to us",
+        "gusta": "likes",
+        "el": "the",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m8-s5",
+      "spanish": "Les gusta el café.",
+      "english": "They/You (plural) like coffee.",
+      "wordMeanings": {
+        "Les": "to them",
+        "gusta": "likes",
+        "el": "the",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m8-s6",
+      "spanish": "¿Te gusta el té?",
+      "english": "Do you like tea?",
+      "wordMeanings": {
+        "Te": "you / to you",
+        "gusta": "likes",
+        "el": "the",
+        "té": "tea"
+      }
+    },
+    {
+      "id": "m8-s7",
+      "spanish": "Sí, me gusta el té.",
+      "english": "Yes, I like tea.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "me": "me / to me",
+        "gusta": "likes",
+        "el": "the",
+        "té": "tea"
+      }
+    },
+    {
+      "id": "m8-s8",
+      "spanish": "No, no me gusta el té.",
+      "english": "No, I don't like tea.",
+      "wordMeanings": {
+        "No": "no / not",
+        "me": "me / to me",
+        "gusta": "likes",
+        "el": "the",
+        "té": "tea"
+      }
+    },
+    {
+      "id": "m8-s9",
+      "spanish": "Me gusta el pan.",
+      "english": "I like bread.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "gusta": "likes",
+        "el": "the",
+        "pan": "bread"
+      }
+    },
+    {
+      "id": "m8-s10",
+      "spanish": "Me gusta la sopa.",
+      "english": "I like soup.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "gusta": "likes",
+        "la": "the / it (fem)",
+        "sopa": "soup"
+      }
+    },
+    {
+      "id": "m8-s11",
+      "spanish": "Me gustan los libros.",
+      "english": "I like books.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "gustan": "like (pl)",
+        "los": "the / them",
+        "libros": "books"
+      }
+    },
+    {
+      "id": "m8-s12",
+      "spanish": "Me gustan las fotos.",
+      "english": "I like photos.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "gustan": "like (pl)",
+        "las": "the / them (fem)",
+        "fotos": "photos"
+      }
+    },
+    {
+      "id": "m8-s13",
+      "spanish": "¿Te gustan los libros?",
+      "english": "Do you like books?",
+      "wordMeanings": {
+        "Te": "you / to you",
+        "gustan": "like (pl)",
+        "los": "the / them",
+        "libros": "books"
+      }
+    },
+    {
+      "id": "m8-s14",
+      "spanish": "Sí, me gustan los libros.",
+      "english": "Yes, I like books.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "me": "me / to me",
+        "gustan": "like (pl)",
+        "los": "the / them",
+        "libros": "books"
+      }
+    },
+    {
+      "id": "m8-s15",
+      "spanish": "No, no me gustan los libros.",
+      "english": "No, I don't like books.",
+      "wordMeanings": {
+        "No": "no / not",
+        "me": "me / to me",
+        "gustan": "like (pl)",
+        "los": "the / them",
+        "libros": "books"
+      }
+    },
+    {
+      "id": "m8-s16",
+      "spanish": "A Ana le gusta la música.",
+      "english": "Ana likes music.",
+      "wordMeanings": {
+        "A": "to",
+        "Ana": "Ana",
+        "le": "to him / her",
+        "gusta": "likes",
+        "la": "the / it (fem)",
+        "música": "music"
+      }
+    },
+    {
+      "id": "m8-s17",
+      "spanish": "A Luis le gusta el fútbol.",
+      "english": "Luis likes football.",
+      "wordMeanings": {
+        "A": "to",
+        "Luis": "Luis",
+        "le": "to him / her",
+        "gusta": "likes",
+        "el": "the",
+        "fútbol": "football"
+      }
+    },
+    {
+      "id": "m8-s18",
+      "spanish": "A Marta le gusta estudiar.",
+      "english": "Marta likes studying.",
+      "wordMeanings": {
+        "A": "to",
+        "Marta": "Marta",
+        "le": "to him / her",
+        "gusta": "likes",
+        "estudiar": "to study"
+      }
+    },
+    {
+      "id": "m8-s19",
+      "spanish": "A Carlos le gusta trabajar.",
+      "english": "Carlos likes working.",
+      "wordMeanings": {
+        "A": "to",
+        "Carlos": "Carlos",
+        "le": "to him / her",
+        "gusta": "likes",
+        "trabajar": "to work"
+      }
+    },
+    {
+      "id": "m8-s20",
+      "spanish": "Nos gusta aprender español.",
+      "english": "We like learning Spanish.",
+      "wordMeanings": {
+        "Nos": "us / to us",
+        "gusta": "likes",
+        "aprender": "to learn",
+        "español": "Spanish"
+      }
+    },
+    {
+      "id": "m8-s21",
+      "spanish": "Me gusta escuchar música.",
+      "english": "I like listening to music.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "gusta": "likes",
+        "escuchar": "to listen",
+        "música": "music"
+      }
+    },
+    {
+      "id": "m8-s22",
+      "spanish": "Me gusta hablar español.",
+      "english": "I like speaking Spanish.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "gusta": "likes",
+        "hablar": "to speak",
+        "español": "Spanish"
+      }
+    },
+    {
+      "id": "m8-s23",
+      "spanish": "¿Qué te gusta?",
+      "english": "What do you like?",
+      "wordMeanings": {
+        "Qué": "what",
+        "te": "you / to you",
+        "gusta": "likes"
+      }
+    },
+    {
+      "id": "m8-s24",
+      "spanish": "Me gusta el café y el té.",
+      "english": "I like coffee and tea.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "gusta": "likes",
+        "el": "the",
+        "café": "coffee",
+        "y": "and",
+        "té": "tea"
+      }
+    },
+    {
+      "id": "m8-s25",
+      "spanish": "Me gusta el café, pero no me gusta el té.",
+      "english": "I like coffee, but I don't like tea.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "gusta": "likes",
+        "el": "the",
+        "café": "coffee",
+        "pero": "but",
+        "no": "no / not",
+        "me": "me / to me",
+        "té": "tea"
+      }
+    },
+    {
+      "id": "m8-s26",
+      "spanish": "¿A quién le gusta el café?",
+      "english": "Who likes coffee?",
+      "wordMeanings": {
+        "A": "to",
+        "quién": "who",
+        "le": "to him / her",
+        "gusta": "likes",
+        "el": "the",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m8-s27",
+      "spanish": "A mí me gusta el café.",
+      "english": "I like coffee.",
+      "wordMeanings": {
+        "A": "to",
+        "mí": "me (prep)",
+        "me": "me / to me",
+        "gusta": "likes",
+        "el": "the",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m8-s28",
+      "spanish": "A ti te gusta el café.",
+      "english": "You like coffee.",
+      "wordMeanings": {
+        "A": "to",
+        "ti": "you (prep)",
+        "te": "you / to you",
+        "gusta": "likes",
+        "el": "the",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m8-s29",
+      "spanish": "Me gusta este libro.",
+      "english": "I like this book.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "gusta": "likes",
+        "este": "this (masc)",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "m8-s30",
+      "spanish": "No me gusta ese libro.",
+      "english": "I don't like that book.",
+      "wordMeanings": {
+        "No": "no / not",
+        "me": "me / to me",
+        "gusta": "likes",
+        "ese": "that",
+        "libro": "book"
+      }
+    },
+    {
+      "id": "m8-s31",
+      "spanish": "Me gusta vivir aquí.",
+      "english": "I like living here.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "gusta": "likes",
+        "vivir": "to live",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "m8-s32",
+      "spanish": "Me gusta estar en casa.",
+      "english": "I like being at home.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "gusta": "likes",
+        "estar": "to be",
+        "en": "in / on",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "m8-s33",
+      "spanish": "Me gusta estar en el café.",
+      "english": "I like being in the café.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "gusta": "likes",
+        "estar": "to be",
+        "en": "in / on",
+        "el": "the",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m8-s34",
+      "spanish": "¿Te gusta trabajar en el centro?",
+      "english": "Do you like working downtown?",
+      "wordMeanings": {
+        "Te": "you / to you",
+        "gusta": "likes",
+        "trabajar": "to work",
+        "en": "in / on",
+        "el": "the",
+        "centro": "downtown"
+      }
+    },
+    {
+      "id": "m8-s35",
+      "spanish": "Sí, me gusta trabajar en el centro.",
+      "english": "Yes, I like working downtown.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "me": "me / to me",
+        "gusta": "likes",
+        "trabajar": "to work",
+        "en": "in / on",
+        "el": "the",
+        "centro": "downtown"
+      }
+    },
+    {
+      "id": "m8-s36",
+      "spanish": "No, no me gusta trabajar en el centro.",
+      "english": "No, I don't like working downtown.",
+      "wordMeanings": {
+        "No": "no / not",
+        "me": "me / to me",
+        "gusta": "likes",
+        "trabajar": "to work",
+        "en": "in / on",
+        "el": "the",
+        "centro": "downtown"
+      }
+    },
+    {
+      "id": "m8-s37",
+      "spanish": "Me gustan los cafés pequeños.",
+      "english": "I like small cafés.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "gustan": "like (pl)",
+        "los": "the / them",
+        "cafés": "coffees",
+        "pequeños": "small (masc pl)"
+      }
+    },
+    {
+      "id": "m8-s38",
+      "spanish": "Nos gustan las casas grandes.",
+      "english": "We like big houses.",
+      "wordMeanings": {
+        "Nos": "us / to us",
+        "gustan": "like (pl)",
+        "las": "the / them (fem)",
+        "casas": "houses",
+        "grandes": "big (pl)"
+      }
+    },
+    {
+      "id": "m8-s39",
+      "spanish": "A Ana le gustan los libros.",
+      "english": "Ana likes books.",
+      "wordMeanings": {
+        "A": "to",
+        "Ana": "Ana",
+        "le": "to him / her",
+        "gustan": "like (pl)",
+        "los": "the / them",
+        "libros": "books"
+      }
+    },
+    {
+      "id": "m8-s40",
+      "spanish": "A Luis le gustan las fotos.",
+      "english": "Luis likes photos.",
+      "wordMeanings": {
+        "A": "to",
+        "Luis": "Luis",
+        "le": "to him / her",
+        "gustan": "like (pl)",
+        "las": "the / them (fem)",
+        "fotos": "photos"
+      }
+    },
+    {
+      "id": "m8-s41",
+      "spanish": "A Marta le gusta el café.",
+      "english": "Marta likes coffee.",
+      "wordMeanings": {
+        "A": "to",
+        "Marta": "Marta",
+        "le": "to him / her",
+        "gusta": "likes",
+        "el": "the",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "m8-s42",
+      "spanish": "Me gusta estudiar por la mañana.",
+      "english": "I like studying in the morning.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "gusta": "likes",
+        "estudiar": "to study",
+        "por": "for / by",
+        "la": "the / it (fem)",
+        "mañana": "tomorrow / morning"
+      }
+    },
+    {
+      "id": "m8-s43",
+      "spanish": "Me gusta escuchar y repetir.",
+      "english": "I like listening and repeating.",
+      "wordMeanings": {
+        "Me": "me / to me",
+        "gusta": "likes",
+        "escuchar": "to listen",
+        "y": "and",
+        "repetir": "to repeat"
+      }
+    },
+    {
+      "spanish": "¡Me flipa esta canción!",
+      "english": "I'm crazy about this song!",
+      "wordMeanings": {
+        "Me": "to me",
+        "flipa": "freaks/craze",
+        "esta": "this",
+        "canción": "song"
+      },
+      "id": "m8-s-colloq1"
+    },
+    {
+      "spanish": "A mí me da igual.",
+      "english": "I don't mind / I don't care.",
+      "wordMeanings": {
+        "A": "to",
+        "mí": "me (prep)",
+        "me": "to me",
+        "da": "gives",
+        "igual": "equal/same"
+      },
+      "id": "m8-s-colloq2"
+    }
+  ],
+  "grammarExplanation": "The verb 'gustar' works differently from English. It literally means 'to please,' so the thing you like is the SUBJECT:\n\n• Me gusta el café = Coffee pleases me (I like coffee)\n• Me gustan los libros = Books please me (I like books)\n\nUse 'gusta' with singular nouns or infinitives, 'gustan' with plural nouns.\n\nIndirect object pronouns: me, te, le, nos, os, les\n• 'A + name/pronoun' can clarify who: 'A Ana le gusta la música.'",
+  "vocabulary": {
+    "gusta": {
+      "mnemonic": "Think 'gusto' — 'with gusto, I like it!'",
+      "explanation": "'Me gusta' = it pleases me."
+    },
+    "café": {
+      "mnemonic": "Same as English 'café' — coffee!",
+      "explanation": "Means 'coffee' or 'café'."
+    },
+    "le": {
+      "mnemonic": "'Lend to him/her' — indirect pronoun.",
+      "explanation": "Indirect object: to him/her."
+    },
+    "les": {
+      "mnemonic": "'Lend to them' — indirect pronoun.",
+      "explanation": "Indirect object: to them."
+    },
+    "pan": {
+      "mnemonic": "Bread baked in a pan!",
+      "explanation": "Means 'bread'. Masculine noun."
+    },
+    "la": {
+      "mnemonic": "'La lady' — her/it (feminine).",
+      "explanation": "Also 'the' (feminine)."
+    },
+    "gustan": {
+      "mnemonic": "'Gustos' — plural things please me.",
+      "explanation": "'Me gustan' = I like them."
+    },
+    "los": {
+      "mnemonic": "'Los' = them (masculine plural).",
+      "explanation": "Direct object pronoun."
+    },
+    "las": {
+      "mnemonic": "'Las ladies' — them (feminine).",
+      "explanation": "Direct object pronoun."
+    },
+    "música": {
+      "mnemonic": "Nearly identical to 'music' — cognate!",
+      "explanation": "Feminine noun."
+    },
+    "estudiar": {
+      "mnemonic": "'Study-ar' — to study.",
+      "explanation": "Infinitive. -AR verb."
+    },
+    "trabajar": {
+      "mnemonic": "'Travel to work' — to work.",
+      "explanation": "Infinitive. -AR verb."
+    },
+    "español": {
+      "mnemonic": "'Espagne/Spain' + '-ol' — the Spanish language.",
+      "explanation": "Both the language and nationality."
+    },
+    "hablar": {
+      "mnemonic": "'Hobble-ar' — to speak.",
+      "explanation": "Infinitive. -AR verb."
+    },
+    "y": {
+      "mnemonic": "The letter 'Y' connects — like 'and' connects words.",
+      "explanation": "Pronounced like 'ee'. The simplest conjunction."
+    },
+    "pero": {
+      "mnemonic": "Think 'pair-o' — 'but' connects a pair of ideas.",
+      "explanation": "Conjunction meaning 'but'."
+    },
+    "quién": {
+      "mnemonic": "Sounds like 'key-en' — 'Who has the key?'",
+      "explanation": "Question word meaning 'who'."
+    },
+    "libro": {
+      "mnemonic": "Think 'library' — full of libros (books)!",
+      "explanation": "Means 'book'. Masculine noun."
+    },
+    "aquí": {
+      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
+      "explanation": "Means 'here'. More precise than 'acá'."
+    },
+    "casa": {
+      "mnemonic": "Think 'casino' — a big house of games.",
+      "explanation": "Feminine noun. 'En casa' = at home."
+    },
+    "centro": {
+      "mnemonic": "Same as English 'center' — downtown!",
+      "explanation": "Also means 'center'. 'Centro' = downtown area."
+    },
+    "mañana": {
+      "mnemonic": "'Mañana, mañana' — putting off till tomorrow.",
+      "explanation": "Means 'tomorrow' or 'morning'."
+    }
+  }
+}

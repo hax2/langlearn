@@ -1,0 +1,509 @@
+{
+  "id": "module-42",
+  "title": "Theme: Hobbies and Free Time",
+  "description": "Vocabulary for describing what you do in your leisure hours.",
+  "level": "Intermediate",
+  "sentences": [
+    {
+      "id": "42-s1",
+      "spanish": "La niña aprende la guitarra los domingos.",
+      "english": "The girl learns the guitar on Sundays.",
+      "wordMeanings": {
+        "niña": "girl",
+        "aprende": "learns",
+        "guitarra": "guitar",
+        "domingos": "Sundays"
+      }
+    },
+    {
+      "id": "42-s2",
+      "spanish": "Mi primo estudia la guitarra en el parque.",
+      "english": "My cousin studies the guitar in the park.",
+      "wordMeanings": {
+        "primo": "cousin",
+        "estudia": "studies",
+        "guitarra": "guitar",
+        "parque": "park"
+      }
+    },
+    {
+      "id": "42-s3",
+      "spanish": "Mi amigo practica la guitarra en su tiempo libre.",
+      "english": "My friend practices the guitar in his free time.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "guitarra": "guitar",
+        "tiempo libre": "free time",
+        "practica": "practices"
+      }
+    },
+    {
+      "id": "42-s4",
+      "spanish": "El estudiante disfruta la guitarra después del trabajo.",
+      "english": "The student enjoys the guitar after work.",
+      "wordMeanings": {
+        "estudiante": "student",
+        "disfruta": "enjoys",
+        "guitarra": "guitar",
+        "trabajo": "work"
+      }
+    },
+    {
+      "id": "42-s5",
+      "spanish": "La niña practica la guitarra en el parque.",
+      "english": "The girl practices the guitar in the park.",
+      "wordMeanings": {
+        "niña": "girl",
+        "practica": "practices",
+        "guitarra": "guitar",
+        "parque": "park"
+      }
+    },
+    {
+      "id": "42-s6",
+      "spanish": "Mi amigo practica la guitarra en el parque.",
+      "english": "My friend practices the guitar in the park.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "practica": "practices",
+        "guitarra": "guitar",
+        "parque": "park"
+      }
+    },
+    {
+      "id": "42-s7",
+      "spanish": "La niña practica la guitarra los domingos.",
+      "english": "The girl practices the guitar on Sundays.",
+      "wordMeanings": {
+        "niña": "girl",
+        "guitarra": "guitar",
+        "domingos": "Sundays",
+        "practica": "practices"
+      }
+    },
+    {
+      "id": "42-s8",
+      "spanish": "Mi primo practica la guitarra en su tiempo libre.",
+      "english": "My cousin practices the guitar in his free time.",
+      "wordMeanings": {
+        "primo": "cousin",
+        "guitarra": "guitar",
+        "tiempo libre": "free time",
+        "practica": "practices"
+      }
+    },
+    {
+      "id": "42-s9",
+      "spanish": "La niña estudia la guitarra con mucha pasión.",
+      "english": "The girl studies the guitar with a lot of passion.",
+      "wordMeanings": {
+        "niña": "girl",
+        "estudia": "studies",
+        "guitarra": "guitar",
+        "pasión": "passion"
+      }
+    },
+    {
+      "id": "42-s10",
+      "spanish": "Mi amigo aprende la guitarra después del trabajo.",
+      "english": "My friend learns the guitar after work.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "aprende": "learns",
+        "guitarra": "guitar",
+        "trabajo": "work"
+      }
+    },
+    {
+      "id": "42-s11",
+      "spanish": "Mi primo practica la guitarra los domingos.",
+      "english": "My cousin practices the guitar on Sundays.",
+      "wordMeanings": {
+        "primo": "cousin",
+        "guitarra": "guitar",
+        "domingos": "Sundays",
+        "practica": "practices"
+      }
+    },
+    {
+      "id": "42-s12",
+      "spanish": "El artista estudia la pintura con mucha pasión.",
+      "english": "The artist studies painting with a lot of passion.",
+      "wordMeanings": {
+        "artista": "artist",
+        "estudia": "studies",
+        "pintura": "painting",
+        "pasión": "passion"
+      }
+    },
+    {
+      "id": "42-s13",
+      "spanish": "Mi amigo practica la fotografía con mucha pasión.",
+      "english": "My friend practices photography with a lot of passion.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "fotografía": "photography",
+        "pasión": "passion",
+        "practica": "practices"
+      }
+    },
+    {
+      "id": "42-s14",
+      "spanish": "La niña disfruta la pintura con mucha pasión.",
+      "english": "The girl enjoys painting with a lot of passion.",
+      "wordMeanings": {
+        "niña": "girl",
+        "disfruta": "enjoys",
+        "pintura": "painting",
+        "pasión": "passion"
+      }
+    },
+    {
+      "id": "42-s15",
+      "spanish": "Mi amigo estudia la fotografía en su tiempo libre.",
+      "english": "My friend studies photography in his free time.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "estudia": "studies",
+        "fotografía": "photography",
+        "tiempo libre": "free time"
+      }
+    },
+    {
+      "id": "42-s16",
+      "spanish": "El estudiante aprende la pintura con mucha pasión.",
+      "english": "The student learns painting with a lot of passion.",
+      "wordMeanings": {
+        "estudiante": "student",
+        "aprende": "learns",
+        "pintura": "painting",
+        "pasión": "passion"
+      }
+    },
+    {
+      "id": "42-s17",
+      "spanish": "El artista practica la fotografía después del trabajo.",
+      "english": "The artist practices photography after work.",
+      "wordMeanings": {
+        "artista": "artist",
+        "practica": "practices",
+        "fotografía": "photography",
+        "trabajo": "work"
+      }
+    },
+    {
+      "id": "42-s18",
+      "spanish": "La niña practica la pintura en su tiempo libre.",
+      "english": "The girl practices painting in her free time.",
+      "wordMeanings": {
+        "niña": "girl",
+        "practica": "practices",
+        "pintura": "painting",
+        "tiempo libre": "free time"
+      }
+    },
+    {
+      "id": "42-s19",
+      "spanish": "El estudiante disfruta la fotografía los domingos.",
+      "english": "The student enjoys photography on Sundays.",
+      "wordMeanings": {
+        "estudiante": "student",
+        "disfruta": "enjoys",
+        "fotografía": "photography",
+        "domingos": "Sundays"
+      }
+    },
+    {
+      "id": "42-s20",
+      "spanish": "Mi amigo aprende la pintura en su tiempo libre.",
+      "english": "My friend learns painting in his free time.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "aprende": "learns",
+        "pintura": "painting",
+        "tiempo libre": "free time"
+      }
+    },
+    {
+      "id": "42-s21",
+      "spanish": "La niña estudia la fotografía en su tiempo libre.",
+      "english": "The girl studies photography in her free time.",
+      "wordMeanings": {
+        "niña": "girl",
+        "estudia": "studies",
+        "fotografía": "photography",
+        "tiempo libre": "free time"
+      }
+    },
+    {
+      "id": "42-s22",
+      "spanish": "Mi primo disfruta la pintura los domingos.",
+      "english": "My cousin enjoys painting on Sundays.",
+      "wordMeanings": {
+        "primo": "cousin",
+        "disfruta": "enjoys",
+        "pintura": "painting",
+        "domingos": "Sundays"
+      }
+    },
+    {
+      "id": "42-s23",
+      "spanish": "Mi amigo disfruta la fotografía los domingos.",
+      "english": "My friend enjoys photography on Sundays.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "disfruta": "enjoys",
+        "fotografía": "photography",
+        "domingos": "Sundays"
+      }
+    },
+    {
+      "id": "42-s24",
+      "spanish": "La niña practica la pintura en el parque.",
+      "english": "The girl practices painting in the park.",
+      "wordMeanings": {
+        "niña": "girl",
+        "practica": "practices",
+        "pintura": "painting",
+        "parque": "park"
+      }
+    },
+    {
+      "id": "42-s25",
+      "spanish": "El estudiante estudia la fotografía en el parque.",
+      "english": "The student studies photography in the park.",
+      "wordMeanings": {
+        "estudiante": "student",
+        "estudia": "studies",
+        "fotografía": "photography",
+        "parque": "park"
+      }
+    },
+    {
+      "id": "42-s26",
+      "spanish": "Mi primo aprende la pintura en su tiempo libre.",
+      "english": "My cousin learns painting in his free time.",
+      "wordMeanings": {
+        "primo": "cousin",
+        "aprende": "learns",
+        "pintura": "painting",
+        "tiempo libre": "free time"
+      }
+    },
+    {
+      "id": "42-s27",
+      "spanish": "Mi primo practica la fotografía después del trabajo.",
+      "english": "My cousin practices photography after work.",
+      "wordMeanings": {
+        "primo": "cousin",
+        "fotografía": "photography",
+        "trabajo": "work",
+        "practica": "practices"
+      }
+    },
+    {
+      "id": "42-s28",
+      "spanish": "El estudiante disfruta la pintura en su tiempo libre.",
+      "english": "The student enjoys painting in his free time.",
+      "wordMeanings": {
+        "estudiante": "student",
+        "disfruta": "enjoys",
+        "pintura": "painting",
+        "tiempo libre": "free time"
+      }
+    },
+    {
+      "id": "42-s29",
+      "spanish": "Mi amigo aprende la pintura en el parque.",
+      "english": "My friend learns painting in the park.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "aprende": "learns",
+        "pintura": "painting",
+        "parque": "park"
+      }
+    },
+    {
+      "id": "42-s30",
+      "spanish": "El estudiante aprende la pintura en su tiempo libre.",
+      "english": "The student learns painting in his free time.",
+      "wordMeanings": {
+        "estudiante": "student",
+        "aprende": "learns",
+        "pintura": "painting",
+        "tiempo libre": "free time"
+      }
+    },
+    {
+      "id": "42-s31",
+      "spanish": "El artista estudia el baile en el parque.",
+      "english": "The artist studies dancing in the park.",
+      "wordMeanings": {
+        "artista": "artist",
+        "estudia": "studies",
+        "baile": "dancing",
+        "parque": "park"
+      }
+    },
+    {
+      "id": "42-s32",
+      "spanish": "Mi amigo disfruta el baile en su tiempo libre.",
+      "english": "My friend enjoys dancing in his free time.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "disfruta": "enjoys",
+        "baile": "dancing",
+        "tiempo libre": "free time"
+      }
+    },
+    {
+      "id": "42-s33",
+      "spanish": "El artista aprende el baile en el parque.",
+      "english": "The artist learns dancing in the park.",
+      "wordMeanings": {
+        "artista": "artist",
+        "aprende": "learns",
+        "baile": "dancing",
+        "parque": "park"
+      }
+    },
+    {
+      "id": "42-s34",
+      "spanish": "Mi amigo practica el baile con mucha pasión.",
+      "english": "My friend practices dancing with a lot of passion.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "practica": "practices",
+        "baile": "dancing",
+        "pasión": "passion"
+      }
+    },
+    {
+      "id": "42-s35",
+      "spanish": "Mi amigo aprende el baile después del trabajo.",
+      "english": "My friend learns dancing after work.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "aprende": "learns",
+        "baile": "dancing",
+        "trabajo": "work"
+      }
+    },
+    {
+      "id": "42-s36",
+      "spanish": "La niña estudia el ajedrez en su tiempo libre.",
+      "english": "The girl studies chess in her free time.",
+      "wordMeanings": {
+        "niña": "girl",
+        "estudia": "studies",
+        "ajedrez": "chess",
+        "tiempo libre": "free time"
+      }
+    },
+    {
+      "id": "42-s37",
+      "spanish": "El artista estudia el ajedrez los domingos.",
+      "english": "The artist studies chess on Sundays.",
+      "wordMeanings": {
+        "artista": "artist",
+        "estudia": "studies",
+        "ajedrez": "chess",
+        "domingos": "Sundays"
+      }
+    },
+    {
+      "id": "42-s38",
+      "spanish": "Mi amigo aprende el ajedrez los domingos.",
+      "english": "My friend learns chess on Sundays.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "aprende": "learns",
+        "ajedrez": "chess",
+        "domingos": "Sundays"
+      }
+    },
+    {
+      "id": "42-s39",
+      "spanish": "El estudiante aprende el ajedrez con mucha pasión.",
+      "english": "The student learns chess with a lot of passion.",
+      "wordMeanings": {
+        "estudiante": "student",
+        "aprende": "learns",
+        "ajedrez": "chess",
+        "pasión": "passion"
+      }
+    },
+    {
+      "id": "42-s40",
+      "spanish": "La niña practica el ajedrez con mucha pasión.",
+      "english": "The girl practices chess with a lot of passion.",
+      "wordMeanings": {
+        "niña": "girl",
+        "practica": "practices",
+        "ajedrez": "chess",
+        "pasión": "passion"
+      }
+    },
+    {
+      "id": "42-s41",
+      "spanish": "El artista aprende el ajedrez los domingos.",
+      "english": "The artist learns chess on Sundays.",
+      "wordMeanings": {
+        "artista": "artist",
+        "aprende": "learns",
+        "ajedrez": "chess",
+        "domingos": "Sundays"
+      }
+    },
+    {
+      "id": "42-s42",
+      "spanish": "Mi primo aprende el ajedrez los domingos.",
+      "english": "My cousin learns chess on Sundays.",
+      "wordMeanings": {
+        "primo": "cousin",
+        "aprende": "learns",
+        "ajedrez": "chess",
+        "domingos": "Sundays"
+      }
+    },
+    {
+      "id": "42-s43",
+      "spanish": "La niña disfruta el ajedrez en su tiempo libre.",
+      "english": "The girl enjoys chess in her free time.",
+      "wordMeanings": {
+        "niña": "girl",
+        "ajedrez": "chess",
+        "tiempo libre": "free time",
+        "disfruta": "enjoys"
+      }
+    },
+    {
+      "id": "42-s44",
+      "spanish": "Mi amigo estudia el ajedrez en su tiempo libre.",
+      "english": "My friend studies chess in his free time.",
+      "wordMeanings": {
+        "amigo": "friend",
+        "estudia": "studies",
+        "ajedrez": "chess",
+        "tiempo libre": "free time"
+      }
+    },
+    {
+      "id": "42-s45",
+      "spanish": "La niña practica el ajedrez en su tiempo libre.",
+      "english": "The girl practices chess in her free time.",
+      "wordMeanings": {
+        "niña": "girl",
+        "practica": "practices",
+        "ajedrez": "chess",
+        "tiempo libre": "free time"
+      }
+    }
+  ],
+  "vocabulary": {
+    "tocar": {
+      "mnemonic": "Touch (tocar) the instrument to play it.",
+      "explanation": "Means 'to play' an instrument (or 'to touch')."
+    }
+  }
+}

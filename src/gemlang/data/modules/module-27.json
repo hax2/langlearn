@@ -1,0 +1,150 @@
+{
+  "id": "module-27",
+  "title": "Poetry: Bécquer",
+  "description": "Rimas by Gustavo Adolfo Bécquer.",
+  "level": "Advanced",
+  "sentences": [
+    {
+      "id": "m27-s1",
+      "spanish": "¿Qué es poesía? dices mientras clavas en mi pupila tu pupila azul.",
+      "english": "What is poetry? you say while you pierce my pupil with your blue pupil.",
+      "wordMeanings": {
+        "poesía": "poetry",
+        "dices": "you say",
+        "mientras": "while",
+        "clavas": "pierce",
+        "pupila": "pupil",
+        "azul": "blue"
+      }
+    },
+    {
+      "id": "m27-s2",
+      "spanish": "¿Qué es poesía? ¿Y tú me lo preguntas? Poesía... eres tú.",
+      "english": "What is poetry? And you ask me? Poetry... is you.",
+      "wordMeanings": {
+        "preguntas": "ask",
+        "eres": "you are"
+      }
+    },
+    {
+      "id": "m27-s3",
+      "spanish": "Volverán las oscuras golondrinas en tu balcón sus nidos a colgar.",
+      "english": "The dark swallows will return to hang their nests on your balcony.",
+      "wordMeanings": {
+        "volverán": "will return",
+        "oscuras": "dark",
+        "golondrinas": "swallows",
+        "nidos": "nests",
+        "colgar": "to hang"
+      }
+    },
+    {
+      "id": "m27-s4",
+      "spanish": "Pero aquellas que el vuelo refrenaban tu hermosura y mi dicha a contemplar...",
+      "english": "But those that slowed their flight to contemplate your beauty and my happiness...",
+      "wordMeanings": {
+        "vuelo": "flight",
+        "refrenaban": "restrained",
+        "hermosura": "beauty",
+        "dicha": "happiness",
+        "contemplar": "to contemplate"
+      }
+    },
+    {
+      "id": "m27-s5",
+      "spanish": "Esas... ¡no volverán!",
+      "english": "Those... will not return!",
+      "wordMeanings": {
+        "esas": "those"
+      }
+    },
+    {
+      "id": "m27-s6",
+      "spanish": "Por una mirada, un mundo; por una sonrisa, un cielo; por un beso... ¡yo no sé qué te diera por un beso!",
+      "english": "For a look, a world; for a smile, a sky; for a kiss... I don't know what I would give you for a kiss!",
+      "wordMeanings": {
+        "mirada": "look",
+        "sonrisa": "smile",
+        "cielo": "heaven",
+        "beso": "kiss",
+        "diera": "would give (subjunctive)"
+      }
+    },
+    {
+      "id": "m27-s7",
+      "spanish": "Los suspiros son aire y van al aire.",
+      "english": "Sighs are air and go to the air.",
+      "wordMeanings": {
+        "suspiros": "sighs",
+        "aire": "air"
+      }
+    },
+    {
+      "id": "m27-s8",
+      "spanish": "Las lágrimas son agua y van al mar.",
+      "english": "Tears are water and go to the sea.",
+      "wordMeanings": {
+        "lágrimas": "tears",
+        "agua": "water",
+        "mar": "sea"
+      }
+    },
+    {
+      "id": "m27-s9",
+      "spanish": "Dime, mujer, cuando el amor se olvida ¿sabes tú a dónde va?",
+      "english": "Tell me, woman, when love is forgotten, do you know where it goes?",
+      "wordMeanings": {
+        "dime": "tell me",
+        "mujer": "woman",
+        "amor": "love",
+        "olvida": "forgotten"
+      }
+    },
+    {
+      "id": "m27-s10",
+      "spanish": "Mientras haya unos ojos que reflejen los ojos que los miran, habrá poesía.",
+      "english": "As long as there are eyes that reflect the eyes that look at them, there will be poetry.",
+      "wordMeanings": {
+        "haya": "there is (subjunctive)",
+        "ojos": "eyes",
+        "reflejen": "reflect (subjunctive)",
+        "miran": "look",
+        "habrá": "there will be"
+      }
+    }
+  ],
+  "vocabulary": {
+    "azul": {
+      "mnemonic": "Think 'azure' (a blue sky) → azul = blue.",
+      "explanation": "Means 'blue'. Same for masc/fem."
+    },
+    "eres": {
+      "mnemonic": "Sounds like 'air is' — 'You are like air.'",
+      "explanation": "Informal 'you are' form of 'ser'."
+    },
+    "vuelo": {
+      "mnemonic": "Think 'vuela!' — a flight.",
+      "explanation": "From 'volar' (to fly)."
+    },
+    "cielo": {
+      "mnemonic": "'Ceiling of the world' — sky.",
+      "explanation": "Means 'sky' or 'heaven'."
+    },
+    "aire": {
+      "mnemonic": "Same as English 'air'!",
+      "explanation": "Cognate."
+    },
+    "agua": {
+      "mnemonic": "Think 'aqua' — water!",
+      "explanation": "Fem but uses 'el agua'."
+    },
+    "mar": {
+      "mnemonic": "Think 'marine/maritime' — sea.",
+      "explanation": "Usually masculine."
+    },
+    "ojos": {
+      "mnemonic": "'Ogle with your ojos' — eyes.",
+      "explanation": "Plural of 'ojo' (eye)."
+    }
+  }
+}

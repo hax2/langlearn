@@ -1,0 +1,177 @@
+{
+  "id": "review-10-11-12",
+  "title": "🔄 Review: Chapters 10, 11, 12",
+  "description": "Mixed practice from The Preterite Tense, The Imperfect Tense, The Present Perfect.",
+  "level": "Beginner",
+  "type": "review",
+  "reviewsModules": [
+    "module-10",
+    "module-11",
+    "module-12"
+  ],
+  "sentences": [
+    {
+      "id": "review-10-11-12-from-m11-s4",
+      "spanish": "Yo tenía hambre.",
+      "english": "I used to be hungry.",
+      "wordMeanings": {
+        "Yo": "I",
+        "tenía": "used to have",
+        "hambre": "hunger"
+      }
+    },
+    {
+      "id": "review-10-11-12-from-m10-s5",
+      "spanish": "Anoche comí sopa.",
+      "english": "Last night I ate soup.",
+      "wordMeanings": {
+        "Anoche": "last night",
+        "comí": "I ate",
+        "sopa": "soup"
+      }
+    },
+    {
+      "id": "review-10-11-12-from-m11-s1",
+      "spanish": "Yo tenía sed.",
+      "english": "I used to be thirsty.",
+      "wordMeanings": {
+        "Yo": "I",
+        "tenía": "used to have",
+        "sed": "thirst"
+      }
+    },
+    {
+      "id": "review-10-11-12-from-m12-s1",
+      "spanish": "Hoy he tenido hambre.",
+      "english": "Today I have been hungry.",
+      "wordMeanings": {
+        "Hoy": "today",
+        "he": "I have",
+        "tenido": "had",
+        "hambre": "hunger"
+      }
+    },
+    {
+      "id": "review-10-11-12-from-m12-s5",
+      "spanish": "Has comprado café.",
+      "english": "You have bought coffee.",
+      "wordMeanings": {
+        "Has": "you have",
+        "comprado": "bought",
+        "café": "coffee"
+      }
+    },
+    {
+      "id": "review-10-11-12-from-m12-s2",
+      "spanish": "He buscado un trabajo.",
+      "english": "I have looked for a job.",
+      "wordMeanings": {
+        "He": "I have",
+        "buscado": "looked for",
+        "un": "a",
+        "trabajo": "I work / job"
+      }
+    },
+    {
+      "spanish": "Ayer me lo pasé pipa.",
+      "english": "Yesterday I had a blast.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "me": "to me",
+        "lo": "it",
+        "pasé": "I passed",
+        "pipa": "blast (slang)"
+      },
+      "id": "review-10-11-12-from-m10-s1"
+    },
+    {
+      "id": "review-10-11-12-from-m12-s4",
+      "spanish": "Ha buscado una casa.",
+      "english": "He/She has looked for a house.",
+      "wordMeanings": {
+        "Ha": "has",
+        "buscado": "looked for",
+        "una": "a (fem)",
+        "casa": "house"
+      }
+    },
+    {
+      "id": "review-10-11-12-from-m12-s3",
+      "spanish": "Hemos comprado comida.",
+      "english": "We have bought food.",
+      "wordMeanings": {
+        "Hemos": "we have",
+        "comprado": "bought",
+        "comida": "food"
+      }
+    },
+    {
+      "id": "review-10-11-12-from-m11-s2",
+      "spanish": "Antes vivía aquí.",
+      "english": "Before, I used to live here.",
+      "wordMeanings": {
+        "Antes": "before",
+        "vivía": "used to live",
+        "aquí": "here"
+      }
+    },
+    {
+      "id": "review-10-11-12-from-m11-s3",
+      "spanish": "Sí, trabajaba aquí antes.",
+      "english": "Yes, I used to work here before.",
+      "wordMeanings": {
+        "Sí": "yes",
+        "trabajaba": "used to work",
+        "aquí": "here",
+        "antes": "before"
+      }
+    },
+    {
+      "id": "review-10-11-12-from-m11-s5",
+      "spanish": "Ayer estabas en el trabajo.",
+      "english": "Yesterday you were at work.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "estabas": "were",
+        "en": "in / on",
+        "el": "the",
+        "trabajo": "I work / job"
+      }
+    },
+    {
+      "id": "review-10-11-12-from-m10-s2",
+      "spanish": "No, no compré pan ayer.",
+      "english": "No, I didn't buy bread yesterday.",
+      "wordMeanings": {
+        "No": "no / not",
+        "no": "no / not",
+        "compré": "I bought",
+        "pan": "bread",
+        "ayer": "yesterday"
+      }
+    },
+    {
+      "id": "review-10-11-12-from-m10-s4",
+      "spanish": "Ayer hablé español.",
+      "english": "Yesterday I spoke Spanish.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "hablé": "I spoke",
+        "español": "Spanish"
+      }
+    },
+    {
+      "id": "review-10-11-12-from-m10-s3",
+      "spanish": "Ayer hablamos y después comimos.",
+      "english": "Yesterday we talked and then we ate.",
+      "wordMeanings": {
+        "Ayer": "yesterday",
+        "hablamos": "we spoke",
+        "y": "and",
+        "después": "after",
+        "comimos": "we ate"
+      }
+    }
+  ],
+  "grammarExplanation": "Time to review! This module mixes sentences from the last 3 chapters you studied:\n\n• Chapter 10: The Preterite Tense\n• Chapter 11: The Imperfect Tense\n• Chapter 12: The Present Perfect\n\nThe sentences are shuffled so you can't rely on context — you'll need to recall the vocabulary and grammar from each chapter on your own. Take your time and listen carefully!"
+}
