@@ -1,4 +1,6 @@
-# Mega — Unified Spanish Learning Site
+# LangLearn — Unified Spanish Learning Site
+
+**Live:** https://hax2.github.io/langlearn/ · Repo: https://github.com/hax2/langlearn
 
 One coherent site merged from three standalone language-learning projects:
 
@@ -47,16 +49,17 @@ needed to run this site.
 
 ## Build & deploy
 
+Deploys automatically: every push to `main` runs `.github/workflows/deploy.yml`,
+which builds and publishes to GitHub Pages (site base path: `/langlearn/`).
+
 ```bash
 npm run build      # outputs dist/ (~440MB incl. media)
-npm run preview    # serve dist/ locally
+npm run preview    # serve dist/ locally (mounts at /langlearn/)
 npm run lint       # eslint (shell + gemlang source only)
 ```
 
-Any static host works. For Cloudflare Pages per the plan doc: build command
-`npm run build`, output dir `dist`. Note the 25 MiB-per-asset limit means large
-Reader audio should eventually move to R2 (`public/read/*.m4a` are served as-is
-today).
+Direct deep links (e.g. `/langlearn/learn`) rely on the GitHub Pages
+`404.html` SPA-fallback in `public/`.
 
 ## How the merge works
 
