@@ -260,7 +260,7 @@ function App() {
           onClick={handleBackToDashboard}
           aria-label="Go to dashboard"
         >
-          LangLearn
+          Course
         </button>
         <div className="app-header-actions">
           {(session || guestMode) && (

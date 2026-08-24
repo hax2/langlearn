@@ -66,16 +66,23 @@ Direct deep links (e.g. `/langlearn/learn`) rely on the GitHub Pages
 
 - **Learn** is mounted natively: `src/gemlang/App.jsx` is imported into the
   shell unchanged (relative imports and its `import.meta.glob` module loader
-  still resolve). Its own header keeps auth/settings/billing.
+  still resolve). GemLang's own header is restyled by the shell into a fused
+  second chrome row ("Course · Settings · Upgrade").
 - **Read** and **Practice** are complete documents served from `public/` and
-  embedded same-origin via iframe below the shared nav — zero changes to their
-  code, so they keep working offline, as PWAs, etc.
+  embedded same-origin via iframe below the shared nav — zero logic changes.
+  Each gets a `theme.css` token-override bridge so both match the LangLearn
+  purple-dark identity; Reader is also defaulted to its built-in `night`
+  theme (first visit only, user choice still wins afterwards).
+- Reader's first-run onboarding wizard was removed from this copy (markup +
+  controller); the appearance settings menu remains for theme/font control.
 - **Today** reads each app's localStorage (`gemlang-progress`, `puente_v1`,
   `spanish-reader-progress` + `/read/library.json`) to show real cross-app
   progress. Since all sections share one origin now, that data stays valid
   across sections.
 - Puente's service worker and manifest use relative paths, so they scope
   correctly under `/practice/`.
+- `tools/screenshot.mjs` (with `puppeteer-core`) captures all four sections
+  for visual regression checks against a local preview.
 
 ## Originals
 

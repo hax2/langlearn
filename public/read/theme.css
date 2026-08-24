@@ -1,0 +1,34 @@
+/*
+   LangLearn theme bridge for Reader.
+   Sits on top of Reader's own `night` theme (selected via the pre-seed in
+   index.html) and shifts its neutral dark palette onto the LangLearn
+   purple identity. Only token overrides — no layout or logic changes.
+*/
+
+:root[data-theme="night"] {
+  --paper: #0b0910;
+  --panel: #14111c;
+  --wash: #1f1929;
+  --line: #2b2635;
+  --accent: #a855f7;
+  --accent-dark: #7c3aed;
+  --button-ink: #fff;
+  --blue: #c4b5fd;
+  --rose: #d8b4fe;
+  --body-glow: rgba(14, 11, 20, 0.78);
+  --body-glow-end: rgba(11, 9, 16, 0);
+  --reader-border: rgba(168, 85, 247, 0.18);
+  --reader-shadow: 0 22px 60px rgba(0, 0, 0, 0.62);
+  --selection-bg: rgba(168, 85, 247, 0.22);
+  --focus-ring: rgba(168, 85, 247, 0.45);
+  --track-hover: #191423;
+  --track-active-border: rgba(168, 85, 247, 0.55);
+  --track-progress-bg: #251d33;
+  --sticky-bg: rgba(13, 10, 19, 0.96);
+  --soft-surface: rgba(23, 18, 31, 0.92);
+  --popover-bg: rgba(20, 16, 28, 0.98);
+  --popover-border: rgba(168, 85, 247, 0.2);
+  --wave-bg: #1a1524;
+  --wave-done: #a855f7;
+  --wave-rest: #4b4158;
+}

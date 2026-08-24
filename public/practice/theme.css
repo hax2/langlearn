@@ -1,0 +1,23 @@
+/*
+   LangLearn theme bridge for Puente.
+   Remaps Puente's root tokens onto the LangLearn purple identity.
+   Token overrides only — no layout or logic changes.
+*/
+
+:root {
+  --bg: #0b0910;
+  --panel: #16121e;
+  --panel2: #1f1929;
+  --accent: #a855f7;
+  --accent2: #d8b4fe;
+  --es: #34d399;
+  --en: #e9e4f2;
+  --muted: #a1a1aa;
+  --good: #34d399;
+  --bad: #f87171;
+  --line: rgba(168, 85, 247, 0.16);
+}
+
+body {
+  background: radial-gradient(1200px 600px at 50% -10%, #251040 0%, var(--bg) 60%);
+}
